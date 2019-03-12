@@ -2,6 +2,7 @@
 from __future__ import unicode_literals, print_function
 import re
 from os import remove
+from datetime import datetime
 
 import lingpy
 from pybtex.database import parse_string  # dependency of pycldf, so should be installed.
@@ -12,7 +13,7 @@ from pylexibank.util import get_url, jsondump
 from pylexibank.dataset import Metadata
 from pylexibank.dataset import Dataset as BaseDataset
 
-LIMIT = 1000  # how many records to fetch at once
+LIMIT = 2000  # how many records to fetch at once
 
 BASE_URL = "http://transnewguinea.org"
 
@@ -78,12 +79,6 @@ class Dataset(BaseDataset):
                             Source=self.get_slug_from_uri(o['source']),
                             Comment=o['annotation']
                         )
-                        #    print(row)
-                            #         ds.add_cognate(
-                            #             lexeme=row,
-                            #             Cognateset_ID='%s-%s' % (concept, cogid),
-                            #             Source=[],
-                            #             Alignment_Source=None)
 
     def get_all(self, url):
         while True:
@@ -105,7 +100,7 @@ class Dataset(BaseDataset):
         for j in self.get_all(SOURCES_URL % {'limit': LIMIT}):
             sources.extend(j)
         jsondump(sources, Path(self.raw, "sources.json"), self.log)
-        
+
         # languages
         languages = []
         for j in self.get_all(LANGUAGES_URL % {'limit': LIMIT}):
@@ -124,3 +119,8 @@ class Dataset(BaseDataset):
             for j in self.get_all(RECORDS_URL % {'limit': LIMIT, 'language': language['id']}):
                 items.extend(j)
             jsondump(items, Path(self.raw, "language-%d.json" % language['id']), self.log)
+        
+        # version information
+        with open(Path(self.raw, "version.txt"), 'w') as handle:
+            handle.write(str(datetime.now()))
+        
