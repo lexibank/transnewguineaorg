@@ -1,0 +1,14 @@
+[
+    {
+        "added": "2014-07-30T23:28:43.142312",
+        "annotation": null,
+        "entry": "goat",
+        "id": 159543,
+        "language": "/api/v1/language/namo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159543/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    }
+]

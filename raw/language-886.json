@@ -1,0 +1,14 @@
+[
+    {
+        "added": "2014-07-30T23:28:30.234696",
+        "annotation": null,
+        "entry": "w\u0254",
+        "id": 155487,
+        "language": "/api/v1/language/dahating/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155487/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "mouth",
+        "word": "/api/v1/word/mouth/"
+    }
+]

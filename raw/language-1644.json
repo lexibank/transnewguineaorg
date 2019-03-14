@@ -1,0 +1,50 @@
+[
+    {
+        "added": "2015-10-26T12:54:10.721230",
+        "annotation": "",
+        "entry": "ef",
+        "id": 253513,
+        "language": "/api/v1/language/asmat-central-mecamup-miwar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253513/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "finger, twig",
+        "word": "/api/v1/word/finger/"
+    },
+    {
+        "added": "2015-10-26T12:54:04.765818",
+        "annotation": "",
+        "entry": "man",
+        "id": 251820,
+        "language": "/api/v1/language/asmat-central-mecamup-miwar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/251820/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/arm-hand/"
+    },
+    {
+        "added": "2015-10-26T12:54:13.306660",
+        "annotation": "",
+        "entry": "ne-",
+        "id": 253921,
+        "language": "/api/v1/language/asmat-central-mecamup-miwar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253921/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-go-down/"
+    },
+    {
+        "added": "2015-10-26T12:54:05.929968",
+        "annotation": "",
+        "entry": "yak",
+        "id": 252196,
+        "language": "/api/v1/language/asmat-central-mecamup-miwar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252196/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "belly, stomach",
+        "word": "/api/v1/word/belly/"
+    }
+]

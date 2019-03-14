@@ -1,0 +1,98 @@
+[
+    {
+        "added": "2013-06-12T23:12:40.808038",
+        "annotation": "",
+        "entry": "bi",
+        "id": 25482,
+        "language": "/api/v1/language/kowiai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25482/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-12T23:12:40.783727",
+        "annotation": "",
+        "entry": "boi",
+        "id": 25481,
+        "language": "/api/v1/language/kowiai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25481/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-12T23:12:41.055401",
+        "annotation": "",
+        "entry": "labi",
+        "id": 25486,
+        "language": "/api/v1/language/kowiai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25486/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-12T23:12:40.845928",
+        "annotation": "",
+        "entry": "la\u014bgera",
+        "id": 25483,
+        "language": "/api/v1/language/kowiai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25483/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-06-12T23:12:40.976443",
+        "annotation": "",
+        "entry": "ruwet",
+        "id": 25484,
+        "language": "/api/v1/language/kowiai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25484/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-12T23:12:36.688692",
+        "annotation": "",
+        "entry": "samosi",
+        "id": 25480,
+        "language": "/api/v1/language/kowiai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25480/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-12T23:12:41.142166",
+        "annotation": "",
+        "entry": "torun",
+        "id": 25487,
+        "language": "/api/v1/language/kowiai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25487/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-06-12T23:12:41.025057",
+        "annotation": "",
+        "entry": "walar",
+        "id": 25485,
+        "language": "/api/v1/language/kowiai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25485/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    }
+]

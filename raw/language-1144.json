@@ -1,0 +1,14 @@
+[
+    {
+        "added": "2015-03-19T07:04:56.855641",
+        "annotation": null,
+        "entry": "*n(i,u)ma",
+        "id": 207247,
+        "language": "/api/v1/language/proto-kainantu-goroka/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207247/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    }
+]

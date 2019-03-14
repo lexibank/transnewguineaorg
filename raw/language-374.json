@@ -1,0 +1,98 @@
+[
+    {
+        "added": "2013-06-12T20:30:30.200364",
+        "annotation": "",
+        "entry": "bo",
+        "id": 24201,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24201/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-12T20:30:30.505875",
+        "annotation": "",
+        "entry": "kapat",
+        "id": 24206,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24206/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-06-12T20:30:31.422512",
+        "annotation": "",
+        "entry": "katim",
+        "id": 24216,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24216/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-12T20:30:29.435104",
+        "annotation": "",
+        "entry": "lap",
+        "id": 24188,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24188/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-12T20:30:31.072951",
+        "annotation": "",
+        "entry": "lu",
+        "id": 24211,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24211/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-12T20:30:30.153687",
+        "annotation": "",
+        "entry": "sa",
+        "id": 24200,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24200/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-12T20:30:29.255210",
+        "annotation": "",
+        "entry": "tolo",
+        "id": 24185,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24185/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-06-12T20:30:31.127805",
+        "annotation": "",
+        "entry": "waya",
+        "id": 24212,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24212/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    }
+]

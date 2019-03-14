@@ -1,0 +1,86 @@
+[
+    {
+        "added": "2013-06-12T21:28:01.585581",
+        "annotation": "",
+        "entry": "boje",
+        "id": 24549,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24549/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-12T21:28:00.958771",
+        "annotation": "",
+        "entry": "hoje",
+        "id": 24536,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24536/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-12T21:28:02.314803",
+        "annotation": "",
+        "entry": "nagre",
+        "id": 24560,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24560/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2013-06-12T21:28:00.894322",
+        "annotation": "",
+        "entry": "o\u0259re",
+        "id": 24533,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24533/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-06-12T21:28:01.497634",
+        "annotation": "",
+        "entry": "rebe",
+        "id": 24548,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24548/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-12T21:28:02.299988",
+        "annotation": "",
+        "entry": "redu",
+        "id": 24559,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24559/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-12T21:28:02.127361",
+        "annotation": "",
+        "entry": "ugre",
+        "id": 24554,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24554/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "added": "2013-06-12T21:46:44.530769",
+        "annotation": "",
+        "entry": "-ampi",
+        "id": 24772,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24772/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-06-12T21:46:45.364213",
+        "annotation": "",
+        "entry": "anduta",
+        "id": 24776,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24776/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-12T21:46:47.121619",
+        "annotation": "",
+        "entry": "boru",
+        "id": 24799,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24799/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-12T21:46:46.796039",
+        "annotation": "",
+        "entry": "bo-siri",
+        "id": 24788,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24788/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-12T21:46:46.986164",
+        "annotation": "",
+        "entry": "ena",
+        "id": 24793,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24793/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-06-12T21:46:47.134526",
+        "annotation": "",
+        "entry": "maria",
+        "id": 24800,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24800/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2013-06-12T21:46:46.926658",
+        "annotation": "",
+        "entry": "renso",
+        "id": 24790,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24790/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2013-06-12T21:46:46.809048",
+        "annotation": "",
+        "entry": "una",
+        "id": 24789,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24789/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-12T21:46:45.747610",
+        "annotation": "",
+        "entry": "wese\u014b",
+        "id": 24778,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24778/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2013-06-12T21:46:46.995049",
+        "annotation": "",
+        "entry": "worami",
+        "id": 24794,
+        "language": "/api/v1/language/busami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24794/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "added": "2014-07-30T23:28:44.772015",
+        "annotation": null,
+        "entry": "gak",
+        "id": 160065,
+        "language": "/api/v1/language/bonkiman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/160065/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "you",
+        "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2014-07-30T23:28:43.960827",
+        "annotation": null,
+        "entry": "kwe\u028ck",
+        "id": 159805,
+        "language": "/api/v1/language/bonkiman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159805/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2014-07-30T23:28:36.188428",
+        "annotation": null,
+        "entry": "\u014bgen",
+        "id": 157354,
+        "language": "/api/v1/language/bonkiman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157354/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
+    }
+]

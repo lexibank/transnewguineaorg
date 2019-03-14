@@ -1,0 +1,50 @@
+[
+    {
+        "added": "2014-07-30T23:28:42.920744",
+        "annotation": null,
+        "entry": "bazag",
+        "id": 159470,
+        "language": "/api/v1/language/kuini/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159470/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2014-07-30T23:28:34.658874",
+        "annotation": null,
+        "entry": "bei",
+        "id": 156876,
+        "language": "/api/v1/language/kuini/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156876/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "eye",
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2014-07-30T23:28:31.608026",
+        "annotation": null,
+        "entry": "kea",
+        "id": 155922,
+        "language": "/api/v1/language/kuini/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155922/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2014-07-30T23:28:34.299196",
+        "annotation": null,
+        "entry": "qandis",
+        "id": 156768,
+        "language": "/api/v1/language/kuini/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156768/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "fingernail",
+        "word": "/api/v1/word/fingernail/"
+    }
+]

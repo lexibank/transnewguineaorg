@@ -1,0 +1,86 @@
+[
+    {
+        "added": "2013-06-12T21:25:37.058302",
+        "annotation": "",
+        "entry": "arusi",
+        "id": 24519,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24519/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-12T21:25:36.970820",
+        "annotation": "",
+        "entry": "atusinya",
+        "id": 24514,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24514/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-06-12T21:25:36.890073",
+        "annotation": "",
+        "entry": "mihehi",
+        "id": 24508,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24508/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-12T21:25:36.561485",
+        "annotation": "",
+        "entry": "s\u0259busbya",
+        "id": 24493,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24493/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-06-12T21:25:36.912352",
+        "annotation": "",
+        "entry": "s\u0259midugwa",
+        "id": 24509,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24509/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-12T21:25:37.075548",
+        "annotation": "",
+        "entry": "t\u0259mawya",
+        "id": 24520,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24520/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2013-06-12T21:25:36.657135",
+        "annotation": "",
+        "entry": "yawya",
+        "id": 24496,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24496/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "added": "2013-06-12T20:17:23.517586",
+        "annotation": "",
+        "entry": "lawi",
+        "id": 24063,
+        "language": "/api/v1/language/uruangnirin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24063/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-12T20:17:24.137826",
+        "annotation": "",
+        "entry": "pati",
+        "id": 24081,
+        "language": "/api/v1/language/uruangnirin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24081/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-06-12T20:17:22.970882",
+        "annotation": "",
+        "entry": "patin",
+        "id": 24060,
+        "language": "/api/v1/language/uruangnirin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24060/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-06-12T20:17:24.258995",
+        "annotation": "",
+        "entry": "were",
+        "id": 24087,
+        "language": "/api/v1/language/uruangnirin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24087/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    }
+]

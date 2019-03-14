@@ -1,0 +1,122 @@
+[
+    {
+        "added": "2013-06-10T19:56:38.508972",
+        "annotation": "",
+        "entry": "api",
+        "id": 20585,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/20585/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-10T19:56:38.519572",
+        "annotation": "",
+        "entry": "bo",
+        "id": 20586,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/20586/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-10T21:11:07.180423",
+        "annotation": null,
+        "entry": "lua",
+        "id": 21166,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/21166/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-10T19:56:37.800757",
+        "annotation": "",
+        "entry": "papi",
+        "id": 20570,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/20570/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-10T19:56:37.919385",
+        "annotation": "",
+        "entry": "pati",
+        "id": 20575,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/20575/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-06-10T19:56:37.591073",
+        "annotation": "",
+        "entry": "patin",
+        "id": 20554,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/20554/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-06-10T21:11:07.204496",
+        "annotation": null,
+        "entry": "rua",
+        "id": 21167,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/21167/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-10T19:56:37.768012",
+        "annotation": "",
+        "entry": "sa",
+        "id": 20569,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/20569/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-10T19:56:38.443359",
+        "annotation": "",
+        "entry": "were",
+        "id": 20581,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/20581/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2013-06-10T19:56:37.617855",
+        "annotation": "",
+        "entry": "yafi",
+        "id": 20557,
+        "language": "/api/v1/language/onin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/20557/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    }
+]

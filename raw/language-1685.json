@@ -1,0 +1,14 @@
+[
+    {
+        "added": "2015-10-26T12:54:06.621766",
+        "annotation": "",
+        "entry": "ama",
+        "id": 252417,
+        "language": "/api/v1/language/asmat-north-weyo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252417/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/bowstring/"
+    }
+]

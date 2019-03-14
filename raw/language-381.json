@@ -1,0 +1,50 @@
+[
+    {
+        "added": "2013-06-13T17:49:53.685230",
+        "annotation": "",
+        "entry": "akore",
+        "id": 26181,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/26181/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-06-13T17:49:53.892569",
+        "annotation": "",
+        "entry": "geta",
+        "id": 26196,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/26196/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-13T17:49:53.903527",
+        "annotation": "",
+        "entry": "niadi",
+        "id": 26197,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/26197/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-13T17:49:54.042055",
+        "annotation": "",
+        "entry": "ruhi",
+        "id": 26207,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/26207/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    }
+]

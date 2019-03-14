@@ -1,0 +1,86 @@
+[
+    {
+        "added": "2013-06-12T21:23:11.547180",
+        "annotation": "",
+        "entry": "atuwe",
+        "id": 24474,
+        "language": "/api/v1/language/yeretuar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24474/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-06-12T21:23:11.473844",
+        "annotation": "",
+        "entry": "buwe",
+        "id": 24469,
+        "language": "/api/v1/language/yeretuar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24469/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-12T21:23:11.683698",
+        "annotation": "",
+        "entry": "edis",
+        "id": 24479,
+        "language": "/api/v1/language/yeretuar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24479/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-12T21:23:11.713105",
+        "annotation": "",
+        "entry": "irembe",
+        "id": 24480,
+        "language": "/api/v1/language/yeretuar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24480/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2013-06-12T21:23:11.459289",
+        "annotation": "",
+        "entry": "kotem",
+        "id": 24468,
+        "language": "/api/v1/language/yeretuar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24468/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-12T21:23:11.188515",
+        "annotation": "",
+        "entry": "narube",
+        "id": 24456,
+        "language": "/api/v1/language/yeretuar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24456/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-12T21:23:11.067130",
+        "annotation": "",
+        "entry": "tor\u0259he",
+        "id": 24453,
+        "language": "/api/v1/language/yeretuar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24453/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    }
+]

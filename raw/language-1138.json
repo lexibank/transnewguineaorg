@@ -1,0 +1,98 @@
+[
+    {
+        "added": "2015-03-19T07:04:55.066226",
+        "annotation": null,
+        "entry": "*i[ya]",
+        "id": 206677,
+        "language": "/api/v1/language/proto-sub-rai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/206677/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "1sg free",
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2015-03-19T07:04:58.304688",
+        "annotation": null,
+        "entry": "*na[i]",
+        "id": 207676,
+        "language": "/api/v1/language/proto-sub-rai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207676/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "2sg free",
+        "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2015-03-19T07:05:04.226641",
+        "annotation": null,
+        "entry": "*na-ne",
+        "id": 209490,
+        "language": "/api/v1/language/proto-sub-rai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209490/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "3pl free",
+        "word": "/api/v1/word/they/"
+    },
+    {
+        "added": "2015-03-19T07:05:04.157380",
+        "annotation": null,
+        "entry": "*ni",
+        "id": 209466,
+        "language": "/api/v1/language/proto-sub-rai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209466/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "2sg free",
+        "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2015-03-19T07:04:55.991712",
+        "annotation": null,
+        "entry": "*nu[i]",
+        "id": 206955,
+        "language": "/api/v1/language/proto-sub-rai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/206955/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "3sg free",
+        "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2015-03-19T07:04:57.728967",
+        "annotation": null,
+        "entry": "*si-ne",
+        "id": 207533,
+        "language": "/api/v1/language/proto-sub-rai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207533/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "1pl free",
+        "word": "/api/v1/word/we/"
+    },
+    {
+        "added": "2015-03-19T07:05:02.201906",
+        "annotation": null,
+        "entry": "*-tagi-",
+        "id": 208861,
+        "language": "/api/v1/language/proto-sub-rai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208861/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "2pl obj",
+        "word": "/api/v1/word/you-pl-o2p/"
+    },
+    {
+        "added": "2015-03-19T07:04:58.502051",
+        "annotation": null,
+        "entry": "*ta-ne",
+        "id": 207724,
+        "language": "/api/v1/language/proto-sub-rai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207724/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "2pl free",
+        "word": "/api/v1/word/you-pl/"
+    }
+]

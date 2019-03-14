@@ -1,0 +1,14 @@
+[
+    {
+        "added": "2014-07-30T23:28:43.139184",
+        "annotation": null,
+        "entry": "qat",
+        "id": 159542,
+        "language": "/api/v1/language/parb/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159542/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    }
+]

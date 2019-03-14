@@ -1,0 +1,50 @@
+[
+    {
+        "added": "2014-07-30T23:28:28.879938",
+        "annotation": null,
+        "entry": "bin",
+        "id": 155071,
+        "language": "/api/v1/language/agob/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155071/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2014-07-30T23:28:31.876097",
+        "annotation": null,
+        "entry": "bod",
+        "id": 156007,
+        "language": "/api/v1/language/agob/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156007/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "lips",
+        "word": "/api/v1/word/lips/"
+    },
+    {
+        "added": "2014-07-30T23:28:28.876787",
+        "annotation": null,
+        "entry": "bun",
+        "id": 155070,
+        "language": "/api/v1/language/agob/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155070/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2014-07-30T23:28:43.148540",
+        "annotation": null,
+        "entry": "kut",
+        "id": 159545,
+        "language": "/api/v1/language/agob/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159545/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    }
+]

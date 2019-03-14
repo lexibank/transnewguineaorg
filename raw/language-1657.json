@@ -1,0 +1,62 @@
+[
+    {
+        "added": "2015-10-26T12:54:04.790861",
+        "annotation": "",
+        "entry": "man",
+        "id": 251829,
+        "language": "/api/v1/language/asmat-central-keenakap-awok/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/251829/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/arm-hand/"
+    },
+    {
+        "added": "2015-10-26T12:54:20.047313",
+        "annotation": "",
+        "entry": "pitin",
+        "id": 255908,
+        "language": "/api/v1/language/asmat-central-keenakap-awok/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255908/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2015-10-26T12:54:09.409466",
+        "annotation": "",
+        "entry": "se",
+        "id": 253286,
+        "language": "/api/v1/language/asmat-central-keenakap-awok/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253286/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "earth, mud",
+        "word": "/api/v1/word/earthmud/"
+    },
+    {
+        "added": "2015-10-26T12:54:21.855480",
+        "annotation": "",
+        "entry": "sisi",
+        "id": 256487,
+        "language": "/api/v1/language/asmat-central-keenakap-awok/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256487/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2015-10-26T12:54:15.574092",
+        "annotation": "",
+        "entry": "yini",
+        "id": 254437,
+        "language": "/api/v1/language/asmat-central-keenakap-awok/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254437/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/knee/"
+    }
+]

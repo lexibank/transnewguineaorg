@@ -1,0 +1,86 @@
+[
+    {
+        "added": "2014-03-19T20:00:24.484002",
+        "annotation": "his",
+        "entry": "anji",
+        "id": 80473,
+        "language": "/api/v1/language/angal-heneng/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80473/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mother/"
+    },
+    {
+        "added": "2014-03-19T20:00:23.661583",
+        "annotation": "",
+        "entry": "ha\u0268",
+        "id": 80301,
+        "language": "/api/v1/language/angal-heneng/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80301/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2014-03-19T20:00:24.297396",
+        "annotation": "",
+        "entry": "hame",
+        "id": 80434,
+        "language": "/api/v1/language/angal-heneng/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80434/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/brother/"
+    },
+    {
+        "added": "2014-03-19T20:00:25.746021",
+        "annotation": "",
+        "entry": "han",
+        "id": 80746,
+        "language": "/api/v1/language/angal-heneng/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80746/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2014-03-19T20:00:25.662446",
+        "annotation": "",
+        "entry": "har",
+        "id": 80727,
+        "language": "/api/v1/language/angal-heneng/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80727/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2014-03-19T20:00:24.211552",
+        "annotation": "",
+        "entry": "hege",
+        "id": 80415,
+        "language": "/api/v1/language/angal-heneng/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80415/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tongue/"
+    },
+    {
+        "added": "2014-03-19T20:00:25.471349",
+        "annotation": "",
+        "entry": "jome",
+        "id": 80684,
+        "language": "/api/v1/language/angal-heneng/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80684/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    }
+]

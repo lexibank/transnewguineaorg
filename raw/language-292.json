@@ -1,0 +1,86 @@
+[
+    {
+        "added": "2013-06-11T21:58:37.989290",
+        "annotation": "",
+        "entry": "abdina",
+        "id": 22941,
+        "language": "/api/v1/language/dineor/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/22941/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-11T21:58:37.998741",
+        "annotation": "",
+        "entry": "dbua",
+        "id": 22942,
+        "language": "/api/v1/language/dineor/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/22942/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-06-11T21:58:38.043839",
+        "annotation": "",
+        "entry": "ewam",
+        "id": 22947,
+        "language": "/api/v1/language/dineor/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/22947/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-06-11T21:58:38.121144",
+        "annotation": "",
+        "entry": "fo",
+        "id": 22953,
+        "language": "/api/v1/language/dineor/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/22953/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2013-06-11T21:58:37.856604",
+        "annotation": "",
+        "entry": "msuram",
+        "id": 22929,
+        "language": "/api/v1/language/dineor/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/22929/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-11T21:58:38.111437",
+        "annotation": "",
+        "entry": "nawe",
+        "id": 22952,
+        "language": "/api/v1/language/dineor/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/22952/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2013-06-11T21:58:37.790402",
+        "annotation": "",
+        "entry": "susu",
+        "id": 22926,
+        "language": "/api/v1/language/dineor/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/22926/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "added": "2014-03-19T20:00:25.979117",
+        "annotation": "",
+        "entry": "ai",
+        "id": 80793,
+        "language": "/api/v1/language/angal-enen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80793/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/banana/"
+    },
+    {
+        "added": "2014-03-19T20:00:26.316470",
+        "annotation": "",
+        "entry": "keim",
+        "id": 80863,
+        "language": "/api/v1/language/angal-enen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80863/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/flying-fox/"
+    }
+]

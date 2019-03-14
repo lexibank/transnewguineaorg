@@ -1,0 +1,14 @@
+[
+    {
+        "added": "2015-03-19T07:04:54.944914",
+        "annotation": null,
+        "entry": "*n(i,u)man",
+        "id": 206645,
+        "language": "/api/v1/language/proto-chimbu-wahgi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/206645/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    }
+]

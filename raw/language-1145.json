@@ -1,0 +1,14 @@
+[
+    {
+        "added": "2015-03-19T07:04:59.901487",
+        "annotation": null,
+        "entry": "*nVm\u00e1",
+        "id": 208117,
+        "language": "/api/v1/language/proto-goroka/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208117/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "added": "2015-03-19T07:05:02.221160",
+        "annotation": null,
+        "entry": "*iman",
+        "id": 208868,
+        "language": "/api/v1/language/proto-finisterre-huon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208868/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    }
+]
