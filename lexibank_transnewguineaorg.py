@@ -52,9 +52,9 @@ class Dataset(BaseDataset):
             for l in languages:
                 ds.add_language(
                     ID=l,
+                    Name=languages[l]['fullname'],
                     ISO639P3code=languages[l]['isocode'],
-                    Glottocode=languages[l]['glottocode'],
-                    Name=languages[l]['language']
+                    Glottocode=languages[l]['glottocode']
                 )
             
             # handle concepts
@@ -62,8 +62,9 @@ class Dataset(BaseDataset):
             for c in words:
                 ds.add_concept(
                     ID=c,
+                    Name=words[c]['word'],
                     Concepticon_ID=words[c]['concepticon_id'],
-                    Name=words[c]['concepticon_id']
+                    Concepticon_Gloss=words[c]['concepticon_gloss']
                 )
             
             itemfiles = [f for f in self.raw.iterdir() if f.name.startswith("language-")]
@@ -72,7 +73,8 @@ class Dataset(BaseDataset):
                 for o in jsonlib.load(filename):
                     for form in self.split_forms(o, o['entry']):
                         ds.add_lexemes(
-                            ID=o['id'],
+                            #ID=o['id'],
+                            Local_ID=o['id'],
                             Language_ID=self.get_slug_from_uri(o['language']),
                             Parameter_ID=self.get_slug_from_uri(o['word']),
                             Value=o['entry'],
