@@ -39,7 +39,7 @@ class Dataset(BaseDataset):
             # handle sources
             # want to make sure that the bibtex key matches our source id.
             self.log.info("Loading sources...")
-            for s in sources:
+            for s in sorted(sources):
                 # this is ugly, I with pybtex made this easier!
                 bib = parse_string(sources[s]['bibtex'], 'bibtex')
                 old_key = bib.entries.keys()[0]
@@ -49,7 +49,7 @@ class Dataset(BaseDataset):
             
             # handle languages
             self.log.info("Loading languages...")
-            for l in languages:
+            for l in sorted(languages):
                 ds.add_language(
                     ID=l,
                     Name=languages[l]['fullname'],
@@ -59,7 +59,7 @@ class Dataset(BaseDataset):
             
             # handle concepts
             self.log.info("Loading concepts...")
-            for c in words:
+            for c in sorted(words):
                 ds.add_concept(
                     ID=c,
                     Name=words[c]['word'],
@@ -68,9 +68,9 @@ class Dataset(BaseDataset):
                 )
             
             itemfiles = [f for f in self.raw.iterdir() if f.name.startswith("language-")]
-            for filename in itemfiles:
+            for filename in sorted(itemfiles):
                 self.log.info("Loading data from %s..." % filename)
-                for o in jsonlib.load(filename):
+                for o in sorted(jsonlib.load(filename), key=lambda d: d['id']):
                     for form in self.split_forms(o, o['entry']):
                         ds.add_lexemes(
                             #ID=o['id'],
