@@ -13,7 +13,7 @@ Available online at http://transnewguinea.org
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Concepticon: 94%](https://img.shields.io/badge/Concepticon-94%25-green.svg "Concepticon: 94%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 1,011

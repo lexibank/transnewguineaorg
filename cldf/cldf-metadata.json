@@ -3,9 +3,12 @@
     "dc:bibliographicCitation": "Greenhill SJ. 2015. TransNewGuinea.org: An Online Database of New Guinea Languages. PLoS ONE 10(10): e0141563. http://transnewguinea.org.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://transnewguinea.org",
+    "dc:license": "CC-BY",
     "dc:source": "sources.bib",
     "dc:title": "TransNewGuinea.org",
+    "dcat:accessURL": "https://github.com/lexibank/transnewguineaorg",
     "rdf:ID": "transnewguineaorg",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -48,7 +51,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -116,7 +119,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1028,
+            "dc:extent": 1011,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1220,
+            "dc:extent": 1211,
             "tableSchema": {
                 "columns": [
                     {
@@ -198,7 +201,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
