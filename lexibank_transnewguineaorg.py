@@ -40,7 +40,7 @@ class Dataset(BaseDataset):
             # want to make sure that the bibtex key matches our source id.
             self.log.info("Loading sources...")
             for s in sorted(sources):
-                # this is ugly, I with pybtex made this easier!
+                # this is ugly, I wish pybtex made this easier!
                 bib = parse_string(sources[s]['bibtex'], 'bibtex')
                 old_key = bib.entries.keys()[0]
                 bib.entries[old_key].key = s
