@@ -1,17 +1,5 @@
 [
     {
-        "added": "2015-10-26T12:54:13.859565",
-        "annotation": "",
-        "entry": "1-15",
-        "id": 254033,
-        "language": "/api/v1/language/asmat-central-keenakap-yaosakor/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254033/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "hair (of head)",
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2015-10-26T12:54:07.588387",
         "annotation": "",
         "entry": "ake",
@@ -106,6 +94,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "neck, throat",
         "word": "/api/v1/word/neck/"
+    },
+    {
+        "added": "2015-10-26T12:54:13.859565",
+        "annotation": "",
+        "entry": "fin",
+        "id": 254033,
+        "language": "/api/v1/language/asmat-central-keenakap-yaosakor/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254033/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "hair (of head)",
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2015-10-26T12:54:14.645722",

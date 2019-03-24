@@ -168,13 +168,25 @@
         "word": "/api/v1/word/egg/"
     },
     {
-        "added": "2013-11-07T00:31:09.114232",
-        "annotation": "",
-        "entry": "d\u017eal/d\u017e'ial",
-        "id": 37240,
+        "added": "2019-03-19T04:16:28.094595",
+        "annotation": null,
+        "entry": "d\u017eal",
+        "id": 260538,
         "language": "/api/v1/language/blagar-retta-on-pura/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37240/",
+        "resource_uri": "/api/v1/lexicon/260538/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.114193",
+        "annotation": null,
+        "entry": "d\u017e'ial",
+        "id": 260539,
+        "language": "/api/v1/language/blagar-retta-on-pura/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260539/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
@@ -202,6 +214,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.309380",
+        "annotation": null,
+        "entry": "'\u025bli",
+        "id": 260547,
+        "language": "/api/v1/language/blagar-retta-on-pura/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260547/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
     },
     {
         "added": "2013-11-07T00:31:09.935027",
@@ -312,13 +336,13 @@
         "word": "/api/v1/word/garden/"
     },
     {
-        "added": "2013-11-07T00:31:10.015675",
-        "annotation": "",
-        "entry": "'\u01f0\u025bm\u03b1/l'am\u03b1",
-        "id": 37297,
+        "added": "2019-03-19T04:16:28.333128",
+        "annotation": null,
+        "entry": "'\u01f0\u025bm\u03b1",
+        "id": 260548,
         "language": "/api/v1/language/blagar-retta-on-pura/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37297/",
+        "resource_uri": "/api/v1/lexicon/260548/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-go/"
@@ -372,16 +396,28 @@
         "word": "/api/v1/word/nail/"
     },
     {
-        "added": "2013-11-07T00:31:10.042918",
-        "annotation": "fat",
-        "entry": "k'upar/t'\u03b1mal",
-        "id": 37299,
+        "added": "2019-03-19T04:16:28.149245",
+        "annotation": null,
+        "entry": "k'upar",
+        "id": 260540,
         "language": "/api/v1/language/blagar-retta-on-pura/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37299/",
+        "resource_uri": "/api/v1/lexicon/260540/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.266064",
+        "annotation": null,
+        "entry": "k\u03b1k'iri",
+        "id": 260545,
+        "language": "/api/v1/language/blagar-retta-on-pura/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260545/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
     },
     {
         "added": "2013-11-07T00:31:09.140482",
@@ -418,6 +454,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/twenty/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.345662",
+        "annotation": null,
+        "entry": "l'am\u03b1",
+        "id": 260549,
+        "language": "/api/v1/language/blagar-retta-on-pura/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260549/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-go/"
     },
     {
         "added": "2013-11-07T00:31:09.888826",
@@ -1008,13 +1056,13 @@
         "word": "/api/v1/word/ear/"
     },
     {
-        "added": "2013-11-07T00:31:10.336200",
-        "annotation": "",
-        "entry": "\u0254l/k\u03b1k'iri",
-        "id": 37314,
+        "added": "2019-03-19T04:16:28.247687",
+        "annotation": null,
+        "entry": "\u0254l",
+        "id": 260544,
         "language": "/api/v1/language/blagar-retta-on-pura/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37314/",
+        "resource_uri": "/api/v1/lexicon/260544/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
@@ -1030,6 +1078,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/island/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.216729",
+        "annotation": null,
+        "entry": "p\u03b1l'\u0254h\u03b1",
+        "id": 260543,
+        "language": "/api/v1/language/blagar-retta-on-pura/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260543/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/warm/"
     },
     {
         "added": "2013-11-07T00:31:09.738307",
@@ -1128,13 +1188,13 @@
         "word": "/api/v1/word/eight/"
     },
     {
-        "added": "2013-11-07T00:31:10.550886",
-        "annotation": "",
-        "entry": "t'utu\u014b/p\u03b1l'\u0254h\u03b1",
-        "id": 37318,
+        "added": "2019-03-19T04:16:28.198484",
+        "annotation": null,
+        "entry": "t'utu\u014b",
+        "id": 260542,
         "language": "/api/v1/language/blagar-retta-on-pura/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37318/",
+        "resource_uri": "/api/v1/lexicon/260542/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/warm/"
@@ -1152,6 +1212,18 @@
         "word": "/api/v1/word/six/"
     },
     {
+        "added": "2019-03-19T04:16:28.166914",
+        "annotation": null,
+        "entry": "t'\u03b1mal",
+        "id": 260541,
+        "language": "/api/v1/language/blagar-retta-on-pura/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260541/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-07T00:31:09.549439",
         "annotation": "",
         "entry": "t\u03b1\u03b1",
@@ -1164,13 +1236,13 @@
         "word": "/api/v1/word/to-sleep/"
     },
     {
-        "added": "2013-11-07T00:31:10.301627",
-        "annotation": "",
-        "entry": "'uli\u014b/'\u025bli",
-        "id": 37313,
+        "added": "2019-03-19T04:16:28.296844",
+        "annotation": null,
+        "entry": "'uli\u014b",
+        "id": 260546,
         "language": "/api/v1/language/blagar-retta-on-pura/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37313/",
+        "resource_uri": "/api/v1/lexicon/260546/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-see/"

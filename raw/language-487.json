@@ -84,18 +84,6 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2013-11-04T02:54:00.983903",
-        "annotation": "fat",
-        "entry": "b\u025b\u014b",
-        "id": 35298,
-        "language": "/api/v1/language/alor-kalabahi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35298/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
-        "word": "/api/v1/word/fat/"
-    },
-    {
         "added": "2013-11-04T02:54:00.796173",
         "annotation": "",
         "entry": "b\u025b\u014b",
@@ -106,6 +94,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2013-11-04T02:54:00.983903",
+        "annotation": "fat",
+        "entry": "b\u025b\u014b",
+        "id": 35298,
+        "language": "/api/v1/language/alor-kalabahi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/35298/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": "fat",
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-04T02:54:00.497451",
@@ -878,7 +878,7 @@
     {
         "added": "2013-11-04T02:54:00.764024",
         "annotation": "",
-        "entry": "r''ibu(t'\u0254hu/tow)",
+        "entry": "r''ibu (t'\u0254hu)",
         "id": 35280,
         "language": "/api/v1/language/alor-kalabahi/",
         "loan": false,

@@ -48,18 +48,6 @@
         "word": "/api/v1/word/girl/"
     },
     {
-        "added": "2014-02-24T17:11:41.236511",
-        "annotation": "bird's tail",
-        "entry": "*agu",
-        "id": 78906,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/78906/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tail/"
-    },
-    {
         "added": "2014-02-24T17:11:41.220090",
         "annotation": "nape",
         "entry": "*agu",
@@ -70,6 +58,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/nape/"
+    },
+    {
+        "added": "2014-02-24T17:11:41.236511",
+        "annotation": "bird's tail",
+        "entry": "*agu",
+        "id": 78906,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/78906/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tail/"
     },
     {
         "added": "2013-11-19T03:56:05.506534",
@@ -312,18 +312,6 @@
         "word": "/api/v1/word/tomorrow/"
     },
     {
-        "added": "2013-11-19T03:55:57.641549",
-        "annotation": "burn",
-        "entry": "*aw-",
-        "id": 48554,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48554/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2013-11-19T03:56:28.902373",
         "annotation": "sleep",
         "entry": "*aw-",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-11-19T03:55:57.641549",
+        "annotation": "burn",
+        "entry": "*aw-",
+        "id": 48554,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48554/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2013-11-19T03:55:57.949687",
@@ -1152,16 +1152,16 @@
         "word": "/api/v1/word/wrap/"
     },
     {
-        "added": "2013-11-19T03:56:17.316865",
+        "added": "2013-11-19T03:56:09.847834",
         "annotation": "",
         "entry": "*ewa",
-        "id": 52001,
+        "id": 50726,
         "language": "/api/v1/language/proto-binandere/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/52001/",
+        "resource_uri": "/api/v1/lexicon/50726/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/mango/"
+        "word": "/api/v1/word/good/"
     },
     {
         "added": "2013-11-19T03:56:26.121903",
@@ -1176,16 +1176,16 @@
         "word": "/api/v1/word/sea/"
     },
     {
-        "added": "2013-11-19T03:56:09.847834",
+        "added": "2013-11-19T03:56:17.316865",
         "annotation": "",
         "entry": "*ewa",
-        "id": 50726,
+        "id": 52001,
         "language": "/api/v1/language/proto-binandere/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/50726/",
+        "resource_uri": "/api/v1/lexicon/52001/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/good/"
+        "word": "/api/v1/word/mango/"
     },
     {
         "added": "2013-11-19T03:56:16.906757",
@@ -1356,18 +1356,6 @@
         "word": "/api/v1/word/sweet-potato/"
     },
     {
-        "added": "2013-11-19T03:56:14.094038",
-        "annotation": "",
-        "entry": "*gi",
-        "id": 51483,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/51483/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/leaf/"
-    },
-    {
         "added": "2013-11-19T03:56:30.122178",
         "annotation": "",
         "entry": "*gi",
@@ -1378,6 +1366,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/spear-n/"
+    },
+    {
+        "added": "2013-11-19T03:56:14.094038",
+        "annotation": "",
+        "entry": "*gi",
+        "id": 51483,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/51483/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/leaf/"
     },
     {
         "added": "2013-11-19T03:56:11.095967",
@@ -1452,18 +1452,6 @@
         "word": "/api/v1/word/rat/"
     },
     {
-        "added": "2013-11-19T03:56:32.121418",
-        "annotation": "",
-        "entry": "*goroba",
-        "id": 54686,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/54686/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/strong/"
-    },
-    {
         "added": "2013-11-19T03:55:55.185987",
         "annotation": "",
         "entry": "*goroba",
@@ -1474,6 +1462,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/black-palm/"
+    },
+    {
+        "added": "2013-11-19T03:56:32.121418",
+        "annotation": "",
+        "entry": "*goroba",
+        "id": 54686,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/54686/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/strong/"
     },
     {
         "added": "2013-11-19T03:55:59.620516",
@@ -2450,7 +2450,7 @@
     {
         "added": "2013-11-19T03:55:57.383489",
         "annotation": "brother-in-law same sex",
-        "entry": "*nambori/nambo",
+        "entry": "*nambo-di",
         "id": 48508,
         "language": "/api/v1/language/proto-binandere/",
         "loan": false,
@@ -2868,18 +2868,6 @@
         "word": "/api/v1/word/cowrie/"
     },
     {
-        "added": "2014-02-24T17:07:05.418690",
-        "annotation": "",
-        "entry": "*pumb-",
-        "id": 54891,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/54891/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-carry/"
-    },
-    {
         "added": "2014-02-24T17:07:05.473594",
         "annotation": "",
         "entry": "*pumb-",
@@ -2890,6 +2878,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-take/"
+    },
+    {
+        "added": "2014-02-24T17:07:05.418690",
+        "annotation": "",
+        "entry": "*pumb-",
+        "id": 54891,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/54891/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-carry/"
     },
     {
         "added": "2013-11-19T03:55:55.610568",
@@ -3530,7 +3530,7 @@
     {
         "added": "2013-11-19T03:56:04.235650",
         "annotation": "",
-        "entry": "*umbugA/u\u014bgubA",
+        "entry": "*umbugA,u\u014bgubA",
         "id": 49721,
         "language": "/api/v1/language/proto-binandere/",
         "loan": false,
@@ -3600,18 +3600,6 @@
         "word": "/api/v1/word/strainer/"
     },
     {
-        "added": "2013-11-19T03:56:28.718178",
-        "annotation": "",
-        "entry": "*utu",
-        "id": 54053,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/54053/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sky/"
-    },
-    {
         "added": "2013-11-19T03:56:31.290565",
         "annotation": "",
         "entry": "*utu",
@@ -3622,6 +3610,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/stick/"
+    },
+    {
+        "added": "2013-11-19T03:56:28.718178",
+        "annotation": "",
+        "entry": "*utu",
+        "id": 54053,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/54053/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sky/"
     },
     {
         "added": "2013-11-19T03:56:26.721147",

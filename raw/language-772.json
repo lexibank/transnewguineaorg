@@ -132,18 +132,6 @@
         "word": "/api/v1/word/old/"
     },
     {
-        "added": "2014-09-22T03:12:07.526612",
-        "annotation": null,
-        "entry": "anau",
-        "id": 182356,
-        "language": "/api/v1/language/uya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/182356/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "far",
-        "word": "/api/v1/word/far/"
-    },
-    {
         "added": "2014-09-22T03:11:58.896744",
         "annotation": null,
         "entry": "anau",
@@ -154,6 +142,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "female",
         "word": "/api/v1/word/female/"
+    },
+    {
+        "added": "2014-09-22T03:12:07.526612",
+        "annotation": null,
+        "entry": "anau",
+        "id": 182356,
+        "language": "/api/v1/language/uya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/182356/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "far",
+        "word": "/api/v1/word/far/"
     },
     {
         "added": "2014-09-22T03:12:07.027525",
@@ -456,18 +456,6 @@
         "word": "/api/v1/word/tree-top/"
     },
     {
-        "added": "2014-09-22T03:12:08.765756",
-        "annotation": null,
-        "entry": "botu\u014b-",
-        "id": 182890,
-        "language": "/api/v1/language/uya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/182890/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to fall (tree)",
-        "word": "/api/v1/word/fell-tree/"
-    },
-    {
         "added": "2014-09-22T03:12:09.800460",
         "annotation": null,
         "entry": "botu\u014b-",
@@ -478,6 +466,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to break (across)",
         "word": "/api/v1/word/to-break/"
+    },
+    {
+        "added": "2014-09-22T03:12:08.765756",
+        "annotation": null,
+        "entry": "botu\u014b-",
+        "id": 182890,
+        "language": "/api/v1/language/uya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/182890/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to fall (tree)",
+        "word": "/api/v1/word/fell-tree/"
     },
     {
         "added": "2014-09-22T03:11:59.246161",
@@ -1020,18 +1020,6 @@
         "word": "/api/v1/word/always/"
     },
     {
-        "added": "2014-09-22T03:11:58.486281",
-        "annotation": null,
-        "entry": "gamu",
-        "id": 178050,
-        "language": "/api/v1/language/uya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/178050/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "egg",
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2014-09-22T03:12:01.004726",
         "annotation": null,
         "entry": "gamu",
@@ -1042,6 +1030,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "fruit",
         "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2014-09-22T03:11:58.486281",
+        "annotation": null,
+        "entry": "gamu",
+        "id": 178050,
+        "language": "/api/v1/language/uya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/178050/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2014-09-22T03:11:57.602191",
@@ -1260,6 +1260,18 @@
         "word": "/api/v1/word/thunder/"
     },
     {
+        "added": "2019-03-19T04:39:55.282800",
+        "annotation": null,
+        "entry": "hap",
+        "id": 260748,
+        "language": "/api/v1/language/uya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260748/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
+    },
+    {
         "added": "2014-09-22T03:12:06.679347",
         "annotation": null,
         "entry": "hapia",
@@ -1270,18 +1282,6 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "daybreak",
         "word": "/api/v1/word/daybreak/"
-    },
-    {
-        "added": "2014-09-22T03:12:06.802322",
-        "annotation": null,
-        "entry": "hap/tuma",
-        "id": 182021,
-        "language": "/api/v1/language/uya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/182021/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "night",
-        "word": "/api/v1/word/night/"
     },
     {
         "added": "2014-09-22T03:12:03.734187",
@@ -1332,18 +1332,6 @@
         "word": "/api/v1/word/to-come/"
     },
     {
-        "added": "2014-09-22T03:12:02.683253",
-        "annotation": null,
-        "entry": "h\u028cb",
-        "id": 180103,
-        "language": "/api/v1/language/uya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/180103/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "cloud",
-        "word": "/api/v1/word/cloud/"
-    },
-    {
         "added": "2014-09-22T03:12:02.620910",
         "annotation": null,
         "entry": "h\u028cb",
@@ -1354,6 +1342,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "sky",
         "word": "/api/v1/word/sky/"
+    },
+    {
+        "added": "2014-09-22T03:12:02.683253",
+        "annotation": null,
+        "entry": "h\u028cb",
+        "id": 180103,
+        "language": "/api/v1/language/uya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/180103/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "cloud",
+        "word": "/api/v1/word/cloud/"
     },
     {
         "added": "2014-09-22T03:12:02.245302",
@@ -3646,6 +3646,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to give",
         "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2019-03-19T04:39:55.296274",
+        "annotation": null,
+        "entry": "tuma",
+        "id": 260749,
+        "language": "/api/v1/language/uya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260749/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
     },
     {
         "added": "2014-09-22T03:12:05.974473",

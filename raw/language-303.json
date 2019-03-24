@@ -312,15 +312,27 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2013-06-11T19:12:25.014765",
-        "annotation": "arm",
-        "entry": "te/teri",
-        "id": 21502,
+        "added": "2019-03-19T06:00:19.106266",
+        "annotation": null,
+        "entry": "te",
+        "id": 260758,
         "language": "/api/v1/language/momuna/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/21502/",
+        "resource_uri": "/api/v1/lexicon/260758/",
         "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": "arm",
+        "source_gloss": null,
+        "word": "/api/v1/word/arm/"
+    },
+    {
+        "added": "2019-03-19T06:00:19.203737",
+        "annotation": null,
+        "entry": "teri",
+        "id": 260759,
+        "language": "/api/v1/language/momuna/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260759/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
         "word": "/api/v1/word/arm/"
     },
     {
@@ -336,18 +348,6 @@
         "word": "/api/v1/word/fingernail/"
     },
     {
-        "added": "2013-06-11T19:12:25.185913",
-        "annotation": "",
-        "entry": "toko",
-        "id": 21507,
-        "language": "/api/v1/language/momuna/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/21507/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bone/"
-    },
-    {
         "added": "2013-06-11T19:12:25.523929",
         "annotation": "",
         "entry": "toko",
@@ -358,6 +358,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2013-06-11T19:12:25.185913",
+        "annotation": "",
+        "entry": "toko",
+        "id": 21507,
+        "language": "/api/v1/language/momuna/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/21507/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bone/"
     },
     {
         "added": "2013-06-11T19:12:25.474668",

@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/this/"
     },
     {
-        "added": "2015-06-09T20:48:15.805376",
-        "annotation": "",
-        "entry": "me=ta=rep ke-",
-        "id": 231574,
-        "language": "/api/v1/language/kwem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231574/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-be-hungry/"
-    },
-    {
         "added": "2015-06-09T20:48:15.472914",
         "annotation": "",
         "entry": "me=ta=rep ke-",
@@ -1231,6 +1219,18 @@
         "language": "/api/v1/language/kwem/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231543/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-be-hungry/"
+    },
+    {
+        "added": "2015-06-09T20:48:15.805376",
+        "annotation": "",
+        "entry": "me=ta=rep ke-",
+        "id": 231574,
+        "language": "/api/v1/language/kwem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231574/",
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/to-be-hungry/"
@@ -1838,7 +1838,7 @@
     {
         "added": "2015-06-09T20:48:14.653716",
         "annotation": "",
-        "entry": "to=b\u00fc=mo/a-",
+        "entry": "to=b\u00fc=m(o,a)-",
         "id": 231475,
         "language": "/api/v1/language/kwem/",
         "loan": false,
@@ -1994,7 +1994,7 @@
     {
         "added": "2015-06-09T20:48:16.398458",
         "annotation": "",
-        "entry": "u-mo/a-",
+        "entry": "u-m(o,a)-",
         "id": 231615,
         "language": "/api/v1/language/kwem/",
         "loan": false,
@@ -2030,7 +2030,7 @@
     {
         "added": "2015-06-09T20:48:16.424184",
         "annotation": "",
-        "entry": "utegi-mo/a-",
+        "entry": "utegi-m(o,a)-",
         "id": 231617,
         "language": "/api/v1/language/kwem/",
         "loan": false,

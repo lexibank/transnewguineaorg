@@ -13,12 +13,12 @@ Available online at http://transnewguinea.org
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 94%](https://img.shields.io/badge/Concepticon-94%25-green.svg "Concepticon: 94%")
+![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 1,011
-- **Concepts:** 1,211
-- **Lexemes:** 146,268
+- **Concepts:** 1,210
+- **Lexemes:** 145,832
 - **Synonymy:** 1.15
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0

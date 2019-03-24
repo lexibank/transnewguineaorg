@@ -1,17 +1,5 @@
 [
     {
-        "added": "2015-10-26T12:54:13.864509",
-        "annotation": "",
-        "entry": "1-15",
-        "id": 254034,
-        "language": "/api/v1/language/asmat-central-sokoni/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254034/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "hair (of head)",
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2015-10-26T12:54:21.340223",
         "annotation": "",
         "entry": "a",
@@ -238,6 +226,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/vein/"
+    },
+    {
+        "added": "2015-10-26T12:54:13.864509",
+        "annotation": "",
+        "entry": "fin",
+        "id": 254034,
+        "language": "/api/v1/language/asmat-central-sokoni/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254034/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "hair (of head)",
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2015-10-26T12:54:22.274982",
@@ -828,18 +828,6 @@
         "word": "/api/v1/word/to-take/"
     },
     {
-        "added": "2015-10-26T12:54:18.482978",
-        "annotation": "",
-        "entry": "tem",
-        "id": 255405,
-        "language": "/api/v1/language/asmat-central-sokoni/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255405/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/rattan/"
-    },
-    {
         "added": "2015-10-26T12:54:14.805539",
         "annotation": "",
         "entry": "tem",
@@ -850,6 +838,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2015-10-26T12:54:18.482978",
+        "annotation": "",
+        "entry": "tem",
+        "id": 255405,
+        "language": "/api/v1/language/asmat-central-sokoni/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255405/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/rattan/"
     },
     {
         "added": "2015-10-26T12:54:05.185935",

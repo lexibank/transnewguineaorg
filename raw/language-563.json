@@ -1,6 +1,6 @@
 [
     {
-        "added": "2013-11-29T19:34:39.198202",
+        "added": "2019-03-15T09:53:27.358755",
         "annotation": "",
         "entry": "aabahi",
         "id": 72217,
@@ -9,7 +9,7 @@
         "resource_uri": "/api/v1/lexicon/72217/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/barl-noun/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-11-29T19:34:52.734032",
@@ -276,18 +276,6 @@
         "word": "/api/v1/word/belly/"
     },
     {
-        "added": "2013-11-29T19:34:42.080437",
-        "annotation": "",
-        "entry": "auru",
-        "id": 72732,
-        "language": "/api/v1/language/tairora-north/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72732/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2013-11-29T19:34:49.860320",
         "annotation": "",
         "entry": "auru",
@@ -298,6 +286,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/seed/"
+    },
+    {
+        "added": "2013-11-29T19:34:42.080437",
+        "annotation": "",
+        "entry": "auru",
+        "id": 72732,
+        "language": "/api/v1/language/tairora-north/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72732/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2013-11-29T19:34:46.336764",
@@ -972,18 +972,6 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2013-11-29T19:34:44.109737",
-        "annotation": "",
-        "entry": "kauhi",
-        "id": 73103,
-        "language": "/api/v1/language/tairora-north/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73103/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2013-11-29T19:34:42.657842",
         "annotation": "",
         "entry": "kauhi",
@@ -994,6 +982,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/feather/"
+    },
+    {
+        "added": "2013-11-29T19:34:44.109737",
+        "annotation": "",
+        "entry": "kauhi",
+        "id": 73103,
+        "language": "/api/v1/language/tairora-north/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73103/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2013-11-29T19:34:51.349631",

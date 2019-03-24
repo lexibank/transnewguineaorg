@@ -1,17 +1,5 @@
 [
     {
-        "added": "2014-08-31T18:25:47.009134",
-        "annotation": "",
-        "entry": ".",
-        "id": 164593,
-        "language": "/api/v1/language/rao/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164593/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "wallaby",
-        "word": "/api/v1/word/wallaby/"
-    },
-    {
         "added": "2014-08-31T18:25:39.294911",
         "annotation": "",
         "entry": "ba",

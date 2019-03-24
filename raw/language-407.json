@@ -84,18 +84,6 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2014-07-30T23:28:40.094512",
-        "annotation": null,
-        "entry": "am",
-        "id": 158569,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/158569/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "breast",
-        "word": "/api/v1/word/breast/"
-    },
-    {
         "added": "2015-01-29T20:50:51.170730",
         "annotation": "",
         "entry": "am",
@@ -105,6 +93,18 @@
         "resource_uri": "/api/v1/lexicon/201322/",
         "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2014-07-30T23:28:40.094512",
+        "annotation": null,
+        "entry": "am",
+        "id": 158569,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/158569/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "breast",
         "word": "/api/v1/word/breast/"
     },
     {
@@ -204,18 +204,6 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2015-06-09T03:47:20.493099",
-        "annotation": "",
-        "entry": "are",
-        "id": 231274,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231274/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/uncooked/"
-    },
-    {
         "added": "2014-07-30T23:28:30.480331",
         "annotation": null,
         "entry": "are",
@@ -226,6 +214,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "new",
         "word": "/api/v1/word/new/"
+    },
+    {
+        "added": "2015-06-09T03:47:20.493099",
+        "annotation": "",
+        "entry": "are",
+        "id": 231274,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231274/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/uncooked/"
     },
     {
         "added": "2015-06-09T03:47:20.501162",
@@ -612,18 +612,6 @@
         "word": "/api/v1/word/to-hear/"
     },
     {
-        "added": "2015-01-29T21:03:15.040942",
-        "annotation": "",
-        "entry": "du",
-        "id": 201380,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201380/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sago/"
-    },
-    {
         "added": "2015-06-09T03:47:20.688771",
         "annotation": "",
         "entry": "du",
@@ -632,6 +620,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231298/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sago/"
+    },
+    {
+        "added": "2015-01-29T21:03:15.040942",
+        "annotation": "",
+        "entry": "du",
+        "id": 201380,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201380/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/sago/"
     },
@@ -732,18 +732,6 @@
         "word": "/api/v1/word/rib/"
     },
     {
-        "added": "2014-07-30T23:28:43.181802",
-        "annotation": null,
-        "entry": "erok",
-        "id": 159555,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159555/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "urine",
-        "word": "/api/v1/word/urine/"
-    },
-    {
         "added": "2015-01-29T21:03:15.140431",
         "annotation": "",
         "entry": "erok",
@@ -753,6 +741,18 @@
         "resource_uri": "/api/v1/lexicon/201397/",
         "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
+        "word": "/api/v1/word/urine/"
+    },
+    {
+        "added": "2014-07-30T23:28:43.181802",
+        "annotation": null,
+        "entry": "erok",
+        "id": 159555,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159555/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "urine",
         "word": "/api/v1/word/urine/"
     },
     {
@@ -960,18 +960,6 @@
         "word": "/api/v1/word/you/"
     },
     {
-        "added": "2015-06-09T03:47:20.794936",
-        "annotation": "also 'high'",
-        "entry": "guruop",
-        "id": 231309,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231309/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/long/"
-    },
-    {
         "added": "2015-01-29T21:03:14.943595",
         "annotation": "",
         "entry": "guruop",
@@ -984,16 +972,16 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2015-01-29T21:03:14.949472",
-        "annotation": "",
-        "entry": "gut",
-        "id": 201368,
+        "added": "2015-06-09T03:47:20.794936",
+        "annotation": "also 'high'",
+        "entry": "guruop",
+        "id": 231309,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/201368/",
-        "source": "/api/v1/source/voorhoeve-2000/",
+        "resource_uri": "/api/v1/lexicon/231309/",
+        "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
-        "word": "/api/v1/word/louse/"
+        "word": "/api/v1/word/long/"
     },
     {
         "added": "2015-06-09T03:47:20.803180",
@@ -1004,6 +992,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231310/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2015-01-29T21:03:14.949472",
+        "annotation": "",
+        "entry": "gut",
+        "id": 201368,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201368/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/louse/"
     },
@@ -1080,6 +1080,18 @@
         "word": "/api/v1/word/tooth/"
     },
     {
+        "added": "2013-06-13T16:51:35.398930",
+        "annotation": "",
+        "entry": "in",
+        "id": 25566,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25566/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
+    },
+    {
         "added": "2014-07-30T23:28:35.273730",
         "annotation": null,
         "entry": "in",
@@ -1092,16 +1104,16 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2013-06-13T16:51:35.398930",
+        "added": "2013-06-13T16:51:35.038310",
         "annotation": "",
         "entry": "in",
-        "id": 25566,
+        "id": 25544,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/25566/",
+        "resource_uri": "/api/v1/lexicon/25544/",
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
-        "word": "/api/v1/word/tree/"
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2015-01-29T20:50:51.371378",
@@ -1128,18 +1140,6 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2013-06-13T16:51:35.038310",
-        "annotation": "",
-        "entry": "in",
-        "id": 25544,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/25544/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fire/"
-    },
-    {
         "added": "2014-07-30T23:28:45.428648",
         "annotation": null,
         "entry": "it",
@@ -1150,18 +1150,6 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "arm",
         "word": "/api/v1/word/arm/"
-    },
-    {
-        "added": "2015-06-09T03:47:21.905086",
-        "annotation": "",
-        "entry": "it",
-        "id": 231444,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231444/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/arm-hand/"
     },
     {
         "added": "2013-06-13T16:51:33.617315",
@@ -1186,6 +1174,18 @@
         "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/arm/"
+    },
+    {
+        "added": "2015-06-09T03:47:21.905086",
+        "annotation": "",
+        "entry": "it",
+        "id": 231444,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231444/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/arm-hand/"
     },
     {
         "added": "2015-01-29T21:03:15.046803",
@@ -1464,18 +1464,6 @@
         "word": "/api/v1/word/only/"
     },
     {
-        "added": "2014-07-30T23:28:31.523970",
-        "annotation": null,
-        "entry": "keretop",
-        "id": 155895,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155895/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "ear",
-        "word": "/api/v1/word/ear/"
-    },
-    {
         "added": "2015-01-29T20:50:51.293187",
         "annotation": "",
         "entry": "keretop",
@@ -1488,14 +1476,26 @@
         "word": "/api/v1/word/ear/"
     },
     {
-        "added": "2015-06-09T03:47:20.935001",
-        "annotation": "",
-        "entry": "kerop",
-        "id": 231326,
+        "added": "2014-07-30T23:28:31.523970",
+        "annotation": null,
+        "entry": "keretop",
+        "id": 155895,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/231326/",
-        "source": "/api/v1/source/healey-1970/",
+        "resource_uri": "/api/v1/lexicon/155895/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2013-06-13T16:51:34.972784",
+        "annotation": "",
+        "entry": "kerop",
+        "id": 25542,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25542/",
+        "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
@@ -1512,14 +1512,14 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2013-06-13T16:51:34.972784",
+        "added": "2015-06-09T03:47:20.935001",
         "annotation": "",
         "entry": "kerop",
-        "id": 25542,
+        "id": 231326,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/25542/",
-        "source": "/api/v1/source/voorhoeve-1975/",
+        "resource_uri": "/api/v1/lexicon/231326/",
+        "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
@@ -1680,18 +1680,6 @@
         "word": "/api/v1/word/wind/"
     },
     {
-        "added": "2015-01-29T21:03:15.152238",
-        "annotation": "",
-        "entry": "ko-",
-        "id": 201399,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201399/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-walk/"
-    },
-    {
         "added": "2015-06-09T03:47:20.983246",
         "annotation": "",
         "entry": "ko-",
@@ -1700,6 +1688,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231332/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-walk/"
+    },
+    {
+        "added": "2015-01-29T21:03:15.152238",
+        "annotation": "",
+        "entry": "ko-",
+        "id": 201399,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201399/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/to-walk/"
     },
@@ -1728,18 +1728,6 @@
         "word": "/api/v1/word/old-man/"
     },
     {
-        "added": "2015-01-29T20:50:51.417781",
-        "annotation": "",
-        "entry": "kodok",
-        "id": 201352,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201352/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/foot/"
-    },
-    {
         "added": "2015-06-09T03:47:20.999240",
         "annotation": "",
         "entry": "kodok",
@@ -1750,6 +1738,18 @@
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/leg-foot/"
+    },
+    {
+        "added": "2015-01-29T20:50:51.417781",
+        "annotation": "",
+        "entry": "kodok",
+        "id": 201352,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201352/",
+        "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/foot/"
     },
     {
         "added": "2015-06-09T03:47:21.007330",
@@ -1776,18 +1776,6 @@
         "word": "/api/v1/word/far-away/"
     },
     {
-        "added": "2015-06-09T03:47:21.085886",
-        "annotation": "",
-        "entry": "kom\u00f6t",
-        "id": 231344,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231344/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/thunder/"
-    },
-    {
         "added": "2015-01-29T21:03:15.122977",
         "annotation": "",
         "entry": "kom\u00f6t",
@@ -1800,16 +1788,16 @@
         "word": "/api/v1/word/thunder/"
     },
     {
-        "added": "2014-07-30T23:28:42.072445",
-        "annotation": null,
-        "entry": "kondok",
-        "id": 159194,
+        "added": "2015-06-09T03:47:21.085886",
+        "annotation": "",
+        "entry": "kom\u00f6t",
+        "id": 231344,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/159194/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "leg-foot",
-        "word": "/api/v1/word/leg-foot/"
+        "resource_uri": "/api/v1/lexicon/231344/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/thunder/"
     },
     {
         "added": "2013-06-13T16:51:35.173313",
@@ -1822,6 +1810,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": "leg",
         "word": "/api/v1/word/leg/"
+    },
+    {
+        "added": "2014-07-30T23:28:42.072445",
+        "annotation": null,
+        "entry": "kondok",
+        "id": 159194,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159194/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "leg-foot",
+        "word": "/api/v1/word/leg-foot/"
     },
     {
         "added": "2015-06-09T03:47:21.031327",
@@ -1848,18 +1848,6 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2014-07-30T23:28:33.173056",
-        "annotation": null,
-        "entry": "kota",
-        "id": 156413,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/156413/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "skin",
-        "word": "/api/v1/word/skin/"
-    },
-    {
         "added": "2013-06-13T16:51:35.303850",
         "annotation": "",
         "entry": "kota",
@@ -1881,6 +1869,18 @@
         "resource_uri": "/api/v1/lexicon/231341/",
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
+        "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2014-07-30T23:28:33.173056",
+        "annotation": null,
+        "entry": "kota",
+        "id": 156413,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156413/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "skin",
         "word": "/api/v1/word/skin/"
     },
     {
@@ -1980,18 +1980,6 @@
         "word": "/api/v1/word/dead-person/"
     },
     {
-        "added": "2015-01-29T20:50:51.261265",
-        "annotation": "",
-        "entry": "k\u00fcn-",
-        "id": 201335,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201335/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-die/"
-    },
-    {
         "added": "2015-06-09T03:47:21.077434",
         "annotation": "",
         "entry": "k\u00fcn-",
@@ -2000,6 +1988,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231343/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-die/"
+    },
+    {
+        "added": "2015-01-29T20:50:51.261265",
+        "annotation": "",
+        "entry": "k\u00fcn-",
+        "id": 201335,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201335/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/to-die/"
     },
@@ -2160,18 +2160,6 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2014-07-30T23:28:34.229265",
-        "annotation": null,
-        "entry": "mbetit",
-        "id": 156746,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/156746/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "fingernail",
-        "word": "/api/v1/word/fingernail/"
-    },
-    {
         "added": "2013-06-13T16:51:34.985637",
         "annotation": "",
         "entry": "mbetit",
@@ -2181,6 +2169,18 @@
         "resource_uri": "/api/v1/lexicon/25543/",
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
+        "word": "/api/v1/word/fingernail/"
+    },
+    {
+        "added": "2014-07-30T23:28:34.229265",
+        "annotation": null,
+        "entry": "mbetit",
+        "id": 156746,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156746/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "fingernail",
         "word": "/api/v1/word/fingernail/"
     },
     {
@@ -2244,18 +2244,6 @@
         "word": "/api/v1/word/bile/"
     },
     {
-        "added": "2015-01-29T21:03:15.111292",
-        "annotation": "",
-        "entry": "mene",
-        "id": 201392,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201392/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/this/"
-    },
-    {
         "added": "2015-06-09T03:47:21.214340",
         "annotation": "",
         "entry": "mene",
@@ -2264,6 +2252,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231360/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/this/"
+    },
+    {
+        "added": "2015-01-29T21:03:15.111292",
+        "annotation": "",
+        "entry": "mene",
+        "id": 201392,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201392/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/this/"
     },
@@ -2544,18 +2544,6 @@
         "word": "/api/v1/word/you-pl/"
     },
     {
-        "added": "2015-06-09T03:47:21.302464",
-        "annotation": "",
-        "entry": "neni",
-        "id": 231371,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231371/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/older-sister/"
-    },
-    {
         "added": "2014-07-30T23:28:36.956141",
         "annotation": null,
         "entry": "neni",
@@ -2565,6 +2553,18 @@
         "resource_uri": "/api/v1/lexicon/157595/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "older-sister",
+        "word": "/api/v1/word/older-sister/"
+    },
+    {
+        "added": "2015-06-09T03:47:21.302464",
+        "annotation": "",
+        "entry": "neni",
+        "id": 231371,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231371/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
         "word": "/api/v1/word/older-sister/"
     },
     {
@@ -2760,18 +2760,6 @@
         "word": "/api/v1/word/i/"
     },
     {
-        "added": "2015-01-29T21:03:14.973261",
-        "annotation": "",
-        "entry": "nou",
-        "id": 201372,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201372/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/mother/"
-    },
-    {
         "added": "2015-06-09T03:47:21.334473",
         "annotation": "",
         "entry": "nou",
@@ -2780,6 +2768,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231375/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mother/"
+    },
+    {
+        "added": "2015-01-29T21:03:14.973261",
+        "annotation": "",
+        "entry": "nou",
+        "id": 201372,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201372/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/mother/"
     },
@@ -2808,18 +2808,6 @@
         "word": "/api/v1/word/earthquake/"
     },
     {
-        "added": "2015-01-29T20:50:51.249268",
-        "annotation": "",
-        "entry": "od\u00fc-",
-        "id": 201333,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201333/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-cook/"
-    },
-    {
         "added": "2015-06-09T03:47:21.774690",
         "annotation": "",
         "entry": "od\u00fc-",
@@ -2830,6 +2818,18 @@
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/bake/"
+    },
+    {
+        "added": "2015-01-29T20:50:51.249268",
+        "annotation": "",
+        "entry": "od\u00fc-",
+        "id": 201333,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201333/",
+        "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-cook/"
     },
     {
         "added": "2014-07-30T23:28:29.851971",
@@ -2892,6 +2892,18 @@
         "word": "/api/v1/word/to-dream/"
     },
     {
+        "added": "2015-06-09T03:47:21.342429",
+        "annotation": "",
+        "entry": "ok",
+        "id": 231376,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231376/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
         "added": "2015-01-29T21:03:15.158098",
         "annotation": "",
         "entry": "ok",
@@ -2904,14 +2916,14 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2015-06-09T03:47:21.342429",
+        "added": "2013-06-13T16:51:35.424903",
         "annotation": "",
         "entry": "ok",
-        "id": 231376,
+        "id": 25568,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/231376/",
-        "source": "/api/v1/source/healey-1970/",
+        "resource_uri": "/api/v1/lexicon/25568/",
+        "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
     },
@@ -2925,18 +2937,6 @@
         "resource_uri": "/api/v1/lexicon/158452/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "water",
-        "word": "/api/v1/word/water/"
-    },
-    {
-        "added": "2013-06-13T16:51:35.424903",
-        "annotation": "",
-        "entry": "ok",
-        "id": 25568,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/25568/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
         "word": "/api/v1/word/water/"
     },
     {
@@ -3072,18 +3072,6 @@
         "word": "/api/v1/word/smoke/"
     },
     {
-        "added": "2015-01-29T21:03:15.117152",
-        "annotation": "",
-        "entry": "or\u00fcn",
-        "id": 201393,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201393/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/thorn/"
-    },
-    {
         "added": "2015-06-09T03:47:21.559698",
         "annotation": "",
         "entry": "or\u00fcn",
@@ -3104,6 +3092,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231276/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/thorn/"
+    },
+    {
+        "added": "2015-01-29T21:03:15.117152",
+        "annotation": "",
+        "entry": "or\u00fcn",
+        "id": 201393,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201393/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/thorn/"
     },
@@ -3192,18 +3192,6 @@
         "word": "/api/v1/word/language/"
     },
     {
-        "added": "2015-01-29T21:03:15.093816",
-        "annotation": "",
-        "entry": "ri-",
-        "id": 201389,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201389/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-stand/"
-    },
-    {
         "added": "2015-06-09T03:47:21.471407",
         "annotation": "",
         "entry": "ri-",
@@ -3212,6 +3200,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231392/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2015-01-29T21:03:15.093816",
+        "annotation": "",
+        "entry": "ri-",
+        "id": 201389,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201389/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/to-stand/"
     },
@@ -3300,6 +3300,30 @@
         "word": "/api/v1/word/fish/"
     },
     {
+        "added": "2014-07-30T23:28:31.928861",
+        "annotation": null,
+        "entry": "ron",
+        "id": 156023,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156023/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "leaf",
+        "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2015-01-29T20:50:51.455290",
+        "annotation": "",
+        "entry": "ron",
+        "id": 201356,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201356/",
+        "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
+    },
+    {
         "added": "2015-06-09T03:47:21.527765",
         "annotation": "",
         "entry": "ron",
@@ -3324,30 +3348,6 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2015-01-29T20:50:51.455290",
-        "annotation": "",
-        "entry": "ron",
-        "id": 201356,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201356/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
-        "added": "2014-07-30T23:28:31.928861",
-        "annotation": null,
-        "entry": "ron",
-        "id": 156023,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/156023/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "leaf",
-        "word": "/api/v1/word/leaf/"
-    },
-    {
         "added": "2015-06-09T03:47:21.535762",
         "annotation": "",
         "entry": "rop",
@@ -3356,6 +3356,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231400/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2015-01-29T20:50:51.427896",
+        "annotation": "",
+        "entry": "rop",
+        "id": 201353,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201353/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/fruit/"
     },
@@ -3372,18 +3384,6 @@
         "word": "/api/v1/word/fruit/"
     },
     {
-        "added": "2015-01-29T20:50:51.427896",
-        "annotation": "",
-        "entry": "rop",
-        "id": 201353,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201353/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fruit/"
-    },
-    {
         "added": "2015-01-29T20:50:51.158851",
         "annotation": "",
         "entry": "r\u0251ot",
@@ -3394,18 +3394,6 @@
         "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/breadfruit/"
-    },
-    {
-        "added": "2015-01-29T21:03:15.134621",
-        "annotation": "",
-        "entry": "rumo",
-        "id": 201396,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201396/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/two/"
     },
     {
         "added": "2013-06-13T16:51:35.411923",
@@ -3428,6 +3416,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231402/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2015-01-29T21:03:15.134621",
+        "annotation": "",
+        "entry": "rumo",
+        "id": 201396,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201396/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/two/"
     },
@@ -3540,18 +3540,6 @@
         "word": "/api/v1/word/to-shoot/"
     },
     {
-        "added": "2013-06-13T16:51:35.354938",
-        "annotation": "",
-        "entry": "teet",
-        "id": 25563,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/25563/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sun/"
-    },
-    {
         "added": "2015-06-09T03:47:21.575908",
         "annotation": "",
         "entry": "teet",
@@ -3564,16 +3552,16 @@
         "word": "/api/v1/word/sun/"
     },
     {
-        "added": "2015-01-29T21:03:15.022145",
+        "added": "2013-06-13T16:51:35.354938",
         "annotation": "",
-        "entry": "teget",
-        "id": 201377,
+        "entry": "teet",
+        "id": 25563,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/201377/",
-        "source": "/api/v1/source/voorhoeve-2000/",
+        "resource_uri": "/api/v1/lexicon/25563/",
+        "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
-        "word": "/api/v1/word/penis/"
+        "word": "/api/v1/word/sun/"
     },
     {
         "added": "2015-06-09T03:47:21.641936",
@@ -3584,6 +3572,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231413/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/penis/"
+    },
+    {
+        "added": "2015-01-29T21:03:15.022145",
+        "annotation": "",
+        "entry": "teget",
+        "id": 201377,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201377/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/penis/"
     },
@@ -3636,18 +3636,6 @@
         "word": "/api/v1/word/stale/"
     },
     {
-        "added": "2015-06-09T03:47:21.674511",
-        "annotation": "",
-        "entry": "teren",
-        "id": 231417,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231417/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/leech/"
-    },
-    {
         "added": "2015-01-29T21:03:14.937648",
         "annotation": "",
         "entry": "teren",
@@ -3656,6 +3644,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/201366/",
         "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/leech/"
+    },
+    {
+        "added": "2015-06-09T03:47:21.674511",
+        "annotation": "",
+        "entry": "teren",
+        "id": 231417,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231417/",
+        "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/leech/"
     },
@@ -3720,18 +3720,6 @@
         "word": "/api/v1/word/twist/"
     },
     {
-        "added": "2015-06-09T03:47:21.701732",
-        "annotation": "",
-        "entry": "tik",
-        "id": 231419,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231419/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/rope/"
-    },
-    {
         "added": "2015-01-29T21:03:15.035048",
         "annotation": "",
         "entry": "tik",
@@ -3742,6 +3730,18 @@
         "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/rattan/"
+    },
+    {
+        "added": "2015-06-09T03:47:21.701732",
+        "annotation": "",
+        "entry": "tik",
+        "id": 231419,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231419/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rope/"
     },
     {
         "added": "2015-06-09T03:47:21.592033",
@@ -3876,18 +3876,6 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2015-01-29T20:50:51.492797",
-        "annotation": "",
-        "entry": "top",
-        "id": 201360,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201360/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hole/"
-    },
-    {
         "added": "2014-07-30T23:28:45.231192",
         "annotation": null,
         "entry": "top",
@@ -3900,16 +3888,16 @@
         "word": "/api/v1/word/hole/"
     },
     {
-        "added": "2015-06-09T03:47:21.734427",
+        "added": "2015-01-29T20:50:51.492797",
         "annotation": "",
-        "entry": "t\u00f6r\u00f6-",
-        "id": 231423,
+        "entry": "top",
+        "id": 201360,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/231423/",
-        "source": "/api/v1/source/healey-1970/",
+        "resource_uri": "/api/v1/lexicon/201360/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
-        "word": "/api/v1/word/to-climb/"
+        "word": "/api/v1/word/hole/"
     },
     {
         "added": "2015-01-29T20:50:51.222164",
@@ -3920,6 +3908,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/201329/",
         "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-climb/"
+    },
+    {
+        "added": "2015-06-09T03:47:21.734427",
+        "annotation": "",
+        "entry": "t\u00f6r\u00f6-",
+        "id": 231423,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231423/",
+        "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/to-climb/"
     },
@@ -4010,7 +4010,7 @@
     {
         "added": "2015-06-09T03:47:21.801569",
         "annotation": "",
-        "entry": "u-mo/a-",
+        "entry": "u-m(o,a)-",
         "id": 231431,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
@@ -4082,7 +4082,7 @@
     {
         "added": "2015-06-09T03:47:21.818921",
         "annotation": "",
-        "entry": "utegi-mo/a-",
+        "entry": "utegi-m(o,a)-",
         "id": 231433,
         "language": "/api/v1/language/mandobo-atas/",
         "loan": false,
@@ -4152,18 +4152,6 @@
         "word": "/api/v1/word/calf/"
     },
     {
-        "added": "2015-01-29T20:50:51.317227",
-        "annotation": "",
-        "entry": "wedin",
-        "id": 201343,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201343/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2015-06-09T03:47:21.842666",
         "annotation": "",
         "entry": "wedin",
@@ -4174,6 +4162,18 @@
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2015-01-29T20:50:51.317227",
+        "annotation": "",
+        "entry": "wedin",
+        "id": 201343,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201343/",
+        "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2015-06-09T03:47:21.857787",
@@ -4200,18 +4200,6 @@
         "word": "/api/v1/word/knife/"
     },
     {
-        "added": "2013-06-13T16:51:35.220245",
-        "annotation": "",
-        "entry": "wemin",
-        "id": 25555,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/25555/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/night/"
-    },
-    {
         "added": "2015-06-09T03:47:21.865587",
         "annotation": "",
         "entry": "wemin",
@@ -4221,6 +4209,18 @@
         "resource_uri": "/api/v1/lexicon/231439/",
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": "",
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2013-06-13T16:51:35.220245",
+        "annotation": "",
+        "entry": "wemin",
+        "id": 25555,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25555/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
         "word": "/api/v1/word/night/"
     },
     {
@@ -4320,18 +4320,6 @@
         "word": "/api/v1/word/they/"
     },
     {
-        "added": "2015-06-09T03:47:21.987126",
-        "annotation": "",
-        "entry": "yo-",
-        "id": 231454,
-        "language": "/api/v1/language/mandobo-atas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231454/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/call/"
-    },
-    {
         "added": "2015-01-29T20:50:51.189263",
         "annotation": "",
         "entry": "yo-",
@@ -4342,6 +4330,18 @@
         "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/to-call-out/"
+    },
+    {
+        "added": "2015-06-09T03:47:21.987126",
+        "annotation": "",
+        "entry": "yo-",
+        "id": 231454,
+        "language": "/api/v1/language/mandobo-atas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231454/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/call/"
     },
     {
         "added": "2015-01-29T20:50:51.436044",

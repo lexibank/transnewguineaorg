@@ -72,8 +72,8 @@
         "word": "a cough"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "ACROSS",
+        "concepticon_id": "2670",
         "id": 908,
         "resource_uri": "/api/v1/word/across/",
         "slug": "across",
@@ -248,8 +248,8 @@
         "word": "ant"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "ANUS",
+        "concepticon_id": "1935",
         "id": 837,
         "resource_uri": "/api/v1/word/anus-buttocks/",
         "slug": "anus-buttocks",
@@ -400,8 +400,8 @@
         "word": "auxiliary verb"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "REVENGE",
+        "concepticon_id": "495",
         "id": 2236,
         "resource_uri": "/api/v1/word/avenge/",
         "slug": "avenge",
@@ -528,8 +528,8 @@
         "word": "banana seed"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BANDICOOT",
+        "concepticon_id": "3012",
         "id": 1192,
         "resource_uri": "/api/v1/word/bandicoot/",
         "slug": "bandicoot",
@@ -542,14 +542,6 @@
         "resource_uri": "/api/v1/word/bark/",
         "slug": "bark",
         "word": "bark"
-    },
-    {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
-        "id": 1889,
-        "resource_uri": "/api/v1/word/barl-noun/",
-        "slug": "barl-noun",
-        "word": "barl (noun)"
     },
     {
         "concepticon_gloss": "BASKET",
@@ -680,8 +672,8 @@
         "word": "betelnut"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BETEL PEPPER VINE",
+        "concepticon_id": "177",
         "id": 2039,
         "resource_uri": "/api/v1/word/betelpepper/",
         "slug": "betelpepper",
@@ -720,8 +712,8 @@
         "word": "bird"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BIRD OF PARADISE",
+        "concepticon_id": "2673",
         "id": 1562,
         "resource_uri": "/api/v1/word/bird-of-paradise/",
         "slug": "bird-of-paradise",
@@ -752,8 +744,8 @@
         "word": "bitter"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BIVALVIA (MUSSELS OR OYSTERS)",
+        "concepticon_id": "2785",
         "id": 1565,
         "resource_uri": "/api/v1/word/bivalve/",
         "slug": "bivalve",
@@ -776,8 +768,8 @@
         "word": "black (creature)"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "LONTAR PALM",
+        "concepticon_id": "3030",
         "id": 1567,
         "resource_uri": "/api/v1/word/black-palm/",
         "slug": "black-palm",
@@ -1016,16 +1008,16 @@
         "word": "brother"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BROTHER-IN-LAW",
+        "concepticon_id": "2314",
         "id": 990,
         "resource_uri": "/api/v1/word/brother-law/",
         "slug": "brother-law",
         "word": "brother in law"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BUNDLE",
+        "concepticon_id": "2943",
         "id": 2390,
         "resource_uri": "/api/v1/word/bundle/",
         "slug": "bundle",
@@ -1288,8 +1280,8 @@
         "word": "chest"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "CHEW BETEL",
+        "concepticon_id": "3161",
         "id": 2208,
         "resource_uri": "/api/v1/word/chewing-betel/",
         "slug": "chewing-betel",
@@ -1352,16 +1344,16 @@
         "word": "chin"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "JAW",
+        "concepticon_id": "798",
         "id": 1595,
         "resource_uri": "/api/v1/word/chin-jaw/",
         "slug": "chin-jaw",
         "word": "chin, jaw"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SCAR",
+        "concepticon_id": "497",
         "id": 2482,
         "resource_uri": "/api/v1/word/cicatrix/",
         "slug": "cicatrix",
@@ -1400,8 +1392,8 @@
         "word": "cliff"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "CLOTHES",
+        "concepticon_id": "1895",
         "id": 858,
         "resource_uri": "/api/v1/word/cloth-clothes/",
         "slug": "cloth-clothes",
@@ -1424,8 +1416,8 @@
         "word": "club"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SPIDER WEB",
+        "concepticon_id": "1065",
         "id": 1933,
         "resource_uri": "/api/v1/word/cobweb/",
         "slug": "cobweb",
@@ -1464,8 +1456,8 @@
         "word": "coconut mat"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "COCONUT TREE",
+        "concepticon_id": "147",
         "id": 2029,
         "resource_uri": "/api/v1/word/coconut-palm/",
         "slug": "coconut-palm",
@@ -1552,8 +1544,8 @@
         "word": "copulate"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "CORAL ROCK",
+        "concepticon_id": "3179",
         "id": 1600,
         "resource_uri": "/api/v1/word/coral/",
         "slug": "coral",
@@ -1568,8 +1560,8 @@
         "word": "Cordyline sp."
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "STONE (OF FRUIT)",
+        "concepticon_id": "1762",
         "id": 2454,
         "resource_uri": "/api/v1/word/core-kernel/",
         "slug": "core-kernel",
@@ -1592,8 +1584,8 @@
         "word": "corner"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "COURAGE",
+        "concepticon_id": "3049",
         "id": 2057,
         "resource_uri": "/api/v1/word/courage/",
         "slug": "courage",
@@ -1672,8 +1664,8 @@
         "word": "crossbelt"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "CROSS-COUSIN",
+        "concepticon_id": "3162",
         "id": 1956,
         "resource_uri": "/api/v1/word/cross-cousin/",
         "slug": "cross-cousin",
@@ -1776,8 +1768,8 @@
         "word": "day before yesterday, day after tomorrow"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "DAWN",
+        "concepticon_id": "729",
         "id": 2044,
         "resource_uri": "/api/v1/word/daybreak/",
         "slug": "daybreak",
@@ -1816,8 +1808,8 @@
         "word": "deaf"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "VIPER",
+        "concepticon_id": "2654",
         "id": 2101,
         "resource_uri": "/api/v1/word/death-adder/",
         "slug": "death-adder",
@@ -1856,8 +1848,8 @@
         "word": "dibble stick"
     },
     {
-        "concepticon_gloss": "DIE OR BE DEAD",
-        "concepticon_id": "2101",
+        "concepticon_gloss": null,
+        "concepticon_id": null,
         "id": 2127,
         "resource_uri": "/api/v1/word/died/",
         "slug": "died",
@@ -1944,8 +1936,8 @@
         "word": "dragon-fly"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "DRAW (WATER)",
+        "concepticon_id": "1911",
         "id": 1619,
         "resource_uri": "/api/v1/word/draw-water-carry/",
         "slug": "draw-water-carry",
@@ -2128,8 +2120,8 @@
         "word": "elbow"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "OLD PERSON",
+        "concepticon_id": "725",
         "id": 246,
         "resource_uri": "/api/v1/word/elder/",
         "slug": "elder",
@@ -2256,7 +2248,7 @@
         "word": "face, forehead"
     },
     {
-        "concepticon_gloss": "FAECES",
+        "concepticon_gloss": "FAECES (EXCREMENT)",
         "concepticon_id": "675",
         "id": 2022,
         "resource_uri": "/api/v1/word/faeces/",
@@ -2712,7 +2704,7 @@
         "word": "four"
     },
     {
-        "concepticon_gloss": "FORTEEN",
+        "concepticon_gloss": "FOURTEEN",
         "concepticon_id": "2451",
         "id": 1973,
         "resource_uri": "/api/v1/word/fourteen/",
@@ -2872,8 +2864,8 @@
         "word": "gourd"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "PENIS SHEATH",
+        "concepticon_id": "2671",
         "id": 909,
         "resource_uri": "/api/v1/word/gourd-mans/",
         "slug": "gourd-mans",
@@ -2968,8 +2960,8 @@
         "word": "green"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "GREEN COCONUT",
+        "concepticon_id": "3034",
         "id": 2209,
         "resource_uri": "/api/v1/word/green-coconut/",
         "slug": "green-coconut",
@@ -3040,7 +3032,7 @@
         "word": "hair"
     },
     {
-        "concepticon_gloss": "BODY HAIR",
+        "concepticon_gloss": "HAIR (BODY)",
         "concepticon_id": "189",
         "id": 1233,
         "resource_uri": "/api/v1/word/hair-body/",
@@ -3112,8 +3104,8 @@
         "word": "head covering"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "CHIEFTAIN",
+        "concepticon_id": "301",
         "id": 2144,
         "resource_uri": "/api/v1/word/headman/",
         "slug": "headman",
@@ -3128,8 +3120,8 @@
         "word": "head ornament"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "HEADWATERS",
+        "concepticon_id": "2672",
         "id": 1289,
         "resource_uri": "/api/v1/word/headwaters/",
         "slug": "headwaters",
@@ -3256,8 +3248,8 @@
         "word": "(honey) bee"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BEEHIVE",
+        "concepticon_id": "88",
         "id": 1658,
         "resource_uri": "/api/v1/word/honey-beehive/",
         "slug": "honey-beehive",
@@ -3272,8 +3264,8 @@
         "word": "horn"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "HORNBILL",
+        "concepticon_id": "3260",
         "id": 932,
         "resource_uri": "/api/v1/word/hornbill/",
         "slug": "hornbill",
@@ -3312,8 +3304,8 @@
         "word": "house of woman"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "POST",
+        "concepticon_id": "281",
         "id": 1662,
         "resource_uri": "/api/v1/word/house-posts/",
         "slug": "house-posts",
@@ -3464,8 +3456,8 @@
         "word": "insect sp."
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "INSIDE",
+        "concepticon_id": "1606",
         "id": 266,
         "resource_uri": "/api/v1/word/interior/",
         "slug": "interior",
@@ -3560,8 +3552,8 @@
         "word": "jaw"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "JOB'S TEARS",
+        "concepticon_id": "3281",
         "id": 2446,
         "resource_uri": "/api/v1/word/jobs-tears-seeds/",
         "slug": "jobs-tears-seeds",
@@ -3648,8 +3640,8 @@
         "word": "knowledge"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "KNUCKLE",
+        "concepticon_id": "2824",
         "id": 2261,
         "resource_uri": "/api/v1/word/knuckle/",
         "slug": "knuckle",
@@ -3664,8 +3656,8 @@
         "word": "kookaburra"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SHOVEL",
+        "concepticon_id": "1901",
         "id": 1670,
         "resource_uri": "/api/v1/word/kunai/",
         "slug": "kunai",
@@ -3824,8 +3816,8 @@
         "word": "lightning"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SIMILAR",
+        "concepticon_id": "1558",
         "id": 878,
         "resource_uri": "/api/v1/word/like-similar/",
         "slug": "like-similar",
@@ -3856,16 +3848,16 @@
         "word": "lips"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "GARBAGE",
+        "concepticon_id": "909",
         "id": 2120,
         "resource_uri": "/api/v1/word/litter-rubbish/",
         "slug": "litter-rubbish",
         "word": "litter, rubbish"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "LITTLE FINGER",
+        "concepticon_id": "2774",
         "id": 2147,
         "resource_uri": "/api/v1/word/little-finger/",
         "slug": "little-finger",
@@ -3968,8 +3960,8 @@
         "word": "louse"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BELOW OR UNDER",
+        "concepticon_id": "1485",
         "id": 2263,
         "resource_uri": "/api/v1/word/low-beneath/",
         "slug": "low-beneath",
@@ -4000,8 +3992,8 @@
         "word": "lungs"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "MACHETE",
+        "concepticon_id": "2680",
         "id": 1191,
         "resource_uri": "/api/v1/word/machete/",
         "slug": "machete",
@@ -4016,16 +4008,16 @@
         "word": "magic"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "DIG",
+        "concepticon_id": "1418",
         "id": 2520,
         "resource_uri": "/api/v1/word/to-make-hole/",
         "slug": "to-make-hole",
         "word": "make hole (in ground)"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BE AT WAR",
+        "concepticon_id": "2208",
         "id": 2271,
         "resource_uri": "/api/v1/word/make-war/",
         "slug": "make-war",
@@ -4048,8 +4040,8 @@
         "word": "malicious"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "HAMMER",
+        "concepticon_id": "1481",
         "id": 1686,
         "resource_uri": "/api/v1/word/mallet/",
         "slug": "mallet",
@@ -4128,8 +4120,8 @@
         "word": "mat"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "MATERNAL UNCLE",
+        "concepticon_id": "3220",
         "id": 1688,
         "resource_uri": "/api/v1/word/maternal-uncle/",
         "slug": "maternal-uncle",
@@ -4248,8 +4240,8 @@
         "word": "molar/tooth"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "MONITOR LIZARD",
+        "concepticon_id": "3017",
         "id": 1238,
         "resource_uri": "/api/v1/word/monitor-lizard/",
         "slug": "monitor-lizard",
@@ -4392,8 +4384,8 @@
         "word": "musical instrument"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "MUSTARD",
+        "concepticon_id": "3181",
         "id": 1960,
         "resource_uri": "/api/v1/word/mustard/",
         "slug": "mustard",
@@ -4504,8 +4496,8 @@
         "word": "needlefish sp."
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "NOT",
+        "concepticon_id": "1240",
         "id": 2074,
         "resource_uri": "/api/v1/word/negation-marker/",
         "slug": "negation-marker",
@@ -4536,8 +4528,8 @@
         "word": "nest"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "NET",
+        "concepticon_id": "2963",
         "id": 912,
         "resource_uri": "/api/v1/word/net/",
         "slug": "net",
@@ -4656,8 +4648,8 @@
         "word": "noontime"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "TRAP (PITFALL)",
+        "concepticon_id": "1075",
         "id": 847,
         "resource_uri": "/api/v1/word/noose-trap-net/",
         "slug": "noose-trap-net",
@@ -4728,8 +4720,8 @@
         "word": "nut"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "OAR",
+        "concepticon_id": "3137",
         "id": 327,
         "resource_uri": "/api/v1/word/oar/",
         "slug": "oar",
@@ -4848,8 +4840,8 @@
         "word": "or"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "ORAL CAVITY",
+        "concepticon_id": "2674",
         "id": 1291,
         "resource_uri": "/api/v1/word/oral-cavity/",
         "slug": "oral-cavity",
@@ -5000,8 +4992,8 @@
         "word": "palm roof"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "PALM TREE",
+        "concepticon_id": "1181",
         "id": 1246,
         "resource_uri": "/api/v1/word/palm-sp/",
         "slug": "palm-sp",
@@ -5016,8 +5008,8 @@
         "word": "pan"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "PANCREAS",
+        "concepticon_id": "3252",
         "id": 2178,
         "resource_uri": "/api/v1/word/pancreas/",
         "slug": "pancreas",
@@ -5088,8 +5080,8 @@
         "word": "path"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "PAPAYA",
+        "concepticon_id": "2445",
         "id": 877,
         "resource_uri": "/api/v1/word/pawpaw/",
         "slug": "pawpaw",
@@ -5136,8 +5128,8 @@
         "word": "pig"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "DOVE",
+        "concepticon_id": "1853",
         "id": 975,
         "resource_uri": "/api/v1/word/pigeon/",
         "slug": "pigeon",
@@ -5152,8 +5144,8 @@
         "word": "pigeon/parrot"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "CLUB",
+        "concepticon_id": "1763",
         "id": 1711,
         "resource_uri": "/api/v1/word/pineapple-club/",
         "slug": "pineapple-club",
@@ -5216,8 +5208,8 @@
         "word": "plateau, flat land"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "PORCH",
+        "concepticon_id": "3269",
         "id": 1712,
         "resource_uri": "/api/v1/word/platform/",
         "slug": "platform",
@@ -5280,8 +5272,8 @@
         "word": "pot"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "POUCH",
+        "concepticon_id": "2951",
         "id": 1714,
         "resource_uri": "/api/v1/word/pouch/",
         "slug": "pouch",
@@ -5384,8 +5376,8 @@
         "word": "quickly"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "RACK (FOR STORING FOOD)",
+        "concepticon_id": "3176",
         "id": 2399,
         "resource_uri": "/api/v1/word/rack/",
         "slug": "rack",
@@ -5656,8 +5648,8 @@
         "word": "sago flour"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SAGO GRUB",
+        "concepticon_id": "2802",
         "id": 333,
         "resource_uri": "/api/v1/word/sago-grub/",
         "slug": "sago-grub",
@@ -5736,8 +5728,8 @@
         "word": "sago swamp"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SAGO THATCH",
+        "concepticon_id": "2616",
         "id": 2183,
         "resource_uri": "/api/v1/word/sago-thatch/",
         "slug": "sago-thatch",
@@ -5816,8 +5808,8 @@
         "word": "sawfish"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SCABIES",
+        "concepticon_id": "3172",
         "id": 2282,
         "resource_uri": "/api/v1/word/scabies/",
         "slug": "scabies",
@@ -6088,16 +6080,16 @@
         "word": "sibling, opposite sex"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "DIFFERENT-SEX OLDER SIBLING",
+        "concepticon_id": "3039",
         "id": 883,
         "resource_uri": "/api/v1/word/sibling-opposite-sex-older/",
         "slug": "sibling-opposite-sex-older",
         "word": "sibling, opposite sex, older"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "DIFFERENT-SEX YOUNGER SIBLING",
+        "concepticon_id": "3040",
         "id": 2032,
         "resource_uri": "/api/v1/word/sibling-opposite-sex-younger/",
         "slug": "sibling-opposite-sex-younger",
@@ -6120,16 +6112,16 @@
         "word": "sibling, same sex"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SAME-SEX OLDER SIBLING",
+        "concepticon_id": "3037",
         "id": 857,
         "resource_uri": "/api/v1/word/sibling-same-sex-older/",
         "slug": "sibling-same-sex-older",
         "word": "sibling, same sex, older"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SAME-SEX YOUNGER SIBLING",
+        "concepticon_id": "3038",
         "id": 845,
         "resource_uri": "/api/v1/word/sibling-same-sex-younger/",
         "slug": "sibling-same-sex-younger",
@@ -6160,8 +6152,8 @@
         "word": "similar"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "TARO",
+        "concepticon_id": "351",
         "id": 2078,
         "resource_uri": "/api/v1/word/singapore-taro/",
         "slug": "singapore-taro",
@@ -6280,8 +6272,8 @@
         "word": "slick"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SLIP",
+        "concepticon_id": "1324",
         "id": 1750,
         "resource_uri": "/api/v1/word/slip-of-foot/",
         "slug": "slip-of-foot",
@@ -6296,8 +6288,8 @@
         "word": "slippery"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SLOPE",
+        "concepticon_id": "3076",
         "id": 1953,
         "resource_uri": "/api/v1/word/slope/",
         "slug": "slope",
@@ -6336,8 +6328,8 @@
         "word": "small mammal"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "STINKING",
+        "concepticon_id": "42",
         "id": 2203,
         "resource_uri": "/api/v1/word/smelly/",
         "slug": "smelly",
@@ -6400,8 +6392,8 @@
         "word": "soft"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SOLE (FOOT)",
+        "concepticon_id": "2666",
         "id": 1983,
         "resource_uri": "/api/v1/word/sole-of-foot/",
         "slug": "sole-of-foot",
@@ -6536,8 +6528,8 @@
         "word": "squash"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "INK",
+        "concepticon_id": "2643",
         "id": 1754,
         "resource_uri": "/api/v1/word/squid-ink/",
         "slug": "squid-ink",
@@ -6704,8 +6696,8 @@
         "word": "sun"
     },
     {
-        "concepticon_gloss": "DAY OR SUN",
-        "concepticon_id": "2140",
+        "concepticon_gloss": null,
+        "concepticon_id": null,
         "id": 2407,
         "resource_uri": "/api/v1/word/sunlight/",
         "slug": "sunlight",
@@ -7112,8 +7104,8 @@
         "word": "thou"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "THOUGHT",
+        "concepticon_id": "2975",
         "id": 2061,
         "resource_uri": "/api/v1/word/thought/",
         "slug": "thought",
@@ -7176,8 +7168,8 @@
         "word": "tight, hard"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "TINEA",
+        "concepticon_id": "3173",
         "id": 961,
         "resource_uri": "/api/v1/word/tinea/",
         "slug": "tinea",
@@ -7384,8 +7376,8 @@
         "word": "to catch"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "HUNT",
+        "concepticon_id": "1435",
         "id": 1205,
         "resource_uri": "/api/v1/word/to-chase/",
         "slug": "to-chase",
@@ -7408,8 +7400,8 @@
         "word": "to choose"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "CHOP",
+        "concepticon_id": "155",
         "id": 818,
         "resource_uri": "/api/v1/word/to-chop/",
         "slug": "to-chop",
@@ -7432,8 +7424,8 @@
         "word": "to climb"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SHUT",
+        "concepticon_id": "1046",
         "id": 238,
         "resource_uri": "/api/v1/word/to-close/",
         "slug": "to-close",
@@ -7536,8 +7528,8 @@
         "word": "today"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "SHIT (DEFECATE)",
+        "concepticon_id": "676",
         "id": 1211,
         "resource_uri": "/api/v1/word/to-defecate/",
         "slug": "to-defecate",
@@ -7568,8 +7560,8 @@
         "word": "to do, make"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "DRAW (WATER)",
+        "concepticon_id": "1911",
         "id": 2501,
         "resource_uri": "/api/v1/word/to-draw-water/",
         "slug": "to-draw-water",
@@ -7584,8 +7576,8 @@
         "word": "to dream"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BORE",
+        "concepticon_id": "1501",
         "id": 813,
         "resource_uri": "/api/v1/word/to-drill/",
         "slug": "to-drill",
@@ -7640,8 +7632,8 @@
         "word": "to eat, drink"
     },
     {
-        "concepticon_gloss": "FINGERNAIL OR TOENAIL",
-        "concepticon_id": "1896",
+        "concepticon_gloss": "TOENAIL",
+        "concepticon_id": "2662",
         "id": 1272,
         "resource_uri": "/api/v1/word/toenail/",
         "slug": "toenail",
@@ -7744,8 +7736,8 @@
         "word": "to finish"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "FISHING",
+        "concepticon_id": "2638",
         "id": 2404,
         "resource_uri": "/api/v1/word/to-fish/",
         "slug": "to-fish",
@@ -7808,8 +7800,8 @@
         "word": "to get"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "RISE (ONESELF)",
+        "concepticon_id": "1512",
         "id": 2258,
         "resource_uri": "/api/v1/word/get-up/",
         "slug": "get-up",
@@ -7968,8 +7960,8 @@
         "word": "to join"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "MAKE A JOKE",
+        "concepticon_id": "2760",
         "id": 863,
         "resource_uri": "/api/v1/word/to-joke/",
         "slug": "to-joke",
@@ -8048,8 +8040,8 @@
         "word": "to look"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "LOOK FOR",
+        "concepticon_id": "1468",
         "id": 2511,
         "resource_uri": "/api/v1/word/to-look-for/",
         "slug": "to-look-for",
@@ -8168,8 +8160,8 @@
         "word": "top"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "HURT (SENSE PAIN)",
+        "concepticon_id": "2561",
         "id": 817,
         "resource_uri": "/api/v1/word/to-pain/",
         "slug": "to-pain",
@@ -8312,8 +8304,8 @@
         "word": "torch"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "COME BACK",
+        "concepticon_id": "581",
         "id": 872,
         "resource_uri": "/api/v1/word/to-return/",
         "slug": "to-return",
@@ -8536,8 +8528,8 @@
         "word": "to stand"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "STAND UP",
+        "concepticon_id": "570",
         "id": 2525,
         "resource_uri": "/api/v1/word/to-stand-up/",
         "slug": "to-stand-up",
@@ -8640,8 +8632,8 @@
         "word": "to take"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "TALK",
+        "concepticon_id": "2708",
         "id": 290,
         "resource_uri": "/api/v1/word/to-talk/",
         "slug": "to-talk",
@@ -8728,8 +8720,8 @@
         "word": "to trade"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "JOURNEY",
+        "concepticon_id": "2393",
         "id": 1275,
         "resource_uri": "/api/v1/word/to-travel/",
         "slug": "to-travel",
@@ -8768,8 +8760,8 @@
         "word": "to understand"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "PISS",
+        "concepticon_id": "592",
         "id": 1281,
         "resource_uri": "/api/v1/word/to-urinate/",
         "slug": "to-urinate",
@@ -8808,8 +8800,8 @@
         "word": "to walk"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "TOWARDS",
+        "concepticon_id": "2754",
         "id": 2050,
         "resource_uri": "/api/v1/word/towards/",
         "slug": "towards",
@@ -8952,8 +8944,8 @@
         "word": "turtle"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "TUSK",
+        "concepticon_id": "3280",
         "id": 2436,
         "resource_uri": "/api/v1/word/tusk/",
         "slug": "tusk",
@@ -9016,8 +9008,8 @@
         "word": "uncle"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "RAW",
+        "concepticon_id": "1959",
         "id": 2285,
         "resource_uri": "/api/v1/word/uncooked/",
         "slug": "uncooked",
@@ -9208,8 +9200,8 @@
         "word": "walking stick"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "WALL (OF HOUSE)",
+        "concepticon_id": "933",
         "id": 2239,
         "resource_uri": "/api/v1/word/wall/",
         "slug": "wall",
@@ -9264,24 +9256,24 @@
         "word": "weaving/woven material"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "WE TWO",
+        "concepticon_id": "2634",
         "id": 1906,
         "resource_uri": "/api/v1/word/we-dual/",
         "slug": "we-dual",
         "word": "we dual (pronoun d:1p, dual)"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "WE TWO (EXCLUSIVE)",
+        "concepticon_id": "2636",
         "id": 1863,
         "resource_uri": "/api/v1/word/we-two-excl/",
         "slug": "we-two-excl",
         "word": "we excl. dual (pronoun d:1p, excl, dual)"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "WE TWO (EXCLUSIVE)",
+        "concepticon_id": "2636",
         "id": 1866,
         "resource_uri": "/api/v1/word/we-pl-excl/",
         "slug": "we-pl-excl",
@@ -9296,8 +9288,8 @@
         "word": "we excl. (pronoun d:1p, excl)"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "WE TWO (INCLUSIVE)",
+        "concepticon_id": "2637",
         "id": 2079,
         "resource_uri": "/api/v1/word/we-two-incl/",
         "slug": "we-two-incl",
@@ -9368,8 +9360,8 @@
         "word": "which?"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "MOUSTACHE",
+        "concepticon_id": "1165",
         "id": 2496,
         "resource_uri": "/api/v1/word/whiskers/",
         "slug": "whiskers",
@@ -9688,16 +9680,16 @@
         "word": "you pl. (pronoun o:2p)"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "YOU TWO",
+        "concepticon_id": "2111",
         "id": 2084,
         "resource_uri": "/api/v1/word/you-pl-dual-o2p/",
         "slug": "you-pl-dual-o2p",
         "word": "you pl. two (pronoun o:2p, dual)"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "YOU TWO",
+        "concepticon_id": "2111",
         "id": 1864,
         "resource_uri": "/api/v1/word/you-pl-dual/",
         "slug": "you-pl-dual",

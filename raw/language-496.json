@@ -36,6 +36,18 @@
         "word": "/api/v1/word/dog/"
     },
     {
+        "added": "2019-03-19T04:16:28.505998",
+        "annotation": null,
+        "entry": "b\u025bh",
+        "id": 260557,
+        "language": "/api/v1/language/kabola-hamap/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260557/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-beat/"
+    },
+    {
         "added": "2013-11-05T00:32:17.635740",
         "annotation": "",
         "entry": "b\u0269h",
@@ -48,13 +60,13 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2013-11-05T00:32:17.220449",
-        "annotation": "",
-        "entry": "bh\u025b/b\u025bh",
-        "id": 36564,
+        "added": "2019-03-19T04:16:28.491596",
+        "annotation": null,
+        "entry": "bh\u025b",
+        "id": 260556,
         "language": "/api/v1/language/kabola-hamap/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36564/",
+        "resource_uri": "/api/v1/lexicon/260556/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-beat/"
@@ -240,18 +252,6 @@
         "word": "/api/v1/word/star/"
     },
     {
-        "added": "2013-11-05T00:32:17.087973",
-        "annotation": "",
-        "entry": "hif",
-        "id": 36550,
-        "language": "/api/v1/language/kabola-hamap/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/36550/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-11-05T00:32:17.080835",
         "annotation": "",
         "entry": "hif",
@@ -262,6 +262,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/chicken/"
+    },
+    {
+        "added": "2013-11-05T00:32:17.087973",
+        "annotation": "",
+        "entry": "hif",
+        "id": 36550,
+        "language": "/api/v1/language/kabola-hamap/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/36550/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2013-11-05T00:32:16.574468",
@@ -446,7 +458,7 @@
     {
         "added": "2013-11-05T00:32:17.419361",
         "annotation": "",
-        "entry": "matt;e",
+        "entry": "matt'e",
         "id": 36580,
         "language": "/api/v1/language/kabola-hamap/",
         "loan": false,
@@ -456,15 +468,15 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2013-11-05T00:32:17.610837",
-        "annotation": "fat",
-        "entry": "matt'e/\u0254t'\u03b1mar",
-        "id": 36596,
+        "added": "2019-03-19T04:16:28.445933",
+        "annotation": null,
+        "entry": "matt'e",
+        "id": 260554,
         "language": "/api/v1/language/kabola-hamap/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36596/",
+        "resource_uri": "/api/v1/lexicon/260554/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -1068,6 +1080,18 @@
         "word": "/api/v1/word/woman/"
     },
     {
+        "added": "2019-03-19T04:16:28.466202",
+        "annotation": null,
+        "entry": "\u0254t'\u03b1mar",
+        "id": 260555,
+        "language": "/api/v1/language/kabola-hamap/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260555/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-05T00:32:17.657256",
         "annotation": "",
         "entry": "'\u0254y\u0269n",
@@ -1080,18 +1104,6 @@
         "word": "/api/v1/word/louse/"
     },
     {
-        "added": "2013-11-05T00:32:17.147717",
-        "annotation": "",
-        "entry": "par'i",
-        "id": 36556,
-        "language": "/api/v1/language/kabola-hamap/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/36556/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/island/"
-    },
-    {
         "added": "2013-11-05T00:32:17.155501",
         "annotation": "",
         "entry": "par'i",
@@ -1102,6 +1114,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2013-11-05T00:32:17.147717",
+        "annotation": "",
+        "entry": "par'i",
+        "id": 36556,
+        "language": "/api/v1/language/kabola-hamap/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/36556/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/island/"
     },
     {
         "added": "2013-11-05T00:32:17.572375",
@@ -1356,13 +1380,25 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2013-11-05T00:32:17.008987",
-        "annotation": "fire, firewood",
-        "entry": "\u02b0\u03b1f'\u025bl/\u02b0\u03b1fa'\u025bl",
-        "id": 36542,
+        "added": "2019-03-19T04:16:28.543374",
+        "annotation": null,
+        "entry": "\u02b0\u03b1fa'\u025bl",
+        "id": 260559,
         "language": "/api/v1/language/kabola-hamap/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36542/",
+        "resource_uri": "/api/v1/lexicon/260559/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.531518",
+        "annotation": null,
+        "entry": "\u02b0\u03b1f'\u025bl",
+        "id": 260558,
+        "language": "/api/v1/language/kabola-hamap/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260558/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fire/"

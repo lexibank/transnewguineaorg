@@ -948,13 +948,13 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2013-11-10T03:07:29.991760",
-        "annotation": "",
-        "entry": "rah/rax",
-        "id": 38434,
+        "added": "2019-03-19T04:10:52.359084",
+        "annotation": null,
+        "entry": "rah",
+        "id": 260512,
         "language": "/api/v1/language/teiwa-lebang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38434/",
+        "resource_uri": "/api/v1/lexicon/260512/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -982,6 +982,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/two-hundred/"
+    },
+    {
+        "added": "2019-03-19T04:10:52.502921",
+        "annotation": null,
+        "entry": "rax",
+        "id": 260513,
+        "language": "/api/v1/language/teiwa-lebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260513/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
     },
     {
         "added": "2013-11-10T03:07:30.205906",
@@ -1164,13 +1176,25 @@
         "word": "/api/v1/word/to-stand/"
     },
     {
-        "added": "2013-11-10T03:07:30.095753",
-        "annotation": "",
-        "entry": "ud-/ud.",
-        "id": 38443,
+        "added": "2019-03-19T04:10:52.543891",
+        "annotation": null,
+        "entry": "ud-",
+        "id": 260514,
         "language": "/api/v1/language/teiwa-lebang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38443/",
+        "resource_uri": "/api/v1/lexicon/260514/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2019-03-19T04:10:52.562471",
+        "annotation": null,
+        "entry": "ud.",
+        "id": 260515,
+        "language": "/api/v1/language/teiwa-lebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260515/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/four/"

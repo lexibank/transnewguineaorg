@@ -12,6 +12,18 @@
         "word": "/api/v1/word/good/"
     },
     {
+        "added": "2013-11-10T02:16:43.263829",
+        "annotation": "",
+        "entry": "bal'\u03b1",
+        "id": 38064,
+        "language": "/api/v1/language/western-pantar-kalondama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/38064/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/house/"
+    },
+    {
         "added": "2013-11-10T02:16:43.369768",
         "annotation": "",
         "entry": "bay",
@@ -22,18 +34,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/pig/"
-    },
-    {
-        "added": "2013-11-10T02:16:43.263829",
-        "annotation": "",
-        "entry": "ba;'\u03b1",
-        "id": 38064,
-        "language": "/api/v1/language/western-pantar-kalondama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/38064/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/house/"
     },
     {
         "added": "2013-11-10T02:16:43.461360",
@@ -360,6 +360,18 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2019-03-19T04:11:43.994996",
+        "annotation": null,
+        "entry": "h'\u03b1pu",
+        "id": 260517,
+        "language": "/api/v1/language/western-pantar-kalondama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260517/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fish/"
+    },
+    {
         "added": "2013-11-10T02:16:43.096203",
         "annotation": "",
         "entry": "h'\u03b1wu\u014b",
@@ -384,13 +396,25 @@
         "word": "/api/v1/word/to-rain/"
     },
     {
-        "added": "2013-11-10T02:16:43.889114",
-        "annotation": "",
-        "entry": "'ij\u03b1/'iy\u03b1",
-        "id": 38130,
+        "added": "2019-03-19T04:11:44.024540",
+        "annotation": null,
+        "entry": "'ij\u03b1",
+        "id": 260518,
         "language": "/api/v1/language/western-pantar-kalondama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38130/",
+        "resource_uri": "/api/v1/lexicon/260518/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2019-03-19T04:11:44.038334",
+        "annotation": null,
+        "entry": "'iy\u03b1",
+        "id": 260519,
+        "language": "/api/v1/language/western-pantar-kalondama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260519/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/red/"
@@ -432,13 +456,13 @@
         "word": "/api/v1/word/twenty/"
     },
     {
-        "added": "2013-11-10T02:16:43.295210",
-        "annotation": "",
-        "entry": "k'\u025b\u025b/h'\u03b1pu",
-        "id": 38066,
+        "added": "2019-03-19T04:11:43.906486",
+        "annotation": null,
+        "entry": "k'\u025b\u025b",
+        "id": 260516,
         "language": "/api/v1/language/western-pantar-kalondama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38066/",
+        "resource_uri": "/api/v1/lexicon/260516/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fish/"
@@ -1056,18 +1080,6 @@
         "word": "/api/v1/word/knee/"
     },
     {
-        "added": "2013-11-10T02:16:43.769404",
-        "annotation": "fat",
-        "entry": "'\u0254r\u03b1",
-        "id": 38119,
-        "language": "/api/v1/language/western-pantar-kalondama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/38119/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
-        "word": "/api/v1/word/fat/"
-    },
-    {
         "added": "2013-11-10T02:16:43.640471",
         "annotation": "",
         "entry": "'\u0254r\u03b1",
@@ -1078,6 +1090,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2013-11-10T02:16:43.769404",
+        "annotation": "fat",
+        "entry": "'\u0254r\u03b1",
+        "id": 38119,
+        "language": "/api/v1/language/western-pantar-kalondama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/38119/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": "fat",
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T02:16:43.310401",

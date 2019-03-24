@@ -1,5 +1,29 @@
 [
     {
+        "added": "2019-03-19T04:10:07.891695",
+        "annotation": null,
+        "entry": "'ar",
+        "id": 260494,
+        "language": "/api/v1/language/teiwa-madar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260494/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fly-sp/"
+    },
+    {
+        "added": "2019-03-19T04:10:07.847460",
+        "annotation": null,
+        "entry": "'atgu",
+        "id": 260492,
+        "language": "/api/v1/language/teiwa-madar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260492/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/knee/"
+    },
+    {
         "added": "2013-11-06T03:33:25.349679",
         "annotation": "",
         "entry": "bay",
@@ -72,13 +96,13 @@
         "word": "/api/v1/word/to-come/"
     },
     {
-        "added": "2013-11-06T03:33:26.211079",
-        "annotation": "",
-        "entry": "d'\u03b1gi\u014b/hum'\u03b1n",
-        "id": 36953,
+        "added": "2019-03-19T04:10:07.638182",
+        "annotation": null,
+        "entry": "d'\u03b1gi\u014b",
+        "id": 260487,
         "language": "/api/v1/language/teiwa-madar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36953/",
+        "resource_uri": "/api/v1/lexicon/260487/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/meat/"
@@ -168,16 +192,28 @@
         "word": "/api/v1/word/to-rain/"
     },
     {
-        "added": "2013-11-06T03:33:25.961668",
-        "annotation": "housefly",
-        "entry": "hub, 'ar",
-        "id": 36942,
+        "added": "2019-03-19T04:10:07.876815",
+        "annotation": null,
+        "entry": "hub",
+        "id": 260493,
         "language": "/api/v1/language/teiwa-madar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36942/",
+        "resource_uri": "/api/v1/lexicon/260493/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fly-sp/"
+    },
+    {
+        "added": "2019-03-19T04:10:07.744764",
+        "annotation": null,
+        "entry": "hum'\u03b1n",
+        "id": 260488,
+        "language": "/api/v1/language/teiwa-madar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260488/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/meat/"
     },
     {
         "added": "2013-11-06T03:33:26.257813",
@@ -300,15 +336,15 @@
         "word": "/api/v1/word/nail/"
     },
     {
-        "added": "2013-11-06T03:33:26.102938",
-        "annotation": "fat",
-        "entry": "kut/tam'\u03b1",
-        "id": 36947,
+        "added": "2019-03-19T04:10:07.789796",
+        "annotation": null,
+        "entry": "kut",
+        "id": 260489,
         "language": "/api/v1/language/teiwa-madar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36947/",
+        "resource_uri": "/api/v1/lexicon/260489/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -756,13 +792,13 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-11-06T03:33:26.125134",
-        "annotation": "",
-        "entry": "n\u03b1b, 'atgu",
-        "id": 36949,
+        "added": "2019-03-19T04:10:07.831823",
+        "annotation": null,
+        "entry": "n\u03b1b",
+        "id": 260491,
         "language": "/api/v1/language/teiwa-madar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36949/",
+        "resource_uri": "/api/v1/lexicon/260491/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/knee/"
@@ -1066,6 +1102,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/dry/"
+    },
+    {
+        "added": "2019-03-19T04:10:07.803725",
+        "annotation": null,
+        "entry": "tam'\u03b1",
+        "id": 260490,
+        "language": "/api/v1/language/teiwa-madar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260490/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-06T03:33:25.242305",

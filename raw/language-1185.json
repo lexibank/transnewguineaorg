@@ -60,18 +60,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2015-09-23T19:31:16.870008",
-        "annotation": "",
-        "entry": "aya",
-        "id": 242944,
-        "language": "/api/v1/language/seta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/242944/",
-        "source": "/api/v1/source/laycock1968/",
-        "source_gloss": null,
-        "word": "/api/v1/word/father/"
-    },
-    {
         "added": "2015-06-05T23:06:56.290712",
         "annotation": "",
         "entry": "aya",
@@ -80,6 +68,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/228558/",
         "source": "/api/v1/source/sil-2000b/",
+        "source_gloss": null,
+        "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2015-09-23T19:31:16.870008",
+        "annotation": "",
+        "entry": "aya",
+        "id": 242944,
+        "language": "/api/v1/language/seta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/242944/",
+        "source": "/api/v1/source/laycock1968/",
         "source_gloss": null,
         "word": "/api/v1/word/father/"
     },
@@ -122,7 +122,7 @@
     {
         "added": "2015-06-05T22:47:41.100926",
         "annotation": "",
-        "entry": "b\u0259na/wa",
+        "entry": "b\u0259na",
         "id": 228520,
         "language": "/api/v1/language/seta/",
         "loan": false,
@@ -312,18 +312,6 @@
         "word": "/api/v1/word/black/"
     },
     {
-        "added": "2015-06-05T23:06:56.394277",
-        "annotation": "",
-        "entry": "ku",
-        "id": 228570,
-        "language": "/api/v1/language/seta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/228570/",
-        "source": "/api/v1/source/sil-2000b/",
-        "source_gloss": null,
-        "word": "/api/v1/word/food/"
-    },
-    {
         "added": "2015-09-23T19:31:22.486767",
         "annotation": "",
         "entry": "ku",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/laycock1968/",
         "source_gloss": null,
         "word": "/api/v1/word/cat/"
+    },
+    {
+        "added": "2015-06-05T23:06:56.394277",
+        "annotation": "",
+        "entry": "ku",
+        "id": 228570,
+        "language": "/api/v1/language/seta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/228570/",
+        "source": "/api/v1/source/sil-2000b/",
+        "source_gloss": null,
+        "word": "/api/v1/word/food/"
     },
     {
         "added": "2015-06-05T22:54:43.435752",
@@ -432,18 +432,6 @@
         "word": "/api/v1/word/hand/"
     },
     {
-        "added": "2015-06-05T22:58:10.366573",
-        "annotation": "",
-        "entry": "mi",
-        "id": 228547,
-        "language": "/api/v1/language/seta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/228547/",
-        "source": "/api/v1/source/sil-2000b/",
-        "source_gloss": null,
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2015-09-23T19:31:20.729674",
         "annotation": "",
         "entry": "mi",
@@ -452,6 +440,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/243904/",
         "source": "/api/v1/source/laycock1968/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2015-06-05T22:58:10.366573",
+        "annotation": "",
+        "entry": "mi",
+        "id": 228547,
+        "language": "/api/v1/language/seta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/228547/",
+        "source": "/api/v1/source/sil-2000b/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
     },
@@ -864,18 +864,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2015-09-23T19:31:21.449908",
-        "annotation": "",
-        "entry": "si",
-        "id": 244152,
-        "language": "/api/v1/language/seta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/244152/",
-        "source": "/api/v1/source/laycock1968/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tree/"
-    },
-    {
         "added": "2015-06-05T22:58:10.373982",
         "annotation": "",
         "entry": "si",
@@ -884,6 +872,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/228548/",
         "source": "/api/v1/source/sil-2000b/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2015-09-23T19:31:21.449908",
+        "annotation": "",
+        "entry": "si",
+        "id": 244152,
+        "language": "/api/v1/language/seta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244152/",
+        "source": "/api/v1/source/laycock1968/",
         "source_gloss": null,
         "word": "/api/v1/word/tree/"
     },

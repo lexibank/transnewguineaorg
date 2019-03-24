@@ -1836,15 +1836,15 @@
         "word": "/api/v1/word/nape/"
     },
     {
-        "added": "2014-07-06T21:29:55.343409",
+        "added": "2019-03-19T04:17:08.267258",
         "annotation": null,
-        "entry": "kasin/mer",
-        "id": 141363,
+        "entry": "kasin",
+        "id": 260709,
         "language": "/api/v1/language/gavak/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/141363/",
+        "resource_uri": "/api/v1/lexicon/260709/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "mosquito",
+        "source_gloss": null,
         "word": "/api/v1/word/mosquito/"
     },
     {
@@ -1932,18 +1932,6 @@
         "word": "/api/v1/word/banana/"
     },
     {
-        "added": "2014-07-06T21:30:06.835007",
-        "annotation": null,
-        "entry": "k\u025bra-",
-        "id": 146657,
-        "language": "/api/v1/language/gavak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146657/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "fall (a tree)",
-        "word": "/api/v1/word/fell-tree/"
-    },
-    {
         "added": "2014-07-06T21:30:06.779513",
         "annotation": null,
         "entry": "k\u025bra-",
@@ -1954,6 +1942,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "chop",
         "word": "/api/v1/word/to-chop/"
+    },
+    {
+        "added": "2014-07-06T21:30:06.835007",
+        "annotation": null,
+        "entry": "k\u025bra-",
+        "id": 146657,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146657/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "fall (a tree)",
+        "word": "/api/v1/word/fell-tree/"
     },
     {
         "added": "2014-07-06T21:30:05.769797",
@@ -2616,18 +2616,6 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2014-07-06T21:29:52.293672",
-        "annotation": null,
-        "entry": "m\u025bmbum",
-        "id": 139864,
-        "language": "/api/v1/language/gavak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139864/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "neck",
-        "word": "/api/v1/word/neck/"
-    },
-    {
         "added": "2014-07-06T21:29:52.350845",
         "annotation": null,
         "entry": "m\u025bmbum",
@@ -2638,6 +2626,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "throat",
         "word": "/api/v1/word/throat/"
+    },
+    {
+        "added": "2014-07-06T21:29:52.293672",
+        "annotation": null,
+        "entry": "m\u025bmbum",
+        "id": 139864,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139864/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "neck",
+        "word": "/api/v1/word/neck/"
     },
     {
         "added": "2014-07-06T21:30:02.922075",
@@ -2662,6 +2662,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "breast",
         "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2019-03-19T04:17:08.282439",
+        "annotation": null,
+        "entry": "mer",
+        "id": 260710,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260710/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mosquito/"
     },
     {
         "added": "2014-07-06T21:29:55.008389",
@@ -3156,18 +3168,6 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
-        "added": "2014-07-06T21:30:07.329099",
-        "annotation": null,
-        "entry": "\u014bgari-",
-        "id": 146908,
-        "language": "/api/v1/language/gavak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146908/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(fight, hit)",
-        "word": "/api/v1/word/to-fight/"
-    },
-    {
         "added": "2014-07-06T21:30:07.397482",
         "annotation": null,
         "entry": "\u014bgari-",
@@ -3178,6 +3178,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(kill)",
         "word": "/api/v1/word/to-kill/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.329099",
+        "annotation": null,
+        "entry": "\u014bgari-",
+        "id": 146908,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146908/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(fight, hit)",
+        "word": "/api/v1/word/to-fight/"
     },
     {
         "added": "2014-07-06T21:29:53.293894",
@@ -3780,18 +3792,6 @@
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2014-07-06T21:30:08.237478",
-        "annotation": null,
-        "entry": "tu\u014ba-",
-        "id": 147363,
-        "language": "/api/v1/language/gavak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/147363/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "tie",
-        "word": "/api/v1/word/to-tie/"
-    },
-    {
         "added": "2014-07-06T21:30:07.807258",
         "annotation": null,
         "entry": "tu\u014ba-",
@@ -3802,6 +3802,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "pull",
         "word": "/api/v1/word/to-pull/"
+    },
+    {
+        "added": "2014-07-06T21:30:08.237478",
+        "annotation": null,
+        "entry": "tu\u014ba-",
+        "id": 147363,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/147363/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "tie",
+        "word": "/api/v1/word/to-tie/"
     },
     {
         "added": "2014-07-06T21:29:50.926670",

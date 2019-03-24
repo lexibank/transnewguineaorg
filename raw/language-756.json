@@ -24,6 +24,18 @@
         "word": "/api/v1/word/day-after-tomorrow/"
     },
     {
+        "added": "2019-03-19T04:39:55.257333",
+        "annotation": null,
+        "entry": "aim",
+        "id": 260747,
+        "language": "/api/v1/language/sinsauru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260747/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": null,
+        "word": "/api/v1/word/brains/"
+    },
+    {
         "added": "2014-09-22T03:11:53.637767",
         "annotation": null,
         "entry": "ai moto",
@@ -756,18 +768,6 @@
         "word": "/api/v1/word/to-shoot/"
     },
     {
-        "added": "2014-09-22T03:12:09.706186",
-        "annotation": null,
-        "entry": "fu-",
-        "id": 183346,
-        "language": "/api/v1/language/sinsauru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183346/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to blow-on-fire",
-        "word": "/api/v1/word/to-blow/"
-    },
-    {
         "added": "2014-09-22T03:12:10.827906",
         "annotation": null,
         "entry": "fu-",
@@ -778,6 +778,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to shoot",
         "word": "/api/v1/word/to-shoot/"
+    },
+    {
+        "added": "2014-09-22T03:12:09.706186",
+        "annotation": null,
+        "entry": "fu-",
+        "id": 183346,
+        "language": "/api/v1/language/sinsauru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183346/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to blow-on-fire",
+        "word": "/api/v1/word/to-blow/"
     },
     {
         "added": "2014-09-22T03:12:08.435544",
@@ -1440,18 +1452,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2014-09-22T03:12:10.111379",
-        "annotation": null,
-        "entry": "hotogli-",
-        "id": 183540,
-        "language": "/api/v1/language/sinsauru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183540/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to fell",
-        "word": "/api/v1/word/fell-tree/"
-    },
-    {
         "added": "2014-09-22T03:12:09.976901",
         "annotation": null,
         "entry": "hotogli-",
@@ -1462,6 +1462,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to chop",
         "word": "/api/v1/word/to-chop/"
+    },
+    {
+        "added": "2014-09-22T03:12:10.111379",
+        "annotation": null,
+        "entry": "hotogli-",
+        "id": 183540,
+        "language": "/api/v1/language/sinsauru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183540/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to fell",
+        "word": "/api/v1/word/fell-tree/"
     },
     {
         "added": "2014-09-22T03:12:10.043050",
@@ -1848,18 +1860,6 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2014-09-22T03:12:11.398475",
-        "annotation": null,
-        "entry": "kili-",
-        "id": 184151,
-        "language": "/api/v1/language/sinsauru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/184151/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to scratch",
-        "word": "/api/v1/word/to-scratch/"
-    },
-    {
         "added": "2014-09-22T03:12:10.990958",
         "annotation": null,
         "entry": "kili-",
@@ -1870,6 +1870,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to sharpen",
         "word": "/api/v1/word/to-sharpen/"
+    },
+    {
+        "added": "2014-09-22T03:12:11.398475",
+        "annotation": null,
+        "entry": "kili-",
+        "id": 184151,
+        "language": "/api/v1/language/sinsauru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/184151/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to scratch",
+        "word": "/api/v1/word/to-scratch/"
     },
     {
         "added": "2014-09-22T03:12:01.089982",
@@ -2064,15 +2076,15 @@
         "word": "/api/v1/word/pandanus/"
     },
     {
-        "added": "2014-09-22T03:11:52.953360",
+        "added": "2019-03-19T04:39:55.237474",
         "annotation": null,
-        "entry": "kum/aim",
-        "id": 175464,
+        "entry": "kum",
+        "id": 260746,
         "language": "/api/v1/language/sinsauru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/175464/",
+        "resource_uri": "/api/v1/lexicon/260746/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "brains",
+        "source_gloss": null,
         "word": "/api/v1/word/brains/"
     },
     {
@@ -2652,18 +2664,6 @@
         "word": "/api/v1/word/chicken-tame/"
     },
     {
-        "added": "2014-09-22T03:11:53.821067",
-        "annotation": null,
-        "entry": "nonu",
-        "id": 175901,
-        "language": "/api/v1/language/sinsauru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/175901/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "sibling-different-sex-younger",
-        "word": "/api/v1/word/sibling-opposite-sex-younger/"
-    },
-    {
         "added": "2014-09-22T03:11:53.704542",
         "annotation": null,
         "entry": "nonu",
@@ -2674,6 +2674,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "young-same-sex-sibling",
         "word": "/api/v1/word/sibling-same-sex-younger/"
+    },
+    {
+        "added": "2014-09-22T03:11:53.821067",
+        "annotation": null,
+        "entry": "nonu",
+        "id": 175901,
+        "language": "/api/v1/language/sinsauru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/175901/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "sibling-different-sex-younger",
+        "word": "/api/v1/word/sibling-opposite-sex-younger/"
     },
     {
         "added": "2014-09-22T03:11:54.299384",

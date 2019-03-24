@@ -492,13 +492,25 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2013-11-06T02:47:25.143641",
-        "annotation": "",
-        "entry": "m\u0254d-m'\u0254ma\u014b/m\u0254d-",
-        "id": 36676,
+        "added": "2019-03-19T04:16:27.917126",
+        "annotation": null,
+        "entry": "m\u0254d-",
+        "id": 260531,
         "language": "/api/v1/language/blagar-bakalang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36676/",
+        "resource_uri": "/api/v1/lexicon/260531/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:16:27.898034",
+        "annotation": null,
+        "entry": "m\u0254d-m'\u0254ma\u014b",
+        "id": 260530,
+        "language": "/api/v1/language/blagar-bakalang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260530/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -1104,13 +1116,37 @@
         "word": "/api/v1/word/thousand/"
     },
     {
-        "added": "2013-11-06T02:47:24.993126",
-        "annotation": "",
-        "entry": "s'a\u03b3\u0269\u014b/\u0161'a\u03b3\u0269\u014b",
-        "id": 36666,
+        "added": "2019-03-19T04:16:27.869917",
+        "annotation": null,
+        "entry": "r'\u03b1tu",
+        "id": 260529,
         "language": "/api/v1/language/blagar-bakalang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36666/",
+        "resource_uri": "/api/v1/lexicon/260529/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one-hundred/"
+    },
+    {
+        "added": "2019-03-19T04:16:27.948931",
+        "annotation": null,
+        "entry": "s'a\u03b3\u0269\u014b",
+        "id": 260532,
+        "language": "/api/v1/language/blagar-bakalang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260532/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/chicken/"
+    },
+    {
+        "added": "2019-03-19T04:16:27.965861",
+        "annotation": null,
+        "entry": "\u0161'a\u03b3\u0269\u014b",
+        "id": 260533,
+        "language": "/api/v1/language/blagar-bakalang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260533/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/chicken/"
@@ -1380,13 +1416,13 @@
         "word": "/api/v1/word/night/"
     },
     {
-        "added": "2013-11-06T02:47:25.365641",
-        "annotation": "",
-        "entry": "(\u03b1)r'\u03b1tunuk/r'\u03b1tu",
-        "id": 36693,
+        "added": "2019-03-19T04:16:27.855789",
+        "annotation": null,
+        "entry": "(\u03b1)r'\u03b1tunuk",
+        "id": 260528,
         "language": "/api/v1/language/blagar-bakalang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36693/",
+        "resource_uri": "/api/v1/lexicon/260528/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one-hundred/"

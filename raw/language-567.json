@@ -288,18 +288,6 @@
         "word": "/api/v1/word/when/"
     },
     {
-        "added": "2014-06-04T02:30:15.448234",
-        "annotation": "",
-        "entry": "ave",
-        "id": 97527,
-        "language": "/api/v1/language/savosavo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/97527/",
-        "source": "/api/v1/source/wegener2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/we-pl-excl/"
-    },
-    {
         "added": "2014-01-20T22:37:43.516927",
         "annotation": "",
         "entry": "ave",
@@ -310,6 +298,18 @@
         "source": "/api/v1/source/wegener2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-die/"
+    },
+    {
+        "added": "2014-06-04T02:30:15.448234",
+        "annotation": "",
+        "entry": "ave",
+        "id": 97527,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/97527/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/we-pl-excl/"
     },
     {
         "added": "2014-01-20T22:37:43.846889",
@@ -864,6 +864,18 @@
         "word": "/api/v1/word/leaf/"
     },
     {
+        "added": "2019-03-19T05:57:29.583687",
+        "annotation": null,
+        "entry": "ko",
+        "id": 260757,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260757/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/he-she/"
+    },
+    {
         "added": "2014-01-20T22:37:43.693327",
         "annotation": "",
         "entry": "kodo",
@@ -1212,6 +1224,18 @@
         "word": "/api/v1/word/to-turn/"
     },
     {
+        "added": "2019-03-19T05:57:29.472118",
+        "annotation": null,
+        "entry": "lo",
+        "id": 260756,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260756/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/he-she/"
+    },
+    {
         "added": "2014-01-20T22:37:43.672834",
         "annotation": "",
         "entry": "lo",
@@ -1222,18 +1246,6 @@
         "source": "/api/v1/source/wegener2011/",
         "source_gloss": null,
         "word": "/api/v1/word/that/"
-    },
-    {
-        "added": "2014-01-20T22:37:43.687708",
-        "annotation": "",
-        "entry": "lo/ko",
-        "id": 75739,
-        "language": "/api/v1/language/savosavo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75739/",
-        "source": "/api/v1/source/wegener2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/he-she/"
     },
     {
         "added": "2014-01-20T22:37:43.596705",
@@ -1272,18 +1284,6 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
-        "added": "2014-01-20T22:37:43.348291",
-        "annotation": "old/dirty (mostly things)",
-        "entry": "lumu",
-        "id": 75609,
-        "language": "/api/v1/language/savosavo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75609/",
-        "source": "/api/v1/source/wegener2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/old/"
-    },
-    {
         "added": "2014-01-20T22:37:43.601560",
         "annotation": "dirty/old (for things)",
         "entry": "lumu",
@@ -1294,6 +1294,18 @@
         "source": "/api/v1/source/wegener2011/",
         "source_gloss": null,
         "word": "/api/v1/word/dirty/"
+    },
+    {
+        "added": "2014-01-20T22:37:43.348291",
+        "annotation": "old/dirty (mostly things)",
+        "entry": "lumu",
+        "id": 75609,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75609/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/old/"
     },
     {
         "added": "2014-01-20T22:37:43.323054",
@@ -1536,18 +1548,6 @@
         "word": "/api/v1/word/to-vomit/"
     },
     {
-        "added": "2014-01-20T22:37:43.737788",
-        "annotation": "",
-        "entry": "muzi",
-        "id": 75759,
-        "language": "/api/v1/language/savosavo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75759/",
-        "source": "/api/v1/source/wegener2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/night/"
-    },
-    {
         "added": "2014-01-20T22:37:43.422388",
         "annotation": "cloud",
         "entry": "muzi",
@@ -1558,6 +1558,18 @@
         "source": "/api/v1/source/wegener2011/",
         "source_gloss": null,
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2014-01-20T22:37:43.737788",
+        "annotation": "",
+        "entry": "muzi",
+        "id": 75759,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75759/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
     },
     {
         "added": "2014-01-20T22:37:43.839978",
@@ -1848,18 +1860,6 @@
         "word": "/api/v1/word/to-grow/"
     },
     {
-        "added": "2014-01-20T22:37:43.851543",
-        "annotation": "",
-        "entry": "pada",
-        "id": 75808,
-        "language": "/api/v1/language/savosavo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75808/",
-        "source": "/api/v1/source/wegener2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-count/"
-    },
-    {
         "added": "2014-01-20T22:37:43.493664",
         "annotation": "",
         "entry": "pada",
@@ -1870,6 +1870,18 @@
         "source": "/api/v1/source/wegener2011/",
         "source_gloss": null,
         "word": "/api/v1/word/thunder/"
+    },
+    {
+        "added": "2014-01-20T22:37:43.851543",
+        "annotation": "",
+        "entry": "pada",
+        "id": 75808,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75808/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-count/"
     },
     {
         "added": "2014-01-20T22:37:43.336382",

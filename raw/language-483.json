@@ -1,5 +1,17 @@
 [
     {
+        "added": "2019-03-19T04:09:47.729173",
+        "annotation": null,
+        "entry": "'akku",
+        "id": 260483,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260483/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-10T01:40:17.953636",
         "annotation": "",
         "entry": "'akku",
@@ -10,18 +22,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/good/"
-    },
-    {
-        "added": "2013-11-10T01:40:17.987714",
-        "annotation": "fat",
-        "entry": "'akku/k\u03b1w'\u03b1t\u03b1",
-        "id": 37885,
-        "language": "/api/v1/language/western-pantar-biangwala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37885/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
-        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T01:40:17.816267",
@@ -96,13 +96,13 @@
         "word": "/api/v1/word/pig/"
     },
     {
-        "added": "2013-11-10T01:40:16.470684",
-        "annotation": "",
-        "entry": "b\u025br/b'ira",
-        "id": 37808,
+        "added": "2019-03-19T04:09:47.288923",
+        "annotation": null,
+        "entry": "b\u025br",
+        "id": 260467,
         "language": "/api/v1/language/western-pantar-biangwala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37808/",
+        "resource_uri": "/api/v1/lexicon/260467/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/language/"
@@ -132,6 +132,18 @@
         "word": "/api/v1/word/seven/"
     },
     {
+        "added": "2019-03-19T04:09:47.425859",
+        "annotation": null,
+        "entry": "b'ira",
+        "id": 260468,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260468/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/language/"
+    },
+    {
         "added": "2013-11-10T01:40:17.221062",
         "annotation": "",
         "entry": "b'unni",
@@ -154,6 +166,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2019-03-19T04:09:47.634647",
+        "annotation": null,
+        "entry": "d'agg\u03b1",
+        "id": 260478,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260478/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cold/"
     },
     {
         "added": "2013-11-10T01:40:18.244006",
@@ -216,13 +240,25 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2013-11-10T01:40:17.426722",
-        "annotation": "",
-        "entry": "h''al\u03b1b'\u0254k\u03b1/h'al\u03b1",
-        "id": 37848,
+        "added": "2019-03-19T04:09:47.483811",
+        "annotation": null,
+        "entry": "h'al\u03b1",
+        "id": 260470,
         "language": "/api/v1/language/western-pantar-biangwala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37848/",
+        "resource_uri": "/api/v1/lexicon/260470/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:09:47.464756",
+        "annotation": null,
+        "entry": "h''al\u03b1b'\u0254k\u03b1",
+        "id": 260469,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260469/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -480,13 +516,13 @@
         "word": "/api/v1/word/night/"
     },
     {
-        "added": "2013-11-10T01:40:18.168763",
-        "annotation": "",
-        "entry": "k'al\u03b1/k'isa\u014b",
-        "id": 37900,
+        "added": "2019-03-19T04:09:47.656776",
+        "annotation": null,
+        "entry": "k'al\u03b1",
+        "id": 260479,
         "language": "/api/v1/language/western-pantar-biangwala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37900/",
+        "resource_uri": "/api/v1/lexicon/260479/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
@@ -552,6 +588,18 @@
         "word": "/api/v1/word/skin/"
     },
     {
+        "added": "2019-03-19T04:09:47.668801",
+        "annotation": null,
+        "entry": "k'isa\u014b",
+        "id": 260480,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260480/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
+    },
+    {
         "added": "2013-11-10T01:40:17.399154",
         "annotation": "",
         "entry": "k'ukk\u03b1",
@@ -574,6 +622,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/nail/"
+    },
+    {
+        "added": "2019-03-19T04:09:47.741597",
+        "annotation": null,
+        "entry": "k\u03b1w'\u03b1t\u03b1",
+        "id": 260484,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260484/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T01:40:17.255397",
@@ -648,13 +708,13 @@
         "word": "/api/v1/word/to-come/"
     },
     {
-        "added": "2013-11-10T01:40:17.854855",
-        "annotation": "",
-        "entry": "m'\u03b1b\u03b1/d'agg\u03b1",
-        "id": 37874,
+        "added": "2019-03-19T04:09:47.621918",
+        "annotation": null,
+        "entry": "m'\u03b1b\u03b1",
+        "id": 260477,
         "language": "/api/v1/language/western-pantar-biangwala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37874/",
+        "resource_uri": "/api/v1/lexicon/260477/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/cold/"
@@ -804,13 +864,25 @@
         "word": "/api/v1/word/lips/"
     },
     {
-        "added": "2013-11-10T01:40:17.836789",
-        "annotation": "",
-        "entry": "n'\u025b\u014bk\u025b\u0294\u025b/n'\u025b\u014bqa\u0294al",
-        "id": 37872,
+        "added": "2019-03-19T04:09:47.586429",
+        "annotation": null,
+        "entry": "n'\u025b\u014bk\u025b\u0294\u025b",
+        "id": 260475,
         "language": "/api/v1/language/western-pantar-biangwala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37872/",
+        "resource_uri": "/api/v1/lexicon/260475/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2019-03-19T04:09:47.598781",
+        "annotation": null,
+        "entry": "n'\u025b\u014bqa\u0294al",
+        "id": 260476,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260476/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
@@ -1080,6 +1152,18 @@
         "word": "/api/v1/word/eye/"
     },
     {
+        "added": "2019-03-19T04:09:47.526474",
+        "annotation": null,
+        "entry": "r''atu('ye)",
+        "id": 260472,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260472/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one-hundred/"
+    },
+    {
         "added": "2013-11-10T01:40:17.320713",
         "annotation": "",
         "entry": "r'\u025bku",
@@ -1092,13 +1176,25 @@
         "word": "/api/v1/word/egg/"
     },
     {
-        "added": "2013-11-10T01:40:17.754404",
-        "annotation": "",
-        "entry": "ribun'uku/ribuy'e",
-        "id": 37867,
+        "added": "2019-03-19T04:09:47.551131",
+        "annotation": null,
+        "entry": "ribun'uku",
+        "id": 260473,
         "language": "/api/v1/language/western-pantar-biangwala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37867/",
+        "resource_uri": "/api/v1/lexicon/260473/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/thousand/"
+    },
+    {
+        "added": "2019-03-19T04:09:47.564347",
+        "annotation": null,
+        "entry": "ribuy'e",
+        "id": 260474,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260474/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/thousand/"
@@ -1116,16 +1212,28 @@
         "word": "/api/v1/word/two-hundred/"
     },
     {
-        "added": "2013-11-10T01:40:17.728456",
-        "annotation": "",
-        "entry": "r''\u03b1tu(n'uku)/r''atu('ye)",
-        "id": 37865,
+        "added": "2019-03-19T04:09:47.512667",
+        "annotation": null,
+        "entry": "r''\u03b1tu(n'uku)",
+        "id": 260471,
         "language": "/api/v1/language/western-pantar-biangwala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37865/",
+        "resource_uri": "/api/v1/lexicon/260471/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one-hundred/"
+    },
+    {
+        "added": "2019-03-19T04:09:47.769429",
+        "annotation": null,
+        "entry": "si",
+        "id": 260485,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260485/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-go/"
     },
     {
         "added": "2013-11-10T01:40:18.150385",
@@ -1150,18 +1258,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/dry/"
-    },
-    {
-        "added": "2013-11-10T01:40:17.945102",
-        "annotation": "",
-        "entry": "si, y\u025bl",
-        "id": 37883,
-        "language": "/api/v1/language/western-pantar-biangwala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37883/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-go/"
     },
     {
         "added": "2013-11-10T01:40:17.304886",
@@ -1234,6 +1330,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2019-03-19T04:09:47.706590",
+        "annotation": null,
+        "entry": "t\u03b1w'akk\u03b1",
+        "id": 260482,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260482/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/warm/"
     },
     {
         "added": "2013-11-10T01:40:17.846106",
@@ -1320,6 +1428,18 @@
         "word": "/api/v1/word/tree/"
     },
     {
+        "added": "2019-03-19T04:09:47.788983",
+        "annotation": null,
+        "entry": "y\u025bl",
+        "id": 260486,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260486/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-go/"
+    },
+    {
         "added": "2013-11-10T01:40:18.126748",
         "annotation": "path",
         "entry": "y\u03b1",
@@ -1356,13 +1476,13 @@
         "word": "/api/v1/word/bird/"
     },
     {
-        "added": "2013-11-10T01:40:18.203288",
-        "annotation": "",
-        "entry": "\u03b1r'ug\u03b1/t\u03b1w'akk\u03b1",
-        "id": 37904,
+        "added": "2019-03-19T04:09:47.692036",
+        "annotation": null,
+        "entry": "\u03b1r'ug\u03b1",
+        "id": 260481,
         "language": "/api/v1/language/western-pantar-biangwala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37904/",
+        "resource_uri": "/api/v1/lexicon/260481/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/warm/"

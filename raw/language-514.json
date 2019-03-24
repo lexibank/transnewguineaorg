@@ -192,6 +192,18 @@
         "word": "/api/v1/word/fly-sp/"
     },
     {
+        "added": "2019-03-19T04:16:29.076549",
+        "annotation": null,
+        "entry": "bul'\u025b\u0294",
+        "id": 260589,
+        "language": "/api/v1/language/kamang-kolomane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260589/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-06T03:53:44.157153",
         "annotation": "",
         "entry": "bun'i",
@@ -288,13 +300,13 @@
         "word": "/api/v1/word/to-give/"
     },
     {
-        "added": "2013-11-06T03:53:43.515476",
-        "annotation": "",
-        "entry": "h'\u03b1bi\u014bk\u025b/\u03b1f'att\u03b1",
-        "id": 37028,
+        "added": "2019-03-19T04:16:29.032509",
+        "annotation": null,
+        "entry": "h'\u03b1bi\u014bk\u025b",
+        "id": 260586,
         "language": "/api/v1/language/kamang-kolomane/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37028/",
+        "resource_uri": "/api/v1/lexicon/260586/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -348,15 +360,15 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2013-11-06T03:53:44.084239",
-        "annotation": "fat",
-        "entry": "ka\u014b/bul'\u025b\u0294",
-        "id": 37065,
+        "added": "2019-03-19T04:16:29.064755",
+        "annotation": null,
+        "entry": "ka\u014b",
+        "id": 260588,
         "language": "/api/v1/language/kamang-kolomane/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37065/",
+        "resource_uri": "/api/v1/lexicon/260588/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -408,13 +420,25 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2013-11-06T03:53:44.308051",
-        "annotation": "",
-        "entry": "lat'i/las'i",
-        "id": 37082,
+        "added": "2019-03-19T04:16:28.978820",
+        "annotation": null,
+        "entry": "las'i",
+        "id": 260583,
         "language": "/api/v1/language/kamang-kolomane/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37082/",
+        "resource_uri": "/api/v1/lexicon/260583/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.966717",
+        "annotation": null,
+        "entry": "lat'i",
+        "id": 260582,
+        "language": "/api/v1/language/kamang-kolomane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260582/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-stand/"
@@ -504,13 +528,25 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2013-11-06T03:53:43.334888",
-        "annotation": "",
-        "entry": "m\u0254h/m\u0254g'\u025br",
-        "id": 37015,
+        "added": "2019-03-19T04:16:29.114612",
+        "annotation": null,
+        "entry": "m\u0254g'\u025br",
+        "id": 260591,
         "language": "/api/v1/language/kamang-kolomane/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37015/",
+        "resource_uri": "/api/v1/lexicon/260591/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/banana/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.099011",
+        "annotation": null,
+        "entry": "m\u0254h",
+        "id": 260590,
+        "language": "/api/v1/language/kamang-kolomane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260590/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/banana/"
@@ -538,6 +574,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/snake/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.011690",
+        "annotation": null,
+        "entry": "m\u03b1n'u n\u025bgg'\u03b1tik-",
+        "id": 260585,
+        "language": "/api/v1/language/kamang-kolomane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260585/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/i-see-the-snake/"
     },
     {
         "added": "2013-11-06T03:53:44.385084",
@@ -600,13 +648,13 @@
         "word": "/api/v1/word/back/"
     },
     {
-        "added": "2013-11-06T03:53:44.364061",
-        "annotation": "",
-        "entry": "n\u025bg m\u03b1n'u g'\u03b1tik-/ m\u03b1n'u n\u025bgg'\u03b1tik-",
-        "id": 37087,
+        "added": "2019-03-19T04:16:28.998723",
+        "annotation": null,
+        "entry": "n\u025bg m\u03b1n'u g'\u03b1tik-",
+        "id": 260584,
         "language": "/api/v1/language/kamang-kolomane/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37087/",
+        "resource_uri": "/api/v1/lexicon/260584/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/i-see-the-snake/"
@@ -756,18 +804,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2013-11-06T03:53:43.533376",
-        "annotation": "",
-        "entry": "nih",
-        "id": 37030,
-        "language": "/api/v1/language/kamang-kolomane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37030/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2013-11-06T03:53:40.130404",
         "annotation": "",
         "entry": "nih",
@@ -778,6 +814,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/body/"
+    },
+    {
+        "added": "2013-11-06T03:53:43.533376",
+        "annotation": "",
+        "entry": "nih",
+        "id": 37030,
+        "language": "/api/v1/language/kamang-kolomane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/37030/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-11-06T03:53:43.260454",
@@ -1282,6 +1330,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-fly/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.043233",
+        "annotation": null,
+        "entry": "\u03b1f'att\u03b1",
+        "id": 260587,
+        "language": "/api/v1/language/kamang-kolomane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260587/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
     },
     {
         "added": "2013-11-06T03:53:44.251442",

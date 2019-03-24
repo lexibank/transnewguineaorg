@@ -132,7 +132,7 @@
         "word": "/api/v1/word/to-rain/"
     },
     {
-        "added": "2013-11-29T19:34:39.170375",
+        "added": "2019-03-15T09:53:27.467389",
         "annotation": "",
         "entry": "a'kaami",
         "id": 72210,
@@ -141,7 +141,7 @@
         "resource_uri": "/api/v1/lexicon/72210/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/barl-noun/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-11-29T19:34:38.804056",
@@ -264,18 +264,6 @@
         "word": "/api/v1/word/to-give/"
     },
     {
-        "added": "2013-11-29T19:34:39.373227",
-        "annotation": "",
-        "entry": "amu'i",
-        "id": 72248,
-        "language": "/api/v1/language/gadsup/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72248/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/belly/"
-    },
-    {
         "added": "2013-11-29T19:34:49.295149",
         "annotation": "",
         "entry": "amu'i",
@@ -286,6 +274,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/round/"
+    },
+    {
+        "added": "2013-11-29T19:34:39.373227",
+        "annotation": "",
+        "entry": "amu'i",
+        "id": 72248,
+        "language": "/api/v1/language/gadsup/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72248/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
     },
     {
         "added": "2013-11-29T19:34:42.056104",
@@ -348,18 +348,6 @@
         "word": "/api/v1/word/woman/"
     },
     {
-        "added": "2013-11-29T19:34:45.920788",
-        "annotation": "leg",
-        "entry": "anai",
-        "id": 73418,
-        "language": "/api/v1/language/gadsup/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73418/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/leg/"
-    },
-    {
         "added": "2013-11-29T19:34:45.814558",
         "annotation": "",
         "entry": "anai",
@@ -370,6 +358,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2013-11-29T19:34:45.920788",
+        "annotation": "leg",
+        "entry": "anai",
+        "id": 73418,
+        "language": "/api/v1/language/gadsup/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73418/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/leg/"
     },
     {
         "added": "2013-11-29T19:34:47.768236",
@@ -696,18 +696,6 @@
         "word": "/api/v1/word/man/"
     },
     {
-        "added": "2013-11-29T19:34:48.967995",
-        "annotation": "",
-        "entry": "barano",
-        "id": 73973,
-        "language": "/api/v1/language/gadsup/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73973/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/recline/"
-    },
-    {
         "added": "2013-11-29T19:34:50.416208",
         "annotation": "sleep",
         "entry": "barano",
@@ -718,6 +706,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-11-29T19:34:48.967995",
+        "annotation": "",
+        "entry": "barano",
+        "id": 73973,
+        "language": "/api/v1/language/gadsup/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73973/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/recline/"
     },
     {
         "added": "2013-11-29T19:34:42.444344",
@@ -912,18 +912,6 @@
         "word": "/api/v1/word/to-burn/"
     },
     {
-        "added": "2013-11-29T19:34:51.325137",
-        "annotation": "",
-        "entry": "ikona",
-        "id": 74406,
-        "language": "/api/v1/language/gadsup/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74406/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sun/"
-    },
-    {
         "added": "2013-11-29T19:34:47.583856",
         "annotation": "",
         "entry": "ikona",
@@ -934,6 +922,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2013-11-29T19:34:51.325137",
+        "annotation": "",
+        "entry": "ikona",
+        "id": 74406,
+        "language": "/api/v1/language/gadsup/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74406/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
     },
     {
         "added": "2013-11-29T19:34:50.620778",
@@ -948,18 +948,6 @@
         "word": "/api/v1/word/smoke/"
     },
     {
-        "added": "2013-11-29T19:34:45.600544",
-        "annotation": "know",
-        "entry": "inde'u",
-        "id": 73363,
-        "language": "/api/v1/language/gadsup/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73363/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-know/"
-    },
-    {
         "added": "2013-11-29T19:34:44.484971",
         "annotation": "hear",
         "entry": "inde'u",
@@ -970,6 +958,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2013-11-29T19:34:45.600544",
+        "annotation": "know",
+        "entry": "inde'u",
+        "id": 73363,
+        "language": "/api/v1/language/gadsup/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73363/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-know/"
     },
     {
         "added": "2013-11-29T19:34:39.569466",
@@ -1056,18 +1056,6 @@
         "word": "/api/v1/word/to-run/"
     },
     {
-        "added": "2013-11-29T19:34:46.837216",
-        "annotation": "no ",
-        "entry": "iye",
-        "id": 73585,
-        "language": "/api/v1/language/gadsup/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73585/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/no-not/"
-    },
-    {
         "added": "2013-11-29T19:34:47.959357",
         "annotation": "",
         "entry": "iye",
@@ -1078,6 +1066,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/not/"
+    },
+    {
+        "added": "2013-11-29T19:34:46.837216",
+        "annotation": "no ",
+        "entry": "iye",
+        "id": 73585,
+        "language": "/api/v1/language/gadsup/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73585/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/no-not/"
     },
     {
         "added": "2013-11-29T19:34:51.419271",
@@ -1392,18 +1392,6 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2013-11-29T19:34:41.964271",
-        "annotation": "eat",
-        "entry": "naano",
-        "id": 72710,
-        "language": "/api/v1/language/gadsup/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72710/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2013-11-29T19:34:41.576131",
         "annotation": "drink",
         "entry": "naano",
@@ -1416,16 +1404,16 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
-        "added": "2013-11-29T19:34:39.882001",
-        "annotation": "",
-        "entry": "naarei",
-        "id": 72340,
+        "added": "2013-11-29T19:34:41.964271",
+        "annotation": "eat",
+        "entry": "naano",
+        "id": 72710,
         "language": "/api/v1/language/gadsup/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/72340/",
+        "resource_uri": "/api/v1/lexicon/72710/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/blood/"
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-11-29T19:34:49.078047",
@@ -1438,6 +1426,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2013-11-29T19:34:39.882001",
+        "annotation": "",
+        "entry": "naarei",
+        "id": 72340,
+        "language": "/api/v1/language/gadsup/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72340/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/blood/"
     },
     {
         "added": "2013-11-29T19:34:39.274657",
@@ -1512,18 +1512,6 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2013-11-29T19:34:39.469431",
-        "annotation": "",
-        "entry": "numi",
-        "id": 72265,
-        "language": "/api/v1/language/gadsup/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72265/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-11-29T19:34:47.149893",
         "annotation": "",
         "entry": "numi",
@@ -1534,6 +1522,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2013-11-29T19:34:39.469431",
+        "annotation": "",
+        "entry": "numi",
+        "id": 72265,
+        "language": "/api/v1/language/gadsup/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72265/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2013-11-29T19:34:46.736984",
@@ -1908,7 +1908,7 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2013-11-29T19:34:39.173824",
+        "added": "2019-03-15T09:53:28.714924",
         "annotation": "",
         "entry": "yagwami",
         "id": 72211,
@@ -1917,7 +1917,7 @@
         "resource_uri": "/api/v1/lexicon/72211/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/barl-noun/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-11-29T19:34:51.684911",

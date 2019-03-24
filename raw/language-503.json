@@ -36,13 +36,25 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2013-11-04T23:24:50.431793",
-        "annotation": "",
-        "entry": "b(\u0259)l'\u025bs/b\u03b1l'\u025bsi",
-        "id": 36213,
+        "added": "2019-03-19T04:16:30.295278",
+        "annotation": null,
+        "entry": "b'a\u014ban",
+        "id": 260645,
         "language": "/api/v1/language/kui/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36213/",
+        "resource_uri": "/api/v1/lexicon/260645/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/friend/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.356313",
+        "annotation": null,
+        "entry": "b(\u0259)l'\u025bs",
+        "id": 260648,
+        "language": "/api/v1/language/kui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260648/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-beat/"
@@ -58,6 +70,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.369407",
+        "annotation": null,
+        "entry": "b\u03b1l'\u025bsi",
+        "id": 260649,
+        "language": "/api/v1/language/kui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260649/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-beat/"
     },
     {
         "added": "2013-11-04T23:24:50.609737",
@@ -396,18 +420,6 @@
         "word": "/api/v1/word/back/"
     },
     {
-        "added": "2013-11-04T23:24:50.214753",
-        "annotation": "",
-        "entry": "nam'\u03b1",
-        "id": 36187,
-        "language": "/api/v1/language/kui/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/36187/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/father/"
-    },
-    {
         "added": "2013-11-04T23:24:49.947620",
         "annotation": "",
         "entry": "nam'\u03b1",
@@ -418,6 +430,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/voice/"
+    },
+    {
+        "added": "2013-11-04T23:24:50.214753",
+        "annotation": "",
+        "entry": "nam'\u03b1",
+        "id": 36187,
+        "language": "/api/v1/language/kui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/36187/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/father/"
     },
     {
         "added": "2013-11-04T23:24:50.789447",
@@ -660,6 +684,18 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2019-03-19T04:16:30.332808",
+        "annotation": null,
+        "entry": "n\u03b1",
+        "id": 260647,
+        "language": "/api/v1/language/kui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260647/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mother/"
+    },
+    {
         "added": "2013-11-04T23:24:50.091659",
         "annotation": "",
         "entry": "n\u03b1b'atar",
@@ -720,13 +756,13 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2013-11-04T23:24:50.229766",
-        "annotation": "",
-        "entry": "n\u03b1n'uk/b'a\u014ban",
-        "id": 36189,
+        "added": "2019-03-19T04:16:30.278655",
+        "annotation": null,
+        "entry": "n\u03b1n'uk",
+        "id": 260644,
         "language": "/api/v1/language/kui/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36189/",
+        "resource_uri": "/api/v1/lexicon/260644/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/friend/"
@@ -888,13 +924,13 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
-        "added": "2013-11-04T23:24:50.222416",
-        "annotation": "",
-        "entry": "n\u03b1y'a/n\u03b1",
-        "id": 36188,
+        "added": "2019-03-19T04:16:30.318474",
+        "annotation": null,
+        "entry": "n\u03b1y'a",
+        "id": 260646,
         "language": "/api/v1/language/kui/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36188/",
+        "resource_uri": "/api/v1/lexicon/260646/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/mother/"

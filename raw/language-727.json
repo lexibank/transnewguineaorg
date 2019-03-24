@@ -888,18 +888,6 @@
         "word": "/api/v1/word/to-turn/"
     },
     {
-        "added": "2014-07-06T21:30:07.195041",
-        "annotation": null,
-        "entry": "gum-",
-        "id": 146840,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146840/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(burn tr.)",
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2014-07-06T21:30:07.074119",
         "annotation": null,
         "entry": "gum-",
@@ -910,6 +898,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "roast",
         "word": "/api/v1/word/to-roast/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.195041",
+        "annotation": null,
+        "entry": "gum-",
+        "id": 146840,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146840/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(burn tr.)",
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2014-07-06T21:30:06.448196",
@@ -1092,18 +1092,6 @@
         "word": "/api/v1/word/cane/"
     },
     {
-        "added": "2014-07-06T21:30:07.675259",
-        "annotation": null,
-        "entry": "h\u025bk\u025bw-",
-        "id": 147081,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/147081/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "sharpen (a bow)",
-        "word": "/api/v1/word/to-sharpen/"
-    },
-    {
         "added": "2014-07-06T21:30:02.653015",
         "annotation": null,
         "entry": "h\u025bk\u025bw-",
@@ -1116,15 +1104,27 @@
         "word": "/api/v1/word/work-n/"
     },
     {
-        "added": "2014-07-06T21:30:08.440038",
+        "added": "2014-07-06T21:30:07.675259",
         "annotation": null,
-        "entry": "hela/kal-",
-        "id": 147463,
+        "entry": "h\u025bk\u025bw-",
+        "id": 147081,
         "language": "/api/v1/language/musar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/147463/",
+        "resource_uri": "/api/v1/lexicon/147081/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "laugh",
+        "source_gloss": "sharpen (a bow)",
+        "word": "/api/v1/word/to-sharpen/"
+    },
+    {
+        "added": "2019-03-19T04:17:08.433063",
+        "annotation": null,
+        "entry": "hela",
+        "id": 260715,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260715/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
         "word": "/api/v1/word/to-laugh/"
     },
     {
@@ -1440,18 +1440,6 @@
         "word": "/api/v1/word/fence/"
     },
     {
-        "added": "2014-07-06T21:29:59.209759",
-        "annotation": null,
-        "entry": "h\u028cmu",
-        "id": 143219,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/143219/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(sun)",
-        "word": "/api/v1/word/sun/"
-    },
-    {
         "added": "2014-07-06T21:29:58.099056",
         "annotation": null,
         "entry": "h\u028cmu",
@@ -1462,6 +1450,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(ashes)",
         "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2014-07-06T21:29:59.209759",
+        "annotation": null,
+        "entry": "h\u028cmu",
+        "id": 143219,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/143219/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(sun)",
+        "word": "/api/v1/word/sun/"
     },
     {
         "added": "2014-07-06T21:29:49.859471",
@@ -1548,18 +1548,6 @@
         "word": "/api/v1/word/cold/"
     },
     {
-        "added": "2014-07-06T21:30:05.589299",
-        "annotation": null,
-        "entry": "huk-",
-        "id": 146035,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146035/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(swell up)",
-        "word": "/api/v1/word/to-swell/"
-    },
-    {
         "added": "2014-07-06T21:30:07.365260",
         "annotation": null,
         "entry": "huk-",
@@ -1584,16 +1572,16 @@
         "word": "/api/v1/word/to-cut/"
     },
     {
-        "added": "2014-07-06T21:29:53.938950",
+        "added": "2014-07-06T21:30:05.589299",
         "annotation": null,
-        "entry": "huku",
-        "id": 140673,
+        "entry": "huk-",
+        "id": 146035,
         "language": "/api/v1/language/musar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/140673/",
+        "resource_uri": "/api/v1/lexicon/146035/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(skin)",
-        "word": "/api/v1/word/skin/"
+        "source_gloss": "(swell up)",
+        "word": "/api/v1/word/to-swell/"
     },
     {
         "added": "2014-07-06T21:30:00.517393",
@@ -1606,6 +1594,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "loincloth",
         "word": "/api/v1/word/loincloth/"
+    },
+    {
+        "added": "2014-07-06T21:29:53.938950",
+        "annotation": null,
+        "entry": "huku",
+        "id": 140673,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/140673/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(skin)",
+        "word": "/api/v1/word/skin/"
     },
     {
         "added": "2014-07-06T21:30:03.297882",
@@ -2146,6 +2146,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "carry on back",
         "word": "/api/v1/word/to-carry/"
+    },
+    {
+        "added": "2019-03-19T04:17:08.452915",
+        "annotation": null,
+        "entry": "kal-",
+        "id": 260716,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260716/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-laugh/"
     },
     {
         "added": "2014-07-06T21:29:49.791298",
@@ -2844,16 +2856,16 @@
         "word": "/api/v1/word/you/"
     },
     {
-        "added": "2014-07-06T21:29:50.810624",
+        "added": "2014-07-06T21:29:51.113584",
         "annotation": null,
         "entry": "ne-",
-        "id": 139145,
+        "id": 139295,
         "language": "/api/v1/language/musar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/139145/",
+        "resource_uri": "/api/v1/lexicon/139295/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "thou (VO)",
-        "word": "/api/v1/word/you-o2s/"
+        "source_gloss": "ye (genitive)",
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2014-07-06T21:29:50.724271",
@@ -2868,16 +2880,16 @@
         "word": "/api/v1/word/your-sg/"
     },
     {
-        "added": "2014-07-06T21:29:51.113584",
+        "added": "2014-07-06T21:29:50.810624",
         "annotation": null,
         "entry": "ne-",
-        "id": 139295,
+        "id": 139145,
         "language": "/api/v1/language/musar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/139295/",
+        "resource_uri": "/api/v1/lexicon/139145/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "ye (genitive)",
-        "word": "/api/v1/word/your-pl/"
+        "source_gloss": "thou (VO)",
+        "word": "/api/v1/word/you-o2s/"
     },
     {
         "added": "2014-07-06T21:30:01.203907",
@@ -3456,18 +3468,6 @@
         "word": "/api/v1/word/face-forehead/"
     },
     {
-        "added": "2014-07-06T21:30:04.157006",
-        "annotation": null,
-        "entry": "senam",
-        "id": 145420,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/145420/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "slowly",
-        "word": "/api/v1/word/slow/"
-    },
-    {
         "added": "2014-07-06T21:30:04.159051",
         "annotation": null,
         "entry": "senam",
@@ -3475,6 +3475,18 @@
         "language": "/api/v1/language/musar/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/145421/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "slowly",
+        "word": "/api/v1/word/slow/"
+    },
+    {
+        "added": "2014-07-06T21:30:04.157006",
+        "annotation": null,
+        "entry": "senam",
+        "id": 145420,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/145420/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "slowly",
         "word": "/api/v1/word/slow/"
@@ -3948,18 +3960,6 @@
         "word": "/api/v1/word/to-give/"
     },
     {
-        "added": "2014-07-06T21:30:06.862411",
-        "annotation": null,
-        "entry": "wal-",
-        "id": 146671,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146671/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "fall (a tree)",
-        "word": "/api/v1/word/fell-tree/"
-    },
-    {
         "added": "2014-07-06T21:30:07.553978",
         "annotation": null,
         "entry": "wal-",
@@ -3972,16 +3972,16 @@
         "word": "/api/v1/word/to-shoot/"
     },
     {
-        "added": "2014-07-06T21:29:50.879227",
+        "added": "2014-07-06T21:30:06.862411",
         "annotation": null,
-        "entry": "wo",
-        "id": 139179,
+        "entry": "wal-",
+        "id": 146671,
         "language": "/api/v1/language/musar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/139179/",
+        "resource_uri": "/api/v1/lexicon/146671/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(3sg)",
-        "word": "/api/v1/word/he-she/"
+        "source_gloss": "fall (a tree)",
+        "word": "/api/v1/word/fell-tree/"
     },
     {
         "added": "2014-07-06T21:29:50.954336",
@@ -3994,6 +3994,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "3sg poss.",
         "word": "/api/v1/word/his/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.879227",
+        "annotation": null,
+        "entry": "wo",
+        "id": 139179,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139179/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(3sg)",
+        "word": "/api/v1/word/he-she/"
     },
     {
         "added": "2014-07-06T21:30:04.223222",

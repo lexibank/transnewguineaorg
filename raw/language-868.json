@@ -192,6 +192,18 @@
         "word": "/api/v1/word/no-not/"
     },
     {
+        "added": "2019-03-19T05:55:07.152360",
+        "annotation": null,
+        "entry": "bi",
+        "id": 260752,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260752/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-be/"
+    },
+    {
         "added": "2014-10-30T05:21:11.300980",
         "annotation": "to be, stay 1",
         "entry": "bi",
@@ -202,18 +214,6 @@
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-stay/"
-    },
-    {
-        "added": "2014-11-24T22:17:36.740809",
-        "annotation": "",
-        "entry": "bi, n-",
-        "id": 197055,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/197055/",
-        "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-be/"
     },
     {
         "added": "2014-11-05T21:56:37.041129",
@@ -612,18 +612,6 @@
         "word": "/api/v1/word/cucumber/"
     },
     {
-        "added": "2014-07-30T23:28:34.592385",
-        "annotation": null,
-        "entry": "kin",
-        "id": 156855,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/156855/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "eye",
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2014-11-17T21:34:03.517748",
         "annotation": "",
         "entry": "kin",
@@ -633,6 +621,18 @@
         "resource_uri": "/api/v1/lexicon/197033/",
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2014-07-30T23:28:34.592385",
+        "annotation": null,
+        "entry": "kin",
+        "id": 156855,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156855/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "eye",
         "word": "/api/v1/word/eye/"
     },
     {
@@ -756,18 +756,6 @@
         "word": "/api/v1/word/garden/"
     },
     {
-        "added": "2014-11-24T22:27:16.749050",
-        "annotation": "",
-        "entry": "li\u014bla\u014b",
-        "id": 197075,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/197075/",
-        "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/thin/"
-    },
-    {
         "added": "2014-11-05T21:56:37.152283",
         "annotation": "",
         "entry": "li\u014bla\u014b",
@@ -775,6 +763,18 @@
         "language": "/api/v1/language/mian/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/196691/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/thin/"
+    },
+    {
+        "added": "2014-11-24T22:27:16.749050",
+        "annotation": "",
+        "entry": "li\u014bla\u014b",
+        "id": 197075,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/197075/",
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/thin/"
@@ -876,15 +876,15 @@
         "word": "/api/v1/word/dirty-water/"
     },
     {
-        "added": "2014-11-24T22:27:16.822414",
-        "annotation": "",
+        "added": "2014-07-30T23:28:39.057041",
+        "annotation": null,
         "entry": "mimin",
-        "id": 197079,
+        "id": 158243,
         "language": "/api/v1/language/mian/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/197079/",
-        "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/158243/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "warm",
         "word": "/api/v1/word/warm/"
     },
     {
@@ -900,15 +900,15 @@
         "word": "/api/v1/word/warm/"
     },
     {
-        "added": "2014-07-30T23:28:39.057041",
-        "annotation": null,
+        "added": "2014-11-24T22:27:16.822414",
+        "annotation": "",
         "entry": "mimin",
-        "id": 158243,
+        "id": 197079,
         "language": "/api/v1/language/mian/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/158243/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "warm",
+        "resource_uri": "/api/v1/lexicon/197079/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/warm/"
     },
     {
@@ -948,16 +948,16 @@
         "word": "/api/v1/word/to-stay/"
     },
     {
-        "added": "2014-11-24T22:27:16.833685",
-        "annotation": "",
-        "entry": "nama",
-        "id": 197081,
+        "added": "2019-03-19T05:55:07.266546",
+        "annotation": null,
+        "entry": "n-",
+        "id": 260753,
         "language": "/api/v1/language/mian/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/197081/",
+        "resource_uri": "/api/v1/lexicon/260753/",
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": "white (cockatoo)",
-        "word": "/api/v1/word/cockatoo/"
+        "source_gloss": null,
+        "word": "/api/v1/word/to-be/"
     },
     {
         "added": "2014-11-17T21:34:03.593487",
@@ -970,6 +970,18 @@
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2014-11-24T22:27:16.833685",
+        "annotation": "",
+        "entry": "nama",
+        "id": 197081,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/197081/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": "white (cockatoo)",
+        "word": "/api/v1/word/cockatoo/"
     },
     {
         "added": "2014-07-30T23:28:43.462174",
@@ -1020,18 +1032,6 @@
         "word": "/api/v1/word/we/"
     },
     {
-        "added": "2014-07-30T23:28:36.060552",
-        "annotation": null,
-        "entry": "ni\u014b",
-        "id": 157313,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157313/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "tooth",
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2014-11-17T21:34:03.648978",
         "annotation": "",
         "entry": "ni\u014b",
@@ -1042,6 +1042,18 @@
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/younger-brother/"
+    },
+    {
+        "added": "2014-07-30T23:28:36.060552",
+        "annotation": null,
+        "entry": "ni\u014b",
+        "id": 157313,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157313/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
     },
     {
         "added": "2014-11-24T22:27:16.876085",

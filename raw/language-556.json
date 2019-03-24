@@ -624,18 +624,6 @@
         "word": "/api/v1/word/white/"
     },
     {
-        "added": "2013-11-29T19:34:52.549544",
-        "annotation": "",
-        "entry": "\u00e9ga",
-        "id": 74623,
-        "language": "/api/v1/language/yagaria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74623/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tomorrow/"
-    },
-    {
         "added": "2013-11-29T19:34:54.818102",
         "annotation": "",
         "entry": "\u00e9ga",
@@ -646,6 +634,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/yesterday/"
+    },
+    {
+        "added": "2013-11-29T19:34:52.549544",
+        "annotation": "",
+        "entry": "\u00e9ga",
+        "id": 74623,
+        "language": "/api/v1/language/yagaria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74623/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tomorrow/"
     },
     {
         "added": "2013-11-29T19:34:39.109876",
@@ -1032,7 +1032,7 @@
         "word": "/api/v1/word/vine/"
     },
     {
-        "added": "2013-11-29T19:34:39.206344",
+        "added": "2019-03-15T09:53:28.576977",
         "annotation": "",
         "entry": "g\u00e1vuda",
         "id": 72219,
@@ -1041,7 +1041,7 @@
         "resource_uri": "/api/v1/lexicon/72219/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/barl-noun/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-11-29T19:34:44.024564",
@@ -1368,18 +1368,6 @@
         "word": "/api/v1/word/wing/"
     },
     {
-        "added": "2013-11-29T19:34:42.766896",
-        "annotation": "",
-        "entry": "hal\u00ed",
-        "id": 72855,
-        "language": "/api/v1/language/yagaria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72855/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fire/"
-    },
-    {
         "added": "2013-11-29T19:34:38.530274",
         "annotation": "",
         "entry": "hal\u00ed",
@@ -1390,6 +1378,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/arrow/"
+    },
+    {
+        "added": "2013-11-29T19:34:42.766896",
+        "annotation": "",
+        "entry": "hal\u00ed",
+        "id": 72855,
+        "language": "/api/v1/language/yagaria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72855/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2013-11-29T19:34:50.660556",
@@ -2340,18 +2340,6 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-11-29T19:34:55.006048",
-        "annotation": "",
-        "entry": "pa'a(ga\u00e9a)",
-        "id": 75065,
-        "language": "/api/v1/language/yagaria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75065/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/you-dual/"
-    },
-    {
         "added": "2013-11-29T19:34:51.994088",
         "annotation": "",
         "entry": "pa'a(ga\u00e9a)",
@@ -2362,6 +2350,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/they-dual/"
+    },
+    {
+        "added": "2013-11-29T19:34:55.006048",
+        "annotation": "",
+        "entry": "pa'a(ga\u00e9a)",
+        "id": 75065,
+        "language": "/api/v1/language/yagaria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75065/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/you-dual/"
     },
     {
         "added": "2013-11-29T19:34:52.077797",

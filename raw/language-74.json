@@ -60,13 +60,13 @@
         "word": "/api/v1/word/smoke/"
     },
     {
-        "added": "2013-06-16T21:01:49.653107",
-        "annotation": "",
-        "entry": "aka/hopu (K.F.)",
-        "id": 27570,
+        "added": "2019-03-19T04:19:50.238827",
+        "annotation": null,
+        "entry": "aka",
+        "id": 260726,
         "language": "/api/v1/language/tabo/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/27570/",
+        "resource_uri": "/api/v1/lexicon/260726/",
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/ground/"
@@ -168,28 +168,16 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2013-06-16T20:45:32.754331",
-        "annotation": "",
-        "entry": "baidi/na (K.F.)",
-        "id": 27509,
+        "added": "2019-03-19T04:19:50.429227",
+        "annotation": null,
+        "entry": "baidi",
+        "id": 260728,
         "language": "/api/v1/language/tabo/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/27509/",
+        "resource_uri": "/api/v1/lexicon/260728/",
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
-    },
-    {
-        "added": "2013-05-08T19:19:18.211201",
-        "annotation": "",
-        "entry": "bea",
-        "id": 1612,
-        "language": "/api/v1/language/tabo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/1612/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/water/"
     },
     {
         "added": "2013-06-16T21:01:48.940857",
@@ -204,16 +192,16 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2013-06-16T21:01:47.226756",
+        "added": "2013-05-08T19:19:18.211201",
         "annotation": "",
-        "entry": "bubu",
-        "id": 27558,
+        "entry": "bea",
+        "id": 1612,
         "language": "/api/v1/language/tabo/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/27558/",
-        "source": "/api/v1/source/reesink-1976/",
+        "resource_uri": "/api/v1/lexicon/1612/",
+        "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/cloud/"
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2013-05-08T19:19:18.207657",
@@ -224,6 +212,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/1609/",
         "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2013-06-16T21:01:47.226756",
+        "annotation": "",
+        "entry": "bubu",
+        "id": 27558,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27558/",
+        "source": "/api/v1/source/reesink-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/cloud/"
     },
@@ -408,18 +408,6 @@
         "word": "/api/v1/word/tail/"
     },
     {
-        "added": "2013-05-08T19:19:18.220866",
-        "annotation": "path",
-        "entry": "gabo",
-        "id": 1620,
-        "language": "/api/v1/language/tabo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/1620/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": "path",
-        "word": "/api/v1/word/path/"
-    },
-    {
         "added": "2013-06-16T21:01:51.763581",
         "annotation": "path",
         "entry": "gabo",
@@ -430,6 +418,18 @@
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": "path",
         "word": "/api/v1/word/road/"
+    },
+    {
+        "added": "2013-05-08T19:19:18.220866",
+        "annotation": "path",
+        "entry": "gabo",
+        "id": 1620,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/1620/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": "path",
+        "word": "/api/v1/word/path/"
     },
     {
         "added": "2013-06-16T21:01:41.771946",
@@ -528,18 +528,6 @@
         "word": "/api/v1/word/to-hear/"
     },
     {
-        "added": "2013-05-08T19:19:18.188722",
-        "annotation": "",
-        "entry": "galo",
-        "id": 1590,
-        "language": "/api/v1/language/tabo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/1590/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ear/"
-    },
-    {
         "added": "2013-06-16T20:45:32.984747",
         "annotation": "",
         "entry": "galo",
@@ -548,6 +536,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/27517/",
         "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2013-05-08T19:19:18.188722",
+        "annotation": "",
+        "entry": "galo",
+        "id": 1590,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/1590/",
+        "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/ear/"
     },
@@ -672,18 +672,6 @@
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2013-06-16T21:01:58.392918",
-        "annotation": "",
-        "entry": "hawi",
-        "id": 27627,
-        "language": "/api/v1/language/tabo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/27627/",
-        "source": "/api/v1/source/reesink-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/red/"
-    },
-    {
         "added": "2013-06-16T20:45:33.296323",
         "annotation": "",
         "entry": "hawi",
@@ -694,6 +682,18 @@
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2013-06-16T21:01:58.392918",
+        "annotation": "",
+        "entry": "hawi",
+        "id": 27627,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27627/",
+        "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/red/"
     },
     {
         "added": "2013-05-08T19:19:18.199979",
@@ -838,6 +838,18 @@
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2019-03-19T04:19:50.381117",
+        "annotation": null,
+        "entry": "hopu",
+        "id": 260727,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260727/",
+        "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ground/"
     },
     {
         "added": "2013-05-08T19:19:18.212355",
@@ -1020,18 +1032,6 @@
         "word": "/api/v1/word/egg/"
     },
     {
-        "added": "2013-05-08T19:19:18.471843",
-        "annotation": "",
-        "entry": "kikipo",
-        "id": 1677,
-        "language": "/api/v1/language/tabo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/1677/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/seed/"
-    },
-    {
         "added": "2013-06-16T21:01:55.959033",
         "annotation": "",
         "entry": "kikipo",
@@ -1042,6 +1042,18 @@
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-05-08T19:19:18.471843",
+        "annotation": "",
+        "entry": "kikipo",
+        "id": 1677,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/1677/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/seed/"
     },
     {
         "added": "2013-05-08T19:19:18.217246",
@@ -1308,6 +1320,18 @@
         "word": "/api/v1/word/i/"
     },
     {
+        "added": "2019-03-19T04:19:50.446610",
+        "annotation": null,
+        "entry": "na",
+        "id": 260729,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260729/",
+        "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/i/"
+    },
+    {
         "added": "2013-06-16T21:01:49.908253",
         "annotation": "",
         "entry": "-(nadi)",
@@ -1344,18 +1368,6 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2013-06-16T20:45:33.247836",
-        "annotation": "leg",
-        "entry": "nato",
-        "id": 27525,
-        "language": "/api/v1/language/tabo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/27525/",
-        "source": "/api/v1/source/reesink-1976/",
-        "source_gloss": "leg",
-        "word": "/api/v1/word/leg/"
-    },
-    {
         "added": "2013-05-08T19:19:18.196780",
         "annotation": "leg",
         "entry": "nato",
@@ -1364,6 +1376,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/1598/",
         "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": "leg",
+        "word": "/api/v1/word/leg/"
+    },
+    {
+        "added": "2013-06-16T20:45:33.247836",
+        "annotation": "leg",
+        "entry": "nato",
+        "id": 27525,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27525/",
+        "source": "/api/v1/source/reesink-1976/",
         "source_gloss": "leg",
         "word": "/api/v1/word/leg/"
     },
@@ -1428,18 +1452,6 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
-        "added": "2013-05-08T19:19:18.246834",
-        "annotation": "",
-        "entry": "n\u025bn\u025b",
-        "id": 1644,
-        "language": "/api/v1/language/tabo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/1644/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2013-06-16T22:46:17.788465",
         "annotation": "",
         "entry": "n\u025bn\u025b",
@@ -1448,6 +1460,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/27677/",
         "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2013-05-08T19:19:18.246834",
+        "annotation": "",
+        "entry": "n\u025bn\u025b",
+        "id": 1644,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/1644/",
+        "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-drink/"
     },
@@ -1524,18 +1548,6 @@
         "word": "/api/v1/word/to-sleep/"
     },
     {
-        "added": "2013-06-16T22:46:18.298500",
-        "annotation": "",
-        "entry": "n\u025bwata",
-        "id": 27683,
-        "language": "/api/v1/language/tabo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/27683/",
-        "source": "/api/v1/source/reesink-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2013-06-16T22:46:18.353285",
         "annotation": "",
         "entry": "n\u025bwata",
@@ -1546,6 +1558,18 @@
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/to-lie-down/"
+    },
+    {
+        "added": "2013-06-16T22:46:18.298500",
+        "annotation": "",
+        "entry": "n\u025bwata",
+        "id": 27683,
+        "language": "/api/v1/language/tabo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27683/",
+        "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2013-05-08T19:19:18.251191",

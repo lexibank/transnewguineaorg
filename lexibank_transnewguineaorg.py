@@ -8,6 +8,7 @@ import lingpy
 from pybtex.database import parse_string  # dependency of pycldf, so should be installed.
 from pybtex.utils import OrderedCaseInsensitiveDict
 from clldutils import jsonlib
+from clldutils.text import strip_brackets
 from clldutils.path import Path
 from pylexibank.util import get_url, jsondump
 from pylexibank.dataset import Metadata
@@ -62,6 +63,7 @@ class Dataset(BaseDataset):
             for c in sorted(words):
                 ds.add_concept(
                     ID=c,
+                    #Local_ID=words[c]['id'],
                     Name=words[c]['word'],
                     Concepticon_ID=words[c]['concepticon_id'],
                     Concepticon_Gloss=words[c]['concepticon_gloss']
@@ -72,6 +74,7 @@ class Dataset(BaseDataset):
                 self.log.info("Loading data from %s..." % filename)
                 for o in sorted(jsonlib.load(filename), key=lambda d: d['id']):
                     for form in self.split_forms(o, o['entry']):
+                        form = strip_brackets(form)
                         ds.add_lexemes(
                             #ID=o['id'],
                             Local_ID=o['id'],

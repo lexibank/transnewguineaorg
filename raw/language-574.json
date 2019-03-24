@@ -132,18 +132,6 @@
         "word": "/api/v1/word/how/"
     },
     {
-        "added": "2014-03-19T20:00:25.517454",
-        "annotation": "",
-        "entry": "a\u00edp\u00ed",
-        "id": 80695,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/80695/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/salt/"
-    },
-    {
         "added": "2014-01-20T22:38:17.562178",
         "annotation": "salt - native",
         "entry": "a\u00edp\u00ed",
@@ -152,6 +140,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/77231/",
         "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/salt/"
+    },
+    {
+        "added": "2014-03-19T20:00:25.517454",
+        "annotation": "",
+        "entry": "a\u00edp\u00ed",
+        "id": 80695,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80695/",
+        "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/salt/"
     },
@@ -384,18 +384,6 @@
         "word": "/api/v1/word/in/"
     },
     {
-        "added": "2014-01-20T22:38:17.910010",
-        "annotation": "to shoot/grow",
-        "entry": "\u00e1ndenge",
-        "id": 77378,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77378/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-shoot/"
-    },
-    {
         "added": "2014-01-20T22:38:17.337015",
         "annotation": "",
         "entry": "\u00e1ndenge",
@@ -406,6 +394,18 @@
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-grow/"
+    },
+    {
+        "added": "2014-01-20T22:38:17.910010",
+        "annotation": "to shoot/grow",
+        "entry": "\u00e1ndenge",
+        "id": 77378,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77378/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-shoot/"
     },
     {
         "added": "2014-01-20T22:38:18.069862",
@@ -492,13 +492,13 @@
         "word": "/api/v1/word/you/"
     },
     {
-        "added": "2014-01-20T22:38:17.310061",
-        "annotation": "",
-        "entry": "angam\u00e1e mandeng\u00e9/min\u00edngi",
-        "id": 77125,
+        "added": "2019-03-19T04:17:56.604014",
+        "annotation": null,
+        "entry": "angam\u00e1e mandeng\u00e9",
+        "id": 260717,
         "language": "/api/v1/language/enga/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/77125/",
+        "resource_uri": "/api/v1/lexicon/260717/",
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-yawn/"
@@ -708,13 +708,13 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2014-01-20T22:38:17.885999",
-        "annotation": "",
-        "entry": "ayene kaeng\u00e9/ping\u00ed",
-        "id": 77368,
+        "added": "2019-03-19T04:17:56.821261",
+        "annotation": null,
+        "entry": "ayene kaeng\u00e9",
+        "id": 260724,
         "language": "/api/v1/language/enga/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/77368/",
+        "resource_uri": "/api/v1/lexicon/260724/",
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/warm/"
@@ -1152,18 +1152,6 @@
         "word": "/api/v1/word/new/"
     },
     {
-        "added": "2014-01-20T22:38:18.055767",
-        "annotation": "",
-        "entry": "\u00e9p\u00e9",
-        "id": 77435,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77435/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/good/"
-    },
-    {
         "added": "2014-03-19T20:00:27.278748",
         "annotation": "",
         "entry": "\u00e9p\u00e9",
@@ -1172,6 +1160,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/81067/",
         "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2014-01-20T22:38:18.055767",
+        "annotation": "",
+        "entry": "\u00e9p\u00e9",
+        "id": 77435,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77435/",
+        "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/good/"
     },
@@ -1524,18 +1524,6 @@
         "word": "/api/v1/word/feather/"
     },
     {
-        "added": "2014-03-19T20:00:23.851042",
-        "annotation": "",
-        "entry": "\u00edt\u00ed",
-        "id": 80341,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/80341/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2014-01-20T22:38:17.434237",
         "annotation": "",
         "entry": "\u00edt\u00ed",
@@ -1544,6 +1532,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/77177/",
         "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2014-03-19T20:00:23.851042",
+        "annotation": "",
+        "entry": "\u00edt\u00ed",
+        "id": 80341,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80341/",
+        "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/hair/"
     },
@@ -1680,18 +1680,6 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2014-01-20T22:38:17.640239",
-        "annotation": "",
-        "entry": "kak\u00edlyingi",
-        "id": 77264,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77264/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2014-01-20T22:38:18.007783",
         "annotation": "",
         "entry": "kak\u00edlyingi",
@@ -1702,6 +1690,18 @@
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-cook/"
+    },
+    {
+        "added": "2014-01-20T22:38:17.640239",
+        "annotation": "",
+        "entry": "kak\u00edlyingi",
+        "id": 77264,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77264/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2014-01-20T22:38:17.659272",
@@ -1788,18 +1788,6 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2014-03-19T20:00:25.754237",
-        "annotation": "",
-        "entry": "kan\u00e1",
-        "id": 80748,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/80748/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/stone/"
-    },
-    {
         "added": "2014-01-20T22:38:17.571675",
         "annotation": "",
         "entry": "kan\u00e1",
@@ -1820,6 +1808,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/77394/",
         "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2014-03-19T20:00:25.754237",
+        "annotation": "",
+        "entry": "kan\u00e1",
+        "id": 80748,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80748/",
+        "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
     },
@@ -2064,18 +2064,6 @@
         "word": "/api/v1/word/dry/"
     },
     {
-        "added": "2014-01-20T22:38:17.628562",
-        "annotation": "",
-        "entry": "ken\u00e1",
-        "id": 77259,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77259/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/smoke/"
-    },
-    {
         "added": "2014-01-20T22:38:17.784702",
         "annotation": "",
         "entry": "ken\u00e1",
@@ -2086,6 +2074,18 @@
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2014-01-20T22:38:17.628562",
+        "annotation": "",
+        "entry": "ken\u00e1",
+        "id": 77259,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77259/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/smoke/"
     },
     {
         "added": "2014-01-20T22:38:17.626094",
@@ -2748,13 +2748,13 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2014-01-20T22:38:17.668686",
-        "annotation": "",
-        "entry": "l\u00e9te kateng\u00e9/peteng\u00e9",
-        "id": 77276,
+        "added": "2019-03-19T04:17:56.783193",
+        "annotation": null,
+        "entry": "l\u00e9te kateng\u00e9",
+        "id": 260722,
         "language": "/api/v1/language/enga/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/77276/",
+        "resource_uri": "/api/v1/lexicon/260722/",
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-live/"
@@ -2844,18 +2844,6 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2014-01-20T22:38:18.084004",
-        "annotation": "",
-        "entry": "lond\u00e1u",
-        "id": 77447,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77447/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/long/"
-    },
-    {
         "added": "2014-01-20T22:38:17.815414",
         "annotation": "",
         "entry": "lond\u00e1u",
@@ -2866,6 +2854,18 @@
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/far/"
+    },
+    {
+        "added": "2014-01-20T22:38:18.084004",
+        "annotation": "",
+        "entry": "lond\u00e1u",
+        "id": 77447,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77447/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/long/"
     },
     {
         "added": "2014-01-20T22:38:17.817881",
@@ -2916,13 +2916,13 @@
         "word": "/api/v1/word/to-open/"
     },
     {
-        "added": "2014-01-20T22:38:17.312452",
-        "annotation": "",
-        "entry": "(lu\u00fa) paleng\u00e9/paling\u00ed/palying\u00ed",
-        "id": 77126,
+        "added": "2019-03-19T04:17:56.729140",
+        "annotation": null,
+        "entry": "(lu\u00fa) paleng\u00e9",
+        "id": 260719,
         "language": "/api/v1/language/enga/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/77126/",
+        "resource_uri": "/api/v1/lexicon/260719/",
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
@@ -3156,18 +3156,6 @@
         "word": "/api/v1/word/ten/"
     },
     {
-        "added": "2014-01-20T22:38:17.763068",
-        "annotation": "",
-        "entry": "m\u00e1singi",
-        "id": 77316,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77316/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-think/"
-    },
-    {
         "added": "2014-01-20T22:38:17.772766",
         "annotation": "",
         "entry": "m\u00e1singi",
@@ -3178,6 +3166,18 @@
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-know/"
+    },
+    {
+        "added": "2014-01-20T22:38:17.763068",
+        "annotation": "",
+        "entry": "m\u00e1singi",
+        "id": 77316,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77316/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-think/"
     },
     {
         "added": "2014-01-20T22:38:18.039012",
@@ -3240,6 +3240,18 @@
         "word": "/api/v1/word/meat/"
     },
     {
+        "added": "2019-03-19T04:17:56.699928",
+        "annotation": null,
+        "entry": "min\u00edngi",
+        "id": 260718,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260718/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-yawn/"
+    },
+    {
         "added": "2014-01-20T22:38:17.801240",
         "annotation": "flesh",
         "entry": "m\u00ednju",
@@ -3288,18 +3300,6 @@
         "word": "/api/v1/word/leg-foot/"
     },
     {
-        "added": "2014-01-20T22:38:17.576651",
-        "annotation": "",
-        "entry": "mol\u00e9",
-        "id": 77237,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77237/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/cloud/"
-    },
-    {
         "added": "2014-01-20T22:38:17.567019",
         "annotation": "",
         "entry": "mol\u00e9",
@@ -3310,6 +3310,18 @@
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/fog/"
+    },
+    {
+        "added": "2014-01-20T22:38:17.576651",
+        "annotation": "",
+        "entry": "mol\u00e9",
+        "id": 77237,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77237/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cloud/"
     },
     {
         "added": "2014-01-20T22:38:17.649905",
@@ -3372,18 +3384,6 @@
         "word": "/api/v1/word/i/"
     },
     {
-        "added": "2014-03-19T20:00:24.953055",
-        "annotation": "",
-        "entry": "n\u00e1ima",
-        "id": 80575,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/80575/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/we/"
-    },
-    {
         "added": "2014-01-20T22:38:17.455209",
         "annotation": "",
         "entry": "n\u00e1ima",
@@ -3392,6 +3392,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/77186/",
         "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/we/"
+    },
+    {
+        "added": "2014-03-19T20:00:24.953055",
+        "annotation": "",
+        "entry": "n\u00e1ima",
+        "id": 80575,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80575/",
+        "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/we/"
     },
@@ -3576,18 +3588,6 @@
         "word": "/api/v1/word/at/"
     },
     {
-        "added": "2014-03-19T20:00:25.173855",
-        "annotation": "",
-        "entry": "nyak\u00e1ma",
-        "id": 80624,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/80624/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/you-pl/"
-    },
-    {
         "added": "2014-01-20T22:38:17.610034",
         "annotation": "",
         "entry": "nyak\u00e1ma",
@@ -3598,6 +3598,18 @@
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2014-03-19T20:00:25.173855",
+        "annotation": "",
+        "entry": "nyak\u00e1ma",
+        "id": 80624,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80624/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/you-pl/"
     },
     {
         "added": "2014-03-19T20:00:25.220609",
@@ -3708,6 +3720,30 @@
         "word": "/api/v1/word/to-steal/"
     },
     {
+        "added": "2019-03-19T04:17:56.744092",
+        "annotation": null,
+        "entry": "paling\u00ed",
+        "id": 260720,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260720/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2019-03-19T04:17:56.757877",
+        "annotation": null,
+        "entry": "palying\u00ed",
+        "id": 260721,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260721/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
         "added": "2014-01-20T22:38:17.833865",
         "annotation": "",
         "entry": "p\u00e1ng\u00f3",
@@ -3804,6 +3840,18 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
+        "added": "2019-03-19T04:17:56.797255",
+        "annotation": null,
+        "entry": "peteng\u00e9",
+        "id": 260723,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260723/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-live/"
+    },
+    {
         "added": "2014-01-20T22:38:17.317210",
         "annotation": "",
         "entry": "peteng\u00e9",
@@ -3876,16 +3924,16 @@
         "word": "/api/v1/word/sibling-opposite-sex/"
     },
     {
-        "added": "2014-01-20T22:38:18.020831",
+        "added": "2014-01-20T22:38:17.654656",
         "annotation": "",
         "entry": "p\u00edngi",
-        "id": 77421,
+        "id": 77270,
         "language": "/api/v1/language/enga/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/77421/",
+        "resource_uri": "/api/v1/lexicon/77270/",
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/root/"
+        "word": "/api/v1/word/to-hit/"
     },
     {
         "added": "2014-01-20T22:38:17.895336",
@@ -3900,16 +3948,28 @@
         "word": "/api/v1/word/to-kill/"
     },
     {
-        "added": "2014-01-20T22:38:17.654656",
+        "added": "2014-01-20T22:38:18.020831",
         "annotation": "",
         "entry": "p\u00edngi",
-        "id": 77270,
+        "id": 77421,
         "language": "/api/v1/language/enga/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/77270/",
+        "resource_uri": "/api/v1/lexicon/77421/",
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/to-hit/"
+        "word": "/api/v1/word/root/"
+    },
+    {
+        "added": "2019-03-19T04:17:56.833562",
+        "annotation": null,
+        "entry": "ping\u00ed",
+        "id": 260725,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260725/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/warm/"
     },
     {
         "added": "2014-01-20T22:38:17.961868",
@@ -4176,18 +4236,6 @@
         "word": "/api/v1/word/at/"
     },
     {
-        "added": "2014-01-20T22:38:17.862903",
-        "annotation": "",
-        "entry": "sa\u00e9",
-        "id": 77358,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77358/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/yellow/"
-    },
-    {
         "added": "2014-03-19T20:00:25.988475",
         "annotation": "",
         "entry": "sa\u00e9",
@@ -4198,6 +4246,18 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/banana/"
+    },
+    {
+        "added": "2014-01-20T22:38:17.862903",
+        "annotation": "",
+        "entry": "sa\u00e9",
+        "id": 77358,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77358/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yellow/"
     },
     {
         "added": "2014-01-20T22:38:17.540951",
@@ -4560,18 +4620,6 @@
         "word": "/api/v1/word/flower/"
     },
     {
-        "added": "2014-01-20T22:38:17.936910",
-        "annotation": "",
-        "entry": "t\u00e9ma",
-        "id": 77388,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77388/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/three/"
-    },
-    {
         "added": "2014-03-19T20:00:25.291546",
         "annotation": "",
         "entry": "t\u00e9ma",
@@ -4580,6 +4628,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/80645/",
         "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2014-01-20T22:38:17.936910",
+        "annotation": "",
+        "entry": "t\u00e9ma",
+        "id": 77388,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77388/",
+        "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/three/"
     },
@@ -5016,18 +5076,6 @@
         "word": "/api/v1/word/brother/"
     },
     {
-        "added": "2014-03-19T20:00:26.288840",
-        "annotation": "",
-        "entry": "y\u00e1ka",
-        "id": 80857,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/80857/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2014-01-20T22:38:17.481056",
         "annotation": "",
         "entry": "y\u00e1ka",
@@ -5036,6 +5084,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/77197/",
         "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2014-03-19T20:00:26.288840",
+        "annotation": "",
+        "entry": "y\u00e1ka",
+        "id": 80857,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80857/",
+        "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
     },
@@ -5232,18 +5292,6 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2014-01-20T22:38:17.422789",
-        "annotation": "",
-        "entry": "yomand\u00ed",
-        "id": 77172,
-        "language": "/api/v1/language/enga/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/77172/",
-        "source": "/api/v1/source/lang-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2014-01-20T22:38:17.500130",
         "annotation": "",
         "entry": "yomand\u00ed",
@@ -5254,6 +5302,18 @@
         "source": "/api/v1/source/lang-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/feather/"
+    },
+    {
+        "added": "2014-01-20T22:38:17.422789",
+        "annotation": "",
+        "entry": "yomand\u00ed",
+        "id": 77172,
+        "language": "/api/v1/language/enga/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/77172/",
+        "source": "/api/v1/source/lang-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2014-01-20T22:38:17.652352",

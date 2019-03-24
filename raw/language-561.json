@@ -48,7 +48,7 @@
         "word": "/api/v1/word/morning/"
     },
     {
-        "added": "2013-11-29T19:34:39.152865",
+        "added": "2019-03-15T09:53:27.429714",
         "annotation": "",
         "entry": "aamaamaba",
         "id": 72206,
@@ -57,7 +57,7 @@
         "resource_uri": "/api/v1/lexicon/72206/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/barl-noun/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-11-29T19:34:48.460658",
@@ -684,18 +684,6 @@
         "word": "/api/v1/word/forehead/"
     },
     {
-        "added": "2013-11-29T19:34:46.387972",
-        "annotation": "",
-        "entry": "awaima",
-        "id": 73499,
-        "language": "/api/v1/language/awiyaana/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73499/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/neck/"
-    },
-    {
         "added": "2013-11-29T19:34:43.460649",
         "annotation": "",
         "entry": "awaima",
@@ -706,6 +694,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/frog/"
+    },
+    {
+        "added": "2013-11-29T19:34:46.387972",
+        "annotation": "",
+        "entry": "awaima",
+        "id": 73499,
+        "language": "/api/v1/language/awiyaana/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73499/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/neck/"
     },
     {
         "added": "2013-11-29T19:34:52.688118",

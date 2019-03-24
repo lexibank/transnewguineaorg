@@ -696,18 +696,6 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2013-06-13T23:02:34.850402",
-        "annotation": "",
-        "entry": "mo\ud835\udeffa",
-        "id": 27069,
-        "language": "/api/v1/language/walak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/27069/",
-        "source": "/api/v1/source/bromley-1967/",
-        "source_gloss": null,
-        "word": "/api/v1/word/yellow/"
-    },
-    {
         "added": "2013-06-13T23:02:34.720543",
         "annotation": "",
         "entry": "mo\ud835\udeffa",
@@ -718,6 +706,18 @@
         "source": "/api/v1/source/bromley-1967/",
         "source_gloss": null,
         "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2013-06-13T23:02:34.850402",
+        "annotation": "",
+        "entry": "mo\ud835\udeffa",
+        "id": 27069,
+        "language": "/api/v1/language/walak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27069/",
+        "source": "/api/v1/source/bromley-1967/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yellow/"
     },
     {
         "added": "2013-06-13T22:51:30.252064",
@@ -1032,15 +1032,27 @@
         "word": "/api/v1/word/not_know/"
     },
     {
-        "added": "2013-06-13T23:02:33.849201",
-        "annotation": "marked with ! and (2s)",
-        "entry": "noko jin, noke...",
-        "id": 27044,
+        "added": "2019-03-19T05:54:58.316769",
+        "annotation": null,
+        "entry": "noke...",
+        "id": 260751,
         "language": "/api/v1/language/walak/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/27044/",
+        "resource_uri": "/api/v1/lexicon/260751/",
         "source": "/api/v1/source/bromley-1967/",
-        "source_gloss": "sleep! (2s)",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2019-03-19T05:54:58.233233",
+        "annotation": null,
+        "entry": "noko jin",
+        "id": 260750,
+        "language": "/api/v1/language/walak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260750/",
+        "source": "/api/v1/source/bromley-1967/",
+        "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
     },
     {

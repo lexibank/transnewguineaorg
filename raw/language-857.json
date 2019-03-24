@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/bush/"
     },
     {
-        "added": "2015-03-19T07:04:59.821846",
-        "annotation": null,
-        "entry": "*ne-",
-        "id": 208088,
-        "language": "/api/v1/language/proto-maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/208088/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "go",
-        "word": "/api/v1/word/go/"
-    },
-    {
         "added": "2015-03-19T07:05:01.277511",
         "annotation": null,
         "entry": "*ne-",
@@ -1236,16 +1224,16 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2015-03-19T07:05:01.941941",
+        "added": "2015-03-19T07:04:59.821846",
         "annotation": null,
-        "entry": "*nede",
-        "id": 208766,
+        "entry": "*ne-",
+        "id": 208088,
         "language": "/api/v1/language/proto-maria/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/208766/",
+        "resource_uri": "/api/v1/lexicon/208088/",
         "source": "/api/v1/source/ross2014/",
-        "source_gloss": "understand",
-        "word": "/api/v1/word/to-understand/"
+        "source_gloss": "go",
+        "word": "/api/v1/word/go/"
     },
     {
         "added": "2015-03-19T07:05:02.559559",
@@ -1258,6 +1246,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "hear",
         "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2015-03-19T07:05:01.941941",
+        "annotation": null,
+        "entry": "*nede",
+        "id": 208766,
+        "language": "/api/v1/language/proto-maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208766/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "understand",
+        "word": "/api/v1/word/to-understand/"
     },
     {
         "added": "2014-05-21T21:10:23.057703",
@@ -1392,18 +1392,6 @@
         "word": "/api/v1/word/fence/"
     },
     {
-        "added": "2015-03-19T07:05:03.180098",
-        "annotation": null,
-        "entry": "*oha/uaha",
-        "id": 209194,
-        "language": "/api/v1/language/proto-maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/209194/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "(water) hot",
-        "word": "/api/v1/word/hot/"
-    },
-    {
         "added": "2015-03-19T07:05:05.069221",
         "annotation": null,
         "entry": "*ohe-\u0294a",
@@ -1500,18 +1488,6 @@
         "word": "/api/v1/word/afraid/"
     },
     {
-        "added": "2015-03-19T07:04:58.186967",
-        "annotation": null,
-        "entry": "*\u0294oru",
-        "id": 207648,
-        "language": "/api/v1/language/proto-maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/207648/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "river",
-        "word": "/api/v1/word/river/"
-    },
-    {
         "added": "2015-03-19T07:04:58.426661",
         "annotation": null,
         "entry": "*\u0294oru",
@@ -1522,6 +1498,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2015-03-19T07:04:58.186967",
+        "annotation": null,
+        "entry": "*\u0294oru",
+        "id": 207648,
+        "language": "/api/v1/language/proto-maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207648/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "river",
+        "word": "/api/v1/word/river/"
     },
     {
         "added": "2015-03-19T07:05:02.335456",
@@ -1810,6 +1798,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "carry (on shoulder)",
         "word": "/api/v1/word/to-carry/"
+    },
+    {
+        "added": "2015-03-19T07:05:03.180098",
+        "annotation": "",
+        "entry": "*(ua,o)ha",
+        "id": 209194,
+        "language": "/api/v1/language/proto-maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209194/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "(water) hot",
+        "word": "/api/v1/word/hot/"
     },
     {
         "added": "2015-03-19T07:05:00.704699",

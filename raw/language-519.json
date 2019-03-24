@@ -192,13 +192,25 @@
         "word": "/api/v1/word/two-hundred/"
     },
     {
-        "added": "2013-11-05T00:13:38.718868",
-        "annotation": "",
-        "entry": "id\u017e'\u03b1y\u03b1/'id\u017ea",
-        "id": 36420,
+        "added": "2019-03-19T04:16:31.299355",
+        "annotation": null,
+        "entry": "'id\u017ea",
+        "id": 260683,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36420/",
+        "resource_uri": "/api/v1/lexicon/260683/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.286700",
+        "annotation": null,
+        "entry": "id\u017e'\u03b1y\u03b1",
+        "id": 260682,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260682/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
@@ -324,13 +336,37 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2013-11-05T00:13:39.718917",
-        "annotation": "",
-        "entry": "kur'ussu/k'asi",
-        "id": 36486,
+        "added": "2019-03-19T04:16:31.372863",
+        "annotation": null,
+        "entry": "k'asi",
+        "id": 260687,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36486/",
+        "resource_uri": "/api/v1/lexicon/260687/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/nail/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.338530",
+        "annotation": null,
+        "entry": "kul'akku",
+        "id": 260685,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260685/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.360906",
+        "annotation": null,
+        "entry": "kur'ussu",
+        "id": 260686,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260686/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/nail/"
@@ -432,13 +468,13 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2013-11-05T00:13:39.400034",
-        "annotation": "",
-        "entry": "m\u025b\u0294/su",
-        "id": 36469,
+        "added": "2019-03-19T04:16:31.396378",
+        "annotation": null,
+        "entry": "m\u025b\u0294",
+        "id": 260688,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36469/",
+        "resource_uri": "/api/v1/lexicon/260688/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-come/"
@@ -600,13 +636,13 @@
         "word": "/api/v1/word/hand/"
     },
     {
-        "added": "2013-11-05T00:13:38.735882",
-        "annotation": "",
-        "entry": "\u014bap'\u03b1y\u03b1/\u014b'\u03b1p\u03b1",
-        "id": 36421,
+        "added": "2019-03-19T04:16:31.231688",
+        "annotation": null,
+        "entry": "\u014bap'\u03b1y\u03b1",
+        "id": 260680,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36421/",
+        "resource_uri": "/api/v1/lexicon/260680/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/father/"
@@ -660,13 +696,25 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
-        "added": "2013-11-05T00:13:38.518252",
-        "annotation": "leg",
-        "entry": "\u014b'\u025bkuli/\u014b'\u025bkasi",
-        "id": 36413,
+        "added": "2019-03-19T04:16:31.108742",
+        "annotation": null,
+        "entry": "\u014b'\u025bkasi",
+        "id": 260677,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36413/",
+        "resource_uri": "/api/v1/lexicon/260677/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/leg/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.087172",
+        "annotation": null,
+        "entry": "\u014b'\u025bkuli",
+        "id": 260676,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260676/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/leg/"
@@ -816,13 +864,25 @@
         "word": "/api/v1/word/cheek/"
     },
     {
-        "added": "2013-11-05T00:13:38.758024",
-        "annotation": "",
-        "entry": "\u014b\u03b1d.'\u025bn.\u03b1/\u014b\u03b1d.'\u025bn.du\u03b1",
-        "id": 36423,
+        "added": "2019-03-19T04:16:31.195993",
+        "annotation": null,
+        "entry": "\u014b\u03b1d.'\u025bn.du\u03b1",
+        "id": 260679,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36423/",
+        "resource_uri": "/api/v1/lexicon/260679/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/friend/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.163186",
+        "annotation": null,
+        "entry": "\u014b\u03b1d.'\u025bn.\u03b1",
+        "id": 260678,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260678/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/friend/"
@@ -874,6 +934,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/shoulder/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.256615",
+        "annotation": null,
+        "entry": "\u014b'\u03b1p\u03b1",
+        "id": 260681,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260681/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/father/"
     },
     {
         "added": "2013-11-05T00:13:39.362966",
@@ -948,13 +1020,13 @@
         "word": "/api/v1/word/back/"
     },
     {
-        "added": "2013-11-05T00:13:39.020527",
-        "annotation": "",
-        "entry": "o\u02b0\u025by\u03b1/p\u025bs'akk\u03b1",
-        "id": 36435,
+        "added": "2019-03-19T04:16:31.038706",
+        "annotation": null,
+        "entry": "o\u02b0\u025by\u03b1",
+        "id": 260674,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36435/",
+        "resource_uri": "/api/v1/lexicon/260674/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/pig/"
@@ -970,6 +1042,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/garden/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.056695",
+        "annotation": null,
+        "entry": "p\u025bs'akk\u03b1",
+        "id": 260675,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260675/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
     },
     {
         "added": "2013-11-05T00:13:39.902994",
@@ -1008,25 +1092,37 @@
         "word": "/api/v1/word/moon/"
     },
     {
-        "added": "2013-11-05T00:13:39.885276",
-        "annotation": "",
-        "entry": "pin'akk\u03b1/kul'akku",
-        "id": 36495,
+        "added": "2019-03-19T04:16:31.324418",
+        "annotation": null,
+        "entry": "pin'akk\u03b1",
+        "id": 260684,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36495/",
+        "resource_uri": "/api/v1/lexicon/260684/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/smoke/"
     },
     {
-        "added": "2013-11-05T00:13:39.323742",
-        "annotation": "",
-        "entry": "r'ibu\u03b1/ribd'an\u03b1",
-        "id": 36461,
+        "added": "2019-03-19T04:16:30.902616",
+        "annotation": null,
+        "entry": "ribd'an\u03b1",
+        "id": 260669,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36461/",
+        "resource_uri": "/api/v1/lexicon/260669/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/thousand/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.883470",
+        "annotation": null,
+        "entry": "r'ibu\u03b1",
+        "id": 260668,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260668/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/thousand/"
@@ -1104,6 +1200,18 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2019-03-19T04:16:31.413866",
+        "annotation": null,
+        "entry": "su",
+        "id": 260689,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260689/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-come/"
+    },
+    {
         "added": "2013-11-05T00:13:38.768155",
         "annotation": "",
         "entry": "s'uub\u03b1",
@@ -1128,6 +1236,30 @@
         "word": "/api/v1/word/to-sleep/"
     },
     {
+        "added": "2019-03-19T04:16:30.938810",
+        "annotation": null,
+        "entry": "tu",
+        "id": 260670,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260670/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.957969",
+        "annotation": null,
+        "entry": "tuk'an\u03b1",
+        "id": 260671,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260671/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2013-11-05T00:13:39.727987",
         "annotation": "",
         "entry": "tupw'\u03b1y\u03b1",
@@ -1138,18 +1270,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/new/"
-    },
-    {
-        "added": "2013-11-05T00:13:39.213364",
-        "annotation": "",
-        "entry": "tu/tuk'an\u03b1",
-        "id": 36450,
-        "language": "/api/v1/language/kula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/36450/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/three/"
     },
     {
         "added": "2013-11-05T00:13:39.944198",
@@ -1404,13 +1524,25 @@
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2013-11-05T00:13:39.114273",
-        "annotation": "",
-        "entry": "\u03b1yag'\u028csi/\u03b1y'aki",
-        "id": 36442,
+        "added": "2019-03-19T04:16:30.993890",
+        "annotation": null,
+        "entry": "\u03b1yag'\u028csi",
+        "id": 260672,
         "language": "/api/v1/language/kula/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36442/",
+        "resource_uri": "/api/v1/lexicon/260672/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.008540",
+        "annotation": null,
+        "entry": "\u03b1y'aki",
+        "id": 260673,
+        "language": "/api/v1/language/kula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260673/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"

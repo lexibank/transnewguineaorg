@@ -24,18 +24,6 @@
         "word": "/api/v1/word/him-her-it/"
     },
     {
-        "added": "2014-07-06T21:29:51.592165",
-        "annotation": null,
-        "entry": "0\u0338-",
-        "id": 139522,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139522/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "we (VO)",
-        "word": "/api/v1/word/us/"
-    },
-    {
         "added": "2014-07-06T21:29:51.176902",
         "annotation": null,
         "entry": "0\u0338-",
@@ -46,6 +34,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "ye (VO)",
         "word": "/api/v1/word/you-pl-o2p/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.592165",
+        "annotation": null,
+        "entry": "0\u0338-",
+        "id": 139522,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139522/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "we (VO)",
+        "word": "/api/v1/word/us/"
     },
     {
         "added": "2014-07-06T21:30:01.236351",
@@ -1920,18 +1920,6 @@
         "word": "/api/v1/word/tanket/"
     },
     {
-        "added": "2014-07-06T21:30:01.066347",
-        "annotation": null,
-        "entry": "karas",
-        "id": 144103,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/144103/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "red",
-        "word": "/api/v1/word/red/"
-    },
-    {
         "added": "2014-07-06T21:30:02.227238",
         "annotation": null,
         "entry": "karas",
@@ -1942,6 +1930,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "ripe",
         "word": "/api/v1/word/ripe/"
+    },
+    {
+        "added": "2014-07-06T21:30:01.066347",
+        "annotation": null,
+        "entry": "karas",
+        "id": 144103,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/144103/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "red",
+        "word": "/api/v1/word/red/"
     },
     {
         "added": "2014-07-06T21:29:58.511071",
@@ -2280,6 +2280,18 @@
         "word": "/api/v1/word/left-arm/"
     },
     {
+        "added": "2019-03-19T04:17:08.146582",
+        "annotation": null,
+        "entry": "ku",
+        "id": 260707,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260707/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
         "added": "2014-07-06T21:30:07.973216",
         "annotation": null,
         "entry": "ku-",
@@ -2374,18 +2386,6 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "single-point arrow",
         "word": "/api/v1/word/arrow/"
-    },
-    {
-        "added": "2014-07-06T21:29:53.297849",
-        "annotation": null,
-        "entry": "ku/namun",
-        "id": 140356,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/140356/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "belly",
-        "word": "/api/v1/word/belly/"
     },
     {
         "added": "2014-07-06T21:29:56.096150",
@@ -2892,18 +2892,6 @@
         "word": "/api/v1/word/urine/"
     },
     {
-        "added": "2014-07-06T21:30:08.195792",
-        "annotation": null,
-        "entry": "muw-",
-        "id": 147342,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/147342/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "fasten",
-        "word": "/api/v1/word/to-fasten/"
-    },
-    {
         "added": "2014-07-06T21:30:07.811086",
         "annotation": null,
         "entry": "muw-",
@@ -2914,6 +2902,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "pull",
         "word": "/api/v1/word/to-pull/"
+    },
+    {
+        "added": "2014-07-06T21:30:08.195792",
+        "annotation": null,
+        "entry": "muw-",
+        "id": 147342,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/147342/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "fasten",
+        "word": "/api/v1/word/to-fasten/"
     },
     {
         "added": "2014-07-06T21:29:54.655672",
@@ -2974,6 +2974,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "chest",
         "word": "/api/v1/word/chest/"
+    },
+    {
+        "added": "2019-03-19T04:17:08.238763",
+        "annotation": null,
+        "entry": "namun",
+        "id": 260708,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260708/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
     },
     {
         "added": "2014-07-06T21:29:50.086414",
@@ -3468,18 +3480,6 @@
         "word": "/api/v1/word/basket/"
     },
     {
-        "added": "2014-07-06T21:29:57.187533",
-        "annotation": null,
-        "entry": "sik",
-        "id": 142268,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/142268/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "fruit",
-        "word": "/api/v1/word/fruit/"
-    },
-    {
         "added": "2014-07-06T21:29:52.900848",
         "annotation": null,
         "entry": "sik",
@@ -3490,6 +3490,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "right arm",
         "word": "/api/v1/word/right-arm/"
+    },
+    {
+        "added": "2014-07-06T21:29:57.187533",
+        "annotation": null,
+        "entry": "sik",
+        "id": 142268,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/142268/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "fruit",
+        "word": "/api/v1/word/fruit/"
     },
     {
         "added": "2014-07-06T21:29:49.700500",

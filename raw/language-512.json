@@ -12,6 +12,18 @@
         "word": "/api/v1/word/woman/"
     },
     {
+        "added": "2019-03-19T04:10:12.768296",
+        "annotation": null,
+        "entry": "ar'ax",
+        "id": 260501,
+        "language": "/api/v1/language/teiwa-sargang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260501/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
         "added": "2013-11-04T23:00:11.401305",
         "annotation": "",
         "entry": "bay",
@@ -276,13 +288,25 @@
         "word": "/api/v1/word/road/"
     },
     {
-        "added": "2013-11-04T23:00:10.947499",
-        "annotation": "",
-        "entry": "j\u0269r/jir/yir",
-        "id": 36068,
+        "added": "2019-03-19T04:10:12.671847",
+        "annotation": null,
+        "entry": "jir",
+        "id": 260496,
         "language": "/api/v1/language/teiwa-sargang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36068/",
+        "resource_uri": "/api/v1/lexicon/260496/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2019-03-19T04:10:12.576856",
+        "annotation": null,
+        "entry": "j\u0269r",
+        "id": 260495,
+        "language": "/api/v1/language/teiwa-sargang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260495/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
@@ -324,15 +348,15 @@
         "word": "/api/v1/word/nail/"
     },
     {
-        "added": "2013-11-04T23:00:12.016381",
-        "annotation": "fat",
-        "entry": "kut/tam'\u03b1",
-        "id": 36127,
+        "added": "2019-03-19T04:10:12.834876",
+        "annotation": null,
+        "entry": "kut",
+        "id": 260504,
         "language": "/api/v1/language/teiwa-sargang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36127/",
+        "resource_uri": "/api/v1/lexicon/260504/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -468,6 +492,18 @@
         "word": "/api/v1/word/bone/"
     },
     {
+        "added": "2019-03-19T04:10:12.732284",
+        "annotation": null,
+        "entry": "nad'a\u014b",
+        "id": 260499,
+        "language": "/api/v1/language/teiwa-sargang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260499/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/friend/"
+    },
+    {
         "added": "2013-11-04T23:00:11.038179",
         "annotation": "",
         "entry": "n\u0103l\u0103l'a",
@@ -516,13 +552,13 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-11-04T23:00:11.051523",
-        "annotation": "",
-        "entry": "na\u0294'uy/nad'a\u014b",
-        "id": 36071,
+        "added": "2019-03-19T04:10:12.717933",
+        "annotation": null,
+        "entry": "na\u0294'uy",
+        "id": 260498,
         "language": "/api/v1/language/teiwa-sargang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36071/",
+        "resource_uri": "/api/v1/lexicon/260498/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/friend/"
@@ -708,13 +744,25 @@
         "word": "/api/v1/word/body/"
     },
     {
-        "added": "2013-11-04T23:00:12.485675",
-        "annotation": "",
-        "entry": "n\u03b1 d\u03b1m bil/n\u03b1 d\u03b1m gas'ar",
-        "id": 36149,
+        "added": "2019-03-19T04:10:12.796605",
+        "annotation": null,
+        "entry": "n\u03b1 d\u03b1m bil",
+        "id": 260502,
         "language": "/api/v1/language/teiwa-sargang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36149/",
+        "resource_uri": "/api/v1/lexicon/260502/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/i-see-the-snake/"
+    },
+    {
+        "added": "2019-03-19T04:10:12.809133",
+        "annotation": null,
+        "entry": "n\u03b1 d\u03b1m gas'ar",
+        "id": 260503,
+        "language": "/api/v1/language/teiwa-sargang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260503/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/i-see-the-snake/"
@@ -984,13 +1032,13 @@
         "word": "/api/v1/word/twenty/"
     },
     {
-        "added": "2013-11-04T23:00:11.471216",
-        "annotation": "",
-        "entry": "r'ahdik/ar'ax",
-        "id": 36090,
+        "added": "2019-03-19T04:10:12.756024",
+        "annotation": null,
+        "entry": "r'ahdik",
+        "id": 260500,
         "language": "/api/v1/language/teiwa-sargang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36090/",
+        "resource_uri": "/api/v1/lexicon/260500/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -1102,6 +1150,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
+    },
+    {
+        "added": "2019-03-19T04:10:12.849227",
+        "annotation": null,
+        "entry": "tam'\u03b1",
+        "id": 260505,
+        "language": "/api/v1/language/teiwa-sargang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260505/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-04T23:00:10.259872",
@@ -1366,6 +1426,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2019-03-19T04:10:12.686753",
+        "annotation": null,
+        "entry": "yir",
+        "id": 260497,
+        "language": "/api/v1/language/teiwa-sargang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260497/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2013-11-04T23:00:11.702947",

@@ -48,7 +48,7 @@
         "word": "/api/v1/word/he-she/"
     },
     {
-        "added": "2013-11-29T19:34:39.161110",
+        "added": "2019-03-15T09:53:27.601263",
         "annotation": "",
         "entry": "\u00e1kal\u00faya('a)",
         "id": 72208,
@@ -57,7 +57,7 @@
         "resource_uri": "/api/v1/lexicon/72208/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/barl-noun/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-11-29T19:34:51.671979",

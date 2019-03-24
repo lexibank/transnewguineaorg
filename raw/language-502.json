@@ -24,13 +24,25 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2013-11-04T21:10:27.227619",
-        "annotation": "",
-        "entry": "ar'ak(\u03b1)/ar'ak\u03b1-''\u025bs",
-        "id": 35622,
+        "added": "2019-03-19T04:09:31.008633",
+        "annotation": null,
+        "entry": "ar'ak(\u03b1)",
+        "id": 260461,
         "language": "/api/v1/language/wersing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35622/",
+        "resource_uri": "/api/v1/lexicon/260461/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:09:31.022544",
+        "annotation": null,
+        "entry": "ar'ak\u03b1-''\u025bs",
+        "id": 260462,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260462/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -108,13 +120,13 @@
         "word": "/api/v1/word/to-see/"
     },
     {
-        "added": "2013-11-04T21:10:27.191108",
-        "annotation": "rain",
-        "entry": "'\u025by\u03b1/'\u03b1y\u03b1",
-        "id": 35618,
+        "added": "2019-03-19T04:09:31.085682",
+        "annotation": null,
+        "entry": "'\u025by\u03b1",
+        "id": 260465,
         "language": "/api/v1/language/wersing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35618/",
+        "resource_uri": "/api/v1/lexicon/260465/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-rain/"
@@ -180,6 +192,18 @@
         "word": "/api/v1/word/water/"
     },
     {
+        "added": "2019-03-19T04:09:31.046488",
+        "annotation": null,
+        "entry": "ka\u014b",
+        "id": 260463,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260463/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-04T21:10:27.742779",
         "annotation": "",
         "entry": "ka\u014b",
@@ -190,18 +214,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/good/"
-    },
-    {
-        "added": "2013-11-04T21:10:27.752199",
-        "annotation": "fat",
-        "entry": "ka\u014b/sim'\u025b",
-        "id": 35659,
-        "language": "/api/v1/language/wersing/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35659/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
-        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-04T21:10:27.887854",
@@ -480,25 +492,49 @@
         "word": "/api/v1/word/oral-cavity/"
     },
     {
-        "added": "2013-11-04T21:10:26.940368",
-        "annotation": "",
-        "entry": "n\u025bd'een\u2019/n\u025bd'\u025bni",
-        "id": 35596,
+        "added": "2019-03-19T04:09:30.906536",
+        "annotation": null,
+        "entry": "n\u025bd'een\u2019",
+        "id": 260457,
         "language": "/api/v1/language/wersing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35596/",
+        "resource_uri": "/api/v1/lexicon/260457/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2013-11-04T21:10:24.366055",
-        "annotation": "",
-        "entry": "n'\u025bis\u2019/niis\u2019/n\u025b'isi",
-        "id": 35567,
+        "added": "2019-03-19T04:09:30.922433",
+        "annotation": null,
+        "entry": "n\u025bd'\u025bni",
+        "id": 260458,
         "language": "/api/v1/language/wersing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35567/",
+        "resource_uri": "/api/v1/lexicon/260458/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2019-03-19T04:09:30.678747",
+        "annotation": null,
+        "entry": "n'\u025bis\u2019",
+        "id": 260452,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260452/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/body/"
+    },
+    {
+        "added": "2019-03-19T04:09:30.826698",
+        "annotation": null,
+        "entry": "n\u025b'isi",
+        "id": 260454,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260454/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/body/"
@@ -624,6 +660,18 @@
         "word": "/api/v1/word/hair/"
     },
     {
+        "added": "2019-03-19T04:09:30.876856",
+        "annotation": null,
+        "entry": "n\u025bn'iri-ir''\u03b1",
+        "id": 260456,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260456/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tears/"
+    },
+    {
         "added": "2013-11-04T21:10:26.606479",
         "annotation": "",
         "entry": "n\u025bn'irik\u0254",
@@ -636,13 +684,13 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2013-11-04T21:10:26.614233",
-        "annotation": "",
-        "entry": "n\u025bn'irr\u03b1/n\u025bn'iri-ir''\u03b1",
-        "id": 35573,
+        "added": "2019-03-19T04:09:30.859585",
+        "annotation": null,
+        "entry": "n\u025bn'irr\u03b1",
+        "id": 260455,
         "language": "/api/v1/language/wersing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35573/",
+        "resource_uri": "/api/v1/lexicon/260455/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/tears/"
@@ -766,6 +814,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2019-03-19T04:09:30.807729",
+        "annotation": null,
+        "entry": "niis\u2019",
+        "id": 260453,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260453/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/body/"
     },
     {
         "added": "2013-11-04T21:10:27.041925",
@@ -996,6 +1056,18 @@
         "word": "/api/v1/word/bone/"
     },
     {
+        "added": "2019-03-19T04:09:31.059696",
+        "annotation": null,
+        "entry": "sim'\u025b",
+        "id": 260464,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260464/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-04T21:10:27.964649",
         "annotation": "",
         "entry": "s\u012dr'ipi\u014b",
@@ -1104,13 +1176,25 @@
         "word": "/api/v1/word/louse/"
     },
     {
-        "added": "2013-11-04T21:10:27.169067",
-        "annotation": "",
-        "entry": "ur/ur'akk\u03b1",
-        "id": 35617,
+        "added": "2019-03-19T04:09:30.959178",
+        "annotation": null,
+        "entry": "ur",
+        "id": 260459,
         "language": "/api/v1/language/wersing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35617/",
+        "resource_uri": "/api/v1/lexicon/260459/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2019-03-19T04:09:30.979794",
+        "annotation": null,
+        "entry": "ur'akk\u03b1",
+        "id": 260460,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260460/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
@@ -1402,5 +1486,17 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2019-03-19T04:09:31.098057",
+        "annotation": null,
+        "entry": "'\u03b1y\u03b1",
+        "id": 260466,
+        "language": "/api/v1/language/wersing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260466/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-rain/"
     }
 ]
