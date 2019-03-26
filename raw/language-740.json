@@ -60,18 +60,6 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2014-10-12T01:23:18.491420",
-        "annotation": "",
-        "entry": "amb-",
-        "id": 194711,
-        "language": "/api/v1/language/sileibi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/194711/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "talk (tr)",
-        "word": "/api/v1/word/to-talk/"
-    },
-    {
         "added": "2014-10-12T01:23:18.454851",
         "annotation": "",
         "entry": "amb-",
@@ -81,6 +69,18 @@
         "resource_uri": "/api/v1/lexicon/194696/",
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "talk (intr)",
+        "word": "/api/v1/word/to-talk/"
+    },
+    {
+        "added": "2014-10-12T01:23:18.491420",
+        "annotation": "",
+        "entry": "amb-",
+        "id": 194711,
+        "language": "/api/v1/language/sileibi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/194711/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "talk (tr)",
         "word": "/api/v1/word/to-talk/"
     },
     {
@@ -588,18 +588,6 @@
         "word": "/api/v1/word/crayfish/"
     },
     {
-        "added": "2014-10-12T01:23:19.753401",
-        "annotation": "",
-        "entry": "i-",
-        "id": 195139,
-        "language": "/api/v1/language/sileibi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/195139/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "fight (hit)",
-        "word": "/api/v1/word/to-fight/"
-    },
-    {
         "added": "2014-10-12T01:23:19.318711",
         "annotation": "",
         "entry": "i-",
@@ -610,6 +598,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "cut (with knife)",
         "word": "/api/v1/word/to-cut/"
+    },
+    {
+        "added": "2014-10-12T01:23:19.753401",
+        "annotation": "",
+        "entry": "i-",
+        "id": 195139,
+        "language": "/api/v1/language/sileibi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/195139/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "fight (hit)",
+        "word": "/api/v1/word/to-fight/"
     },
     {
         "added": "2014-10-12T01:23:12.869689",
@@ -1092,18 +1092,6 @@
         "word": "/api/v1/word/betelnut/"
     },
     {
-        "added": "2014-10-12T01:23:10.151566",
-        "annotation": "",
-        "entry": "karma",
-        "id": 190974,
-        "language": "/api/v1/language/sileibi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190974/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "head",
-        "word": "/api/v1/word/head/"
-    },
-    {
         "added": "2014-10-12T01:23:13.420804",
         "annotation": "",
         "entry": "karma",
@@ -1114,6 +1102,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "top",
         "word": "/api/v1/word/top/"
+    },
+    {
+        "added": "2014-10-12T01:23:10.151566",
+        "annotation": "",
+        "entry": "karma",
+        "id": 190974,
+        "language": "/api/v1/language/sileibi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190974/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
     },
     {
         "added": "2014-10-12T01:23:09.036575",
@@ -1812,18 +1812,6 @@
         "word": "/api/v1/word/to-shoot/"
     },
     {
-        "added": "2014-10-12T01:23:19.560220",
-        "annotation": "",
-        "entry": "kus-",
-        "id": 195050,
-        "language": "/api/v1/language/sileibi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/195050/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "roast",
-        "word": "/api/v1/word/to-roast/"
-    },
-    {
         "added": "2014-10-12T01:23:19.642060",
         "annotation": "",
         "entry": "kus-",
@@ -1834,6 +1822,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "burn (tr)",
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2014-10-12T01:23:19.560220",
+        "annotation": "",
+        "entry": "kus-",
+        "id": 195050,
+        "language": "/api/v1/language/sileibi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/195050/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "roast",
+        "word": "/api/v1/word/to-roast/"
     },
     {
         "added": "2014-10-12T01:23:17.212604",
@@ -2484,18 +2484,6 @@
         "word": "/api/v1/word/belly/"
     },
     {
-        "added": "2014-10-12T01:23:09.750482",
-        "annotation": "",
-        "entry": "n\u0268-",
-        "id": 190779,
-        "language": "/api/v1/language/sileibi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190779/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "3sg.poss",
-        "word": "/api/v1/word/his/"
-    },
-    {
         "added": "2014-10-12T01:23:10.119010",
         "annotation": "",
         "entry": "n\u0268-",
@@ -2506,6 +2494,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "3pl.poss",
         "word": "/api/v1/word/theirs/"
+    },
+    {
+        "added": "2014-10-12T01:23:09.750482",
+        "annotation": "",
+        "entry": "n\u0268-",
+        "id": 190779,
+        "language": "/api/v1/language/sileibi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190779/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "3sg.poss",
+        "word": "/api/v1/word/his/"
     },
     {
         "added": "2014-10-12T01:23:09.520305",
@@ -2580,18 +2580,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2014-10-12T01:23:15.812636",
-        "annotation": "",
-        "entry": "n\u0303and\u0259",
-        "id": 193527,
-        "language": "/api/v1/language/sileibi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/193527/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "small",
-        "word": "/api/v1/word/small/"
-    },
-    {
         "added": "2014-10-12T01:23:09.229650",
         "annotation": "",
         "entry": "n\u0303and\u0259",
@@ -2602,6 +2590,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "(ss sibling younger)",
         "word": "/api/v1/word/sibling-same-sex-younger/"
+    },
+    {
+        "added": "2014-10-12T01:23:15.812636",
+        "annotation": "",
+        "entry": "n\u0303and\u0259",
+        "id": 193527,
+        "language": "/api/v1/language/sileibi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/193527/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "small",
+        "word": "/api/v1/word/small/"
     },
     {
         "added": "2014-10-12T01:23:15.886071",
@@ -4094,7 +4094,7 @@
     {
         "added": "2014-10-12T01:23:09.430736",
         "annotation": "",
-        "entry": "(ya)-",
+        "entry": "ya-",
         "id": 190624,
         "language": "/api/v1/language/sileibi/",
         "loan": false,
@@ -4102,18 +4102,6 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "1sg.gen",
         "word": "/api/v1/word/my/"
-    },
-    {
-        "added": "2014-10-12T01:23:09.455256",
-        "annotation": "",
-        "entry": "ya-",
-        "id": 190636,
-        "language": "/api/v1/language/sileibi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190636/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "1sg.obj",
-        "word": "/api/v1/word/me/"
     },
     {
         "added": "2014-10-12T01:23:09.873973",
@@ -4140,6 +4128,18 @@
         "word": "/api/v1/word/my/"
     },
     {
+        "added": "2014-10-12T01:23:09.455256",
+        "annotation": "",
+        "entry": "ya-",
+        "id": 190636,
+        "language": "/api/v1/language/sileibi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190636/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "1sg.obj",
+        "word": "/api/v1/word/me/"
+    },
+    {
         "added": "2014-10-12T01:23:19.256910",
         "annotation": "",
         "entry": "yag-",
@@ -4152,18 +4152,6 @@
         "word": "/api/v1/word/to-chop/"
     },
     {
-        "added": "2014-10-12T01:23:19.316405",
-        "annotation": "",
-        "entry": "yag-",
-        "id": 194964,
-        "language": "/api/v1/language/sileibi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/194964/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "cut (with knife)",
-        "word": "/api/v1/word/to-cut/"
-    },
-    {
         "added": "2014-10-12T01:23:19.378289",
         "annotation": "",
         "entry": "yag-",
@@ -4174,6 +4162,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "fell (a tree)",
         "word": "/api/v1/word/fell-tree/"
+    },
+    {
+        "added": "2014-10-12T01:23:19.316405",
+        "annotation": "",
+        "entry": "yag-",
+        "id": 194964,
+        "language": "/api/v1/language/sileibi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/194964/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "cut (with knife)",
+        "word": "/api/v1/word/to-cut/"
     },
     {
         "added": "2014-10-12T01:23:17.804972",

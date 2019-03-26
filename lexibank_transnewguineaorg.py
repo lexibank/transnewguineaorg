@@ -80,7 +80,7 @@ class Dataset(BaseDataset):
                             Local_ID=o['id'],
                             Language_ID=self.get_slug_from_uri(o['language']),
                             Parameter_ID=self.get_slug_from_uri(o['word']),
-                            Value=o['entry'],
+                            Value=form,
                             Source=self.get_slug_from_uri(o['source']),
                             Comment=o['annotation']
                         )

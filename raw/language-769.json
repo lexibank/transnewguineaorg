@@ -1008,25 +1008,25 @@
         "word": "/api/v1/word/sap/"
     },
     {
-        "added": "2014-09-22T03:12:12.271001",
-        "annotation": null,
-        "entry": "gasia- (pl)",
-        "id": 184584,
+        "added": "2014-09-22T03:12:12.269061",
+        "annotation": "(sg)",
+        "entry": "gas-",
+        "id": 184583,
         "language": "/api/v1/language/sop/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/184584/",
+        "resource_uri": "/api/v1/lexicon/184583/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "carry-on-shoulder",
         "word": "/api/v1/word/to-carry/"
     },
     {
-        "added": "2014-09-22T03:12:12.269061",
-        "annotation": null,
-        "entry": "gas- (sg)",
-        "id": 184583,
+        "added": "2014-09-22T03:12:12.271001",
+        "annotation": "(pl)",
+        "entry": "gasia-",
+        "id": 184584,
         "language": "/api/v1/language/sop/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/184583/",
+        "resource_uri": "/api/v1/lexicon/184584/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "carry-on-shoulder",
         "word": "/api/v1/word/to-carry/"
@@ -2412,18 +2412,6 @@
         "word": "/api/v1/word/fruit/"
     },
     {
-        "added": "2014-09-22T03:11:55.894480",
-        "annotation": null,
-        "entry": "m\u028cga",
-        "id": 176812,
-        "language": "/api/v1/language/sop/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176812/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "tooth",
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2014-09-22T03:12:05.914313",
         "annotation": null,
         "entry": "m\u028cga",
@@ -2434,6 +2422,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "sharp",
         "word": "/api/v1/word/sharp/"
+    },
+    {
+        "added": "2014-09-22T03:11:55.894480",
+        "annotation": null,
+        "entry": "m\u028cga",
+        "id": 176812,
+        "language": "/api/v1/language/sop/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176812/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
     },
     {
         "added": "2014-09-22T03:11:59.123241",
@@ -2844,18 +2844,6 @@
         "word": "/api/v1/word/your-pl/"
     },
     {
-        "added": "2014-09-22T03:11:54.919170",
-        "annotation": null,
-        "entry": "-nig-",
-        "id": 176424,
-        "language": "/api/v1/language/sop/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176424/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "2pl obj",
-        "word": "/api/v1/word/you-pl-o2p/"
-    },
-    {
         "added": "2014-09-22T03:11:55.169880",
         "annotation": null,
         "entry": "-nig-",
@@ -2866,6 +2854,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "3pl obj",
         "word": "/api/v1/word/them/"
+    },
+    {
+        "added": "2014-09-22T03:11:54.919170",
+        "annotation": null,
+        "entry": "-nig-",
+        "id": 176424,
+        "language": "/api/v1/language/sop/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176424/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "2pl obj",
+        "word": "/api/v1/word/you-pl-o2p/"
     },
     {
         "added": "2014-09-22T03:11:57.644896",
@@ -2988,18 +2988,6 @@
         "word": "/api/v1/word/girl/"
     },
     {
-        "added": "2014-09-22T03:11:55.058379",
-        "annotation": null,
-        "entry": "nu",
-        "id": 176480,
-        "language": "/api/v1/language/sop/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176480/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "3pl free",
-        "word": "/api/v1/word/they/"
-    },
-    {
         "added": "2014-09-22T03:11:54.333500",
         "annotation": null,
         "entry": "nu",
@@ -3010,6 +2998,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "3sg free",
         "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2014-09-22T03:11:55.058379",
+        "annotation": null,
+        "entry": "nu",
+        "id": 176480,
+        "language": "/api/v1/language/sop/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176480/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "3pl free",
+        "word": "/api/v1/word/they/"
     },
     {
         "added": "2014-09-22T03:11:54.560429",
@@ -4260,18 +4260,6 @@
         "word": "/api/v1/word/house/"
     },
     {
-        "added": "2014-09-22T03:11:58.474488",
-        "annotation": null,
-        "entry": "wagib",
-        "id": 178044,
-        "language": "/api/v1/language/sop/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/178044/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "egg",
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2014-09-22T03:12:00.817807",
         "annotation": null,
         "entry": "wagib",
@@ -4282,6 +4270,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "ripe coconut",
         "word": "/api/v1/word/coconut/"
+    },
+    {
+        "added": "2014-09-22T03:11:58.474488",
+        "annotation": null,
+        "entry": "wagib",
+        "id": 178044,
+        "language": "/api/v1/language/sop/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/178044/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2014-09-22T03:11:59.006169",

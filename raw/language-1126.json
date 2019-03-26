@@ -1310,7 +1310,7 @@
     {
         "added": "2015-03-19T07:04:57.417068",
         "annotation": "",
-        "entry": "*(ina,nia)",
+        "entry": "*ina~nia",
         "id": 207439,
         "language": "/api/v1/language/proto-north-adelbert/",
         "loan": false,

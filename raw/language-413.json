@@ -132,18 +132,6 @@
         "word": "/api/v1/word/man/"
     },
     {
-        "added": "2013-06-16T19:02:24.551380",
-        "annotation": "",
-        "entry": "dede",
-        "id": 27119,
-        "language": "/api/v1/language/ari/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/27119/",
-        "source": "/api/v1/source/reesink-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/blood/"
-    },
-    {
         "added": "2013-06-16T19:09:28.561648",
         "annotation": "",
         "entry": "dede",
@@ -154,6 +142,18 @@
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2013-06-16T19:02:24.551380",
+        "annotation": "",
+        "entry": "dede",
+        "id": 27119,
+        "language": "/api/v1/language/ari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27119/",
+        "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/blood/"
     },
     {
         "added": "2013-06-16T19:09:28.180788",
@@ -348,18 +348,6 @@
         "word": "/api/v1/word/fat/"
     },
     {
-        "added": "2013-06-16T21:47:20.474781",
-        "annotation": "",
-        "entry": "gupi",
-        "id": 27659,
-        "language": "/api/v1/language/ari/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/27659/",
-        "source": "/api/v1/source/reesink-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/claw/"
-    },
-    {
         "added": "2013-06-16T19:02:24.371275",
         "annotation": "leg",
         "entry": "gupi",
@@ -370,6 +358,18 @@
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": "leg",
         "word": "/api/v1/word/leg/"
+    },
+    {
+        "added": "2013-06-16T21:47:20.474781",
+        "annotation": "",
+        "entry": "gupi",
+        "id": 27659,
+        "language": "/api/v1/language/ari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27659/",
+        "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/claw/"
     },
     {
         "added": "2013-06-16T19:18:35.235696",
@@ -698,7 +698,7 @@
     {
         "added": "2013-06-16T19:09:28.172617",
         "annotation": "",
-        "entry": "- (nadi)",
+        "entry": "-nadi",
         "id": 27134,
         "language": "/api/v1/language/ari/",
         "loan": false,

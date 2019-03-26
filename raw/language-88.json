@@ -1,29 +1,5 @@
 [
     {
-        "added": "2013-05-12T02:55:52.298876",
-        "annotation": "",
-        "entry": "_",
-        "id": 3328,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3328/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/not/"
-    },
-    {
-        "added": "2013-05-12T02:55:52.291987",
-        "annotation": "",
-        "entry": "_",
-        "id": 3323,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3323/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/that/"
-    },
-    {
         "added": "2013-05-12T02:55:52.283802",
         "annotation": "",
         "entry": "abe",
@@ -96,16 +72,16 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2013-05-12T02:55:52.270019",
+        "added": "2013-05-12T02:55:52.268748",
         "annotation": "",
         "entry": "alima",
-        "id": 3308,
+        "id": 3307,
         "language": "/api/v1/language/kaluli/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/3308/",
+        "resource_uri": "/api/v1/lexicon/3307/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/to-lie-down/"
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2013-06-03T22:51:38.014826",
@@ -120,18 +96,6 @@
         "word": "/api/v1/word/to-lie-down/"
     },
     {
-        "added": "2013-05-12T02:55:52.268748",
-        "annotation": "",
-        "entry": "alima",
-        "id": 3307,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3307/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2013-06-03T22:51:38.010049",
         "annotation": "",
         "entry": "alima",
@@ -142,6 +106,18 @@
         "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-05-12T02:55:52.270019",
+        "annotation": "",
+        "entry": "alima",
+        "id": 3308,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/3308/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-lie-down/"
     },
     {
         "added": "2013-05-12T02:55:52.293352",
@@ -636,18 +612,6 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2013-06-03T22:51:37.987544",
-        "annotation": "",
-        "entry": "hamana",
-        "id": 16747,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16747/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-walk/"
-    },
-    {
         "added": "2013-05-12T02:55:52.266193",
         "annotation": "",
         "entry": "hamana",
@@ -656,6 +620,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/3305/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-walk/"
+    },
+    {
+        "added": "2013-06-03T22:51:37.987544",
+        "annotation": "",
+        "entry": "hamana",
+        "id": 16747,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16747/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/to-walk/"
     },
@@ -672,18 +648,6 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2013-05-12T02:55:52.230101",
-        "annotation": "",
-        "entry": "hen",
-        "id": 3270,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3270/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ground/"
-    },
-    {
         "added": "2013-05-12T02:55:52.232026",
         "annotation": "",
         "entry": "hen",
@@ -694,6 +658,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/sand/"
+    },
+    {
+        "added": "2013-05-12T02:55:52.230101",
+        "annotation": "",
+        "entry": "hen",
+        "id": 3270,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/3270/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ground/"
     },
     {
         "added": "2013-05-12T02:55:52.233105",
@@ -780,18 +756,6 @@
         "word": "/api/v1/word/black/"
     },
     {
-        "added": "2013-06-03T22:51:38.306776",
-        "annotation": "",
-        "entry": "ho",
-        "id": 16772,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16772/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/meat/"
-    },
-    {
         "added": "2013-05-12T02:55:52.301605",
         "annotation": "",
         "entry": "ho",
@@ -800,6 +764,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/3330/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/meat/"
+    },
+    {
+        "added": "2013-06-03T22:51:38.306776",
+        "annotation": "",
+        "entry": "ho",
+        "id": 16772,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16772/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/meat/"
     },
@@ -1008,18 +984,6 @@
         "word": "/api/v1/word/seed/"
     },
     {
-        "added": "2013-06-03T22:51:37.302601",
-        "annotation": "",
-        "entry": "ili",
-        "id": 16706,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16706/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/moon/"
-    },
-    {
         "added": "2013-05-12T02:55:52.224320",
         "annotation": "",
         "entry": "ili",
@@ -1028,6 +992,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/3264/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2013-06-03T22:51:37.302601",
+        "annotation": "",
+        "entry": "ili",
+        "id": 16706,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16706/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
     },
@@ -1116,6 +1092,18 @@
         "word": "/api/v1/word/dry/"
     },
     {
+        "added": "2013-06-03T22:51:34.889022",
+        "annotation": "",
+        "entry": "kalu",
+        "id": 16679,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16679/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/man/"
+    },
+    {
         "added": "2013-05-12T02:55:52.305797",
         "annotation": "",
         "entry": "kalu",
@@ -1136,18 +1124,6 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/3237/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/man/"
-    },
-    {
-        "added": "2013-06-03T22:51:34.889022",
-        "annotation": "",
-        "entry": "kalu",
-        "id": 16679,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16679/",
-        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
     },
@@ -1224,6 +1200,18 @@
         "word": "/api/v1/word/woman/"
     },
     {
+        "added": "2013-06-03T22:51:37.233497",
+        "annotation": "",
+        "entry": "ki",
+        "id": 16702,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16702/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bone/"
+    },
+    {
         "added": "2013-06-03T22:51:36.538566",
         "annotation": "you",
         "entry": "ki",
@@ -1244,18 +1232,6 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/3260/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bone/"
-    },
-    {
-        "added": "2013-06-03T22:51:37.233497",
-        "annotation": "",
-        "entry": "ki",
-        "id": 16702,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16702/",
-        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
     },
@@ -1320,18 +1296,6 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2013-05-12T02:55:52.214685",
-        "annotation": "",
-        "entry": "kuf",
-        "id": 3254,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3254/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/belly/"
-    },
-    {
         "added": "2013-06-03T22:51:37.077548",
         "annotation": "",
         "entry": "kuf",
@@ -1340,6 +1304,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16696/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2013-05-12T02:55:52.214685",
+        "annotation": "",
+        "entry": "kuf",
+        "id": 3254,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/3254/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/belly/"
     },
@@ -1440,18 +1416,6 @@
         "word": "/api/v1/word/ear/"
     },
     {
-        "added": "2013-05-12T02:55:52.260333",
-        "annotation": "",
-        "entry": "maya",
-        "id": 3300,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3300/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2013-06-03T22:51:37.864343",
         "annotation": "",
         "entry": "maya",
@@ -1460,6 +1424,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16742/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-05-12T02:55:52.260333",
+        "annotation": "",
+        "entry": "maya",
+        "id": 3300,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/3300/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
     },
@@ -1656,18 +1632,6 @@
         "word": "/api/v1/word/many/"
     },
     {
-        "added": "2013-05-12T02:55:52.248312",
-        "annotation": "",
-        "entry": "nafa",
-        "id": 3289,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3289/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/good/"
-    },
-    {
         "added": "2013-06-03T22:51:37.620973",
         "annotation": "",
         "entry": "nafa",
@@ -1676,6 +1640,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16731/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2013-05-12T02:55:52.248312",
+        "annotation": "",
+        "entry": "nafa",
+        "id": 3289,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/3289/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/good/"
     },
@@ -1692,18 +1668,6 @@
         "word": "/api/v1/word/i/"
     },
     {
-        "added": "2013-05-12T02:55:52.312199",
-        "annotation": "",
-        "entry": "ni",
-        "id": 3338,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3338/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/i/"
-    },
-    {
         "added": "2013-06-03T22:51:36.532365",
         "annotation": "",
         "entry": "ni",
@@ -1712,6 +1676,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16681/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2013-05-12T02:55:52.312199",
+        "annotation": "",
+        "entry": "ni",
+        "id": 3338,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/3338/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
     },
@@ -2196,18 +2172,6 @@
         "word": "/api/v1/word/path/"
     },
     {
-        "added": "2013-05-12T02:55:52.239781",
-        "annotation": "",
-        "entry": "toogoof",
-        "id": 3280,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3280/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bark/"
-    },
-    {
         "added": "2013-05-12T02:55:52.217671",
         "annotation": "",
         "entry": "toogoof",
@@ -2218,6 +2182,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2013-05-12T02:55:52.239781",
+        "annotation": "",
+        "entry": "toogoof",
+        "id": 3280,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/3280/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-06-03T22:51:37.899831",
@@ -2388,18 +2364,6 @@
         "word": "/api/v1/word/this/"
     },
     {
-        "added": "2013-05-12T02:55:52.281084",
-        "annotation": "",
-        "entry": "wi",
-        "id": 3315,
-        "language": "/api/v1/language/kaluli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/3315/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/name/"
-    },
-    {
         "added": "2013-06-03T22:51:38.099975",
         "annotation": "",
         "entry": "wi",
@@ -2408,6 +2372,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16757/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2013-05-12T02:55:52.281084",
+        "annotation": "",
+        "entry": "wi",
+        "id": 3315,
+        "language": "/api/v1/language/kaluli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/3315/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/name/"
     },

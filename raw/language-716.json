@@ -312,18 +312,6 @@
         "word": "/api/v1/word/two/"
     },
     {
-        "added": "2014-07-06T21:30:03.792272",
-        "annotation": null,
-        "entry": "argo",
-        "id": 145260,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/145260/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "there",
-        "word": "/api/v1/word/there/"
-    },
-    {
         "added": "2014-07-06T21:30:02.812112",
         "annotation": null,
         "entry": "argo",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "that",
         "word": "/api/v1/word/that/"
+    },
+    {
+        "added": "2014-07-06T21:30:03.792272",
+        "annotation": null,
+        "entry": "argo",
+        "id": 145260,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/145260/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "there",
+        "word": "/api/v1/word/there/"
     },
     {
         "added": "2014-07-06T21:29:58.744697",
@@ -1920,18 +1920,6 @@
         "word": "/api/v1/word/tanket/"
     },
     {
-        "added": "2014-07-06T21:30:02.227238",
-        "annotation": null,
-        "entry": "karas",
-        "id": 144526,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/144526/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "ripe",
-        "word": "/api/v1/word/ripe/"
-    },
-    {
         "added": "2014-07-06T21:30:01.066347",
         "annotation": null,
         "entry": "karas",
@@ -1942,6 +1930,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "red",
         "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2014-07-06T21:30:02.227238",
+        "annotation": null,
+        "entry": "karas",
+        "id": 144526,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/144526/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "ripe",
+        "word": "/api/v1/word/ripe/"
     },
     {
         "added": "2014-07-06T21:29:58.511071",
@@ -2160,18 +2160,6 @@
         "word": "/api/v1/word/meat/"
     },
     {
-        "added": "2014-07-06T21:30:06.602793",
-        "annotation": null,
-        "entry": "kiwik-",
-        "id": 146539,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146539/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "split",
-        "word": "/api/v1/word/to-split/"
-    },
-    {
         "added": "2014-07-06T21:30:06.659662",
         "annotation": null,
         "entry": "kiwik-",
@@ -2182,6 +2170,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(tear)",
         "word": "/api/v1/word/tears/"
+    },
+    {
+        "added": "2014-07-06T21:30:06.602793",
+        "annotation": null,
+        "entry": "kiwik-",
+        "id": 146539,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146539/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "split",
+        "word": "/api/v1/word/to-split/"
     },
     {
         "added": "2014-07-06T21:30:02.126372",
@@ -2460,18 +2460,6 @@
         "word": "/api/v1/word/bean/"
     },
     {
-        "added": "2014-07-06T21:29:58.207216",
-        "annotation": null,
-        "entry": "makib",
-        "id": 142759,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/142759/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "garden(ground)",
-        "word": "/api/v1/word/garden/"
-    },
-    {
         "added": "2014-07-06T21:29:58.325524",
         "annotation": null,
         "entry": "makib",
@@ -2482,6 +2470,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(ground)",
         "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2014-07-06T21:29:58.207216",
+        "annotation": null,
+        "entry": "makib",
+        "id": 142759,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/142759/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "garden(ground)",
+        "word": "/api/v1/word/garden/"
     },
     {
         "added": "2014-07-06T21:29:58.327791",
@@ -2892,18 +2892,6 @@
         "word": "/api/v1/word/urine/"
     },
     {
-        "added": "2014-07-06T21:30:07.811086",
-        "annotation": null,
-        "entry": "muw-",
-        "id": 147148,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/147148/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "pull",
-        "word": "/api/v1/word/to-pull/"
-    },
-    {
         "added": "2014-07-06T21:30:08.195792",
         "annotation": null,
         "entry": "muw-",
@@ -2914,6 +2902,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "fasten",
         "word": "/api/v1/word/to-fasten/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.811086",
+        "annotation": null,
+        "entry": "muw-",
+        "id": 147148,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/147148/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "pull",
+        "word": "/api/v1/word/to-pull/"
     },
     {
         "added": "2014-07-06T21:29:54.655672",
@@ -3480,18 +3480,6 @@
         "word": "/api/v1/word/basket/"
     },
     {
-        "added": "2014-07-06T21:29:52.900848",
-        "annotation": null,
-        "entry": "sik",
-        "id": 140159,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/140159/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "right arm",
-        "word": "/api/v1/word/right-arm/"
-    },
-    {
         "added": "2014-07-06T21:29:57.187533",
         "annotation": null,
         "entry": "sik",
@@ -3502,6 +3490,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "fruit",
         "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2014-07-06T21:29:52.900848",
+        "annotation": null,
+        "entry": "sik",
+        "id": 140159,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/140159/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "right arm",
+        "word": "/api/v1/word/right-arm/"
     },
     {
         "added": "2014-07-06T21:29:49.700500",
@@ -4033,8 +4033,8 @@
     },
     {
         "added": "2014-07-06T21:29:49.698521",
-        "annotation": null,
-        "entry": "wambiem (sg)",
+        "annotation": "(sg)",
+        "entry": "wambiem",
         "id": 138598,
         "language": "/api/v1/language/brem/",
         "loan": false,

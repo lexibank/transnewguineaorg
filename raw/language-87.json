@@ -1,41 +1,5 @@
 [
     {
-        "added": "2013-05-09T18:59:58.174000",
-        "annotation": "knows",
-        "entry": "_",
-        "id": 2069,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2069/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": "knows",
-        "word": "/api/v1/word/to-know/"
-    },
-    {
-        "added": "2013-05-09T18:59:58.178844",
-        "annotation": "",
-        "entry": "_",
-        "id": 2074,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2074/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/horn/"
-    },
-    {
-        "added": "2013-05-09T18:59:58.173107",
-        "annotation": "",
-        "entry": "_",
-        "id": 2068,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2068/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/two/"
-    },
-    {
         "added": "2013-05-09T18:59:58.117176",
         "annotation": "",
         "entry": "anemae",
@@ -372,18 +336,6 @@
         "word": "/api/v1/word/that/"
     },
     {
-        "added": "2013-05-09T18:59:58.151515",
-        "annotation": "",
-        "entry": "erape",
-        "id": 2045,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2045/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-stand/"
-    },
-    {
         "added": "2013-06-03T17:46:27.594621",
         "annotation": "",
         "entry": "erape",
@@ -392,6 +344,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16444/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2013-05-09T18:59:58.151515",
+        "annotation": "",
+        "entry": "erape",
+        "id": 2045,
+        "language": "/api/v1/language/kasua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2045/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-stand/"
     },
@@ -504,18 +468,6 @@
         "word": "/api/v1/word/new/"
     },
     {
-        "added": "2013-06-03T17:46:27.692718",
-        "annotation": "",
-        "entry": "hinakiye",
-        "id": 16461,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16461/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2013-05-09T18:59:58.167509",
         "annotation": "",
         "entry": "hinakiye",
@@ -524,6 +476,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2062/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2013-06-03T17:46:27.692718",
+        "annotation": "",
+        "entry": "hinakiye",
+        "id": 16461,
+        "language": "/api/v1/language/kasua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16461/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/to-burn/"
     },
@@ -540,18 +504,6 @@
         "word": "/api/v1/word/new/"
     },
     {
-        "added": "2013-05-09T18:59:58.169397",
-        "annotation": "",
-        "entry": "hirirakiye",
-        "id": 2064,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2064/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/many/"
-    },
-    {
         "added": "2013-05-09T18:59:58.078592",
         "annotation": "",
         "entry": "hirirakiye",
@@ -562,6 +514,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/all/"
+    },
+    {
+        "added": "2013-05-09T18:59:58.169397",
+        "annotation": "",
+        "entry": "hirirakiye",
+        "id": 2064,
+        "language": "/api/v1/language/kasua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2064/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/many/"
     },
     {
         "added": "2013-06-03T17:46:27.700401",
@@ -780,18 +744,6 @@
         "word": "/api/v1/word/seed/"
     },
     {
-        "added": "2013-06-03T17:46:27.487134",
-        "annotation": "",
-        "entry": "itiame",
-        "id": 16424,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16424/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tail/"
-    },
-    {
         "added": "2013-05-09T18:59:58.116244",
         "annotation": "",
         "entry": "itiame",
@@ -800,6 +752,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2025/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2013-06-03T17:46:27.487134",
+        "annotation": "",
+        "entry": "itiame",
+        "id": 16424,
+        "language": "/api/v1/language/kasua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16424/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/tail/"
     },
@@ -1284,18 +1248,6 @@
         "word": "/api/v1/word/to-come/"
     },
     {
-        "added": "2013-05-09T18:59:58.104777",
-        "annotation": "",
-        "entry": "moai",
-        "id": 2013,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2013/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ground/"
-    },
-    {
         "added": "2013-05-09T18:59:58.101485",
         "annotation": "rain",
         "entry": "moai",
@@ -1306,6 +1258,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2013-05-09T18:59:58.104777",
+        "annotation": "",
+        "entry": "moai",
+        "id": 2013,
+        "language": "/api/v1/language/kasua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2013/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ground/"
     },
     {
         "added": "2013-06-03T17:46:27.567310",
@@ -1536,18 +1500,6 @@
         "word": "/api/v1/word/leg/"
     },
     {
-        "added": "2013-05-09T18:59:58.097797",
-        "annotation": "",
-        "entry": "opo",
-        "id": 2006,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2006/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sun/"
-    },
-    {
         "added": "2013-05-09T18:59:58.098705",
         "annotation": "",
         "entry": "opo",
@@ -1558,6 +1510,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2013-05-09T18:59:58.097797",
+        "annotation": "",
+        "entry": "opo",
+        "id": 2006,
+        "language": "/api/v1/language/kasua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2006/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
     },
     {
         "added": "2013-06-03T17:46:27.442716",
@@ -1800,18 +1764,6 @@
         "word": "/api/v1/word/to-speak/"
     },
     {
-        "added": "2013-06-03T17:46:27.301168",
-        "annotation": "",
-        "entry": "si",
-        "id": 16387,
-        "language": "/api/v1/language/kasua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16387/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2013-05-09T18:59:58.081393",
         "annotation": "",
         "entry": "si",
@@ -1820,6 +1772,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/1988/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2013-06-03T17:46:27.301168",
+        "annotation": "",
+        "entry": "si",
+        "id": 16387,
+        "language": "/api/v1/language/kasua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16387/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
