@@ -3,6 +3,7 @@ from __future__ import unicode_literals, print_function
 import re
 from os import remove
 from datetime import datetime
+import unicodedata
 
 import lingpy
 from pybtex.database import parse_string  # dependency of pycldf, so should be installed.
@@ -75,6 +76,7 @@ class Dataset(BaseDataset):
                 for o in sorted(jsonlib.load(filename), key=lambda d: d['id']):
                     for form in self.split_forms(o, o['entry']):
                         form = strip_brackets(form)
+                        form = unicodedata.normalize("NFC", form)
                         ds.add_lexemes(
                             #ID=o['id'],
                             Local_ID=o['id'],
