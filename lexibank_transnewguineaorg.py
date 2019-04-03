@@ -8,7 +8,6 @@ import unicodedata
 import lingpy
 from pybtex.database import parse_string  # dependency of pycldf, so should be installed.
 from pybtex.utils import OrderedCaseInsensitiveDict
-from clldutils import jsonlib
 from clldutils.text import strip_brackets
 from clldutils.path import Path
 from pylexibank.util import get_url, jsondump
@@ -32,10 +31,16 @@ class Dataset(BaseDataset):
     def get_slug_from_uri(self, uri):
         return [_ for _ in uri.split("/") if _][-1]
 
+    def clean_form(self, row, form):
+        form = strip_brackets(form.strip())
+        form = unicodedata.normalize("NFC", form)
+        #form = form.replace("*", "")  # normalise protoforms
+        return form
+
     def cmd_install(self, **kw):
-        languages = {o['slug']: o for o in jsonlib.load(Path(self.raw, "languages.json"))}
-        words = {o['slug']: o for o in jsonlib.load(Path(self.raw, "words.json"))}
-        sources = {o['slug']: o for o in jsonlib.load(Path(self.raw, "sources.json"))}
+        languages = {o['slug']: o for o in self.raw.read_json(Path(self.raw, "languages.json"))}
+        words = {o['slug']: o for o in self.raw.read_json(Path(self.raw, "words.json"))}
+        sources = {o['slug']: o for o in self.raw.read_json(Path(self.raw, "sources.json"))}
         
         with self.cldf as ds:
             # handle sources
@@ -73,16 +78,15 @@ class Dataset(BaseDataset):
             itemfiles = [f for f in self.raw.iterdir() if f.name.startswith("language-")]
             for filename in sorted(itemfiles):
                 self.log.info("Loading data from %s..." % filename)
-                for o in sorted(jsonlib.load(filename), key=lambda d: d['id']):
-                    for form in self.split_forms(o, o['entry']):
-                        form = strip_brackets(form)
-                        form = unicodedata.normalize("NFC", form)
+                for o in sorted(self.raw.read_json(filename), key=lambda d: d['id']):
+                    for value in self.split_forms(o, o['entry']):
                         ds.add_lexemes(
                             #ID=o['id'],
                             Local_ID=o['id'],
                             Language_ID=self.get_slug_from_uri(o['language']),
                             Parameter_ID=self.get_slug_from_uri(o['word']),
-                            Value=form,
+                            Value=value,
+                            Form=self.clean_form(o, value),
                             Source=self.get_slug_from_uri(o['source']),
                             Comment=o['annotation']
                         )
