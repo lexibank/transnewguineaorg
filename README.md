@@ -17,13 +17,8 @@ Available online at http://transnewguinea.org
 
 - **Varieties:** 1,011
 - **Concepts:** 1,210
-- **Lexemes:** 145,685
+- **Lexemes:** 145,686
 - **Synonymy:** 1.15
-- **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
 
 ## Possible Improvements:
 
