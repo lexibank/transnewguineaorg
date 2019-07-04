@@ -1,12 +1,15 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Greenhill SJ. 2015. TransNewGuinea.org: An Online Database of New Guinea Languages. PLoS ONE 10(10): e0141563. http://transnewguinea.org.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:identifier": "http://transnewguinea.org",
+    "dc:isVersionOf": null,
     "dc:license": "CC-BY",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "TransNewGuinea.org",
-    "dcat:accessURL": "https://github.com/lexibank/transnewguineaorg",
     "rdf:ID": "transnewguineaorg",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -16,7 +19,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
@@ -291,4 +294,3 @@
         }
     ]
 }
-
