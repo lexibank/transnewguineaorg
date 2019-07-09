@@ -2124,6 +2124,18 @@
         "word": "/api/v1/word/your-sg/"
     },
     {
+        "added": "2014-09-22T03:11:54.904830",
+        "annotation": null,
+        "entry": "-ng-",
+        "id": 176417,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176417/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "2pl obj",
+        "word": "/api/v1/word/you-pl-o2p/"
+    },
+    {
         "added": "2014-09-22T03:11:54.696576",
         "annotation": null,
         "entry": "-ng-",
@@ -2146,18 +2158,6 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "3pl obj",
         "word": "/api/v1/word/them/"
-    },
-    {
-        "added": "2014-09-22T03:11:54.904830",
-        "annotation": null,
-        "entry": "-ng-",
-        "id": 176417,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176417/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "2pl obj",
-        "word": "/api/v1/word/you-pl-o2p/"
     },
     {
         "added": "2014-09-22T03:11:59.109400",
@@ -2676,18 +2676,6 @@
         "word": "/api/v1/word/frog/"
     },
     {
-        "added": "2014-09-22T03:12:00.980928",
-        "annotation": null,
-        "entry": "p\u028ctun",
-        "id": 179283,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/179283/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "fruit",
-        "word": "/api/v1/word/fruit/"
-    },
-    {
         "added": "2014-09-22T03:11:58.460603",
         "annotation": null,
         "entry": "p\u028ctun",
@@ -2698,6 +2686,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "egg",
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2014-09-22T03:12:00.980928",
+        "annotation": null,
+        "entry": "p\u028ctun",
+        "id": 179283,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/179283/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "fruit",
+        "word": "/api/v1/word/fruit/"
     },
     {
         "added": "2014-09-22T03:11:59.398048",
@@ -2820,18 +2820,6 @@
         "word": "/api/v1/word/vulva/"
     },
     {
-        "added": "2014-09-22T03:12:09.048501",
-        "annotation": null,
-        "entry": "si-",
-        "id": 183023,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183023/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to give",
-        "word": "/api/v1/word/to-give/"
-    },
-    {
         "added": "2014-09-22T03:12:09.421234",
         "annotation": null,
         "entry": "si-",
@@ -2842,6 +2830,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to hear",
         "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2014-09-22T03:12:09.048501",
+        "annotation": null,
+        "entry": "si-",
+        "id": 183023,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183023/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to give",
+        "word": "/api/v1/word/to-give/"
     },
     {
         "added": "2014-09-22T03:11:58.992055",
@@ -2940,18 +2940,6 @@
         "word": "/api/v1/word/we/"
     },
     {
-        "added": "2014-09-22T03:12:10.481041",
-        "annotation": null,
-        "entry": "s\u1d58k\u028ci-",
-        "id": 183710,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183710/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to burn",
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2014-09-22T03:12:10.340522",
         "annotation": null,
         "entry": "s\u1d58k\u028ci-",
@@ -2962,6 +2950,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to roast",
         "word": "/api/v1/word/to-roast/"
+    },
+    {
+        "added": "2014-09-22T03:12:10.481041",
+        "annotation": null,
+        "entry": "s\u1d58k\u028ci-",
+        "id": 183710,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183710/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to burn",
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2014-09-22T03:12:02.349160",
@@ -3190,6 +3190,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "2pl poss",
         "word": "/api/v1/word/your-pl/"
+    },
+    {
+        "added": "2019-03-19T04:39:55.158242",
+        "annotation": null,
+        "entry": "t\u00d8",
+        "id": 260743,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260743/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": null,
+        "word": "/api/v1/word/coconut/"
     },
     {
         "added": "2014-09-22T03:11:59.970207",
@@ -3492,6 +3504,18 @@
         "word": "/api/v1/word/loincloth/"
     },
     {
+        "added": "2019-03-19T04:39:55.047026",
+        "annotation": null,
+        "entry": "y\u028c\u014b",
+        "id": 260742,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260742/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": null,
+        "word": "/api/v1/word/coconut/"
+    },
+    {
         "added": "2014-09-22T03:12:03.134651",
         "annotation": null,
         "entry": "y\u028c\u014b",
@@ -3502,18 +3526,6 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
-    },
-    {
-        "added": "2014-09-22T03:12:00.862187",
-        "annotation": null,
-        "entry": "y\u028c\u014b/t\u00d8",
-        "id": 179224,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/179224/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "green coconut",
-        "word": "/api/v1/word/coconut/"
     },
     {
         "added": "2014-09-22T03:12:06.718830",

@@ -110,13 +110,13 @@
     {
         "added": "2013-10-22T04:26:45.245003",
         "annotation": "",
-        "entry": "d,\u0269m\u0254'kasia",
+        "entry": "\u1e11\u0269m\u0254'kasia",
         "id": 33804,
         "language": "/api/v1/language/kosare/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/33804/",
         "source": "/api/v1/source/heeschen-1978/",
-        "source_gloss": "",
+        "source_gloss": null,
         "word": "/api/v1/word/woman/"
     },
     {

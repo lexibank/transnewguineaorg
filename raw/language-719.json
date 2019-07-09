@@ -1,17 +1,5 @@
 [
     {
-        "added": "2014-07-06T21:29:50.991047",
-        "annotation": null,
-        "entry": "0\u0338-",
-        "id": 139234,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139234/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "he (VO)",
-        "word": "/api/v1/word/him-her-it/"
-    },
-    {
         "added": "2014-07-06T21:29:50.905890",
         "annotation": null,
         "entry": "0\u0338-",
@@ -34,6 +22,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "they (genitive)",
         "word": "/api/v1/word/their/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.991047",
+        "annotation": null,
+        "entry": "0\u0338-",
+        "id": 139234,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139234/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "he (VO)",
+        "word": "/api/v1/word/him-her-it/"
     },
     {
         "added": "2014-07-06T21:29:51.328569",
@@ -336,18 +336,6 @@
         "word": "/api/v1/word/who/"
     },
     {
-        "added": "2014-07-06T21:29:54.662463",
-        "annotation": null,
-        "entry": "apasu",
-        "id": 141027,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/141027/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "egg",
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2014-07-06T21:29:57.193754",
         "annotation": null,
         "entry": "apasu",
@@ -358,6 +346,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "fruit",
         "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2014-07-06T21:29:54.662463",
+        "annotation": null,
+        "entry": "apasu",
+        "id": 141027,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/141027/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2014-07-06T21:30:01.438585",
@@ -444,18 +444,6 @@
         "word": "/api/v1/word/black/"
     },
     {
-        "added": "2014-07-06T21:30:06.483528",
-        "annotation": null,
-        "entry": "aut-",
-        "id": 146480,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146480/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(break)",
-        "word": "/api/v1/word/to-break/"
-    },
-    {
         "added": "2014-07-06T21:30:06.608398",
         "annotation": null,
         "entry": "aut-",
@@ -468,16 +456,16 @@
         "word": "/api/v1/word/to-split/"
     },
     {
-        "added": "2014-07-06T21:29:49.998233",
+        "added": "2014-07-06T21:30:06.483528",
         "annotation": null,
-        "entry": "awa",
-        "id": 138745,
+        "entry": "aut-",
+        "id": 146480,
         "language": "/api/v1/language/mala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/138745/",
+        "resource_uri": "/api/v1/lexicon/146480/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "father",
-        "word": "/api/v1/word/father/"
+        "source_gloss": "(break)",
+        "word": "/api/v1/word/to-break/"
     },
     {
         "added": "2014-07-06T21:29:50.002335",
@@ -487,6 +475,18 @@
         "language": "/api/v1/language/mala/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/138747/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "father",
+        "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2014-07-06T21:29:49.998233",
+        "annotation": null,
+        "entry": "awa",
+        "id": 138745,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/138745/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "father",
         "word": "/api/v1/word/father/"
@@ -744,18 +744,6 @@
         "word": "/api/v1/word/to-fall/"
     },
     {
-        "added": "2014-07-06T21:30:01.243493",
-        "annotation": null,
-        "entry": "bu",
-        "id": 144185,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/144185/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "cooked",
-        "word": "/api/v1/word/cooked/"
-    },
-    {
         "added": "2014-07-06T21:29:57.735242",
         "annotation": null,
         "entry": "bu",
@@ -766,6 +754,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "bamboo",
         "word": "/api/v1/word/bamboo/"
+    },
+    {
+        "added": "2014-07-06T21:30:01.243493",
+        "annotation": null,
+        "entry": "bu",
+        "id": 144185,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/144185/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "cooked",
+        "word": "/api/v1/word/cooked/"
     },
     {
         "added": "2014-07-06T21:30:07.055104",
@@ -900,18 +900,6 @@
         "word": "/api/v1/word/straight/"
     },
     {
-        "added": "2014-07-06T21:29:51.498650",
-        "annotation": null,
-        "entry": "e-",
-        "id": 139485,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139485/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "we (genitive)",
-        "word": "/api/v1/word/our/"
-    },
-    {
         "added": "2014-07-06T21:29:51.598144",
         "annotation": null,
         "entry": "e-",
@@ -922,6 +910,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "we (VO)",
         "word": "/api/v1/word/us/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.498650",
+        "annotation": null,
+        "entry": "e-",
+        "id": 139485,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139485/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "we (genitive)",
+        "word": "/api/v1/word/our/"
     },
     {
         "added": "2014-07-06T21:30:04.199266",
@@ -1056,18 +1056,6 @@
         "word": "/api/v1/word/my/"
     },
     {
-        "added": "2014-07-06T21:29:54.156458",
-        "annotation": null,
-        "entry": "-ib",
-        "id": 140777,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/140777/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "excrement",
-        "word": "/api/v1/word/faeces/"
-    },
-    {
         "added": "2014-07-06T21:29:54.093817",
         "annotation": null,
         "entry": "-ib",
@@ -1078,6 +1066,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "hair",
         "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2014-07-06T21:29:54.156458",
+        "annotation": null,
+        "entry": "-ib",
+        "id": 140777,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/140777/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "excrement",
+        "word": "/api/v1/word/faeces/"
     },
     {
         "added": "2014-07-06T21:29:58.636992",
@@ -1234,6 +1234,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(sleep)",
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2019-03-19T04:17:08.342862",
+        "annotation": null,
+        "entry": "in-",
+        "id": 260712,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260712/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/dream/"
     },
     {
         "added": "2014-07-06T21:29:49.339983",
@@ -2124,18 +2136,6 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2014-07-06T21:30:07.816923",
-        "annotation": null,
-        "entry": "muw-",
-        "id": 147151,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/147151/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "pull",
-        "word": "/api/v1/word/to-pull/"
-    },
-    {
         "added": "2014-07-06T21:30:08.247050",
         "annotation": null,
         "entry": "muw-",
@@ -2146,6 +2146,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "tie",
         "word": "/api/v1/word/to-tie/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.816923",
+        "annotation": null,
+        "entry": "muw-",
+        "id": 147151,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/147151/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "pull",
+        "word": "/api/v1/word/to-pull/"
     },
     {
         "added": "2014-07-06T21:30:08.844458",
@@ -2388,18 +2400,6 @@
         "word": "/api/v1/word/father/"
     },
     {
-        "added": "2014-07-06T21:29:51.101682",
-        "annotation": null,
-        "entry": "ne-",
-        "id": 139289,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139289/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "ye (genitive)",
-        "word": "/api/v1/word/your-pl/"
-    },
-    {
         "added": "2014-07-06T21:29:51.184793",
         "annotation": null,
         "entry": "ne-",
@@ -2410,6 +2410,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "ye (VO)",
         "word": "/api/v1/word/you-pl-o2p/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.101682",
+        "annotation": null,
+        "entry": "ne-",
+        "id": 139289,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139289/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "ye (genitive)",
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2014-07-06T21:29:56.618067",
@@ -2736,18 +2748,6 @@
         "word": "/api/v1/word/wet/"
     },
     {
-        "added": "2014-07-06T21:29:49.421262",
-        "annotation": null,
-        "entry": "ogom",
-        "id": 138466,
-        "language": "/api/v1/language/mala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/138466/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "all",
-        "word": "/api/v1/word/all/"
-    },
-    {
         "added": "2014-07-06T21:30:01.784373",
         "annotation": null,
         "entry": "ogom",
@@ -2758,6 +2758,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "many",
         "word": "/api/v1/word/many/"
+    },
+    {
+        "added": "2014-07-06T21:29:49.421262",
+        "annotation": null,
+        "entry": "ogom",
+        "id": 138466,
+        "language": "/api/v1/language/mala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/138466/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "all",
+        "word": "/api/v1/word/all/"
     },
     {
         "added": "2014-07-06T21:29:53.475235",
@@ -3240,15 +3252,15 @@
         "word": "/api/v1/word/to-scratch/"
     },
     {
-        "added": "2014-07-06T21:30:08.675116",
+        "added": "2019-03-19T04:17:08.307599",
         "annotation": null,
-        "entry": "r\u0303uba/in-",
-        "id": 147572,
+        "entry": "r\u0303uba",
+        "id": 260711,
         "language": "/api/v1/language/mala/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/147572/",
+        "resource_uri": "/api/v1/lexicon/260711/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "dream",
+        "source_gloss": null,
         "word": "/api/v1/word/dream/"
     },
     {

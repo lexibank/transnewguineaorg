@@ -1,17 +1,5 @@
 [
     {
-        "added": "2015-09-23T19:31:22.646470",
-        "annotation": "",
-        "entry": "1",
-        "id": 244593,
-        "language": "/api/v1/language/urat/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/244593/",
-        "source": "/api/v1/source/laycock1968/",
-        "source_gloss": null,
-        "word": "/api/v1/word/go/"
-    },
-    {
         "added": "2015-09-23T19:31:17.231734",
         "annotation": "",
         "entry": "am",
@@ -154,6 +142,18 @@
         "source": "/api/v1/source/laycock1968/",
         "source_gloss": null,
         "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2015-09-23T19:31:22.646470",
+        "annotation": "",
+        "entry": "l",
+        "id": 244593,
+        "language": "/api/v1/language/urat/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244593/",
+        "source": "/api/v1/source/laycock1968/",
+        "source_gloss": null,
+        "word": "/api/v1/word/go/"
     },
     {
         "added": "2015-09-23T19:31:21.514851",

@@ -540,18 +540,6 @@
         "word": "/api/v1/word/wallaby/"
     },
     {
-        "added": "2014-12-22T18:17:34.347243",
-        "annotation": "",
-        "entry": "nam",
-        "id": 197974,
-        "language": "/api/v1/language/yetfa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/197974/",
-        "source": "/api/v1/source/conrad-and-dye-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/house/"
-    },
-    {
         "added": "2013-06-12T19:25:20.139027",
         "annotation": "",
         "entry": "nam",
@@ -562,6 +550,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2014-12-22T18:17:34.347243",
+        "annotation": "",
+        "entry": "nam",
+        "id": 197974,
+        "language": "/api/v1/language/yetfa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/197974/",
+        "source": "/api/v1/source/conrad-and-dye-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/house/"
     },
     {
         "added": "2014-12-22T18:17:34.389029",
@@ -985,8 +985,8 @@
     },
     {
         "added": "2013-06-12T19:25:20.455973",
-        "annotation": "you (pl.)",
-        "entry": "so (?)",
+        "annotation": "(?)",
+        "entry": "so",
         "id": 23906,
         "language": "/api/v1/language/yetfa/",
         "loan": false,
@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/thatch-roof/"
     },
     {
-        "added": "2013-06-12T19:25:20.353370",
-        "annotation": "",
-        "entry": "yau",
-        "id": 23901,
-        "language": "/api/v1/language/yetfa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/23901/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tree/"
-    },
-    {
         "added": "2013-06-12T19:25:20.004053",
         "annotation": "",
         "entry": "yau",
@@ -1234,6 +1222,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-06-12T19:25:20.353370",
+        "annotation": "",
+        "entry": "yau",
+        "id": 23901,
+        "language": "/api/v1/language/yetfa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/23901/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
     },
     {
         "added": "2014-12-22T18:17:34.364573",

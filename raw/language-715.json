@@ -360,18 +360,6 @@
         "word": "/api/v1/word/betelnut/"
     },
     {
-        "added": "2014-07-06T21:30:01.064317",
-        "annotation": null,
-        "entry": "bumbup",
-        "id": 144102,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/144102/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "red",
-        "word": "/api/v1/word/red/"
-    },
-    {
         "added": "2014-07-06T21:30:02.225149",
         "annotation": null,
         "entry": "bumbup",
@@ -382,6 +370,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "ripe",
         "word": "/api/v1/word/ripe/"
+    },
+    {
+        "added": "2014-07-06T21:30:01.064317",
+        "annotation": null,
+        "entry": "bumbup",
+        "id": 144102,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/144102/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "red",
+        "word": "/api/v1/word/red/"
     },
     {
         "added": "2014-07-06T21:29:52.352903",
@@ -432,18 +432,6 @@
         "word": "/api/v1/word/pig/"
     },
     {
-        "added": "2014-07-06T21:30:06.781431",
-        "annotation": null,
-        "entry": "butur-",
-        "id": 146630,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146630/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "chop",
-        "word": "/api/v1/word/to-chop/"
-    },
-    {
         "added": "2014-07-06T21:30:06.714734",
         "annotation": null,
         "entry": "butur-",
@@ -454,6 +442,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "cut (with knife)",
         "word": "/api/v1/word/to-cut/"
+    },
+    {
+        "added": "2014-07-06T21:30:06.781431",
+        "annotation": null,
+        "entry": "butur-",
+        "id": 146630,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146630/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "chop",
+        "word": "/api/v1/word/to-chop/"
     },
     {
         "added": "2014-07-06T21:30:05.680738",
@@ -636,18 +636,6 @@
         "word": "/api/v1/word/to-swell/"
     },
     {
-        "added": "2014-07-06T21:29:58.805352",
-        "annotation": null,
-        "entry": "geit",
-        "id": 143037,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/143037/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "sky, cloud",
-        "word": "/api/v1/word/sky/"
-    },
-    {
         "added": "2014-07-06T21:29:58.861831",
         "annotation": null,
         "entry": "geit",
@@ -658,6 +646,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "sky, cloud",
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2014-07-06T21:29:58.805352",
+        "annotation": null,
+        "entry": "geit",
+        "id": 143037,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/143037/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "sky, cloud",
+        "word": "/api/v1/word/sky/"
     },
     {
         "added": "2014-07-06T21:30:00.588180",
@@ -936,18 +936,6 @@
         "word": "/api/v1/word/faeces/"
     },
     {
-        "added": "2014-07-06T21:30:04.570824",
-        "annotation": null,
-        "entry": "in",
-        "id": 145560,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/145560/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(sleep)",
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2014-07-06T21:29:51.440313",
         "annotation": null,
         "entry": "in",
@@ -958,6 +946,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "1st person plural",
         "word": "/api/v1/word/we/"
+    },
+    {
+        "added": "2014-07-06T21:30:04.570824",
+        "annotation": null,
+        "entry": "in",
+        "id": 145560,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/145560/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(sleep)",
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2014-07-06T21:29:51.517268",
@@ -1032,18 +1032,6 @@
         "word": "/api/v1/word/possessive-marker/"
     },
     {
-        "added": "2014-07-06T21:30:04.501113",
-        "annotation": null,
-        "entry": "i\u014bg(\u025b\u014b)-",
-        "id": 145525,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/145525/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(be)",
-        "word": "/api/v1/word/to-be/"
-    },
-    {
         "added": "2014-07-06T21:30:04.499129",
         "annotation": null,
         "entry": "i\u014bg(\u025b\u014b)-",
@@ -1051,6 +1039,18 @@
         "language": "/api/v1/language/malas/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/145524/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(be)",
+        "word": "/api/v1/word/to-be/"
+    },
+    {
+        "added": "2014-07-06T21:30:04.501113",
+        "annotation": null,
+        "entry": "i\u014bg(\u025b\u014b)-",
+        "id": 145525,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/145525/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(be)",
         "word": "/api/v1/word/to-be/"
@@ -1092,18 +1092,6 @@
         "word": "/api/v1/word/frog/"
     },
     {
-        "added": "2014-07-06T21:30:05.320255",
-        "annotation": null,
-        "entry": "inziw-",
-        "id": 145900,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/145900/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "walk",
-        "word": "/api/v1/word/to-walk/"
-    },
-    {
         "added": "2014-07-06T21:30:05.091805",
         "annotation": null,
         "entry": "inziw-",
@@ -1114,6 +1102,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(go)",
         "word": "/api/v1/word/go/"
+    },
+    {
+        "added": "2014-07-06T21:30:05.320255",
+        "annotation": null,
+        "entry": "inziw-",
+        "id": 145900,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/145900/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "walk",
+        "word": "/api/v1/word/to-walk/"
     },
     {
         "added": "2014-07-06T21:30:05.152767",
@@ -1164,6 +1164,18 @@
         "word": "/api/v1/word/quickly/"
     },
     {
+        "added": "2014-07-06T21:29:49.696468",
+        "annotation": null,
+        "entry": "irum",
+        "id": 138597,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/138597/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "woman",
+        "word": "/api/v1/word/woman/"
+    },
+    {
         "added": "2014-07-06T21:29:55.067280",
         "annotation": null,
         "entry": "irum",
@@ -1186,18 +1198,6 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(thumb)",
         "word": "/api/v1/word/thumb/"
-    },
-    {
-        "added": "2014-07-06T21:29:49.696468",
-        "annotation": null,
-        "entry": "irum",
-        "id": 138597,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/138597/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "woman",
-        "word": "/api/v1/word/woman/"
     },
     {
         "added": "2014-07-06T21:30:01.289269",
@@ -1704,6 +1704,18 @@
         "word": "/api/v1/word/bow/"
     },
     {
+        "added": "2014-07-06T21:29:53.177305",
+        "annotation": null,
+        "entry": "kitu",
+        "id": 140296,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/140296/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "calf",
+        "word": "/api/v1/word/calf/"
+    },
+    {
         "added": "2014-07-06T21:29:55.180822",
         "annotation": null,
         "entry": "kitu",
@@ -1728,18 +1740,6 @@
         "word": "/api/v1/word/meat/"
     },
     {
-        "added": "2014-07-06T21:29:53.177305",
-        "annotation": null,
-        "entry": "kitu",
-        "id": 140296,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/140296/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "calf",
-        "word": "/api/v1/word/calf/"
-    },
-    {
         "added": "2014-07-06T21:30:03.789331",
         "annotation": null,
         "entry": "ki\u1d6cute",
@@ -1752,15 +1752,15 @@
         "word": "/api/v1/word/there/"
     },
     {
-        "added": "2014-07-06T21:30:01.429424",
+        "added": "2019-03-19T04:17:08.381616",
         "annotation": null,
-        "entry": "kuari/wop",
-        "id": 144262,
+        "entry": "kuari",
+        "id": 260713,
         "language": "/api/v1/language/malas/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/144262/",
+        "resource_uri": "/api/v1/lexicon/260713/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(hot)",
+        "source_gloss": null,
         "word": "/api/v1/word/hot/"
     },
     {
@@ -1812,18 +1812,6 @@
         "word": "/api/v1/word/neck/"
     },
     {
-        "added": "2014-07-06T21:29:52.653512",
-        "annotation": null,
-        "entry": "kumu",
-        "id": 140036,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/140036/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "elbow",
-        "word": "/api/v1/word/elbow/"
-    },
-    {
         "added": "2014-07-06T21:29:51.658667",
         "annotation": null,
         "entry": "kumu",
@@ -1846,6 +1834,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "knee",
         "word": "/api/v1/word/knee/"
+    },
+    {
+        "added": "2014-07-06T21:29:52.653512",
+        "annotation": null,
+        "entry": "kumu",
+        "id": 140036,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/140036/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "elbow",
+        "word": "/api/v1/word/elbow/"
     },
     {
         "added": "2014-07-06T21:30:00.367523",
@@ -2292,18 +2292,6 @@
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2014-07-06T21:29:55.010386",
-        "annotation": null,
-        "entry": "munu",
-        "id": 141199,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/141199/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(male)",
-        "word": "/api/v1/word/male/"
-    },
-    {
         "added": "2014-07-06T21:29:49.629314",
         "annotation": null,
         "entry": "munu",
@@ -2314,6 +2302,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "man",
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2014-07-06T21:29:55.010386",
+        "annotation": null,
+        "entry": "munu",
+        "id": 141199,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/141199/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(male)",
+        "word": "/api/v1/word/male/"
     },
     {
         "added": "2014-07-06T21:29:51.999041",
@@ -3252,18 +3252,6 @@
         "word": "/api/v1/word/kunai/"
     },
     {
-        "added": "2014-07-06T21:29:50.851195",
-        "annotation": null,
-        "entry": "u",
-        "id": 139165,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139165/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(3sg)",
-        "word": "/api/v1/word/he-she/"
-    },
-    {
         "added": "2014-07-06T21:29:50.928654",
         "annotation": null,
         "entry": "u",
@@ -3274,6 +3262,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "3sg poss.",
         "word": "/api/v1/word/his/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.851195",
+        "annotation": null,
+        "entry": "u",
+        "id": 139165,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139165/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(3sg)",
+        "word": "/api/v1/word/he-she/"
     },
     {
         "added": "2014-07-06T21:29:50.983146",
@@ -3468,18 +3468,6 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2014-07-06T21:30:07.511397",
-        "annotation": null,
-        "entry": "ur-",
-        "id": 146998,
-        "language": "/api/v1/language/malas/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146998/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(shoot)",
-        "word": "/api/v1/word/to-shoot/"
-    },
-    {
         "added": "2014-07-06T21:30:07.399660",
         "annotation": null,
         "entry": "ur-",
@@ -3490,6 +3478,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(kill)",
         "word": "/api/v1/word/to-kill/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.511397",
+        "annotation": null,
+        "entry": "ur-",
+        "id": 146998,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146998/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(shoot)",
+        "word": "/api/v1/word/to-shoot/"
     },
     {
         "added": "2014-07-06T21:29:53.295877",
@@ -3754,6 +3754,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "tie",
         "word": "/api/v1/word/to-tie/"
+    },
+    {
+        "added": "2019-03-19T04:17:08.399530",
+        "annotation": null,
+        "entry": "wop",
+        "id": 260714,
+        "language": "/api/v1/language/malas/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260714/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hot/"
     },
     {
         "added": "2014-07-06T21:29:50.581274",

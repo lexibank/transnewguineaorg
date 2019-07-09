@@ -120,18 +120,6 @@
         "word": "/api/v1/word/cold/"
     },
     {
-        "added": "2015-06-04T00:04:26.789803",
-        "annotation": "",
-        "entry": "g\u0259m",
-        "id": 226842,
-        "language": "/api/v1/language/wipi-gamaewe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/226842/",
-        "source": "/api/v1/source/fleischmann-and-turpeinen-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bark/"
-    },
-    {
         "added": "2015-06-04T00:04:27.558820",
         "annotation": "",
         "entry": "g\u0259m",
@@ -142,6 +130,18 @@
         "source": "/api/v1/source/fleischmann-and-turpeinen-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2015-06-04T00:04:26.789803",
+        "annotation": "",
+        "entry": "g\u0259m",
+        "id": 226842,
+        "language": "/api/v1/language/wipi-gamaewe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/226842/",
+        "source": "/api/v1/source/fleischmann-and-turpeinen-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2015-06-04T00:04:27.621817",
@@ -204,18 +204,6 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2015-06-04T00:04:26.985822",
-        "annotation": "",
-        "entry": "k\u0259p\u02b0",
-        "id": 226862,
-        "language": "/api/v1/language/wipi-gamaewe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/226862/",
-        "source": "/api/v1/source/fleischmann-and-turpeinen-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2015-06-04T00:04:27.539334",
         "annotation": "",
         "entry": "k\u0259p\u02b0",
@@ -226,6 +214,18 @@
         "source": "/api/v1/source/fleischmann-and-turpeinen-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/seed/"
+    },
+    {
+        "added": "2015-06-04T00:04:26.985822",
+        "annotation": "",
+        "entry": "k\u0259p\u02b0",
+        "id": 226862,
+        "language": "/api/v1/language/wipi-gamaewe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/226862/",
+        "source": "/api/v1/source/fleischmann-and-turpeinen-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2015-06-04T00:04:27.646689",
@@ -962,7 +962,7 @@
     {
         "added": "2015-06-04T00:04:26.846418",
         "annotation": "",
-        "entry": "w,odz\u030c",
+        "entry": "w\u0254dz\u030c",
         "id": 226848,
         "language": "/api/v1/language/wipi-gamaewe/",
         "loan": false,

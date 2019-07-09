@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Greenhill SJ. 2015. TransNewGuinea.org: An Online Database of New Guinea Languages. PLoS ONE 10(10): e0141563. http://transnewguinea.org.
+> Greenhill, Simon J. (2015): TransNewGuinea.org: An Online Database of New Guinea Languages. PLoS ONE 10.10: e0141563.
 
 This dataset is licensed under a CC-BY license
 
@@ -11,20 +11,15 @@ Available online at http://transnewguinea.org
 ## Statistics
 
 
-
+[![Build Status](https://travis-ci.org/lexibank/transnewguineaorg.svg?branch=master)](https://travis-ci.org/lexibank/transnewguineaorg)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 1,011
-- **Concepts:** 1,211
-- **Lexemes:** 146,268
+- **Concepts:** 1,210
+- **Lexemes:** 145,686
 - **Synonymy:** 1.15
-- **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
 
 ## Possible Improvements:
 

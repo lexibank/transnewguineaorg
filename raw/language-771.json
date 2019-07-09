@@ -420,6 +420,18 @@
         "word": "/api/v1/word/root/"
     },
     {
+        "added": "2014-09-22T03:12:01.059116",
+        "annotation": null,
+        "entry": "buta\u014bgi",
+        "id": 179322,
+        "language": "/api/v1/language/urigina/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/179322/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "sap",
+        "word": "/api/v1/word/sap/"
+    },
+    {
         "added": "2014-09-22T03:11:57.406993",
         "annotation": null,
         "entry": "buta\u014bgi",
@@ -432,16 +444,16 @@
         "word": "/api/v1/word/blood/"
     },
     {
-        "added": "2014-09-22T03:12:01.059116",
+        "added": "2019-03-19T04:05:25.488748",
         "annotation": null,
-        "entry": "buta\u014bgi",
-        "id": 179322,
+        "entry": "dabu",
+        "id": 260435,
         "language": "/api/v1/language/urigina/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/179322/",
+        "resource_uri": "/api/v1/lexicon/260435/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "sap",
-        "word": "/api/v1/word/sap/"
+        "source_gloss": null,
+        "word": "/api/v1/word/wing/"
     },
     {
         "added": "2014-09-22T03:11:59.778500",
@@ -984,18 +996,6 @@
         "word": "/api/v1/word/me/"
     },
     {
-        "added": "2014-09-22T03:12:10.498163",
-        "annotation": null,
-        "entry": "i-",
-        "id": 183718,
-        "language": "/api/v1/language/urigina/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183718/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to burn",
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2014-09-22T03:12:10.360189",
         "annotation": null,
         "entry": "i-",
@@ -1006,6 +1006,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to roast",
         "word": "/api/v1/word/to-roast/"
+    },
+    {
+        "added": "2014-09-22T03:12:10.498163",
+        "annotation": null,
+        "entry": "i-",
+        "id": 183718,
+        "language": "/api/v1/language/urigina/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183718/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to burn",
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2014-09-22T03:12:03.555142",
@@ -1560,18 +1572,6 @@
         "word": "/api/v1/word/pandanus/"
     },
     {
-        "added": "2014-09-22T03:12:03.210200",
-        "annotation": null,
-        "entry": "kouyawa",
-        "id": 180361,
-        "language": "/api/v1/language/urigina/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/180361/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-09-22T03:12:03.154503",
         "annotation": null,
         "entry": "kouyawa",
@@ -1582,6 +1582,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2014-09-22T03:12:03.210200",
+        "annotation": null,
+        "entry": "kouyawa",
+        "id": 180361,
+        "language": "/api/v1/language/urigina/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/180361/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
     },
     {
         "added": "2014-09-22T03:12:00.302127",
@@ -2280,18 +2292,6 @@
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2014-09-22T03:12:00.765336",
-        "annotation": null,
-        "entry": "nau",
-        "id": 179176,
-        "language": "/api/v1/language/urigina/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/179176/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "coconut",
-        "word": "/api/v1/word/coconut/"
-    },
-    {
         "added": "2014-09-22T03:12:00.938419",
         "annotation": null,
         "entry": "nau",
@@ -2302,6 +2302,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "tree",
         "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2014-09-22T03:12:00.765336",
+        "annotation": null,
+        "entry": "nau",
+        "id": 179176,
+        "language": "/api/v1/language/urigina/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/179176/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "coconut",
+        "word": "/api/v1/word/coconut/"
     },
     {
         "added": "2014-09-22T03:12:09.949308",
@@ -2652,18 +2664,6 @@
         "word": "/api/v1/word/coconut/"
     },
     {
-        "added": "2014-09-22T03:12:10.742892",
-        "annotation": null,
-        "entry": "o-",
-        "id": 183835,
-        "language": "/api/v1/language/urigina/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183835/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to kill",
-        "word": "/api/v1/word/to-kill/"
-    },
-    {
         "added": "2014-09-22T03:12:10.870480",
         "annotation": null,
         "entry": "o-",
@@ -2674,6 +2674,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to shoot",
         "word": "/api/v1/word/to-shoot/"
+    },
+    {
+        "added": "2014-09-22T03:12:10.742892",
+        "annotation": null,
+        "entry": "o-",
+        "id": 183835,
+        "language": "/api/v1/language/urigina/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183835/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to kill",
+        "word": "/api/v1/word/to-kill/"
     },
     {
         "added": "2014-09-22T03:12:07.692021",
@@ -2820,18 +2832,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2014-09-22T03:11:55.343291",
-        "annotation": null,
-        "entry": "oro-",
-        "id": 176582,
-        "language": "/api/v1/language/urigina/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176582/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "head",
-        "word": "/api/v1/word/head/"
-    },
-    {
         "added": "2014-09-22T03:12:11.019617",
         "annotation": null,
         "entry": "oro-",
@@ -2842,6 +2842,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to sharpen",
         "word": "/api/v1/word/to-sharpen/"
+    },
+    {
+        "added": "2014-09-22T03:11:55.343291",
+        "annotation": null,
+        "entry": "oro-",
+        "id": 176582,
+        "language": "/api/v1/language/urigina/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176582/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
     },
     {
         "added": "2014-09-22T03:11:53.397308",
@@ -2988,15 +3000,15 @@
         "word": "/api/v1/word/to-stand/"
     },
     {
-        "added": "2014-09-22T03:11:58.356901",
+        "added": "2019-03-19T04:05:25.347699",
         "annotation": null,
-        "entry": "samb/dabu",
-        "id": 177986,
+        "entry": "samb",
+        "id": 260434,
         "language": "/api/v1/language/urigina/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/177986/",
+        "resource_uri": "/api/v1/lexicon/260434/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "wing",
+        "source_gloss": null,
         "word": "/api/v1/word/wing/"
     },
     {

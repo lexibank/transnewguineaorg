@@ -60,18 +60,6 @@
         "word": "/api/v1/word/house/"
     },
     {
-        "added": "2013-11-04T22:16:31.383249",
-        "annotation": "",
-        "entry": "b\u025bh",
-        "id": 35744,
-        "language": "/api/v1/language/kabola-aimoli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35744/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-beat/"
-    },
-    {
         "added": "2013-11-04T22:16:31.869972",
         "annotation": "",
         "entry": "b\u025bh",
@@ -82,6 +70,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2013-11-04T22:16:31.383249",
+        "annotation": "",
+        "entry": "b\u025bh",
+        "id": 35744,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/35744/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-beat/"
     },
     {
         "added": "2013-11-04T22:16:31.137635",
@@ -180,25 +180,37 @@
         "word": "/api/v1/word/egg/"
     },
     {
-        "added": "2013-11-04T22:16:31.278906",
-        "annotation": "",
-        "entry": "d'\u0254y\u025b/d'\u0254\u025b",
-        "id": 35737,
+        "added": "2019-03-19T04:06:31.295203",
+        "annotation": null,
+        "entry": "d'\u0254\u025b",
+        "id": 260437,
         "language": "/api/v1/language/kabola-aimoli/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35737/",
+        "resource_uri": "/api/v1/lexicon/260437/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2013-11-04T22:16:31.961193",
-        "annotation": "",
-        "entry": "dun/h\u0254i",
-        "id": 35790,
+        "added": "2019-03-19T04:06:31.192042",
+        "annotation": null,
+        "entry": "d'\u0254y\u025b",
+        "id": 260436,
         "language": "/api/v1/language/kabola-aimoli/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35790/",
+        "resource_uri": "/api/v1/lexicon/260436/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2019-03-19T04:06:31.543912",
+        "annotation": null,
+        "entry": "dun",
+        "id": 260448,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260448/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-see/"
@@ -276,13 +288,25 @@
         "word": "/api/v1/word/fence/"
     },
     {
-        "added": "2013-11-04T22:16:31.287191",
-        "annotation": "",
-        "entry": "f\u0254y/f'\u0254\u02b0\u025b",
-        "id": 35738,
+        "added": "2019-03-19T04:06:31.342088",
+        "annotation": null,
+        "entry": "f'\u0254\u02b0\u025b",
+        "id": 260439,
         "language": "/api/v1/language/kabola-aimoli/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35738/",
+        "resource_uri": "/api/v1/lexicon/260439/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2019-03-19T04:06:31.327076",
+        "annotation": null,
+        "entry": "f\u0254y",
+        "id": 260438,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260438/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
@@ -298,6 +322,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2019-03-19T04:06:31.477881",
+        "annotation": null,
+        "entry": "hif'ihi\u014b",
+        "id": 260445,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260445/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/five/"
     },
     {
         "added": "2013-11-04T22:16:30.502082",
@@ -324,13 +360,13 @@
         "word": "/api/v1/word/seven/"
     },
     {
-        "added": "2013-11-04T22:16:31.448275",
-        "annotation": "",
-        "entry": "hiw'ihi\u014b/hif'ihi\u014b",
-        "id": 35749,
+        "added": "2019-03-19T04:06:31.458327",
+        "annotation": null,
+        "entry": "hiw'ihi\u014b",
+        "id": 260444,
         "language": "/api/v1/language/kabola-aimoli/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35749/",
+        "resource_uri": "/api/v1/lexicon/260444/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/five/"
@@ -372,13 +408,37 @@
         "word": "/api/v1/word/to-come/"
     },
     {
-        "added": "2013-11-04T22:16:31.296508",
-        "annotation": "",
-        "entry": "h'\u03b1l\u03b1 m''\u025bma\u014b/h'\u03b1l\u03b1",
-        "id": 35739,
+        "added": "2019-03-19T04:06:31.557260",
+        "annotation": null,
+        "entry": "h\u0254i",
+        "id": 260449,
         "language": "/api/v1/language/kabola-aimoli/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35739/",
+        "resource_uri": "/api/v1/lexicon/260449/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2019-03-19T04:06:31.382848",
+        "annotation": null,
+        "entry": "h'\u03b1l\u03b1",
+        "id": 260441,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260441/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:06:31.365875",
+        "annotation": null,
+        "entry": "h'\u03b1l\u03b1 m''\u025bma\u014b",
+        "id": 260440,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260440/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -492,6 +552,18 @@
         "word": "/api/v1/word/cold/"
     },
     {
+        "added": "2019-03-19T04:06:31.425241",
+        "annotation": null,
+        "entry": "mih",
+        "id": 260443,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260443/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sit/"
+    },
+    {
         "added": "2013-11-04T22:16:31.715031",
         "annotation": "",
         "entry": "miin",
@@ -504,13 +576,13 @@
         "word": "/api/v1/word/to-die/"
     },
     {
-        "added": "2013-11-04T22:16:31.365299",
-        "annotation": "",
-        "entry": "mix/mih",
-        "id": 35742,
+        "added": "2019-03-19T04:06:31.409056",
+        "annotation": null,
+        "entry": "mix",
+        "id": 260442,
         "language": "/api/v1/language/kabola-aimoli/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35742/",
+        "resource_uri": "/api/v1/lexicon/260442/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sit/"
@@ -564,6 +636,18 @@
         "word": "/api/v1/word/ashes/"
     },
     {
+        "added": "2019-03-19T04:06:31.579823",
+        "annotation": null,
+        "entry": "m'\u03b1tt\u025b",
+        "id": 260450,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260450/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-04T22:16:31.622628",
         "annotation": "",
         "entry": "m'\u03b1tt\u025b",
@@ -574,18 +658,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
-    },
-    {
-        "added": "2013-11-04T22:16:31.823563",
-        "annotation": "fat",
-        "entry": "m'\u03b1tt\u025b/tam'ar",
-        "id": 35776,
-        "language": "/api/v1/language/kabola-aimoli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35776/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
-        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-04T22:16:30.390469",
@@ -1176,6 +1248,18 @@
         "word": "/api/v1/word/cloud/"
     },
     {
+        "added": "2019-03-19T04:06:31.594733",
+        "annotation": null,
+        "entry": "tam'ar",
+        "id": 260451,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260451/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-04T22:16:31.374024",
         "annotation": "",
         "entry": "tar",
@@ -1260,13 +1344,25 @@
         "word": "/api/v1/word/to-stand/"
     },
     {
-        "added": "2013-11-04T22:16:31.535450",
-        "annotation": "",
-        "entry": "t'url\u0254/t'ur\u0259l\u0254",
-        "id": 35752,
+        "added": "2019-03-19T04:06:31.517825",
+        "annotation": null,
+        "entry": "t'ur\u0259l\u0254",
+        "id": 260447,
         "language": "/api/v1/language/kabola-aimoli/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/35752/",
+        "resource_uri": "/api/v1/lexicon/260447/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2019-03-19T04:06:31.504041",
+        "annotation": null,
+        "entry": "t'url\u0254",
+        "id": 260446,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260446/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/eight/"

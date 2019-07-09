@@ -600,13 +600,13 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2013-11-06T03:07:08.314734",
-        "annotation": "",
-        "entry": "m\u0254d-'\u03b1r\u03b1/'\u03b1r\u03b1",
-        "id": 36793,
+        "added": "2019-03-19T04:16:27.996322",
+        "annotation": null,
+        "entry": "m\u0254d-'\u03b1r\u03b1",
+        "id": 260534,
         "language": "/api/v1/language/blagar-limarahing-on-pura/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36793/",
+        "resource_uri": "/api/v1/lexicon/260534/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -888,6 +888,18 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2019-03-19T04:16:28.061844",
+        "annotation": null,
+        "entry": "n'ua\u014b",
+        "id": 260537,
+        "language": "/api/v1/language/blagar-limarahing-on-pura/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260537/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/chest/"
+    },
+    {
         "added": "2013-11-06T03:07:08.331641",
         "annotation": "",
         "entry": "n\u03b1",
@@ -900,13 +912,13 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
-        "added": "2013-11-06T03:07:07.693629",
-        "annotation": "",
-        "entry": "n\u03b1d'iyar/n'ua\u014b",
-        "id": 36758,
+        "added": "2019-03-19T04:16:28.043131",
+        "annotation": null,
+        "entry": "n\u03b1d'iyar",
+        "id": 260536,
         "language": "/api/v1/language/blagar-limarahing-on-pura/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/36758/",
+        "resource_uri": "/api/v1/lexicon/260536/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/chest/"
@@ -1402,5 +1414,17 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/twenty/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.012583",
+        "annotation": null,
+        "entry": "'\u03b1r\u03b1",
+        "id": 260535,
+        "language": "/api/v1/language/blagar-limarahing-on-pura/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260535/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
     }
 ]

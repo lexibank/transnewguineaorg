@@ -12,15 +12,15 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2013-11-06T04:48:00.606751",
-        "annotation": "fat",
-        "entry": "akk'u/kaw'\u03b1t\u03b1",
-        "id": 37182,
+        "added": "2019-03-19T04:16:31.639502",
+        "annotation": null,
+        "entry": "akk'u",
+        "id": 260701,
         "language": "/api/v1/language/western-pantar-mauta-tubal/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37182/",
+        "resource_uri": "/api/v1/lexicon/260701/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -278,7 +278,7 @@
     {
         "added": "2013-11-06T04:48:00.496865",
         "annotation": "",
-        "entry": "h;inn\u03b1",
+        "entry": "h'inn\u03b1",
         "id": 37173,
         "language": "/api/v1/language/western-pantar-mauta-tubal/",
         "loan": false,
@@ -396,16 +396,16 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2013-11-06T04:48:00.461116",
-        "annotation": "",
-        "entry": "k'\u025b\u0294\u025b",
-        "id": 37169,
+        "added": "2019-03-19T04:16:31.656591",
+        "annotation": null,
+        "entry": "kaw'\u03b1t\u03b1",
+        "id": 260702,
         "language": "/api/v1/language/western-pantar-mauta-tubal/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37169/",
+        "resource_uri": "/api/v1/lexicon/260702/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
-        "word": "/api/v1/word/bone/"
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-06T04:47:59.820489",
@@ -418,6 +418,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2013-11-06T04:48:00.461116",
+        "annotation": "",
+        "entry": "k'\u025b\u0294\u025b",
+        "id": 37169,
+        "language": "/api/v1/language/western-pantar-mauta-tubal/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/37169/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bone/"
     },
     {
         "added": "2013-11-06T04:48:00.673726",
@@ -446,7 +458,7 @@
     {
         "added": "2013-11-06T04:48:00.307736",
         "annotation": "",
-        "entry": "kenn;uktu",
+        "entry": "kenn'uktu",
         "id": 37160,
         "language": "/api/v1/language/western-pantar-mauta-tubal/",
         "loan": false,

@@ -252,7 +252,7 @@
         "word": "/api/v1/word/dry/"
     },
     {
-        "added": "2013-11-29T19:34:39.190066",
+        "added": "2019-03-15T09:53:27.723586",
         "annotation": "",
         "entry": "akr\u00fa'a",
         "id": 72215,
@@ -261,7 +261,7 @@
         "resource_uri": "/api/v1/lexicon/72215/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/barl-noun/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-11-29T19:34:38.906796",
@@ -792,18 +792,6 @@
         "word": "/api/v1/word/moon/"
     },
     {
-        "added": "2013-11-29T19:34:53.775803",
-        "annotation": "",
-        "entry": "\u00edna y\u00fape",
-        "id": 74838,
-        "language": "/api/v1/language/kamano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74838/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/when/"
-    },
-    {
         "added": "2013-11-29T19:34:53.687453",
         "annotation": "",
         "entry": "\u00edna y\u00fape",
@@ -814,6 +802,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/what/"
+    },
+    {
+        "added": "2013-11-29T19:34:53.775803",
+        "annotation": "",
+        "entry": "\u00edna y\u00fape",
+        "id": 74838,
+        "language": "/api/v1/language/kamano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74838/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/when/"
     },
     {
         "added": "2013-11-29T19:34:48.505023",
@@ -1488,18 +1488,6 @@
         "word": "/api/v1/word/to-give/"
     },
     {
-        "added": "2013-11-29T19:34:41.592420",
-        "annotation": "drink",
-        "entry": "(n\u00e9)ne(a)",
-        "id": 72643,
-        "language": "/api/v1/language/kamano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72643/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2013-11-29T19:34:41.980533",
         "annotation": "eat",
         "entry": "(n\u00e9)ne(a)",
@@ -1510,6 +1498,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-11-29T19:34:41.592420",
+        "annotation": "drink",
+        "entry": "(n\u00e9)ne(a)",
+        "id": 72643,
+        "language": "/api/v1/language/kamano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72643/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-11-29T19:34:45.617736",

@@ -192,6 +192,18 @@
         "word": "/api/v1/word/big/"
     },
     {
+        "added": "2019-03-19T04:21:16.524800",
+        "annotation": null,
+        "entry": "\u0180\u025bs",
+        "id": 260741,
+        "language": "/api/v1/language/banaro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260741/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
+    },
+    {
         "added": "2014-08-31T18:25:52.407430",
         "annotation": "",
         "entry": "'\u1d51gom",
@@ -912,15 +924,15 @@
         "word": "/api/v1/word/thumb/"
     },
     {
-        "added": "2014-08-31T18:25:32.296083",
-        "annotation": "",
-        "entry": "m\u028c's\u02b8in\u028c, \u0180\u025bs",
-        "id": 163010,
+        "added": "2019-03-19T04:21:16.405283",
+        "annotation": null,
+        "entry": "m\u028c's\u02b8in\u028c",
+        "id": 260740,
         "language": "/api/v1/language/banaro/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/163010/",
+        "resource_uri": "/api/v1/lexicon/260740/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "hair",
+        "source_gloss": null,
         "word": "/api/v1/word/hair/"
     },
     {
@@ -1034,7 +1046,7 @@
     {
         "added": "2014-08-31T18:25:53.909776",
         "annotation": "",
-        "entry": "'\u014b\u0268n\u028c,wo\u0309",
+        "entry": "'\u014b\u0268n\u028c\u20d3wo\u0309",
         "id": 165196,
         "language": "/api/v1/language/banaro/",
         "loan": false,
@@ -1130,7 +1142,7 @@
     {
         "added": "2014-08-31T18:25:53.547295",
         "annotation": "",
-        "entry": "'p\u02b0o\u01e5\u028c,s\u02b8\u025bt\u02b0",
+        "entry": "'p\u02b0o\u01e5\u028c\u20d3s\u02b8\u025bt\u02b0",
         "id": 165161,
         "language": "/api/v1/language/banaro/",
         "loan": false,
@@ -1176,18 +1188,6 @@
         "word": "/api/v1/word/wallaby/"
     },
     {
-        "added": "2014-08-31T18:25:46.568294",
-        "annotation": "",
-        "entry": "'\u0159am",
-        "id": 164535,
-        "language": "/api/v1/language/banaro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164535/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "mountain",
-        "word": "/api/v1/word/mountain/"
-    },
-    {
         "added": "2014-08-31T18:25:51.765441",
         "annotation": "",
         "entry": "'\u0159am",
@@ -1198,6 +1198,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "cold",
         "word": "/api/v1/word/cold/"
+    },
+    {
+        "added": "2014-08-31T18:25:46.568294",
+        "annotation": "",
+        "entry": "'\u0159am",
+        "id": 164535,
+        "language": "/api/v1/language/banaro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164535/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
     },
     {
         "added": "2014-08-31T18:25:52.836301",

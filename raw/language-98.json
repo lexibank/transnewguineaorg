@@ -36,18 +36,6 @@
         "word": "/api/v1/word/yellow/"
     },
     {
-        "added": "2013-06-04T01:01:22.214853",
-        "annotation": "",
-        "entry": "amo",
-        "id": 17345,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17345/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/breast/"
-    },
-    {
         "added": "2014-07-30T23:28:40.126430",
         "annotation": null,
         "entry": "amo",
@@ -57,6 +45,18 @@
         "resource_uri": "/api/v1/lexicon/158579/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "breast",
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2013-06-04T01:01:22.214853",
+        "annotation": "",
+        "entry": "amo",
+        "id": 17345,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17345/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/breast/"
     },
     {
@@ -110,7 +110,7 @@
     {
         "added": "2013-06-04T01:01:17.276803",
         "annotation": "plural",
-        "entry": "arobo upi (pl.)",
+        "entry": "arobo upi",
         "id": 17330,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
@@ -240,18 +240,6 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2013-06-04T01:01:22.115522",
-        "annotation": "",
-        "entry": "damari",
-        "id": 17337,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17337/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2014-07-30T23:28:34.639682",
         "annotation": null,
         "entry": "damari",
@@ -261,6 +249,18 @@
         "resource_uri": "/api/v1/lexicon/156870/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "eye",
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2013-06-04T01:01:22.115522",
+        "annotation": "",
+        "entry": "damari",
+        "id": 17337,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17337/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
     {
@@ -278,7 +278,7 @@
     {
         "added": "2013-06-04T01:01:27.289406",
         "annotation": "plural",
-        "entry": "didiri (pl.)",
+        "entry": "didiri",
         "id": 17429,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
@@ -312,18 +312,6 @@
         "word": "/api/v1/word/belly/"
     },
     {
-        "added": "2013-06-04T01:01:15.182443",
-        "annotation": "",
-        "entry": "dubu",
-        "id": 17329,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17329/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/man/"
-    },
-    {
         "added": "2013-06-04T01:01:27.077953",
         "annotation": "",
         "entry": "dubu",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2013-06-04T01:01:15.182443",
+        "annotation": "",
+        "entry": "dubu",
+        "id": 17329,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17329/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/man/"
     },
     {
         "added": "2013-06-04T01:01:25.216119",
@@ -372,18 +372,6 @@
         "word": "/api/v1/word/to-see/"
     },
     {
-        "added": "2014-07-30T23:28:28.857953",
-        "annotation": null,
-        "entry": "epuru",
-        "id": 155064,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155064/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "head",
-        "word": "/api/v1/word/head/"
-    },
-    {
         "added": "2013-06-04T01:01:18.299716",
         "annotation": "",
         "entry": "epuru",
@@ -393,6 +381,18 @@
         "resource_uri": "/api/v1/lexicon/17335/",
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2014-07-30T23:28:28.857953",
+        "annotation": null,
+        "entry": "epuru",
+        "id": 155064,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155064/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "head",
         "word": "/api/v1/word/head/"
     },
     {
@@ -420,18 +420,6 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2014-07-30T23:28:35.362136",
-        "annotation": null,
-        "entry": "era",
-        "id": 157091,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157091/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "fire",
-        "word": "/api/v1/word/fire/"
-    },
-    {
         "added": "2013-06-04T01:01:25.436922",
         "annotation": "",
         "entry": "era",
@@ -444,16 +432,16 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2014-07-30T23:28:39.094639",
+        "added": "2014-07-30T23:28:35.362136",
         "annotation": null,
-        "entry": "eraera",
-        "id": 158255,
+        "entry": "era",
+        "id": 157091,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/158255/",
+        "resource_uri": "/api/v1/lexicon/157091/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "warm",
-        "word": "/api/v1/word/warm/"
+        "source_gloss": "fire",
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2013-06-04T01:01:26.255099",
@@ -464,6 +452,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/17388/",
         "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": "warm",
+        "word": "/api/v1/word/warm/"
+    },
+    {
+        "added": "2014-07-30T23:28:39.094639",
+        "annotation": null,
+        "entry": "eraera",
+        "id": 158255,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/158255/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "warm",
         "word": "/api/v1/word/warm/"
     },
@@ -492,18 +492,6 @@
         "word": "/api/v1/word/road/"
     },
     {
-        "added": "2014-07-30T23:28:31.595584",
-        "annotation": null,
-        "entry": "gare",
-        "id": 155918,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155918/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "ear",
-        "word": "/api/v1/word/ear/"
-    },
-    {
         "added": "2013-06-04T01:01:22.127382",
         "annotation": "",
         "entry": "gare",
@@ -513,6 +501,18 @@
         "resource_uri": "/api/v1/lexicon/17339/",
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2014-07-30T23:28:31.595584",
+        "annotation": null,
+        "entry": "gare",
+        "id": 155918,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155918/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "ear",
         "word": "/api/v1/word/ear/"
     },
     {
@@ -792,18 +792,6 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2013-06-04T01:01:22.173718",
-        "annotation": "",
-        "entry": "ma\u0294u",
-        "id": 17342,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17342/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/neck/"
-    },
-    {
         "added": "2014-07-30T23:28:28.499113",
         "annotation": null,
         "entry": "ma\u0294u",
@@ -813,6 +801,18 @@
         "resource_uri": "/api/v1/lexicon/154956/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "neck",
+        "word": "/api/v1/word/neck/"
+    },
+    {
+        "added": "2013-06-04T01:01:22.173718",
+        "annotation": "",
+        "entry": "ma\u0294u",
+        "id": 17342,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17342/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/neck/"
     },
     {
@@ -828,18 +828,6 @@
         "word": "/api/v1/word/root/"
     },
     {
-        "added": "2014-07-30T23:28:43.518942",
-        "annotation": null,
-        "entry": "mo",
-        "id": 159667,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159667/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "i",
-        "word": "/api/v1/word/i/"
-    },
-    {
         "added": "2013-06-04T01:01:18.244593",
         "annotation": "",
         "entry": "mo",
@@ -849,6 +837,18 @@
         "resource_uri": "/api/v1/lexicon/17331/",
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2014-07-30T23:28:43.518942",
+        "annotation": null,
+        "entry": "mo",
+        "id": 159667,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159667/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "i",
         "word": "/api/v1/word/i/"
     },
     {
@@ -936,18 +936,6 @@
         "word": "/api/v1/word/you-pl/"
     },
     {
-        "added": "2013-06-04T01:01:26.728853",
-        "annotation": "",
-        "entry": "nimo",
-        "id": 17412,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17412/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2013-06-04T01:01:18.257028",
         "annotation": "",
         "entry": "nimo",
@@ -958,6 +946,18 @@
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/we-incl/"
+    },
+    {
+        "added": "2014-07-30T23:28:40.766432",
+        "annotation": null,
+        "entry": "nimo",
+        "id": 158784,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/158784/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
     },
     {
         "added": "2014-07-30T23:28:36.673417",
@@ -972,15 +972,15 @@
         "word": "/api/v1/word/we/"
     },
     {
-        "added": "2014-07-30T23:28:40.766432",
-        "annotation": null,
+        "added": "2013-06-04T01:01:26.728853",
+        "annotation": "",
         "entry": "nimo",
-        "id": 158784,
+        "id": 17412,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/158784/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "louse",
+        "resource_uri": "/api/v1/lexicon/17412/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/louse/"
     },
     {
@@ -1128,18 +1128,6 @@
         "word": "/api/v1/word/to-burn/"
     },
     {
-        "added": "2014-07-30T23:28:30.533275",
-        "annotation": null,
-        "entry": "orio",
-        "id": 155582,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155582/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "new",
-        "word": "/api/v1/word/new/"
-    },
-    {
         "added": "2013-06-04T01:01:26.346753",
         "annotation": "",
         "entry": "orio",
@@ -1149,6 +1137,18 @@
         "resource_uri": "/api/v1/lexicon/17391/",
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/new/"
+    },
+    {
+        "added": "2014-07-30T23:28:30.533275",
+        "annotation": null,
+        "entry": "orio",
+        "id": 155582,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155582/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "new",
         "word": "/api/v1/word/new/"
     },
     {
@@ -1176,18 +1176,6 @@
         "word": "/api/v1/word/horn/"
     },
     {
-        "added": "2013-06-04T01:01:26.268912",
-        "annotation": "",
-        "entry": "orosuwo",
-        "id": 17390,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17390/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/full/"
-    },
-    {
         "added": "2014-07-30T23:28:40.475085",
         "annotation": null,
         "entry": "orosuwo",
@@ -1197,6 +1185,18 @@
         "resource_uri": "/api/v1/lexicon/158691/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "full",
+        "word": "/api/v1/word/full/"
+    },
+    {
+        "added": "2013-06-04T01:01:26.268912",
+        "annotation": "",
+        "entry": "orosuwo",
+        "id": 17390,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17390/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/full/"
     },
     {
@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/to-lie-down/"
     },
     {
-        "added": "2013-06-04T01:01:26.382415",
-        "annotation": "",
-        "entry": "oruso",
-        "id": 17392,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17392/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2014-07-30T23:28:35.776290",
         "annotation": null,
         "entry": "oruso",
@@ -1233,6 +1221,18 @@
         "resource_uri": "/api/v1/lexicon/157223/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "to-eat",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-06-04T01:01:26.382415",
+        "annotation": "",
+        "entry": "oruso",
+        "id": 17392,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17392/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
     },
     {
@@ -1332,18 +1332,6 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2014-07-30T23:28:31.994475",
-        "annotation": null,
-        "entry": "pasa",
-        "id": 156044,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/156044/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "leaf",
-        "word": "/api/v1/word/leaf/"
-    },
-    {
         "added": "2013-06-04T01:01:26.995868",
         "annotation": "",
         "entry": "pasa",
@@ -1353,6 +1341,18 @@
         "resource_uri": "/api/v1/lexicon/17421/",
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2014-07-30T23:28:31.994475",
+        "annotation": null,
+        "entry": "pasa",
+        "id": 156044,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156044/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "leaf",
         "word": "/api/v1/word/leaf/"
     },
     {
@@ -1368,18 +1368,6 @@
         "word": "/api/v1/word/feather/"
     },
     {
-        "added": "2013-06-04T01:01:24.459611",
-        "annotation": "",
-        "entry": "popu",
-        "id": 17348,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17348/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/knee/"
-    },
-    {
         "added": "2014-07-30T23:28:38.525792",
         "annotation": null,
         "entry": "popu",
@@ -1389,6 +1377,18 @@
         "resource_uri": "/api/v1/lexicon/158075/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "knee",
+        "word": "/api/v1/word/knee/"
+    },
+    {
+        "added": "2013-06-04T01:01:24.459611",
+        "annotation": "",
+        "entry": "popu",
+        "id": 17348,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17348/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/knee/"
     },
     {
@@ -1428,18 +1428,6 @@
         "word": "/api/v1/word/thou/"
     },
     {
-        "added": "2014-07-30T23:28:29.911442",
-        "annotation": null,
-        "entry": "sagana",
-        "id": 155385,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155385/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "noontime",
-        "word": "/api/v1/word/noontime/"
-    },
-    {
         "added": "2013-06-04T01:01:25.099014",
         "annotation": "",
         "entry": "sagana",
@@ -1452,16 +1440,16 @@
         "word": "/api/v1/word/moon/"
     },
     {
-        "added": "2013-06-04T01:01:25.001124",
-        "annotation": "",
-        "entry": "sa\u0294i",
-        "id": 17355,
+        "added": "2014-07-30T23:28:29.911442",
+        "annotation": null,
+        "entry": "sagana",
+        "id": 155385,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/17355/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sun/"
+        "resource_uri": "/api/v1/lexicon/155385/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "noontime",
+        "word": "/api/v1/word/noontime/"
     },
     {
         "added": "2014-07-30T23:28:41.089488",
@@ -1476,13 +1464,25 @@
         "word": "/api/v1/word/sun/"
     },
     {
-        "added": "2014-07-30T23:28:42.139252",
-        "annotation": null,
-        "entry": "sairo",
-        "id": 159216,
+        "added": "2013-06-04T01:01:25.001124",
+        "annotation": "",
+        "entry": "sa\u0294i",
+        "id": 17355,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/159216/",
+        "resource_uri": "/api/v1/lexicon/17355/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2014-07-30T23:28:45.548628",
+        "annotation": null,
+        "entry": "sairo",
+        "id": 160310,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/160310/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "leg-foot",
         "word": "/api/v1/word/leg-foot/"
@@ -1500,28 +1500,16 @@
         "word": "/api/v1/word/leg/"
     },
     {
-        "added": "2014-07-30T23:28:45.548628",
+        "added": "2014-07-30T23:28:42.139252",
         "annotation": null,
         "entry": "sairo",
-        "id": 160310,
+        "id": 159216,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/160310/",
+        "resource_uri": "/api/v1/lexicon/159216/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "leg-foot",
         "word": "/api/v1/word/leg-foot/"
-    },
-    {
-        "added": "2013-06-04T01:01:25.767104",
-        "annotation": "",
-        "entry": "sio",
-        "id": 17373,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17373/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/dog/"
     },
     {
         "added": "2014-07-30T23:28:44.280456",
@@ -1533,6 +1521,18 @@
         "resource_uri": "/api/v1/lexicon/159906/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "dog",
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2013-06-04T01:01:25.767104",
+        "annotation": "",
+        "entry": "sio",
+        "id": 17373,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17373/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/dog/"
     },
     {
@@ -1548,18 +1548,6 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2013-06-04T01:01:24.976514",
-        "annotation": "",
-        "entry": "soro",
-        "id": 17352,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17352/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bone/"
-    },
-    {
         "added": "2014-07-30T23:28:42.905986",
         "annotation": null,
         "entry": "soro",
@@ -1569,6 +1557,18 @@
         "resource_uri": "/api/v1/lexicon/159465/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2013-06-04T01:01:24.976514",
+        "annotation": "",
+        "entry": "soro",
+        "id": 17352,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17352/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/bone/"
     },
     {
@@ -1584,18 +1584,6 @@
         "word": "/api/v1/word/wind/"
     },
     {
-        "added": "2014-07-30T23:28:33.238357",
-        "annotation": null,
-        "entry": "tama",
-        "id": 156434,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/156434/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "skin",
-        "word": "/api/v1/word/skin/"
-    },
-    {
         "added": "2013-06-04T01:01:24.719039",
         "annotation": "",
         "entry": "tama",
@@ -1605,6 +1593,18 @@
         "resource_uri": "/api/v1/lexicon/17349/",
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2014-07-30T23:28:33.238357",
+        "annotation": null,
+        "entry": "tama",
+        "id": 156434,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156434/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "skin",
         "word": "/api/v1/word/skin/"
     },
     {
@@ -1620,15 +1620,15 @@
         "word": "/api/v1/word/wing/"
     },
     {
-        "added": "2014-07-30T23:28:44.129340",
-        "annotation": null,
+        "added": "2013-06-04T01:01:25.444144",
+        "annotation": "",
         "entry": "tema",
-        "id": 159859,
+        "id": 17367,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/159859/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "smoke",
+        "resource_uri": "/api/v1/lexicon/17367/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/smoke/"
     },
     {
@@ -1644,15 +1644,15 @@
         "word": "/api/v1/word/smoke/"
     },
     {
-        "added": "2013-06-04T01:01:25.444144",
-        "annotation": "",
+        "added": "2014-07-30T23:28:44.129340",
+        "annotation": null,
         "entry": "tema",
-        "id": 17367,
+        "id": 159859,
         "language": "/api/v1/language/southern-kiwai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/17367/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/159859/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "smoke",
         "word": "/api/v1/word/smoke/"
     },
     {
@@ -1692,18 +1692,6 @@
         "word": "/api/v1/word/arm/"
     },
     {
-        "added": "2014-07-30T23:28:45.545445",
-        "annotation": null,
-        "entry": "tu-igiri-pitu",
-        "id": 160309,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/160309/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "nail",
-        "word": "/api/v1/word/nail/"
-    },
-    {
         "added": "2014-07-30T23:28:34.289727",
         "annotation": null,
         "entry": "tu-igiri-pitu",
@@ -1714,6 +1702,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "fingernail",
         "word": "/api/v1/word/fingernail/"
+    },
+    {
+        "added": "2014-07-30T23:28:45.545445",
+        "annotation": null,
+        "entry": "tu-igiri-pitu",
+        "id": 160309,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/160309/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "nail",
+        "word": "/api/v1/word/nail/"
     },
     {
         "added": "2013-06-04T01:01:27.294026",
@@ -1752,18 +1752,6 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2014-07-30T23:28:43.870263",
-        "annotation": null,
-        "entry": "tuwo",
-        "id": 159777,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159777/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "ashes",
-        "word": "/api/v1/word/ashes/"
-    },
-    {
         "added": "2013-06-04T01:01:25.450811",
         "annotation": "",
         "entry": "tuwo",
@@ -1773,6 +1761,18 @@
         "resource_uri": "/api/v1/lexicon/17368/",
         "source": "/api/v1/source/wurm-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2014-07-30T23:28:43.870263",
+        "annotation": null,
+        "entry": "tuwo",
+        "id": 159777,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159777/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "ashes",
         "word": "/api/v1/word/ashes/"
     },
     {
@@ -1800,18 +1800,6 @@
         "word": "/api/v1/word/to-lie-down/"
     },
     {
-        "added": "2013-06-04T01:01:26.475489",
-        "annotation": "",
-        "entry": "uwo",
-        "id": 17399,
-        "language": "/api/v1/language/southern-kiwai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/17399/",
-        "source": "/api/v1/source/wurm-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2014-07-30T23:28:30.982249",
         "annotation": null,
         "entry": "uwo",
@@ -1821,6 +1809,18 @@
         "resource_uri": "/api/v1/lexicon/155725/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "to-sleep",
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-06-04T01:01:26.475489",
+        "annotation": "",
+        "entry": "uwo",
+        "id": 17399,
+        "language": "/api/v1/language/southern-kiwai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/17399/",
+        "source": "/api/v1/source/wurm-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
     },
     {

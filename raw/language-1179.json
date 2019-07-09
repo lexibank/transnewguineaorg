@@ -696,18 +696,6 @@
         "word": "/api/v1/word/white/"
     },
     {
-        "added": "2015-05-20T23:40:51.286771",
-        "annotation": "",
-        "entry": "\u01e5/koma",
-        "id": 220985,
-        "language": "/api/v1/language/tokano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/220985/",
-        "source": "/api/v1/source/sil-1965/",
-        "source_gloss": null,
-        "word": "/api/v1/word/small/"
-    },
-    {
         "added": "2015-05-21T00:23:49.381412",
         "annotation": "",
         "entry": "\u01e5o",
@@ -936,18 +924,6 @@
         "word": "/api/v1/word/to-die/"
     },
     {
-        "added": "2015-05-21T00:39:38.198252",
-        "annotation": "",
-        "entry": "hepe\u0294",
-        "id": 221163,
-        "language": "/api/v1/language/tokano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/221163/",
-        "source": "/api/v1/source/sil-1965/",
-        "source_gloss": null,
-        "word": "/api/v1/word/cold/"
-    },
-    {
         "added": "2015-05-21T00:23:49.428861",
         "annotation": "",
         "entry": "hepe\u0294",
@@ -958,6 +934,18 @@
         "source": "/api/v1/source/sil-1965/",
         "source_gloss": null,
         "word": "/api/v1/word/wind/"
+    },
+    {
+        "added": "2015-05-21T00:39:38.198252",
+        "annotation": "",
+        "entry": "hepe\u0294",
+        "id": 221163,
+        "language": "/api/v1/language/tokano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/221163/",
+        "source": "/api/v1/source/sil-1965/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cold/"
     },
     {
         "added": "2015-05-21T00:04:23.085626",
@@ -1042,6 +1030,18 @@
         "source": "/api/v1/source/sil-1965/",
         "source_gloss": null,
         "word": "/api/v1/word/mother/"
+    },
+    {
+        "added": "2015-05-20T23:40:51.286771",
+        "annotation": "",
+        "entry": "koma",
+        "id": 220985,
+        "language": "/api/v1/language/tokano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/220985/",
+        "source": "/api/v1/source/sil-1965/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
     },
     {
         "added": "2015-05-20T23:40:51.244858",

@@ -1,17 +1,5 @@
 [
     {
-        "added": "2013-05-09T19:09:36.268932",
-        "annotation": "",
-        "entry": "_",
-        "id": 2174,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2174/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/horn/"
-    },
-    {
         "added": "2013-05-09T19:09:36.171635",
         "annotation": "",
         "entry": "abi",
@@ -84,18 +72,6 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2013-05-09T19:09:36.264559",
-        "annotation": "",
-        "entry": "amale",
-        "id": 2171,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2171/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/not/"
-    },
-    {
         "added": "2013-06-02T22:18:08.860538",
         "annotation": "",
         "entry": "amale",
@@ -108,16 +84,16 @@
         "word": "/api/v1/word/not/"
     },
     {
-        "added": "2014-07-30T23:28:45.509973",
-        "annotation": null,
-        "entry": "atowe",
-        "id": 160298,
+        "added": "2013-05-09T19:09:36.264559",
+        "annotation": "",
+        "entry": "amale",
+        "id": 2171,
         "language": "/api/v1/language/pare/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/160298/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "arm",
-        "word": "/api/v1/word/arm/"
+        "resource_uri": "/api/v1/lexicon/2171/",
+        "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/not/"
     },
     {
         "added": "2013-05-09T19:09:36.157950",
@@ -128,6 +104,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2095/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": "arm",
+        "word": "/api/v1/word/arm/"
+    },
+    {
+        "added": "2014-07-30T23:28:45.509973",
+        "annotation": null,
+        "entry": "atowe",
+        "id": 160298,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/160298/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "arm",
         "word": "/api/v1/word/arm/"
     },
@@ -216,18 +204,6 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
-        "added": "2013-06-02T22:18:08.949213",
-        "annotation": "",
-        "entry": "dage",
-        "id": 16074,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16074/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/claw/"
-    },
-    {
         "added": "2013-05-09T19:09:36.270294",
         "annotation": "",
         "entry": "dage",
@@ -236,6 +212,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2175/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/claw/"
+    },
+    {
+        "added": "2013-06-02T22:18:08.949213",
+        "annotation": "",
+        "entry": "dage",
+        "id": 16074,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16074/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/claw/"
     },
@@ -336,6 +324,18 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2013-05-09T19:09:36.205101",
+        "annotation": "",
+        "entry": "de-nu",
+        "id": 2144,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2144/",
+        "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
+    },
+    {
         "added": "2013-05-09T19:09:36.209576",
         "annotation": "",
         "entry": "de-nu",
@@ -358,18 +358,6 @@
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
-    },
-    {
-        "added": "2013-05-09T19:09:36.205101",
-        "annotation": "",
-        "entry": "de-nu",
-        "id": 2144,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2144/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2014-07-30T23:28:29.198738",
@@ -396,18 +384,6 @@
         "word": "/api/v1/word/to-burn/"
     },
     {
-        "added": "2013-06-02T22:18:08.426330",
-        "annotation": "",
-        "entry": "dige",
-        "id": 16035,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16035/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/black/"
-    },
-    {
         "added": "2013-06-02T22:18:08.971546",
         "annotation": "",
         "entry": "dige",
@@ -418,6 +394,18 @@
         "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/string-bag/"
+    },
+    {
+        "added": "2013-06-02T22:18:08.426330",
+        "annotation": "",
+        "entry": "dige",
+        "id": 16035,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16035/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/black/"
     },
     {
         "added": "2013-05-09T19:09:36.197761",
@@ -648,18 +636,6 @@
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2014-07-30T23:28:44.651655",
-        "annotation": null,
-        "entry": "go",
-        "id": 160026,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/160026/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "you",
-        "word": "/api/v1/word/you/"
-    },
-    {
         "added": "2013-05-09T19:09:36.143853",
         "annotation": "",
         "entry": "go",
@@ -670,6 +646,18 @@
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/thou/"
+    },
+    {
+        "added": "2014-07-30T23:28:44.651655",
+        "annotation": null,
+        "entry": "go",
+        "id": 160026,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/160026/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "you",
+        "word": "/api/v1/word/you/"
     },
     {
         "added": "2013-06-02T22:18:07.782524",
@@ -792,18 +780,6 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2013-06-02T22:18:08.697715",
-        "annotation": "",
-        "entry": "hi",
-        "id": 16057,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16057/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/name/"
-    },
-    {
         "added": "2014-07-30T23:28:37.871294",
         "annotation": null,
         "entry": "hi",
@@ -813,6 +789,18 @@
         "resource_uri": "/api/v1/lexicon/157883/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "name",
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2013-06-02T22:18:08.697715",
+        "annotation": "",
+        "entry": "hi",
+        "id": 16057,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16057/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
         "word": "/api/v1/word/name/"
     },
     {
@@ -828,18 +816,6 @@
         "word": "/api/v1/word/to-shoot/"
     },
     {
-        "added": "2013-06-02T22:18:08.359829",
-        "annotation": "",
-        "entry": "hiti",
-        "id": 16029,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16029/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/big/"
-    },
-    {
         "added": "2013-05-09T19:09:36.192450",
         "annotation": "",
         "entry": "hiti",
@@ -848,6 +824,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2130/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2013-06-02T22:18:08.359829",
+        "annotation": "",
+        "entry": "hiti",
+        "id": 16029,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16029/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
     },
@@ -1152,18 +1140,6 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2013-06-02T22:18:07.803253",
-        "annotation": "",
-        "entry": "kiba",
-        "id": 15985,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15985/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/head/"
-    },
-    {
         "added": "2013-05-09T19:09:36.147236",
         "annotation": "",
         "entry": "kiba",
@@ -1172,6 +1148,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2086/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2013-06-02T22:18:07.803253",
+        "annotation": "",
+        "entry": "kiba",
+        "id": 15985,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15985/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/head/"
     },
@@ -1344,6 +1332,18 @@
         "word": "/api/v1/word/new/"
     },
     {
+        "added": "2013-05-09T19:09:36.120744",
+        "annotation": "",
+        "entry": "kobo",
+        "id": 2080,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2080/",
+        "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/man/"
+    },
+    {
         "added": "2013-05-09T19:09:36.271687",
         "annotation": "",
         "entry": "kobo",
@@ -1364,18 +1364,6 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15979/",
         "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/man/"
-    },
-    {
-        "added": "2013-05-09T19:09:36.120744",
-        "annotation": "",
-        "entry": "kobo",
-        "id": 2080,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2080/",
-        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
     },
@@ -1716,18 +1704,6 @@
         "word": "/api/v1/word/egg/"
     },
     {
-        "added": "2013-06-02T22:18:08.319731",
-        "annotation": "",
-        "entry": "mune",
-        "id": 16028,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16028/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fish/"
-    },
-    {
         "added": "2013-05-09T19:09:36.191493",
         "annotation": "",
         "entry": "mune",
@@ -1736,6 +1712,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2129/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2013-06-02T22:18:08.319731",
+        "annotation": "",
+        "entry": "mune",
+        "id": 16028,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16028/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/fish/"
     },
@@ -1884,18 +1872,6 @@
         "word": "/api/v1/word/we/"
     },
     {
-        "added": "2013-06-02T22:18:07.789566",
-        "annotation": "",
-        "entry": "nigi",
-        "id": 15983,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15983/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/we/"
-    },
-    {
         "added": "2013-05-09T19:09:36.145001",
         "annotation": "",
         "entry": "nigi",
@@ -1906,6 +1882,18 @@
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/we-incl/"
+    },
+    {
+        "added": "2013-06-02T22:18:07.789566",
+        "annotation": "",
+        "entry": "nigi",
+        "id": 15983,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15983/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/we/"
     },
     {
         "added": "2013-05-09T19:09:36.142716",
@@ -2172,18 +2160,6 @@
         "word": "/api/v1/word/knee/"
     },
     {
-        "added": "2013-06-02T22:18:07.809826",
-        "annotation": "",
-        "entry": "ouse",
-        "id": 15986,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15986/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2013-05-09T19:09:36.148311",
         "annotation": "",
         "entry": "ouse",
@@ -2192,6 +2168,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2087/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2013-06-02T22:18:07.809826",
+        "annotation": "",
+        "entry": "ouse",
+        "id": 15986,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15986/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/hair/"
     },
@@ -2304,18 +2292,6 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2013-06-02T22:18:08.011825",
-        "annotation": "",
-        "entry": "peteme",
-        "id": 16007,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16007/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/star/"
-    },
-    {
         "added": "2013-05-09T19:09:36.172525",
         "annotation": "",
         "entry": "peteme",
@@ -2324,6 +2300,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2108/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2013-06-02T22:18:08.011825",
+        "annotation": "",
+        "entry": "peteme",
+        "id": 16007,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16007/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/star/"
     },
@@ -2424,18 +2412,6 @@
         "word": "/api/v1/word/to-speak/"
     },
     {
-        "added": "2013-05-09T19:09:36.267417",
-        "annotation": "",
-        "entry": "seyi",
-        "id": 2173,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2173/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/meat/"
-    },
-    {
         "added": "2013-06-02T22:18:08.927250",
         "annotation": "",
         "entry": "seyi",
@@ -2444,6 +2420,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16072/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/meat/"
+    },
+    {
+        "added": "2013-05-09T19:09:36.267417",
+        "annotation": "",
+        "entry": "seyi",
+        "id": 2173,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2173/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/meat/"
     },
@@ -2472,18 +2460,6 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-05-09T19:09:36.195079",
-        "annotation": "",
-        "entry": "sige",
-        "id": 2133,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2133/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/long/"
-    },
-    {
         "added": "2013-06-02T22:18:08.381541",
         "annotation": "",
         "entry": "sige",
@@ -2492,6 +2468,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16032/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/long/"
+    },
+    {
+        "added": "2013-05-09T19:09:36.195079",
+        "annotation": "",
+        "entry": "sige",
+        "id": 2133,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2133/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/long/"
     },
@@ -2556,18 +2544,6 @@
         "word": "/api/v1/word/cold/"
     },
     {
-        "added": "2013-06-02T22:18:07.959776",
-        "annotation": "leg",
-        "entry": "tamakali",
-        "id": 15997,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15997/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": "leg",
-        "word": "/api/v1/word/leg/"
-    },
-    {
         "added": "2013-05-09T19:09:36.162880",
         "annotation": "leg",
         "entry": "tamakali",
@@ -2576,6 +2552,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/2098/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": "leg",
+        "word": "/api/v1/word/leg/"
+    },
+    {
+        "added": "2013-06-02T22:18:07.959776",
+        "annotation": "leg",
+        "entry": "tamakali",
+        "id": 15997,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15997/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": "leg",
         "word": "/api/v1/word/leg/"
     },
@@ -2616,15 +2604,15 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2014-07-30T23:28:28.100453",
-        "annotation": null,
+        "added": "2013-05-09T19:09:36.154353",
+        "annotation": "",
         "entry": "t\u025b",
-        "id": 154845,
+        "id": 2092,
         "language": "/api/v1/language/pare/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/154845/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "tongue",
+        "resource_uri": "/api/v1/lexicon/2092/",
+        "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
         "word": "/api/v1/word/tongue/"
     },
     {
@@ -2640,15 +2628,15 @@
         "word": "/api/v1/word/tongue/"
     },
     {
-        "added": "2013-05-09T19:09:36.154353",
-        "annotation": "",
+        "added": "2014-07-30T23:28:28.100453",
+        "annotation": null,
         "entry": "t\u025b",
-        "id": 2092,
+        "id": 154845,
         "language": "/api/v1/language/pare/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/2092/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/154845/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "tongue",
         "word": "/api/v1/word/tongue/"
     },
     {
@@ -2724,18 +2712,6 @@
         "word": "/api/v1/word/spittle/"
     },
     {
-        "added": "2013-05-09T19:09:36.186956",
-        "annotation": "",
-        "entry": "ti",
-        "id": 2124,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2124/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2013-06-02T22:18:08.221463",
         "annotation": "",
         "entry": "ti",
@@ -2744,6 +2720,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16023/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2013-05-09T19:09:36.186956",
+        "annotation": "",
+        "entry": "ti",
+        "id": 2124,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2124/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
     },
@@ -2880,14 +2868,14 @@
         "word": "/api/v1/word/neck/"
     },
     {
-        "added": "2013-05-09T19:09:36.174226",
+        "added": "2013-06-02T22:18:08.020573",
         "annotation": "rain",
         "entry": "ume",
-        "id": 2110,
+        "id": 16009,
         "language": "/api/v1/language/pare/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/2110/",
-        "source": "/api/v1/source/shaw-1973/",
+        "resource_uri": "/api/v1/lexicon/16009/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -2916,14 +2904,14 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2013-06-02T22:18:08.020573",
+        "added": "2013-05-09T19:09:36.174226",
         "annotation": "rain",
         "entry": "ume",
-        "id": 16009,
+        "id": 2110,
         "language": "/api/v1/language/pare/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/16009/",
-        "source": "/api/v1/source/shaw-1986/",
+        "resource_uri": "/api/v1/lexicon/2110/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -2988,18 +2976,6 @@
         "word": "/api/v1/word/road/"
     },
     {
-        "added": "2013-05-09T19:09:36.173375",
-        "annotation": "",
-        "entry": "uwe",
-        "id": 2109,
-        "language": "/api/v1/language/pare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/2109/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/cloud/"
-    },
-    {
         "added": "2013-06-02T22:18:08.016185",
         "annotation": "",
         "entry": "uwe",
@@ -3012,16 +2988,16 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2013-05-09T19:09:36.141477",
+        "added": "2013-05-09T19:09:36.173375",
         "annotation": "",
-        "entry": "wigi",
-        "id": 2081,
+        "entry": "uwe",
+        "id": 2109,
         "language": "/api/v1/language/pare/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/2081/",
+        "resource_uri": "/api/v1/lexicon/2109/",
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/woman/"
+        "word": "/api/v1/word/cloud/"
     },
     {
         "added": "2013-06-02T22:18:07.743858",
@@ -3032,6 +3008,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15980/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/woman/"
+    },
+    {
+        "added": "2013-05-09T19:09:36.141477",
+        "annotation": "",
+        "entry": "wigi",
+        "id": 2081,
+        "language": "/api/v1/language/pare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/2081/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/woman/"
     },

@@ -1,17 +1,5 @@
 [
     {
-        "added": "2015-10-26T12:54:13.854758",
-        "annotation": "",
-        "entry": "1-15",
-        "id": 254032,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254032/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "hair (of head)",
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2015-10-26T12:54:21.336799",
         "annotation": "",
         "entry": "a",
@@ -60,18 +48,6 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2015-10-26T12:54:06.538816",
-        "annotation": "",
-        "entry": "aman",
-        "id": 252386,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/252386/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/bow/"
-    },
-    {
         "added": "2015-10-26T12:54:15.147021",
         "annotation": "",
         "entry": "aman",
@@ -82,6 +58,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "(the) inside",
         "word": "/api/v1/word/in/"
+    },
+    {
+        "added": "2015-10-26T12:54:06.538816",
+        "annotation": "",
+        "entry": "aman",
+        "id": 252386,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252386/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/bow/"
     },
     {
         "added": "2015-10-26T12:54:20.471945",
@@ -732,6 +720,18 @@
         "word": "/api/v1/word/grass/"
     },
     {
+        "added": "2015-10-26T12:54:13.854758",
+        "annotation": "",
+        "entry": "fin",
+        "id": 254032,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254032/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "hair (of head)",
+        "word": "/api/v1/word/hair/"
+    },
+    {
         "added": "2015-10-26T12:54:19.416769",
         "annotation": "",
         "entry": "fir",
@@ -816,18 +816,6 @@
         "word": "/api/v1/word/calf/"
     },
     {
-        "added": "2015-10-26T12:54:11.245137",
-        "annotation": "",
-        "entry": "is",
-        "id": 253605,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253605/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "firewood, fire",
-        "word": "/api/v1/word/firewood/"
-    },
-    {
         "added": "2015-10-26T12:54:16.741596",
         "annotation": "",
         "entry": "is",
@@ -838,6 +826,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/mosquito/"
+    },
+    {
+        "added": "2015-10-26T12:54:11.245137",
+        "annotation": "",
+        "entry": "is",
+        "id": 253605,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253605/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "firewood, fire",
+        "word": "/api/v1/word/firewood/"
     },
     {
         "added": "2015-10-26T12:54:20.233006",
@@ -1044,18 +1044,6 @@
         "word": "/api/v1/word/leg-foot/"
     },
     {
-        "added": "2015-10-26T12:54:18.262120",
-        "annotation": "",
-        "entry": "me",
-        "id": 255326,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255326/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "prawn sp.",
-        "word": "/api/v1/word/prawn/"
-    },
-    {
         "added": "2015-10-26T12:54:16.923640",
         "annotation": "",
         "entry": "me",
@@ -1066,6 +1054,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2015-10-26T12:54:18.262120",
+        "annotation": "",
+        "entry": "me",
+        "id": 255326,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255326/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "prawn sp.",
+        "word": "/api/v1/word/prawn/"
     },
     {
         "added": "2015-10-26T12:54:19.238912",
@@ -1248,18 +1248,6 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
-        "added": "2015-10-26T12:54:06.344817",
-        "annotation": "",
-        "entry": "nam",
-        "id": 252330,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/252330/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/body/"
-    },
-    {
         "added": "2015-10-26T12:54:19.741024",
         "annotation": "",
         "entry": "nam",
@@ -1270,6 +1258,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "sick",
         "word": "/api/v1/word/to-be-sick/"
+    },
+    {
+        "added": "2015-10-26T12:54:06.344817",
+        "annotation": "",
+        "entry": "nam",
+        "id": 252330,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252330/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/body/"
     },
     {
         "added": "2015-10-26T12:54:08.545515",
@@ -1884,18 +1884,6 @@
         "word": "/api/v1/word/all/"
     },
     {
-        "added": "2015-10-26T12:54:16.702706",
-        "annotation": "",
-        "entry": "tam",
-        "id": 254788,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254788/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/morning/"
-    },
-    {
         "added": "2015-10-26T12:54:18.491882",
         "annotation": "",
         "entry": "tam",
@@ -1906,6 +1894,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/rattan/"
+    },
+    {
+        "added": "2015-10-26T12:54:16.702706",
+        "annotation": "",
+        "entry": "tam",
+        "id": 254788,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254788/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/morning/"
     },
     {
         "added": "2015-10-26T12:54:16.523550",
@@ -2136,18 +2136,6 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2015-10-26T12:54:07.299349",
-        "annotation": "",
-        "entry": "wow",
-        "id": 252640,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/252640/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/carving/"
-    },
-    {
         "added": "2015-10-26T12:54:21.653179",
         "annotation": "",
         "entry": "wow",
@@ -2158,6 +2146,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/today/"
+    },
+    {
+        "added": "2015-10-26T12:54:07.299349",
+        "annotation": "",
+        "entry": "wow",
+        "id": 252640,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252640/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/carving/"
     },
     {
         "added": "2015-10-26T12:54:17.916805",

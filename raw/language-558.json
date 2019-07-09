@@ -588,7 +588,7 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-11-29T19:34:39.186011",
+        "added": "2019-03-15T09:53:27.877333",
         "annotation": "",
         "entry": "ari",
         "id": 72214,
@@ -597,7 +597,7 @@
         "resource_uri": "/api/v1/lexicon/72214/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/barl-noun/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-11-29T19:34:40.083878",
@@ -732,16 +732,16 @@
         "word": "/api/v1/word/short/"
     },
     {
-        "added": "2013-11-29T19:34:44.097521",
+        "added": "2013-11-29T19:34:42.645530",
         "annotation": "",
         "entry": "(a)za'",
-        "id": 73100,
+        "id": 72832,
         "language": "/api/v1/language/gimi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/73100/",
+        "resource_uri": "/api/v1/lexicon/72832/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/hair/"
+        "word": "/api/v1/word/feather/"
     },
     {
         "added": "2013-11-29T19:34:44.191783",
@@ -756,16 +756,16 @@
         "word": "/api/v1/word/hand/"
     },
     {
-        "added": "2013-11-29T19:34:42.645530",
+        "added": "2013-11-29T19:34:44.097521",
         "annotation": "",
         "entry": "(a)za'",
-        "id": 72832,
+        "id": 73100,
         "language": "/api/v1/language/gimi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/72832/",
+        "resource_uri": "/api/v1/lexicon/73100/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/feather/"
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2013-11-29T19:34:39.990564",
@@ -852,18 +852,6 @@
         "word": "/api/v1/word/woman/"
     },
     {
-        "added": "2013-11-29T19:34:48.984445",
-        "annotation": "",
-        "entry": "be(ize)",
-        "id": 73977,
-        "language": "/api/v1/language/gimi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73977/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/recline/"
-    },
-    {
         "added": "2013-11-29T19:34:50.428519",
         "annotation": "sleep",
         "entry": "be(ize)",
@@ -874,6 +862,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-11-29T19:34:48.984445",
+        "annotation": "",
+        "entry": "be(ize)",
+        "id": 73977,
+        "language": "/api/v1/language/gimi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73977/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/recline/"
     },
     {
         "added": "2013-11-29T19:34:53.300162",
@@ -912,18 +912,6 @@
         "word": "/api/v1/word/white/"
     },
     {
-        "added": "2013-11-29T19:34:43.888619",
-        "annotation": "",
-        "entry": "bida'",
-        "id": 73060,
-        "language": "/api/v1/language/gimi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73060/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/good/"
-    },
-    {
         "added": "2013-11-29T19:34:49.097207",
         "annotation": "",
         "entry": "bida'",
@@ -934,6 +922,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2013-11-29T19:34:43.888619",
+        "annotation": "",
+        "entry": "bida'",
+        "id": 73060,
+        "language": "/api/v1/language/gimi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73060/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/good/"
     },
     {
         "added": "2013-11-29T19:34:40.880185",
@@ -1044,18 +1044,6 @@
         "word": "/api/v1/word/to-fly/"
     },
     {
-        "added": "2013-11-29T19:34:38.407187",
-        "annotation": "",
-        "entry": "hago'",
-        "id": 72081,
-        "language": "/api/v1/language/gimi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72081/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/all/"
-    },
-    {
         "added": "2013-11-29T19:34:47.376723",
         "annotation": "",
         "entry": "hago'",
@@ -1066,6 +1054,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/many/"
+    },
+    {
+        "added": "2013-11-29T19:34:38.407187",
+        "annotation": "",
+        "entry": "hago'",
+        "id": 72081,
+        "language": "/api/v1/language/gimi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72081/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/all/"
     },
     {
         "added": "2013-11-29T19:34:44.774121",
@@ -1298,7 +1298,7 @@
     {
         "added": "2013-11-29T19:34:54.895309",
         "annotation": "",
-        "entry": "(ka(ge)",
+        "entry": "ka(ge)",
         "id": 75048,
         "language": "/api/v1/language/gimi/",
         "loan": false,
@@ -1332,18 +1332,6 @@
         "word": "/api/v1/word/five/"
     },
     {
-        "added": "2013-11-29T19:34:47.971589",
-        "annotation": "",
-        "entry": "kak\u00e1re",
-        "id": 73800,
-        "language": "/api/v1/language/gimi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73800/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/not/"
-    },
-    {
         "added": "2013-11-29T19:34:46.856441",
         "annotation": "no ",
         "entry": "kak\u00e1re",
@@ -1354,6 +1342,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/no-not/"
+    },
+    {
+        "added": "2013-11-29T19:34:47.971589",
+        "annotation": "",
+        "entry": "kak\u00e1re",
+        "id": 73800,
+        "language": "/api/v1/language/gimi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73800/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/not/"
     },
     {
         "added": "2013-11-29T19:34:52.159036",

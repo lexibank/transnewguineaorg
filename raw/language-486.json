@@ -240,15 +240,15 @@
         "word": "/api/v1/word/i-see-the-snake/"
     },
     {
-        "added": "2013-11-01T06:17:48.732068",
-        "annotation": "fat",
-        "entry": "g'\u03b1m\u0254/w'\u0254rak",
-        "id": 34822,
+        "added": "2019-03-19T04:16:27.719404",
+        "annotation": null,
+        "entry": "g'\u03b1m\u0254",
+        "id": 260526,
         "language": "/api/v1/language/alor-baranusa-kabir/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/34822/",
+        "resource_uri": "/api/v1/lexicon/260526/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -902,7 +902,7 @@
     {
         "added": "2013-11-01T06:17:48.469470",
         "annotation": "",
-        "entry": "r''ibu(t'\u0254hu/tow)",
+        "entry": "r''ibu (t'\u0254hu)",
         "id": 34804,
         "language": "/api/v1/language/alor-baranusa-kabir/",
         "loan": false,
@@ -1258,6 +1258,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/lips/"
+    },
+    {
+        "added": "2019-03-19T04:16:27.825634",
+        "annotation": null,
+        "entry": "w'\u0254rak",
+        "id": 260527,
+        "language": "/api/v1/language/alor-baranusa-kabir/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260527/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-01T06:17:48.191105",

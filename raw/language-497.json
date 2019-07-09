@@ -276,18 +276,6 @@
         "word": "/api/v1/word/meat/"
     },
     {
-        "added": "2013-11-10T00:57:34.410859",
-        "annotation": "",
-        "entry": "hiw",
-        "id": 37603,
-        "language": "/api/v1/language/kabola-pitumbang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37603/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/chicken/"
-    },
-    {
         "added": "2013-11-10T00:57:34.435023",
         "annotation": "",
         "entry": "hiw",
@@ -298,6 +286,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2013-11-10T00:57:34.410859",
+        "annotation": "",
+        "entry": "hiw",
+        "id": 37603,
+        "language": "/api/v1/language/kabola-pitumbang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/37603/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/chicken/"
     },
     {
         "added": "2013-11-10T00:57:35.276343",
@@ -312,18 +312,6 @@
         "word": "/api/v1/word/wind/"
     },
     {
-        "added": "2013-11-10T00:57:35.181836",
-        "annotation": "",
-        "entry": "hul",
-        "id": 37664,
-        "language": "/api/v1/language/kabola-pitumbang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37664/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-see/"
-    },
-    {
         "added": "2013-11-10T00:57:34.537809",
         "annotation": "",
         "entry": "hul",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2013-11-10T00:57:35.181836",
+        "annotation": "",
+        "entry": "hul",
+        "id": 37664,
+        "language": "/api/v1/language/kabola-pitumbang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/37664/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
     },
     {
         "added": "2013-11-10T00:57:34.357656",
@@ -542,7 +542,7 @@
     {
         "added": "2013-11-10T00:57:34.388461",
         "annotation": "",
-        "entry": "m\u0254\u0294;\u0254y",
+        "entry": "m\u0254\u0294'\u0254y",
         "id": 37600,
         "language": "/api/v1/language/kabola-pitumbang/",
         "loan": false,
@@ -552,15 +552,15 @@
         "word": "/api/v1/word/banana/"
     },
     {
-        "added": "2013-11-10T00:57:35.022161",
-        "annotation": "fat",
-        "entry": "muk'unu/t\u03b1m'ar\u03b1",
-        "id": 37650,
+        "added": "2019-03-19T04:16:28.565982",
+        "annotation": null,
+        "entry": "muk'unu",
+        "id": 260560,
         "language": "/api/v1/language/kabola-pitumbang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37650/",
+        "resource_uri": "/api/v1/lexicon/260560/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -1282,6 +1282,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.579218",
+        "annotation": null,
+        "entry": "t\u03b1m'ar\u03b1",
+        "id": 260561,
+        "language": "/api/v1/language/kabola-pitumbang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260561/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T00:57:34.958501",

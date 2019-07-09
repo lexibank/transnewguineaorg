@@ -1,17 +1,5 @@
 [
     {
-        "added": "2014-10-12T01:23:09.943550",
-        "annotation": "",
-        "entry": "0-",
-        "id": 190873,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190873/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "2pl.gen",
-        "word": "/api/v1/word/your-pl/"
-    },
-    {
         "added": "2014-10-12T01:23:09.560439",
         "annotation": "",
         "entry": "0-",
@@ -22,6 +10,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "2sg.gen",
         "word": "/api/v1/word/your-sg/"
+    },
+    {
+        "added": "2014-10-12T01:23:09.943550",
+        "annotation": "",
+        "entry": "0-",
+        "id": 190873,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190873/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "2pl.gen",
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2014-10-12T01:23:09.941407",
@@ -1824,6 +1824,18 @@
         "word": "/api/v1/word/sibling-opposite-sex-older/"
     },
     {
+        "added": "2019-03-19T05:55:15.621047",
+        "annotation": null,
+        "entry": "mun",
+        "id": 260754,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260754/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cough/"
+    },
+    {
         "added": "2014-10-12T01:23:16.137254",
         "annotation": "",
         "entry": "mune\u02d0t\u0289",
@@ -1846,18 +1858,6 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "ripe",
         "word": "/api/v1/word/ripe/"
-    },
-    {
-        "added": "2014-10-12T01:23:17.853596",
-        "annotation": "",
-        "entry": "mun/rugu-",
-        "id": 194452,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/194452/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "cough",
-        "word": "/api/v1/word/cough/"
     },
     {
         "added": "2014-10-12T01:23:13.254808",
@@ -1944,18 +1944,6 @@
         "word": "/api/v1/word/vulva/"
     },
     {
-        "added": "2014-10-12T01:23:09.754469",
-        "annotation": "",
-        "entry": "n\u0289-",
-        "id": 190781,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190781/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "3sg.poss",
-        "word": "/api/v1/word/his/"
-    },
-    {
         "added": "2014-10-12T01:23:10.066033",
         "annotation": "",
         "entry": "n\u0289-",
@@ -1966,18 +1954,6 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "3pl.gen",
         "word": "/api/v1/word/their/"
-    },
-    {
-        "added": "2014-10-12T01:23:09.691003",
-        "annotation": "",
-        "entry": "n\u0289-",
-        "id": 190750,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190750/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "3sg.gen",
-        "word": "/api/v1/word/his/"
     },
     {
         "added": "2014-10-12T01:23:09.717856",
@@ -1992,16 +1968,28 @@
         "word": "/api/v1/word/him-her-it/"
     },
     {
-        "added": "2014-10-12T01:23:09.617500",
+        "added": "2014-10-12T01:23:09.691003",
         "annotation": "",
-        "entry": "na-",
-        "id": 190714,
+        "entry": "n\u0289-",
+        "id": 190750,
         "language": "/api/v1/language/utarmbung/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/190714/",
+        "resource_uri": "/api/v1/lexicon/190750/",
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "2sg.poss",
-        "word": "/api/v1/word/your-sg/"
+        "source_gloss": "3sg.gen",
+        "word": "/api/v1/word/his/"
+    },
+    {
+        "added": "2014-10-12T01:23:09.754469",
+        "annotation": "",
+        "entry": "n\u0289-",
+        "id": 190781,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190781/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "3sg.poss",
+        "word": "/api/v1/word/his/"
     },
     {
         "added": "2014-10-12T01:23:09.584903",
@@ -2014,6 +2002,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "2sg.obj",
         "word": "/api/v1/word/you-o2s/"
+    },
+    {
+        "added": "2014-10-12T01:23:09.617500",
+        "annotation": "",
+        "entry": "na-",
+        "id": 190714,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190714/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "2sg.poss",
+        "word": "/api/v1/word/your-sg/"
     },
     {
         "added": "2014-10-12T01:23:09.524320",
@@ -3036,6 +3036,18 @@
         "word": "/api/v1/word/to-blow/"
     },
     {
+        "added": "2019-03-19T05:55:15.715909",
+        "annotation": null,
+        "entry": "rugu-",
+        "id": 260755,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260755/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cough/"
+    },
+    {
         "added": "2014-10-12T01:23:15.442305",
         "annotation": "",
         "entry": "ruguru-",
@@ -3900,16 +3912,16 @@
         "word": "/api/v1/word/my/"
     },
     {
-        "added": "2014-10-12T01:23:09.459188",
+        "added": "2014-10-12T01:23:09.820151",
         "annotation": "",
         "entry": "yi-",
-        "id": 190638,
+        "id": 190813,
         "language": "/api/v1/language/utarmbung/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/190638/",
+        "resource_uri": "/api/v1/lexicon/190813/",
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "1sg.obj",
-        "word": "/api/v1/word/me/"
+        "source_gloss": "1pl.gen",
+        "word": "/api/v1/word/our/"
     },
     {
         "added": "2014-10-12T01:23:09.491797",
@@ -3924,16 +3936,16 @@
         "word": "/api/v1/word/my/"
     },
     {
-        "added": "2014-10-12T01:23:09.820151",
+        "added": "2014-10-12T01:23:09.459188",
         "annotation": "",
         "entry": "yi-",
-        "id": 190813,
+        "id": 190638,
         "language": "/api/v1/language/utarmbung/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/190813/",
+        "resource_uri": "/api/v1/lexicon/190638/",
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "1pl.gen",
-        "word": "/api/v1/word/our/"
+        "source_gloss": "1sg.obj",
+        "word": "/api/v1/word/me/"
     },
     {
         "added": "2014-10-12T01:23:09.399876",

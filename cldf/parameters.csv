@@ -1,17 +1,15 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
+-law,in-law,,
 1p-paucal,1P Paucal,,
 2p-paucal,2P Paucal,,
 2sg,2SG,1215,THOU
 3p-paucal,3P Paucal,,
-abdomen,abdomen,1251,BELLY
-boil,a boil,793,BOIL (OF SKIN)
-above,above,1741,ABOVE
 a-certain-one-some-another,"a (certain one), some, another",,
-cough,a cough,879,COUGH
-across,across,,
+abdomen,abdomen,1251,BELLY
+above,above,1741,ABOVE
+across,across,2670,ACROSS
 adams-apple,Adam's apple,802,ADAM'S APPLE
 adj-suffix,adj. suffix,,
-dream,a dream,2455,DREAMING OR DREAM
 affix-body-part,affix: body-part,,
 afraid,afraid,1419,FEAR (BE AFRAID)
 afternoon,afternoon,1807,AFTERNOON
@@ -30,13 +28,13 @@ animal,animal,619,ANIMAL
 ankle,ankle,803,ANKLE
 another,another,197,OTHER
 ant,ant,587,ANT
-anus-buttocks,"anus, buttocks",,
+anus-buttocks,"anus, buttocks",1935,ANUS
 appetiser,appetiser,,
 areca-nut,areca nut,,
 arise,arise,,
 arm,arm,1673,ARM
-armband,armband,,
 arm-hand,"arm, hand",2121,ARM OR HAND
+armband,armband,,
 armpit,armpit,1886,ARMPIT
 arrow,arrow,977,ARROW
 arrow-barred,arrow (barred),,
@@ -49,28 +47,29 @@ ask,ask,1309,ASK (INQUIRE)
 at,at,1461,AT
 aunt,aunt,1272,AUNT
 auxiliary-verb,auxiliary verb,,
-avenge,avenge,,
+avenge,avenge,495,REVENGE
 awaken,awaken,825,AWAKE
-axe-iron,axe (iron),,
 axe,axe (stone),677,AXE
+axe-iron,axe (iron),,
 axe-tomahawk,axe (tomahawk),,
 baby,baby,1289,BABY
 back,back,1291,BACK
-backbone,backbone,805,SPINE
 back-of-hand,back (of hand),,
+backbone,backbone,805,SPINE
 bad,bad,1292,BAD
 bad-worthless,bad (worthless),,
 bag,bag,2468,BAG
+bake,to bake,183,BAKE
 bamboo,bamboo,1927,BAMBOO
 bamboo-knife,bamboo knife,,
 banana,banana,868,BANANA
 banana-seed,banana seed,,
-bandicoot,bandicoot,,
+bandicoot,bandicoot,3012,BANDICOOT
 bark,bark,1204,BARK
-barl-noun,barl (noun),,
 basket,basket,1539,BASKET
 bat,bat,1793,BAT
 batten,batten,,
+be-unwilling,be unwilling,,
 beach,beach,113,SHORE
 bean,bean,832,BEAN
 beard,beard,678,BEARD
@@ -84,19 +83,18 @@ belt,belt,772,BELT
 berry,berry,904,BERRY
 beside,beside,1816,BESIDE
 betelnut,betelnut,217,BETELNUT
-betelpepper,betelpepper vine,,
-be-unwilling,be unwilling,,
+betelpepper,betelpepper vine,177,BETEL PEPPER VINE
 big,big,1202,BIG
 bile,bile,1780,BILE
 bird,bird,937,BIRD
-bird-of-paradise,bird of paradise,,
+bird-of-paradise,bird of paradise,2673,BIRD OF PARADISE
 bird-sp-gallinaceous,bird sp. (gallinaceous),,
 bit,bit,,
 bitter,bitter,887,BITTER
-bivalve,bivalve,,
+bivalve,bivalve,2785,BIVALVIA (MUSSELS OR OYSTERS)
 black,black,163,BLACK
 black-creature,black (creature),,
-black-palm,black palm,,
+black-palm,black palm,3030,LONTAR PALM
 bladder,bladder,1746,BLADDER
 blind,blind,1653,BLIND
 blister,blister,1584,BLISTER
@@ -107,6 +105,7 @@ blue,blue,837,BLUE
 blunt-eg-knife,blunt (of e.g. knife),379,BLUNT
 boat,boat,1844,BOAT
 body,body,1480,BODY
+boil,a boil,793,BOIL (OF SKIN)
 bone,bone,1394,BONE
 bottom,bottom,690,BOTTOM
 boundary,boundary,1010,BOUNDARY
@@ -126,8 +125,8 @@ breathspirit,breath/spirit,870,BREATH
 bridge-steps-ladder,"bridge, steps, ladder",,
 broken,broken,588,BROKEN
 brother,brother,1262,BROTHER
-brother-law,brother in law,,
-bundle,bundle,,
+brother-law,brother in law,2314,BROTHER-IN-LAW
+bundle,bundle,2943,BUNDLE
 burn-tr,burn (tr.),141,BURN (SOMETHING)
 bush,bush,1683,BUSH
 bush-fowl,bush fowl,,
@@ -139,6 +138,7 @@ buttock,buttock,834,BUTTOCKS
 buttocks,buttocks,834,BUTTOCKS
 calabash,calabash,411,GOURD
 calf,calf,1989,CALF
+call,to call,1084,CALL
 camp,camp,1105,CAMP
 cane,cane,146,SUGAR CANE
 canoe,canoe,1970,CANOE
@@ -160,7 +160,7 @@ ceremonial-house,ceremonial house,,
 charcoal,charcoal,1188,CHARCOAL
 cheek,cheek,1730,CHEEK
 chest,chest,1592,CHEST
-chewing-betel,chewing betel,,
+chewing-betel,chewing betel,3161,CHEW BETEL
 chicken,chicken,1318,CHICKEN
 chicken-tame,chicken (tame),,
 chicken-wild,chicken (wild),,
@@ -168,21 +168,22 @@ child,child,1304,CHILD (YOUNG HUMAN)
 child-f,child (f),,
 child-m,child (m),,
 chin,chin,1510,CHIN
-chin-jaw,"chin, jaw",,
-cicatrix,cicatrix,,
+chin-jaw,"chin, jaw",798,JAW
+cicatrix,cicatrix,497,SCAR
 circumcision,circumcision,393,CIRCUMCISION
 citrus-fruit-sp,citrus fruit sp.,1126,CITRUS FRUIT
 claw,claw,72,CLAW
 cliff,cliff,992,CLIFF
-cloth-clothes,"cloth, clothes",,
+cloth-clothes,"cloth, clothes",1895,CLOTHES
 cloud,cloud,1489,CLOUD
 club,club,1763,CLUB
-cobweb,cobweb,,
+co-wife,co-wife,,
+cobweb,cobweb,1065,SPIDER WEB
 cockatoo,cockatoo,,
 cockroach,cockroach,1575,COCKROACH
 coconut,coconut,970,COCONUT
 coconut-mat,coconut mat,,
-coconut-palm,coconut palm,,
+coconut-palm,coconut palm,147,COCONUT TREE
 coconut-shell,coconut shell,,
 cold,cold,1287,COLD
 collar-bone,collar bone,1994,COLLARBONE
@@ -193,22 +194,22 @@ contents,contents,,
 cooked,cooked,269,COOKED
 copula,copula,1579,BE
 copulate,copulate,549,COPULATE
-coral,coral,,
+coral,coral,3179,CORAL ROCK
 cordyline-sp,Cordyline sp.,,
-core-kernel,"core, kernel",,
+core-kernel,"core, kernel",1762,STONE (OF FRUIT)
 corn,corn,506,MAIZE
 corner,corner,192,CORNER
-courage,courage,,
+cough,a cough,879,COUGH
+courage,courage,3049,COURAGE
 cousin,cousin,1643,COUSIN
-co-wife,co-wife,,
 cowrie,cowrie,,
 crab,crab,2348,CRAB
 cracking-sound,cracking sound,1811,SOUND OR NOISE
 crayfish,crayfish,467,CRAYFISH
 crocodile,crocodile,1857,CROCODILE
 crooked,crooked,297,CROOKED
+cross-cousin,cross cousin,3162,CROSS-COUSIN
 crossbelt,crossbelt,,
-cross-cousin,cross cousin,,
 crown-pigeon,crown-pigeon,,
 crumbs,crumbs,,
 crust,crust,,
@@ -221,17 +222,17 @@ day,day,1260,DAY (24 HOURS)
 day-after-tomorrow,day after tomorrow,1179,DAY AFTER TOMORROW
 day-before-yesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
 day-before-yesterday-day-after-tomorrow,"day before yesterday, day after tomorrow",,
-daybreak,daybreak,,
+daybreak,daybreak,729,DAWN
 daylight,daylight,1225,DAY (NOT NIGHT)
 dead,dead,1625,DEAD
 dead-person,dead person,,
 deaf,deaf,458,DEAF PERSON
-death-adder,death adder,,
+death-adder,death adder,2654,VIPER
 deep,deep,1593,DEEP
 desire,desire,2117,DESIRE
 dew,dew,1977,DEW
 dibble-stick,dibble stick,339,DIGGING STICK
-died,died,2101,DIE OR BE DEAD
+died,died,,
 different,different,2504,DIFFERENT
 dirt-mud,"dirt, mud",25,DIRT
 dirty,dirty,1230,DIRTY
@@ -242,7 +243,8 @@ dog,dog,2009,DOG
 door,door,1567,DOOR
 down,down,1326,DOWN
 dragon-fly,dragon-fly,2352,DRAGONFLY
-draw-water-carry,draw water / carry,,
+draw-water-carry,draw water / carry,1911,DRAW (WATER)
+dream,a dream,2455,DREAMING OR DREAM
 drift,drift,,
 drum,drum,908,DRUM
 dry,dry,1398,DRY
@@ -256,16 +258,16 @@ eagle,eagle,1905,EAGLE
 ear,ear,1247,EAR
 ear-ornament,ear ornament,,
 ear-ring,ear-ring,770,EARRING
+earth,earth/soil,1228,EARTH (SOIL)
 earthmud,earth/mud,2158,EARTH (WET SUBSTANCE)
 earthquake,earthquake,6,EARTHQUAKE
-earth,earth/soil,1228,EARTH (SOIL)
 edge,edge,863,EDGE
 eel,eel,1013,FRESHWATER EEL
 egg,egg,744,EGG
 eight,eight,1705,EIGHT
 eighteen,eighteen,1713,EIGHTEEN
 elbow,elbow,981,ELBOW
-elder,elder,,
+elder,elder,725,OLD PERSON
 eleven,eleven,1706,ELEVEN
 embers,embers,67,EMBERS
 emphatic-pronoun-marker,emphatic pronoun marker,,
@@ -281,7 +283,7 @@ eyebrow,eyebrow,1173,EYEBROW
 eyelashes,eyelashes,1540,EYELASH
 face,face,1560,FACE
 face-forehead,"face, forehead",,
-faeces,faeces,675,FAECES
+faeces,faeces,675,FAECES (EXCREMENT)
 far,far,1406,FAR
 far-away,far away,,
 farm,farm,201,FARM
@@ -295,11 +297,13 @@ feast,feast,,
 feather,feather,1201,FEATHER
 feather-ornament,feather ornament,,
 fed,fed up (with),,
+fell-tree,to fell tree,463,FELL (A TREE)
 female,female,2105,FEMALE PERSON
 female-sex-organ,female sex organ,2260,FEMALE (OF PERSON)
 fence,fence,1690,FENCE
 fern,fern,,
 festival,festival,131,FESTIVAL
+fetch,to fetch,,
 few,few,1242,FEW
 fifteen,fifteen,1709,FIFTEEN
 fifty,fifty,1717,FIFTY
@@ -307,19 +311,19 @@ fig,fig,322,FIG
 finger,finger,1303,FINGER
 fingernail,fingernail,1258,FINGERNAIL
 fire,fire,221,FIRE
-firefly,firefly,206,FIREFLY
 fire-goes-out,(fire) goes out,,
+fire-tongs,fire tongs,,
+firefly,firefly,206,FIREFLY
 firelight,firelight,,
 fireplace,fireplace,185,FIREPLACE
-fire-tongs,fire tongs,,
 firewood,firewood,10,FIREWOOD
 fish,fish,227,FISH
-fishnet,fishnet,388,FISHNET
 fish-scale,fish scale,266,SCALE
 fish-sp-catfish,"fish sp., catfish",,
 fish-spear,fish spear,841,FISHING SPEAR
-fishtrap,Fishtrap,389,FISH TRAP
 fish-weir,fish weir,,
+fishnet,fishnet,388,FISHNET
+fishtrap,Fishtrap,389,FISH TRAP
 five,five,493,FIVE
 flame,flame,889,FLAME
 flat,flat,1633,FLAT
@@ -328,8 +332,8 @@ flesh,flesh,2259,FLESH
 floor,floor,1632,FLOOR
 flower,flower,239,FLOWER
 flute,flute,777,FLUTE
-flying-fox,flying fox,235,FLYING FOX
 fly-sp,fly sp.,1504,FLY (INSECT)
+flying-fox,flying fox,235,FLYING FOX
 fog,fog,249,FOG
 food,food,256,FOOD
 foot,foot,1301,FOOT
@@ -338,18 +342,23 @@ for-benefactive-clitic,"for, benefactive (cliticised or suffixed to noun)",,
 forehead,forehead,123,FOREHEAD
 forest,forest,420,FOREST
 four,four,1500,FOUR
-fourteen,fourteen,2451,FORTEEN
+fourteen,fourteen,2451,FOURTEEN
 friend,friend,1325,FRIEND
 frog,frog,503,FROG
+front,in front,1883,IN FRONT OF
 fruit,fruit,1507,FRUIT
 full,full,1429,FULL
 fur,fur,580,FUR
+g-string,g-string,468,G-STRING
 gall,gall,,
 garden,garden,586,GARDEN
+gather,to gather,7,GATHER
 gecko,gecko,2355,GECKO
+get-up,to get up,1512,RISE (ONESELF)
 ghost,ghost,1175,GHOST
 ginger,ginger,2500,GINGER
 girl,girl,1646,GIRL
+give-birth,to give birth,1195,GIVE BIRTH
 give-me,give me!,,
 give-you,give you,,
 go,go!,695,GO
@@ -358,7 +367,8 @@ god,God,1944,GOD
 good,good,1035,GOOD
 goods,goods,,
 gourd,gourd,411,GOURD
-gourd-mans,gourd man's,,
+gourd-mans,gourd man's,2671,PENIS SHEATH
+grab,to grab,855,SEIZE
 grandchild,grandchild,1617,GRANDCHILD
 grandfather,grandfather,1383,GRANDFATHER
 grandfather-grandchild,"grandfather, grandchild",,
@@ -366,38 +376,37 @@ grandmother,grandmother,1496,GRANDMOTHER
 grandparent,grandparent,2399,GRANDPARENT
 grandson,grandson,1618,GRANDSON
 grass,grass,606,GRASS
-grasshopper,grasshopper,607,GRASSHOPPER
 grass-skirt,grass skirt,328,GRASS-SKIRT
+grasshopper,grasshopper,607,GRASSHOPPER
 greedy-selfish,"greedy, selfish",2018,GREEDY
 green,green,1425,GREEN
-green-coconut,green coconut,,
+green-coconut,green coconut,3034,GREEN COCONUT
 greens,greens,,
 groin,groin,,
 ground,ground,2159,GROUND
 ground-possum,ground possum,,
-g-string,g-string,468,G-STRING
 guard,guard,1940,GUARD
 guts,guts,1334,GUTS
 hair,hair,1040,HAIR
-hair-body,hair (body),189,BODY HAIR
+hair-body,hair (body),189,HAIR (BODY)
 half-full,half-full,816,HALF
 hand,hand,1277,HAND
 hard,hard,1884,HARD
 hat,hat,771,HAT
 hawk,hawk,307,HAWK
+he-she,"he, she, it (pronoun d:3s)",262,HE OR SHE OR IT
+he-she-it-those,"he, she, it, that, those",,
 head,head,1256,HEAD
-headache,headache,,
 head-covering,head covering,,
-headman,headman,,
 head-ornament,head ornament,,
-headwaters,headwaters,,
+headache,headache,,
+headman,headman,301,CHIEFTAIN
+headwaters,headwaters,2672,HEADWATERS
 heart,heart,1223,HEART
 heavy,heavy,1210,HEAVY
 heel,heel,980,HEEL
 help,help,1897,HELP
 here,here,136,HERE
-he-she,"he, she, it (pronoun d:3s)",262,HE OR SHE OR IT
-he-she-it-those,"he, she, it, that, those",,
 high,high,1265,HIGH
 high-tide,high tide,613,HIGH TIDE
 hill,hill,614,HILL
@@ -406,14 +415,14 @@ hip,hip,1745,HIP
 his,"his, hers, its (pronoun p:3s)",2092,HIS OR HER
 hole,hole,1667,HOLE
 honey-bee,(honey) bee,665,BEE
-honey-beehive,"honey, beehive",,
+honey-beehive,"honey, beehive",88,BEEHIVE
 horn,horn,1393,HORN (ANATOMY)
-hornbill,hornbill,,
+hornbill,hornbill,3260,HORNBILL
 hot,hot,1286,HOT
 house,house,1252,HOUSE
 house-of-man-greeting,"house of man, greeting",408,MEN'S HOUSE
 house-of-woman,house of woman,,
-house-posts,house posts,,
+house-posts,house posts,281,POST
 how,how,1239,HOW
 how-many,how many?,822,HOW MANY
 how-much,how much?,531,HOW MUCH
@@ -421,30 +430,27 @@ human,human,683,PERSON
 husband,husband,1200,HUSBAND
 husband-and-wife,husband and wife,,
 husk-nut,husk (of nut),2363,CHAFF (HUSK)
-ice,ice,617,ICE
+i,I (pronoun d:1s),1209,I
+i-see-the-snake,i see the snake,,
 if,if,1459,IF
 ignite,ignite,737,LIGHT (IGNITE)
 immediate-imperative-plural-verb-suffix,(immediate) imperative plural verb suffix,,
+in,"in, inside",1606,INSIDE
 inconsequential,inconsequential,,
 inessive,inessive,,
-front,in front,1883,IN FRONT OF
-in,"in, inside",1606,INSIDE
--law,in-law,,
 inner-mouth,inner mouth,,
 insect-sp,insect sp.,620,INSECT
-interior,interior,,
+interior,interior,1606,INSIDE
 interrogative,interrogative,,
 interrogative-particle,interrogative particle,,
 intestines,intestines,1991,INTESTINES
 intrnasitivizer,intransitivizer,,
-i,I (pronoun d:1s),1209,I
 iron-tool,iron tool,,
 ironwood,ironwood,,
-i-see-the-snake,i see the snake,,
 island,island,622,ISLAND
 itchy,itchy,149,ITCHY
 jaw,jaw,798,JAW
-jobs-tears-seeds,Job's tears seeds,,
+jobs-tears-seeds,Job's tears seeds,3281,JOB'S TEARS
 joint,joint,999,JOINT
 just,just,84,JUST
 kangaroo,kangaroo,164,KANGAROO
@@ -455,15 +461,16 @@ knife,knife,1352,KNIFE
 knot,knot,760,KNOT
 knot-in-wood,knot in wood,,
 knowledge,knowledge,,
-knuckle,knuckle,,
+knuckle,knuckle,2824,KNUCKLE
 kookaburra,kookaburra,,
-kunai,kunai,,
+kunai,kunai,1901,SHOVEL
 lake,lake,624,LAKE
 lance,lance,,
 land,land,626,LAND
 language,language,1307,LANGUAGE
 later,later,477,LATE
 lavalava-sarong,lavalava (sarong),,
+lay,to lay,2071,LAY (VERB)
 leaf,leaf,628,LEAF
 leaf-decoration,leaf decoration,,
 leaf-woven-item,leaf-woven item,,
@@ -477,13 +484,12 @@ leg,leg,1297,LEG
 leg-foot,"leg, foot",2098,FOOT OR LEG
 light,light,630,LIGHT (RADIATION)
 lightning,lightning,1654,LIGHTNING
-like-similar,"like, similar",,
+like-similar,"like, similar",1558,SIMILAR
 lime,lime,982,LIME (FRUIT)
 limestick,limestick,,
 lips,lips,478,LIP
-litter-rubbish,"litter, rubbish",,
-little-finger,little finger,,
-little-toe,little toe,,
+litter-rubbish,"litter, rubbish",909,GARBAGE
+little-finger,little finger,2774,LITTLE FINGER
 lively-busy,"lively, busy",,
 liver,liver,1224,LIVER
 lizard,lizard,632,LIZARD
@@ -495,17 +501,17 @@ loins,loins,187,LOIN
 long,long,1203,LONG
 loose,loose,2506,LOOSE
 louse,louse,1392,LOUSE
-low-beneath,"low, beneath",,
+love,to love,923,LOVE
+low-beneath,"low, beneath",1485,BELOW OR UNDER
 lower-arm,lower arm,446,LOWER ARM
 lower-back,lower back,,
 lungs,lungs,688,LUNG
-machete,machete,,
+machete,machete,2680,MACHETE
 magic,magic,392,MAGIC
-to-make-hole,make hole (in ground),,
-make-war,make war,,
+make-war,make war,2208,BE AT WAR
 male,male,1553,MALE
 malicious,malicious,,
-mallet,mallet,,
+mallet,mallet,1481,HAMMER
 man,man,1554,MAN
 mango,mango,2398,MANGO
 mangrove,mangrove,350,MANGROVE
@@ -515,22 +521,21 @@ many,many,1198,MANY
 marsupial,marsupial,,
 mask,mask,2005,MASK
 mat,mat,195,MAT
-maternal-uncle,maternal uncle,,
+maternal-uncle,maternal uncle,3220,MATERNAL UNCLE
 matoa,matoa,,
+me,me (pronoun o:1s),2301,ME
 meat,meat,634,MEAT
-meat-game,meat (game),,
 medial-sequential-suffix,Medial Sequential Suffix,,
 medial-ss-verb-suffix,Medial SS Verb Suffix,,
 medial-verb-suffix,Medial Verb Suffix,,
 medial-verb-suffix-ds,Medial Verb Suffix DS,,
-me,me (pronoun o:1s),2301,ME
 midday,midday,12,MIDDAY
 middle-tongue,"middle, tongue",,
 midrib,midrib,,
 milk,milk,635,MILK
 mirror,mirror,1171,MIRROR
 molartooth,molar/tooth,1049,MOLAR TOOTH
-monitor-lizard,monitor lizard,,
+monitor-lizard,monitor lizard,3017,MONITOR LIZARD
 month,month,1370,MONTH
 moon,moon,1313,MOON
 morning,morning,1339,MORNING
@@ -542,13 +547,14 @@ mountain,mountain,639,MOUNTAIN
 mouse,mouse,1491,MOUSE
 mouth,mouth,674,MOUTH
 movement,movement,,
+mow,to mow,190,MOW
 mucus,mucus,208,NASAL MUCUS (SNOT)
 mud,mud,640,MUD
 murder,murder,845,MURDER
 muscle,muscle,1004,MUSCLE
 mushroom,mushroom,641,MUSHROOM
 musical-instrument,musical instrument,,
-mustard,mustard,,
+mustard,mustard,3181,MUSTARD
 my,my (pronoun p:1s),2090,MY
 nail,nail,502,NAIL (TOOL)
 naked,naked,590,NAKED
@@ -562,11 +568,11 @@ necklace-beads,necklace (beads),,
 necklace-dogs-teeth,necklace (dogs teeth),,
 needle,needle,1382,NEEDLE (FOR SEWING)
 needlefish-sp,needlefish sp.,,
-negation-marker,negation-marker,,
+negation-marker,negation-marker,1240,NOT
 negative,negative,,
 nephew,nephew,1063,NEPHEW
 nest,nest,539,NEST
-net,net,,
+net,net,2963,NET
 net-bag,net bag ,293,NETBAG
 nettle,nettle,33,NETTLE
 new,new,1231,NEW
@@ -577,39 +583,39 @@ nineteen,nineteen,1714,NINETEEN
 nipa-fruit,nipa fruit,,
 nipa-palm,nipa palm,,
 nipple,nipple,796,NIPPLE
+no-not,"no, not",1269,NO
 noise,noise,1182,NOISE
 nominal-collective,nominal collective,,
-no-not,"no, not",1269,NO
 noontime,noontime,2490,NOON
-noose-trap-net,"noose, trap, net",,
+noose-trap-net,"noose, trap, net",1075,TRAP (PITFALL)
 nose,nose,1221,NOSE
 nose-bone,nose-bone,,
 nostril,nostril,1178,NOSTRIL
 not,not,1240,NOT
-nothing,nothing,687,NOTHING
 not_know,not know,,
+nothing,nothing,687,NOTHING
 now,now,1376,NOW
 nut,nut,191,NUT
-oar,oar,,
+oar,oar,3137,OAR
 ochre,ochre,,
 odour,odour,,
 old,old,1229,OLD
-older-brother,older brother,1759,OLDER BROTHER
-older-sister,older sister,1758,OLDER SISTER
 old-man,old man,406,OLD MAN
 old-people,old (people),725,OLD PERSON
 old-woman,old woman,907,OLD WOMAN
+older-brother,older brother,1759,OLDER BROTHER
+older-sister,older sister,1758,OLDER SISTER
+on-top,on top,57,ATOP
 one,one,1493,ONE
 one-hundred,one hundred,1634,HUNDRED
 only,only,1580,ONLY
-on-top,on top,57,ATOP
 opening,opening,,
 or,or,1014,OR
-oral-cavity,oral cavity,,
-ornament,ornament,917,ORNAMENT
-orphan,orphan,1149,ORPHAN
 or-pl-in-some-verbs,OR PL in some verbs,,
 or-sg-in-some-verbs,OR SG in some verbs,,
+oral-cavity,oral cavity,2674,ORAL CAVITY
+ornament,ornament,917,ORNAMENT
+orphan,orphan,1149,ORPHAN
 other,other,197,OTHER
 our,our (pronoun p:1p),780,OUR
 our-dual,"our (two) (pronoun p:1p, dual)",,
@@ -624,9 +630,9 @@ palm-cabbage,palm cabbage,,
 palm-midrib,palm midrib,,
 palm-of-hand,palm (of hand),1183,PALM OF HAND
 palm-roof,palm roof,,
-palm-sp,palm sp.,,
+palm-sp,palm sp.,1181,PALM TREE
 pan,pan,31,PAN
-pancreas,pancreas,,
+pancreas,pancreas,3252,PANCREAS
 pandanus,pandanus,469,PANDANUS
 pandanus-edible,pandanus (edible),,
 pandanus-fruit,pandanus fruit,,
@@ -635,31 +641,32 @@ pandanus-net,pandanus (net),,
 parrot,parrot,882,PARROT
 part,part,779,PART
 path,path,2252,PATH
-pawpaw,pawpaw,,
+pawpaw,pawpaw,2445,PAPAYA
 penis,penis,1222,PENIS
 people,people,789,PEOPLE
 pepper,pepper,1385,PEPPER
 person,person,683,PERSON
 pig,pig,1337,PIG
-pigeon,pigeon,,
+pigeon,pigeon,1853,DOVE
 pigeonparrot,pigeon/parrot,,
-pineapple-club,pineapple club,,
+pinch,to pinch,378,PINCH
 pine-tree,pine tree,1740,PINE
+pineapple-club,pineapple club,1763,CLUB
 pipe,pipe,1124,PIPE
+pl-suffix-on-kinship-nouns,PL suffix on kinship nouns,,
 placename-suffix,placename suffix,,
 plank,plank,1227,BOARD
 plant,plant,653,PLANT (VEGETATION)
 plate,plate,480,PLATE
 plateau-flat-land,"plateau, flat land",,
-platform,platform,,
-pl-suffix-on-kinship-nouns,PL suffix on kinship nouns,,
+platform,platform,3269,PORCH
 point,point,,
 pond,pond,2035,POND
 poor,poor,1674,POOR
 possessive-marker,possessive-marker,,
 possum,possum,470,POSSUM
 pot,pot,1462,POT
-pouch,pouch,,
+pouch,pouch,2951,POUCH
 power,power,2526,POWER
 prawn,prawn,238,PRAWNS
 predicative-possessive-suffix,predicative possessive suffix,,
@@ -672,7 +679,7 @@ purposive-verb-suffix,purposive verb suffix,,
 pus,pus,1808,PUS
 python,python,1563,PYTHON
 quickly,quickly,2220,MOVE QUICKLY
-rack,rack,,
+rack,rack,3176,RACK (FOR STORING FOOD)
 raft,raft,1664,RAFT
 rafter,rafter,829,RAFTER
 rain,rain,2108,RAINING OR RAIN
@@ -686,6 +693,7 @@ recline,recline,,
 red,red,156,RED
 relative,Relative,1644,RELATIVES
 rest,rest,168,REST
+revenge,to revenge,495,REVENGE
 rib,rib,801,RIB
 rice,rice,926,RICE
 ridge-pole,ridge pole,280,RIDGEPOLE
@@ -697,16 +705,14 @@ ripe,ripe,178,RIPE
 ripe-banana,ripe banana,,
 river,river,666,RIVER
 road,road/path,2457,PATH OR ROAD
-to-roast,roast,1962,ROAST (SOMETHING)
 roofing-grass,roofing grass,,
-rooster,rooster,1511,ROOSTER
 root,root,670,ROOT
 rope,rope,1218,ROPE
 rotten,rotten,1728,ROTTEN
 round,round,1395,ROUND
 sago,sago,2270,SAGO
 sago-flour,sago flour,,
-sago-grub,sago grub,,
+sago-grub,sago grub,2802,SAGO GRUB
 sago-midrib,sago midrib,,
 sago-palm,sago palm,2372,SAGO PALM
 sago-pancake,sago pancake,,
@@ -716,7 +722,7 @@ sago-pulp,sago pulp,,
 sago-refuse,sago refuse,,
 sago-stirrer,sago stirrer,,
 sago-swamp,sago swamp,,
-sago-thatch,Sago thatch,,
+sago-thatch,Sago thatch,2616,SAGO THATCH
 sago-tree,sago tree,,
 sago-trough,sago trough,,
 saliva,saliva,1503,SALIVA
@@ -726,15 +732,16 @@ sand,sand,671,SAND
 sandfly,sandfly,95,SANDFLY
 sap,sap,345,SAP
 sawfish,sawfish,,
-scabies,scabies,,
+scabies,scabies,3172,SCABIES
 scar,scar,497,SCAR
 scrotum,scrotum,797,TESTICLES
 sea,sea,1474,SEA
-search,search,1468,LOOK FOR
 sea-side-west,sea side (west),,
+search,search,1468,LOOK FOR
 seat,seat,1476,CHAIR
 secretly,secretly,,
 seed,seed,714,SEED
+seek,to seek,,
 self-reflexive,"self, reflexive",1993,SELF
 separative,separative,,
 seven,seven,1704,SEVEN
@@ -743,12 +750,13 @@ shadow,shadow,2275,SHADOW
 shallow,shallow,193,SHALLOW
 sharp,sharp,1396,SHARP
 sheath,sheath,,
-shellfish,shellfish,,
 shell-hull,"shell, hull",,
+shellfish,shellfish,,
 shield,shield,1064,SHIELD
 shin-bone,shin bone,,
-shooting-star,shooting star,2288,METEROID (SHOOTING OR SHINING STAR)
+shiver,to shiver,52,SHIVER
 shoot-plant,"shoot, plant",,
+shooting-star,shooting star,2288,METEROID (SHOOTING OR SHINING STAR)
 shore,shore,113,SHORE
 short,short,1645,SHORT
 short-people,short (people),,
@@ -760,16 +768,16 @@ shrub,shrub,751,SHRUB
 shy-ashamed,"shy, ashamed",487,SHY
 sibling-older,sibling older,405,OLDER SIBLING
 sibling-opposite-sex,"sibling, opposite sex",,
-sibling-opposite-sex-older,"sibling, opposite sex, older",,
-sibling-opposite-sex-younger,"sibling, opposite sex, younger",,
-siblings,siblings,1640,SIBLING
+sibling-opposite-sex-older,"sibling, opposite sex, older",3039,DIFFERENT-SEX OLDER SIBLING
+sibling-opposite-sex-younger,"sibling, opposite sex, younger",3040,DIFFERENT-SEX YOUNGER SIBLING
 sibling-same-sex,"sibling, same sex",,
-sibling-same-sex-older,"sibling, same sex, older",,
-sibling-same-sex-younger,"sibling, same sex, younger",,
+sibling-same-sex-older,"sibling, same sex, older",3037,SAME-SEX OLDER SIBLING
+sibling-same-sex-younger,"sibling, same sex, younger",3038,SAME-SEX YOUNGER SIBLING
 sibling-younger,sibling younger,427,YOUNGER SIBLING
+siblings,siblings,1640,SIBLING
 side,side,866,WIN
 similar,similar,1558,SIMILAR
-singapore-taro,singapore taro,,
+singapore-taro,singapore taro,351,TARO
 singsing,singsing,,
 sister,sister,1263,SISTER
 sister-law,sister in law,2317,SISTER-IN-LAW
@@ -784,22 +792,21 @@ sky,sky,1732,SKY
 sleeping-mat,sleeping mat,,
 sleepy,sleepy,,
 slick,slick,,
-slip-of-foot,slip of foot,,
+slip-of-foot,slip of foot,1324,SLIP
 slippery,slippery,,
-slope,slope,,
+slope,slope,3076,SLOPE
 slow,slow,701,SLOW
 slowly,slowly,2165,SLOWLY
 small,small,1246,SMALL
 small-mammal,small mammal,,
-smelly,smelly,,
+smelly,smelly,42,STINKING
 smoke,smoke,778,SMOKE (EXHAUST)
 smooth,smooth,1234,SMOOTH
 snail,snail,1543,SNAIL
 snake,snake,730,SNAKE
 snot,snot,208,NASAL MUCUS (SNOT)
-snow,snow,784,SNOW
 soft,soft,1856,SOFT
-sole-of-foot,sole (of foot),,
+sole-of-foot,sole (of foot),2666,SOLE (FOOT)
 some,some,1241,SOME
 son,son,1620,SON
 song,song,1096,SONG
@@ -816,7 +823,7 @@ spine-of-leaf,spine of leaf,,
 spirit,spirit,53,SPIRIT
 spittle,spittle,1503,SALIVA
 squash,squash,,
-squid-ink,squid (ink),,
+squid-ink,squid (ink),2643,INK
 staff,staff,,
 stairs,stairs,34,STAIRS
 stake,stake,,
@@ -833,11 +840,12 @@ strainer,strainer,,
 string-bag,string bag,,
 strong,strong,785,STRONG
 stump,stump,241,TREE STUMP
+suck-breast,to suck at breast,,
 suckle,suckle,2472,"SUCKLE (BREASTFEED, NURSE)"
 sugar,sugar,862,SUGAR
 sugarcane,sugarcane,146,SUGAR CANE
 sun,sun,1343,SUN
-sunlight,sunlight,2140,DAY OR SUN
+sunlight,sunlight,,
 surprised,surprised,1572,SURPRISED
 swamp,swamp,1145,SWAMP
 sweat,sweat,125,SWEAT (SUBSTANCE)
@@ -861,8 +869,9 @@ termite,termite,883,TERMITE
 testicle,testicle,797,TESTICLES
 testicles,testicles,797,TESTICLES
 that,that,78,THAT
-thatch-roof,"thatch, roof",2100,THATCH OR ROOF
 that-distant,that (distant),,
+thatch-roof,"thatch, roof",2100,THATCH OR ROOF
+the-snake-sees-me,the snake sees me,,
 their,their (pronoun p:3p),2400,THEIR
 their-dual,"their (pronoun p:3p, dual)",,
 theirs,theirs (pronoun p:3p),,
@@ -870,12 +879,11 @@ them,them (pronoun o:3p),,
 them-dual,"them (pronoun o:3p, dual)",,
 there,there,1937,THERE
 there-distant,there (distant),,
-therefore,therefore,,
 there-lohap,there (lohap),,
+therefore,therefore,,
 these,these,,
-the-snake-sees-me,the snake sees me,,
-they-dual,"they dual (pronoun d:3p, dual)",,
 they,they (pronoun d:3p),817,THEY
+they-dual,"they dual (pronoun d:3p, dual)",,
 thick,thick,1244,THICK
 thicket,thicket,,
 thigh,thigh,800,THIGH
@@ -885,28 +893,26 @@ thirteen,thirteen,1708,THIRTEEN
 this,this,1214,THIS
 this-close,this (close),,
 this-further,this (further),,
-this-lohap,this (lohap),,
 thorn,thorn,124,THORN
 thou,thou,1215,THOU
-thought,thought,,
+thought,thought,2975,THOUGHT
 thousand,thousand,1843,THOUSAND
 three,three,492,THREE
 three-days-ago-or-hence,three days ago or hence,2333,THREE DAYS BEFORE NOW
 throat,throat,1346,THROAT
+throw-away,to throw away,,
 thumb,thumb,1781,THUMB
 thunder,thunder,1150,THUNDER
 tight-hard,"tight, hard",,
-tinea,tinea,,
-tobacco,tobacco,974,TOBACCO
-bake,to bake,183,BAKE
+tinea,tinea,3173,TINEA
 to-bathe,to bathe,138,BATHE
 to-be,to be,1579,BE
-to-beat,to beat,1665,BEAT
 to-be-born,to be born,1090,BE BORN
 to-be-hungry,to be hungry,1533,BE HUNGRY
 to-be-sick,to be sick,1847,SICK
 to-be-thirsty,to be thirsty,847,THIRSTY
 to-be-tired,to be tired,1757,TIRED
+to-beat,to beat,1665,BEAT
 to-bite,to bite,1403,BITE
 to-blow,to blow,175,BLOW (OF WIND)
 to-boil,to boil,792,BOIL (OF LIQUID)
@@ -917,74 +923,62 @@ to-bring,to bring,692,BRING
 to-burn,to burn,2102,BURN
 to-bury,to bury,1719,BURY
 to-buy-sell-barter,"to buy, sell, barter",,
-call,to call,1084,CALL
 to-call-out,to call out,,
 to-carry,to carry,700,CARRY
 to-cast-net,to cast net,,
 to-catch,to catch,702,CATCH
-to-chase,to chase,,
+to-chase,to chase,1435,HUNT
 to-chew,to chew,321,CHEW
 to-choose,to choose,1750,CHOOSE
-to-chop,"to chop, cut down",,
+to-chop,"to chop, cut down",155,CHOP
 to-clear-bush-for-planting,to clear bush for planting,,
 to-climb,to climb,1102,CLIMB
-to-close,to close,,
+to-close,to close,1046,SHUT
 to-come,to come,1446,COME
 to-cook,to cook,1100,COOK (SOMETHING)
 to-cough,to cough,879,COUGH
 to-count,to count,1420,COUNT
 to-cross,to cross,1367,CROSS
-to-crush,to crush,1520,CRUSH
 to-cry,to cry,1839,CRY
 to-cut,to cut,1432,CUT
 to-cut-down,to cut down,355,CUT DOWN
 to-cut-through,to cut through,,
 to-dance,to dance,1879,DANCE
-today,today,1283,TODAY
-to-defecate,to defecate,,
+to-defecate,to defecate,676,SHIT (DEFECATE)
 to-die,to die,1494,DIE
 to-dig,to dig,1418,DIG
 to-do-make,"to do, make",813,DO
-to-draw-water,to draw water,,
+to-draw-water,to draw water,1911,DRAW (WATER)
 to-dream,to dream,1920,DREAM (SOMETHING)
-to-drill,to drill,,
+to-drill,to drill,1501,BORE
 to-drink,to drink,1401,DRINK
 to-drip,to drip,808,DRIP (FALL IN GLOBULES)
 to-dry,to dry,1786,DRY UP
-toe,toe,1389,TOE
 to-eat,to eat,1336,EAT
 to-eat-drink,"to eat, drink",,
-toenail,toenail,1896,FINGERNAIL OR TOENAIL
 to-enter,to enter,749,ENTER
 to-fall,to fall,1280,FALL
 to-fall-from-standing,to fall (from standing),,
 to-fart,to fart,1159,FART
 to-fasten,to fasten,1094,FASTEN
 to-fear,to fear,1419,FEAR (BE AFRAID)
-fell-tree,to fell tree,463,FELL (A TREE)
-fetch,to fetch,,
 to-fight,to fight,1423,FIGHT
 to-fill,to fill,2006,FILL
 to-find,to find,719,FIND
 to-finish,to finish,1766,FINISH
-to-fish,to fish,,
+to-fish,to fish,2638,FISHING
 to-float,to float,1574,FLOAT
 to-flow,to flow,2003,FLOW
 to-fly,to fly,1441,FLY (MOVE THROUGH AIR)
 to-fold,to fold,1470,FOLD
-to-freeze,to freeze,1431,FREEZE
-gather,to gather,7,GATHER
 to-get,to get,694,GET
-get-up,to get up,,
 to-give,to give,1447,GIVE
 to-give-an-order,to give an order,,
-give-birth,to give birth,1195,GIVE BIRTH
 to-go,to go,695,GO
 to-go-down,to go down,2014,GO DOWN (DESCEND)
 to-go-home,to go home,142,RETURN HOME
 to-go-outside,to go outside,1107,GO OUT
 to-go-up,to go up,705,GO UP (ASCEND)
-grab,to grab,855,SEIZE
 to-grow,to grow,479,GROW
 to-hang,to hang,357,HANG UP
 to-hear,to hear,1408,HEAR
@@ -995,41 +989,29 @@ to-hunt,to hunt,1435,HUNT
 to-hurt,to hurt,2411,HURT (SOMEBODY)
 to-husk,to husk,,
 to-join,to join,1743,JOIN
-to-joke,to joke,,
+to-joke,to joke,2760,MAKE A JOKE
 to-jump,to jump,1829,JUMP
 to-kill,to kill,1417,KILL
 to-know,to know,1410,KNOW (SOMETHING)
 to-laugh,to laugh,1355,LAUGH
-lay,to lay,2071,LAY (VERB)
 to-lie-down,to lie down,215,LIE DOWN
 to-lie-on-ground,to lie on ground,1411,LIE (REST)
 to-live,to live,2309,LIVE
 to-look,to look,1819,LOOK
-to-look-for,to look for,,
+to-look-for,to look for,1468,LOOK FOR
 to-lose,to lose,1660,LOSE
-love,to love,923,LOVE
 to-lunge,to lunge,,
-to-make-bow,to make bow,,
+to-make-hole,make hole (in ground),1418,DIG
 to-make-thatch,to make thatch,,
-tomorrow,tomorrow,1329,TOMORROW
-tomorrow-morning,tomorrow morning,,
-mow,to mow,190,MOW
-tongs,tongs,272,TONGS
-tongue,tongue,1205,TONGUE
 to-not-know,to not know,,
 to-open,to open,1156,OPEN
-tooth,tooth,1380,TOOTH
-top,top,1753,TOP
-to-pain,to pain,,
+to-pain,to pain,2561,HURT (SENSE PAIN)
 to-pant,to pant,,
 to-peel,to peel,275,PEEL
-topic,topic,,
 to-pick,to pick,2148,PICK
-pinch,to pinch,378,PINCH
 to-plait,to plait,1729,PLAIT OR BRAID OR WEAVE
 to-plant,to plant,1486,PLANT (SOMETHING)
 to-play,to play,1413,PLAY
-top-foot,top (of foot),,
 to-pound,to pound,354,POUND
 to-pour-out,to pour out,1487,POUR
 to-pull,to pull,1455,PULL
@@ -1037,21 +1019,17 @@ to-push,to push,1452,PUSH
 to-put,to put down,,
 to-put-give,"to put, give",,
 to-rain,to rain,1253,RAIN (RAINING)
-torch,torch,1919,TORCH
-to-return,to return,,
-revenge,to revenge,495,REVENGE
-tortoise,tortoise,895,TORTOISE
+to-return,to return,581,COME BACK
+to-roast,roast,1962,ROAST (SOMETHING)
 to-rub,to rub,1449,RUB
 to-run,to run,1519,RUN
 to-say,to say,1458,SAY
 to-scrape-off,to scrape off,1767,SCRAPE
 to-scratch,to scratch,1436,SCRATCH
 to-see,to see,1409,SEE
-seek,to seek,,
 to-sew,to sew,1457,SEW
 to-shake,to shake,1909,SHAKE
 to-sharpen,to sharpen,251,SHARPEN (SOMETHING)
-shiver,to shiver,52,SHIVER
 to-shoot,to shoot,1172,SHOOT
 to-sing,to sing,1261,SING
 to-sit,to sit,1416,SIT
@@ -1066,46 +1044,57 @@ to-split,to split,1437,SPLIT
 to-squeeze,to squeeze,1414,SQUEEZE
 to-stab,to stab,1434,STAB
 to-stand,to stand,1442,STAND
-to-stand-up,to stand up,,
+to-stand-up,to stand up,570,STAND UP
 to-stay,to stay,,
 to-steal,to steal,713,STEAL
 to-stink,to stink,1587,SMELL (STINK)
 to-stop,to stop,2115,CEASE OR FINISH
 to-straighten,to straighten,,
 to-suck,to suck,1421,SUCK
-suck-breast,to suck at breast,,
 to-swallow,to swallow,897,SWALLOW
 to-sweat,to sweat,126,SWEAT (PERSPIRE)
 to-swell,to swell,1573,SWELL
 to-swim,to swim,1439,SWIM
 to-take,to take,1749,TAKE
-to-talk,to talk,,
+to-talk,to talk,2708,TALK
 to-tear,to tear,1735,TEAR (SHRED)
 to-tell,to tell,1711,TELL
 to-think,to think,1415,THINK (REFLECT)
 to-throw,to throw,1456,THROW
-throw-away,to throw away,,
 to-thunder,to thunder,2378,THUNDER (VERB)
 to-tie,to tie,1917,TIE
 to-touch,to touch,1892,TOUCH
 to-tow,to tow,,
 to-trade,to trade,2135,TRADE OR BARTER
-to-travel,to travel,,
+to-travel,to travel,2393,JOURNEY
 to-tremble,to tremble,,
 to-turn,to turn,1588,TURN
-twist,to twist,430,TWIST
 to-understand,to understand,1536,UNDERSTAND
-to-urinate,to urinate,,
+to-urinate,to urinate,592,PISS
 to-vomit,to vomit,1278,VOMIT
 to-wait,to wait,1590,WAIT (FOR)
 to-wake-up,to wake up,1602,WAKE UP
 to-walk,to walk,1443,WALK
-towards,towards,,
 to-wash,to wash,1453,WASH
 to-watch,to watch,1650,WATCH
 to-wipe,to wipe,1454,WIPE
 to-work,to work,1086,WORK (ACTIVITY)
 to-yawn,to yawn,1028,YAWN
+tobacco,tobacco,974,TOBACCO
+today,today,1283,TODAY
+toe,toe,1389,TOE
+toenail,toenail,2662,TOENAIL
+tomorrow,tomorrow,1329,TOMORROW
+tomorrow-morning,tomorrow morning,,
+tongs,tongs,272,TONGS
+tongue,tongue,1205,TONGUE
+tooth,tooth,1380,TOOTH
+top,top,1753,TOP
+top-foot,top (of foot),,
+topic,topic,,
+torch,torch,1919,TORCH
+tortoise,tortoise,895,TORTOISE
+towards,towards,2754,TOWARDS
 transitive-verb-forming-suffix-causative,"transitive verb forming suffix, causative",,
 tree,tree,906,TREE
 tree-base,tree base,,
@@ -1118,15 +1107,16 @@ true,true,1657,TRUE
 trunk,trunk (of tree),776,TRUNK OF TREE
 tuber,tuber,,
 turtle,turtle,112,TURTLE
-tusk,tusk,,
+tusk,tusk,3280,TUSK
 twelve,twelve,1707,TWELVE
 twenty,twenty,1710,TWENTY
+twist,to twist,430,TWIST
 two,two,1498,TWO
 two-days-ago-or-hence,two days ago or hence,,
 two-hundred,two hundred,,
 umbilical-cord,umbilical cord,,
 uncle,uncle,1327,UNCLE
-uncooked,uncooked,,
+uncooked,uncooked,1959,RAW
 underneath,underneath,,
 unripe,unripe,1958,UNRIPE
 upper-arm,upper arm,431,UPPER ARM
@@ -1150,27 +1140,27 @@ voice,voice,1363,VOICE
 vulva,vulva,1837,VULVA
 waist,waist,1681,WAIST
 walking-stick,walking stick,1296,WALKING STICK
-wall,wall,,
+wall,wall,933,WALL (OF HOUSE)
 wallaby,wallaby,165,WALLABY
 warm,warm/hot,2272,HOT OR WARM
 wasp,wasp,1517,WASP
 water,water,948,WATER
 wave,wave,978,WAVE
-weavingwoven-material,weaving/woven material,,
-we-dual,"we dual (pronoun d:1p, dual)",,
-we-two-excl,"we excl. dual (pronoun d:1p, excl, dual)",,
-we-pl-excl,"we excl. plural (pronoun d:1p, excl, plural)",,
-we-excl,"we excl. (pronoun d:1p, excl)",1130,WE (EXCLUSIVE)
-we-two-incl,"we incl. dual (pronoun d:1p, incl, dual)",,
-we-pl-incl,"we incl. plural (pronoun d:1p, incl, plural)",1131,WE (INCLUSIVE)
-we-incl,"we incl. (pronoun d:1p, incl)",1131,WE (INCLUSIVE)
 we,we (pronoun d:1p),1212,WE
+we-dual,"we dual (pronoun d:1p, dual)",2634,WE TWO
+we-excl,"we excl. (pronoun d:1p, excl)",1130,WE (EXCLUSIVE)
+we-incl,"we incl. (pronoun d:1p, incl)",1131,WE (INCLUSIVE)
+we-pl-excl,"we excl. plural (pronoun d:1p, excl, plural)",2636,WE TWO (EXCLUSIVE)
+we-pl-incl,"we incl. plural (pronoun d:1p, incl, plural)",1131,WE (INCLUSIVE)
+we-two-excl,"we excl. dual (pronoun d:1p, excl, dual)",2636,WE TWO (EXCLUSIVE)
+we-two-incl,"we incl. dual (pronoun d:1p, incl, dual)",2637,WE TWO (INCLUSIVE)
+weavingwoven-material,weaving/woven material,,
 wet,wet,1726,WET
 what,what?,1236,WHAT
 when,when?,1238,WHEN
 where,where?,1237,WHERE
 which,which?,727,WHICH
-whiskers,whiskers,,
+whiskers,whiskers,1165,MOUSTACHE
 white,white,1335,WHITE
 who,who?,1235,WHO
 why,why?,1270,WHY
@@ -1202,20 +1192,20 @@ yellow,yellow,1424,YELLOW
 yes,yes,1268,YES
 yesterday,yesterday,1174,YESTERDAY
 yesterday-tomorrow,"yesterday, tomorrow",,
+you,you (pronoun d:2s),,
+you-dual,"you two (pronoun d:2s, dual)",2111,YOU TWO
+you-o2s,you (pronoun o:2s),2304,THEE (OBLIQUE CASE OF YOU)
+you-pl,you pl. (pronoun d:2p),1213,YOU
+you-pl-dual,"you plural two (pronoun d:2p, dual)",2111,YOU TWO
+you-pl-dual-o2p,"you pl. two (pronoun o:2p, dual)",2111,YOU TWO
+you-pl-o2p,you pl. (pronoun o:2p),2312,YOU (OBLIQUE CASE OF YOU)
 young,young,1207,YOUNG
 young-boy,young boy,,
-younger-brother,younger brother,1760,YOUNGER BROTHER
-youngerlastborn,younger/lastborn,,
-younger-sister,younger sister,1761,YOUNGER SISTER
 young-man,young man,76,YOUNG MAN
-you-pl,you pl. (pronoun d:2p),1213,YOU
-you-pl-o2p,you pl. (pronoun o:2p),2312,YOU (OBLIQUE CASE OF YOU)
-you-pl-dual-o2p,"you pl. two (pronoun o:2p, dual)",,
-you-pl-dual,"you plural two (pronoun d:2p, dual)",,
-you,you (pronoun d:2s),,
-you-o2s,you (pronoun o:2s),2304,THEE (OBLIQUE CASE OF YOU)
+younger-brother,younger brother,1760,YOUNGER BROTHER
+younger-sister,younger sister,1761,YOUNGER SISTER
+youngerlastborn,younger/lastborn,,
 your-pl,your pl (pronoun p:2p),2274,YOUR (PLURAL)
-your-sg,your (pronoun: p:2s),732,YOUR (SINGULAR)
 your-pl-dual,"your (two) pl (pronoun p:2p, dual)",,
+your-sg,your (pronoun: p:2s),732,YOUR (SINGULAR)
 youth,youth,,
-you-dual,"you two (pronoun d:2s, dual)",2111,YOU TWO

@@ -60,18 +60,6 @@
         "word": "/api/v1/word/what/"
     },
     {
-        "added": "2014-08-31T18:25:48.369343",
-        "annotation": "",
-        "entry": "amu",
-        "id": 164735,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164735/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "yam",
-        "word": "/api/v1/word/yam/"
-    },
-    {
         "added": "2014-08-31T18:25:48.375358",
         "annotation": "",
         "entry": "amu",
@@ -79,6 +67,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164736/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "yam",
+        "word": "/api/v1/word/yam/"
+    },
+    {
+        "added": "2014-08-31T18:25:48.369343",
+        "annotation": "",
+        "entry": "amu",
+        "id": 164735,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164735/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "yam",
         "word": "/api/v1/word/yam/"
@@ -168,18 +168,6 @@
         "word": "/api/v1/word/who/"
     },
     {
-        "added": "2014-08-31T18:25:39.051213",
-        "annotation": "",
-        "entry": "apu",
-        "id": 163762,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/163762/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-08-31T18:25:39.046985",
         "annotation": "",
         "entry": "apu",
@@ -187,6 +175,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/163761/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-08-31T18:25:39.051213",
+        "annotation": "",
+        "entry": "apu",
+        "id": 163762,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/163762/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
@@ -204,18 +204,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2014-08-31T18:25:56.009918",
-        "annotation": "",
-        "entry": "baa",
-        "id": 165413,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/165413/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "he",
-        "word": "/api/v1/word/he-she/"
-    },
-    {
         "added": "2014-08-31T18:25:56.014329",
         "annotation": "",
         "entry": "baa",
@@ -228,16 +216,16 @@
         "word": "/api/v1/word/he-she/"
     },
     {
-        "added": "2014-08-31T18:25:38.619508",
+        "added": "2014-08-31T18:25:56.009918",
         "annotation": "",
-        "entry": "bui",
-        "id": 163716,
+        "entry": "baa",
+        "id": 165413,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/163716/",
+        "resource_uri": "/api/v1/lexicon/165413/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "star",
-        "word": "/api/v1/word/star/"
+        "source_gloss": "he",
+        "word": "/api/v1/word/he-she/"
     },
     {
         "added": "2014-08-31T18:25:38.615273",
@@ -252,13 +240,25 @@
         "word": "/api/v1/word/star/"
     },
     {
-        "added": "2014-08-31T18:25:54.461638",
+        "added": "2014-08-31T18:25:38.619508",
         "annotation": "",
-        "entry": "daa",
-        "id": 165247,
+        "entry": "bui",
+        "id": 163716,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/165247/",
+        "resource_uri": "/api/v1/lexicon/163716/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "star",
+        "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2014-08-31T18:25:54.466284",
+        "annotation": "",
+        "entry": "daa",
+        "id": 165248,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/165248/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "no",
         "word": "/api/v1/word/no-not/"
@@ -288,13 +288,13 @@
         "word": "/api/v1/word/not/"
     },
     {
-        "added": "2014-08-31T18:25:54.466284",
+        "added": "2014-08-31T18:25:54.461638",
         "annotation": "",
         "entry": "daa",
-        "id": 165248,
+        "id": 165247,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/165248/",
+        "resource_uri": "/api/v1/lexicon/165247/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "no",
         "word": "/api/v1/word/no-not/"
@@ -492,18 +492,6 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2014-08-31T18:25:41.651852",
-        "annotation": "",
-        "entry": "epenge",
-        "id": 164020,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164020/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "to come",
-        "word": "/api/v1/word/to-come/"
-    },
-    {
         "added": "2014-08-31T18:25:41.645496",
         "annotation": "",
         "entry": "epenge",
@@ -511,6 +499,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164019/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "to come",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2014-08-31T18:25:41.651852",
+        "annotation": "",
+        "entry": "epenge",
+        "id": 164020,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164020/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "to come",
         "word": "/api/v1/word/to-come/"
@@ -624,6 +624,18 @@
         "word": "/api/v1/word/water/"
     },
     {
+        "added": "2014-08-31T18:25:36.422117",
+        "annotation": "",
+        "entry": "ita",
+        "id": 163473,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/163473/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "fire",
+        "word": "/api/v1/word/fire/"
+    },
+    {
         "added": "2014-08-31T18:25:39.483665",
         "annotation": "",
         "entry": "ita",
@@ -646,18 +658,6 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "tree",
         "word": "/api/v1/word/tree/"
-    },
-    {
-        "added": "2014-08-31T18:25:36.422117",
-        "annotation": "",
-        "entry": "ita",
-        "id": 163473,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/163473/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "fire",
-        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2014-08-31T18:25:52.025427",
@@ -732,18 +732,6 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2014-08-31T18:25:32.330396",
-        "annotation": "",
-        "entry": "iti",
-        "id": 163018,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/163018/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "hair",
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2014-08-31T18:25:32.326104",
         "annotation": "",
         "entry": "iti",
@@ -756,16 +744,16 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2014-08-31T18:25:35.413183",
+        "added": "2014-08-31T18:25:32.330396",
         "annotation": "",
-        "entry": "kaita",
-        "id": 163379,
+        "entry": "iti",
+        "id": 163018,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/163379/",
+        "resource_uri": "/api/v1/lexicon/163018/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "road",
-        "word": "/api/v1/word/road/"
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2014-08-31T18:25:32.694745",
@@ -778,6 +766,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "mouth",
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2014-08-31T18:25:35.413183",
+        "annotation": "",
+        "entry": "kaita",
+        "id": 163379,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/163379/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "road",
+        "word": "/api/v1/word/road/"
     },
     {
         "added": "2014-08-31T18:25:35.417845",
@@ -840,16 +840,16 @@
         "word": "/api/v1/word/mouth/"
     },
     {
-        "added": "2014-08-31T18:25:38.431795",
+        "added": "2014-08-31T18:25:35.664359",
         "annotation": "",
         "entry": "kana",
-        "id": 163693,
+        "id": 163404,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/163693/",
+        "resource_uri": "/api/v1/lexicon/163404/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "moon",
-        "word": "/api/v1/word/moon/"
+        "source_gloss": "stone",
+        "word": "/api/v1/word/stone/"
     },
     {
         "added": "2014-08-31T18:25:38.425705",
@@ -876,16 +876,16 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2014-08-31T18:25:35.664359",
+        "added": "2014-08-31T18:25:38.431795",
         "annotation": "",
         "entry": "kana",
-        "id": 163404,
+        "id": 163693,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/163404/",
+        "resource_uri": "/api/v1/lexicon/163693/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "stone",
-        "word": "/api/v1/word/stone/"
+        "source_gloss": "moon",
+        "word": "/api/v1/word/moon/"
     },
     {
         "added": "2014-08-31T18:25:41.428639",
@@ -924,6 +924,18 @@
         "word": "/api/v1/word/snake/"
     },
     {
+        "added": "2014-08-31T18:25:40.746000",
+        "annotation": "",
+        "entry": "kapa",
+        "id": 163931,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/163931/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
+    },
+    {
         "added": "2014-08-31T18:25:40.534388",
         "annotation": "",
         "entry": "kapa",
@@ -946,18 +958,6 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "fat (grease)",
         "word": "/api/v1/word/fat/"
-    },
-    {
-        "added": "2014-08-31T18:25:40.746000",
-        "annotation": "",
-        "entry": "kapa",
-        "id": 163931,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/163931/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "egg",
-        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2014-08-31T18:25:40.740849",
@@ -1008,18 +1008,6 @@
         "word": "/api/v1/word/to-stand/"
     },
     {
-        "added": "2014-08-31T18:25:37.336157",
-        "annotation": "",
-        "entry": "keke",
-        "id": 163570,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/163570/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "tongue",
-        "word": "/api/v1/word/tongue/"
-    },
-    {
         "added": "2014-08-31T18:25:37.331933",
         "annotation": "",
         "entry": "keke",
@@ -1027,6 +1015,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/163569/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "tongue",
+        "word": "/api/v1/word/tongue/"
+    },
+    {
+        "added": "2014-08-31T18:25:37.336157",
+        "annotation": "",
+        "entry": "keke",
+        "id": 163570,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/163570/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "tongue",
         "word": "/api/v1/word/tongue/"
@@ -1068,18 +1068,6 @@
         "word": "/api/v1/word/heavy/"
     },
     {
-        "added": "2014-08-31T18:25:45.522522",
-        "annotation": "",
-        "entry": "kenge",
-        "id": 164428,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164428/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "name",
-        "word": "/api/v1/word/name/"
-    },
-    {
         "added": "2014-08-31T18:25:45.527845",
         "annotation": "",
         "entry": "kenge",
@@ -1092,9 +1080,21 @@
         "word": "/api/v1/word/name/"
     },
     {
+        "added": "2014-08-31T18:25:45.522522",
+        "annotation": "",
+        "entry": "kenge",
+        "id": 164428,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164428/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
+    },
+    {
         "added": "2014-08-31T18:25:49.683802",
         "annotation": "",
-        "entry": "kewa ;enge",
+        "entry": "kewa enge",
         "id": 164865,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
@@ -1188,18 +1188,6 @@
         "word": "/api/v1/word/four/"
     },
     {
-        "added": "2014-08-31T18:25:47.358949",
-        "annotation": "",
-        "entry": "koka",
-        "id": 164633,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164633/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "rat",
-        "word": "/api/v1/word/rat/"
-    },
-    {
         "added": "2014-08-31T18:25:47.350981",
         "annotation": "",
         "entry": "koka",
@@ -1207,6 +1195,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164631/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "rat",
+        "word": "/api/v1/word/rat/"
+    },
+    {
+        "added": "2014-08-31T18:25:47.358949",
+        "annotation": "",
+        "entry": "koka",
+        "id": 164633,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164633/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "rat",
         "word": "/api/v1/word/rat/"
@@ -1284,18 +1284,6 @@
         "word": "/api/v1/word/night/"
     },
     {
-        "added": "2014-08-31T18:25:43.978618",
-        "annotation": "",
-        "entry": "kuli",
-        "id": 164255,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164255/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "his bone",
-        "word": "/api/v1/word/bone/"
-    },
-    {
         "added": "2014-08-31T18:25:43.974364",
         "annotation": "",
         "entry": "kuli",
@@ -1303,6 +1291,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164254/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "his bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2014-08-31T18:25:43.978618",
+        "annotation": "",
+        "entry": "kuli",
+        "id": 164255,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164255/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "his bone",
         "word": "/api/v1/word/bone/"
@@ -1440,18 +1440,6 @@
         "word": "/api/v1/word/to-say/"
     },
     {
-        "added": "2014-08-31T18:25:41.944814",
-        "annotation": "",
-        "entry": "lema",
-        "id": 164041,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164041/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2014-08-31T18:25:41.949926",
         "annotation": "",
         "entry": "lema",
@@ -1459,6 +1447,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164042/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2014-08-31T18:25:41.944814",
+        "annotation": "",
+        "entry": "lema",
+        "id": 164041,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164041/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "louse",
         "word": "/api/v1/word/louse/"
@@ -1548,18 +1548,6 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2014-08-31T18:25:32.923606",
-        "annotation": "",
-        "entry": "lyaa",
-        "id": 163090,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/163090/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "nose",
-        "word": "/api/v1/word/nose/"
-    },
-    {
         "added": "2014-08-31T18:25:48.148751",
         "annotation": "",
         "entry": "lyaa",
@@ -1570,6 +1558,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "sugarcane",
         "word": "/api/v1/word/sugarcane/"
+    },
+    {
+        "added": "2014-08-31T18:25:32.923606",
+        "annotation": "",
+        "entry": "lyaa",
+        "id": 163090,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/163090/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
     },
     {
         "added": "2014-08-31T18:25:48.144307",
@@ -1584,18 +1584,6 @@
         "word": "/api/v1/word/sugarcane/"
     },
     {
-        "added": "2014-08-31T18:25:47.927917",
-        "annotation": "",
-        "entry": "maa",
-        "id": 164698,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164698/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "taro",
-        "word": "/api/v1/word/taro/"
-    },
-    {
         "added": "2014-08-31T18:25:47.921092",
         "annotation": "",
         "entry": "maa",
@@ -1603,6 +1591,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164697/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "taro",
+        "word": "/api/v1/word/taro/"
+    },
+    {
+        "added": "2014-08-31T18:25:47.927917",
+        "annotation": "",
+        "entry": "maa",
+        "id": 164698,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164698/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "taro",
         "word": "/api/v1/word/taro/"
@@ -1656,6 +1656,18 @@
         "word": "/api/v1/word/neck/"
     },
     {
+        "added": "2014-08-31T18:25:43.376237",
+        "annotation": "",
+        "entry": "mange",
+        "id": 164183,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164183/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "his thumb",
+        "word": "/api/v1/word/thumb/"
+    },
+    {
         "added": "2014-08-31T18:25:43.371076",
         "annotation": "",
         "entry": "mange",
@@ -1678,18 +1690,6 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "neck",
         "word": "/api/v1/word/neck/"
-    },
-    {
-        "added": "2014-08-31T18:25:43.376237",
-        "annotation": "",
-        "entry": "mange",
-        "id": 164183,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164183/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "his thumb",
-        "word": "/api/v1/word/thumb/"
     },
     {
         "added": "2014-08-31T18:25:48.776355",
@@ -1836,18 +1836,6 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2014-08-31T18:25:43.780840",
-        "annotation": "",
-        "entry": "mona",
-        "id": 164229,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164229/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "his heart",
-        "word": "/api/v1/word/heart/"
-    },
-    {
         "added": "2014-08-31T18:25:43.785081",
         "annotation": "",
         "entry": "mona",
@@ -1860,16 +1848,16 @@
         "word": "/api/v1/word/heart/"
     },
     {
-        "added": "2014-08-31T18:25:47.527973",
+        "added": "2014-08-31T18:25:43.780840",
         "annotation": "",
-        "entry": "monge",
-        "id": 164654,
+        "entry": "mona",
+        "id": 164229,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/164654/",
+        "resource_uri": "/api/v1/lexicon/164229/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "frog",
-        "word": "/api/v1/word/frog/"
+        "source_gloss": "his heart",
+        "word": "/api/v1/word/heart/"
     },
     {
         "added": "2014-08-31T18:25:47.523737",
@@ -1879,6 +1867,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164653/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "frog",
+        "word": "/api/v1/word/frog/"
+    },
+    {
+        "added": "2014-08-31T18:25:47.527973",
+        "annotation": "",
+        "entry": "monge",
+        "id": 164654,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164654/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "frog",
         "word": "/api/v1/word/frog/"
@@ -2004,18 +2004,6 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2014-08-31T18:25:40.952865",
-        "annotation": "",
-        "entry": "nenge",
-        "id": 163951,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/163951/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "to eat",
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2014-08-31T18:25:40.957931",
         "annotation": "",
         "entry": "nenge",
@@ -2050,6 +2038,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "to bite",
         "word": "/api/v1/word/to-bite/"
+    },
+    {
+        "added": "2014-08-31T18:25:40.952865",
+        "annotation": "",
+        "entry": "nenge",
+        "id": 163951,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/163951/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "to eat",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2014-08-31T18:25:38.188136",
@@ -2124,18 +2124,6 @@
         "word": "/api/v1/word/you-pl-dual/"
     },
     {
-        "added": "2014-08-31T18:25:44.399564",
-        "annotation": "",
-        "entry": "pepa",
-        "id": 164299,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164299/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "wing",
-        "word": "/api/v1/word/wing/"
-    },
-    {
         "added": "2014-08-31T18:25:44.395059",
         "annotation": "",
         "entry": "pepa",
@@ -2148,16 +2136,16 @@
         "word": "/api/v1/word/wing/"
     },
     {
-        "added": "2014-08-31T18:25:34.945134",
+        "added": "2014-08-31T18:25:44.399564",
         "annotation": "",
-        "entry": "petenge",
-        "id": 163330,
+        "entry": "pepa",
+        "id": 164299,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/163330/",
+        "resource_uri": "/api/v1/lexicon/164299/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "to sit",
-        "word": "/api/v1/word/to-sit/"
+        "source_gloss": "wing",
+        "word": "/api/v1/word/wing/"
     },
     {
         "added": "2014-08-31T18:25:34.950790",
@@ -2172,16 +2160,16 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2014-08-31T18:25:45.334591",
+        "added": "2014-08-31T18:25:34.945134",
         "annotation": "",
-        "entry": "pimalenge",
-        "id": 164410,
+        "entry": "petenge",
+        "id": 163330,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/164410/",
+        "resource_uri": "/api/v1/lexicon/163330/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "sister",
-        "word": "/api/v1/word/sister/"
+        "source_gloss": "to sit",
+        "word": "/api/v1/word/to-sit/"
     },
     {
         "added": "2014-08-31T18:25:45.338883",
@@ -2191,6 +2179,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164411/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "sister",
+        "word": "/api/v1/word/sister/"
+    },
+    {
+        "added": "2014-08-31T18:25:45.334591",
+        "annotation": "",
+        "entry": "pimalenge",
+        "id": 164410,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164410/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "sister",
         "word": "/api/v1/word/sister/"
@@ -2304,18 +2304,6 @@
         "word": "/api/v1/word/flying-fox/"
     },
     {
-        "added": "2014-08-31T18:25:50.479767",
-        "annotation": "",
-        "entry": "sakapae",
-        "id": 164927,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164927/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "green",
-        "word": "/api/v1/word/green/"
-    },
-    {
         "added": "2014-08-31T18:25:50.474022",
         "annotation": "",
         "entry": "sakapae",
@@ -2323,6 +2311,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164926/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "green",
+        "word": "/api/v1/word/green/"
+    },
+    {
+        "added": "2014-08-31T18:25:50.479767",
+        "annotation": "",
+        "entry": "sakapae",
+        "id": 164927,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164927/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "green",
         "word": "/api/v1/word/green/"
@@ -2400,18 +2400,6 @@
         "word": "/api/v1/word/ashes/"
     },
     {
-        "added": "2014-08-31T18:25:54.777466",
-        "annotation": "",
-        "entry": "singi",
-        "id": 165283,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/165283/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "he hears",
-        "word": "/api/v1/word/to-hear/"
-    },
-    {
         "added": "2014-08-31T18:25:54.781690",
         "annotation": "",
         "entry": "singi",
@@ -2424,16 +2412,16 @@
         "word": "/api/v1/word/to-hear/"
     },
     {
-        "added": "2014-08-31T18:25:44.803779",
+        "added": "2014-08-31T18:25:54.777466",
         "annotation": "",
-        "entry": "takange",
-        "id": 164345,
+        "entry": "singi",
+        "id": 165283,
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/164345/",
+        "resource_uri": "/api/v1/lexicon/165283/",
         "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "his father",
-        "word": "/api/v1/word/father/"
+        "source_gloss": "he hears",
+        "word": "/api/v1/word/to-hear/"
     },
     {
         "added": "2014-08-31T18:25:44.799538",
@@ -2443,6 +2431,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164344/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "his father",
+        "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2014-08-31T18:25:44.803779",
+        "annotation": "",
+        "entry": "takange",
+        "id": 164345,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164345/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "his father",
         "word": "/api/v1/word/father/"
@@ -2580,18 +2580,6 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2014-08-31T18:25:48.978967",
-        "annotation": "",
-        "entry": "waa",
-        "id": 164800,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164800/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "axe",
-        "word": "/api/v1/word/axe/"
-    },
-    {
         "added": "2014-08-31T18:25:48.983660",
         "annotation": "",
         "entry": "waa",
@@ -2599,6 +2587,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164801/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "axe",
+        "word": "/api/v1/word/axe/"
+    },
+    {
+        "added": "2014-08-31T18:25:48.978967",
+        "annotation": "",
+        "entry": "waa",
+        "id": 164800,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164800/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "axe",
         "word": "/api/v1/word/axe/"
@@ -2640,18 +2640,6 @@
         "word": "/api/v1/word/old/"
     },
     {
-        "added": "2014-08-31T18:25:34.327515",
-        "annotation": "",
-        "entry": "yaka",
-        "id": 163258,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/163258/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "bird",
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2014-08-31T18:25:34.331748",
         "annotation": "",
         "entry": "yaka",
@@ -2659,6 +2647,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/163259/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2014-08-31T18:25:34.327515",
+        "annotation": "",
+        "entry": "yaka",
+        "id": 163258,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/163258/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "bird",
         "word": "/api/v1/word/bird/"
@@ -2760,18 +2760,6 @@
         "word": "/api/v1/word/forehead/"
     },
     {
-        "added": "2014-08-31T18:25:46.351749",
-        "annotation": "",
-        "entry": "yuu",
-        "id": 164519,
-        "language": "/api/v1/language/enga-lapalama/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/164519/",
-        "source": "/api/v1/source/davies_and_comrie1985/",
-        "source_gloss": "earth",
-        "word": "/api/v1/word/earth/"
-    },
-    {
         "added": "2014-08-31T18:25:46.345376",
         "annotation": "",
         "entry": "yuu",
@@ -2779,6 +2767,18 @@
         "language": "/api/v1/language/enga-lapalama/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/164518/",
+        "source": "/api/v1/source/davies_and_comrie1985/",
+        "source_gloss": "earth",
+        "word": "/api/v1/word/earth/"
+    },
+    {
+        "added": "2014-08-31T18:25:46.351749",
+        "annotation": "",
+        "entry": "yuu",
+        "id": 164519,
+        "language": "/api/v1/language/enga-lapalama/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/164519/",
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "earth",
         "word": "/api/v1/word/earth/"

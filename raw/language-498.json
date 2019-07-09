@@ -516,13 +516,13 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2013-11-04T01:40:35.120938",
-        "annotation": "",
-        "entry": "l'\u03b1k\u03b1/y\u03b1",
-        "id": 34939,
+        "added": "2019-03-19T04:16:28.607706",
+        "annotation": null,
+        "entry": "l'\u03b1k\u03b1",
+        "id": 260562,
         "language": "/api/v1/language/kafoa/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/34939/",
+        "resource_uri": "/api/v1/lexicon/260562/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-go/"
@@ -1306,6 +1306,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.621786",
+        "annotation": null,
+        "entry": "y\u03b1",
+        "id": 260563,
+        "language": "/api/v1/language/kafoa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260563/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-go/"
     },
     {
         "added": "2013-11-04T01:40:35.313588",

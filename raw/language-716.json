@@ -24,18 +24,6 @@
         "word": "/api/v1/word/him-her-it/"
     },
     {
-        "added": "2014-07-06T21:29:51.592165",
-        "annotation": null,
-        "entry": "0\u0338-",
-        "id": 139522,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139522/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "we (VO)",
-        "word": "/api/v1/word/us/"
-    },
-    {
         "added": "2014-07-06T21:29:51.176902",
         "annotation": null,
         "entry": "0\u0338-",
@@ -46,6 +34,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "ye (VO)",
         "word": "/api/v1/word/you-pl-o2p/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.592165",
+        "annotation": null,
+        "entry": "0\u0338-",
+        "id": 139522,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139522/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "we (VO)",
+        "word": "/api/v1/word/us/"
     },
     {
         "added": "2014-07-06T21:30:01.236351",
@@ -312,18 +312,6 @@
         "word": "/api/v1/word/two/"
     },
     {
-        "added": "2014-07-06T21:30:03.792272",
-        "annotation": null,
-        "entry": "argo",
-        "id": 145260,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/145260/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "there",
-        "word": "/api/v1/word/there/"
-    },
-    {
         "added": "2014-07-06T21:30:02.812112",
         "annotation": null,
         "entry": "argo",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "that",
         "word": "/api/v1/word/that/"
+    },
+    {
+        "added": "2014-07-06T21:30:03.792272",
+        "annotation": null,
+        "entry": "argo",
+        "id": 145260,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/145260/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "there",
+        "word": "/api/v1/word/there/"
     },
     {
         "added": "2014-07-06T21:29:58.744697",
@@ -2160,18 +2160,6 @@
         "word": "/api/v1/word/meat/"
     },
     {
-        "added": "2014-07-06T21:30:06.602793",
-        "annotation": null,
-        "entry": "kiwik-",
-        "id": 146539,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146539/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "split",
-        "word": "/api/v1/word/to-split/"
-    },
-    {
         "added": "2014-07-06T21:30:06.659662",
         "annotation": null,
         "entry": "kiwik-",
@@ -2182,6 +2170,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(tear)",
         "word": "/api/v1/word/tears/"
+    },
+    {
+        "added": "2014-07-06T21:30:06.602793",
+        "annotation": null,
+        "entry": "kiwik-",
+        "id": 146539,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146539/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "split",
+        "word": "/api/v1/word/to-split/"
     },
     {
         "added": "2014-07-06T21:30:02.126372",
@@ -2280,6 +2280,18 @@
         "word": "/api/v1/word/left-arm/"
     },
     {
+        "added": "2019-03-19T04:17:08.146582",
+        "annotation": null,
+        "entry": "ku",
+        "id": 260707,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260707/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
         "added": "2014-07-06T21:30:07.973216",
         "annotation": null,
         "entry": "ku-",
@@ -2376,18 +2388,6 @@
         "word": "/api/v1/word/arrow/"
     },
     {
-        "added": "2014-07-06T21:29:53.297849",
-        "annotation": null,
-        "entry": "ku/namun",
-        "id": 140356,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/140356/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "belly",
-        "word": "/api/v1/word/belly/"
-    },
-    {
         "added": "2014-07-06T21:29:56.096150",
         "annotation": null,
         "entry": "kundi",
@@ -2460,18 +2460,6 @@
         "word": "/api/v1/word/bean/"
     },
     {
-        "added": "2014-07-06T21:29:58.207216",
-        "annotation": null,
-        "entry": "makib",
-        "id": 142759,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/142759/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "garden(ground)",
-        "word": "/api/v1/word/garden/"
-    },
-    {
         "added": "2014-07-06T21:29:58.325524",
         "annotation": null,
         "entry": "makib",
@@ -2482,6 +2470,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(ground)",
         "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2014-07-06T21:29:58.207216",
+        "annotation": null,
+        "entry": "makib",
+        "id": 142759,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/142759/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "garden(ground)",
+        "word": "/api/v1/word/garden/"
     },
     {
         "added": "2014-07-06T21:29:58.327791",
@@ -2974,6 +2974,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "chest",
         "word": "/api/v1/word/chest/"
+    },
+    {
+        "added": "2019-03-19T04:17:08.238763",
+        "annotation": null,
+        "entry": "namun",
+        "id": 260708,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260708/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
     },
     {
         "added": "2014-07-06T21:29:50.086414",
@@ -4021,8 +4033,8 @@
     },
     {
         "added": "2014-07-06T21:29:49.698521",
-        "annotation": null,
-        "entry": "wambiem (sg)",
+        "annotation": "(sg)",
+        "entry": "wambiem",
         "id": 138598,
         "language": "/api/v1/language/brem/",
         "loan": false,

@@ -24,13 +24,13 @@
         "word": "/api/v1/word/bird/"
     },
     {
-        "added": "2013-11-10T02:52:53.791373",
-        "annotation": "",
-        "entry": "'att\u03b1/\u03b1d'it\u03b1",
-        "id": 38357,
+        "added": "2019-03-19T04:16:29.515366",
+        "annotation": null,
+        "entry": "'att\u03b1",
+        "id": 260606,
         "language": "/api/v1/language/kamang-letley/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38357/",
+        "resource_uri": "/api/v1/lexicon/260606/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/leaf/"
@@ -142,6 +142,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/island/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.483151",
+        "annotation": null,
+        "entry": "bul'\u025bka\u0294",
+        "id": 260605,
+        "language": "/api/v1/language/kamang-letley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260605/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T02:52:53.728424",
@@ -372,13 +384,13 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2013-11-10T02:52:53.657024",
-        "annotation": "",
-        "entry": "k'anti/k\u03b1p'\u025bta\u0294",
-        "id": 38343,
+        "added": "2019-03-19T04:16:29.408434",
+        "annotation": null,
+        "entry": "k'anti",
+        "id": 260602,
         "language": "/api/v1/language/kamang-letley/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38343/",
+        "resource_uri": "/api/v1/lexicon/260602/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/cold/"
@@ -444,6 +456,18 @@
         "word": "/api/v1/word/nail/"
     },
     {
+        "added": "2019-03-19T04:16:29.427044",
+        "annotation": null,
+        "entry": "k\u03b1p'\u025bta\u0294",
+        "id": 260603,
+        "language": "/api/v1/language/kamang-letley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260603/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cold/"
+    },
+    {
         "added": "2013-11-10T02:52:53.720445",
         "annotation": "",
         "entry": "l'iil\u025b\u0294",
@@ -502,6 +526,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.611709",
+        "annotation": null,
+        "entry": "m\u025b\u0294",
+        "id": 260611,
+        "language": "/api/v1/language/kamang-letley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260611/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-come/"
     },
     {
         "added": "2013-11-10T02:52:53.136124",
@@ -564,6 +600,18 @@
         "word": "/api/v1/word/nose/"
     },
     {
+        "added": "2013-11-10T02:52:52.846292",
+        "annotation": "",
+        "entry": "nalp''a\u014bs\u0259k'u",
+        "id": 38270,
+        "language": "/api/v1/language/kamang-letley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/38270/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/nostril/"
+    },
+    {
         "added": "2013-11-10T02:52:52.934307",
         "annotation": "",
         "entry": "nalp'u",
@@ -574,18 +622,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/tongue/"
-    },
-    {
-        "added": "2013-11-10T02:52:52.846292",
-        "annotation": "",
-        "entry": "na;p''a\u014bs\u0259k'u",
-        "id": 38270,
-        "language": "/api/v1/language/kamang-letley/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/38270/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/nostril/"
     },
     {
         "added": "2013-11-10T02:52:52.719485",
@@ -948,13 +984,25 @@
         "word": "/api/v1/word/ear/"
     },
     {
-        "added": "2013-11-10T02:52:52.958199",
-        "annotation": "",
-        "entry": "n\u03b1w'\u025bs/n\u03b1w'\u025bsi",
-        "id": 38279,
+        "added": "2019-03-19T04:16:29.635395",
+        "annotation": null,
+        "entry": "n\u03b1w'\u025bs",
+        "id": 260612,
         "language": "/api/v1/language/kamang-letley/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38279/",
+        "resource_uri": "/api/v1/lexicon/260612/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.648920",
+        "annotation": null,
+        "entry": "n\u03b1w'\u025bsi",
+        "id": 260613,
+        "language": "/api/v1/language/kamang-letley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260613/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
@@ -1020,15 +1068,15 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2013-11-10T02:52:53.767646",
-        "annotation": "fat",
-        "entry": "p'uk(u)/bul'\u025bka\u0294",
-        "id": 38354,
+        "added": "2019-03-19T04:16:29.466712",
+        "annotation": null,
+        "entry": "p'uk(u)",
+        "id": 260604,
         "language": "/api/v1/language/kamang-letley/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38354/",
+        "resource_uri": "/api/v1/lexicon/260604/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -1152,13 +1200,13 @@
         "word": "/api/v1/word/house/"
     },
     {
-        "added": "2013-11-10T02:52:53.664945",
-        "annotation": "",
-        "entry": "s\u00fcw'\u025b\u0294/m\u025b\u0294",
-        "id": 38344,
+        "added": "2019-03-19T04:16:29.598694",
+        "annotation": null,
+        "entry": "s\u00fcw'\u025b\u0294",
+        "id": 260610,
         "language": "/api/v1/language/kamang-letley/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38344/",
+        "resource_uri": "/api/v1/lexicon/260610/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-come/"
@@ -1224,6 +1272,18 @@
         "word": "/api/v1/word/sun/"
     },
     {
+        "added": "2019-03-19T04:16:29.572539",
+        "annotation": null,
+        "entry": "w\u025b\u0294",
+        "id": 260609,
+        "language": "/api/v1/language/kamang-letley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260609/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-go/"
+    },
+    {
         "added": "2013-11-10T02:52:53.414449",
         "annotation": "",
         "entry": "w\u0254\u0294",
@@ -1272,13 +1332,13 @@
         "word": "/api/v1/word/road/"
     },
     {
-        "added": "2013-11-10T02:52:53.751837",
-        "annotation": "",
-        "entry": "y\u03b1/w\u025b\u0294",
-        "id": 38352,
+        "added": "2019-03-19T04:16:29.558336",
+        "annotation": null,
+        "entry": "y\u03b1",
+        "id": 260608,
         "language": "/api/v1/language/kamang-letley/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38352/",
+        "resource_uri": "/api/v1/lexicon/260608/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-go/"
@@ -1294,6 +1354,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.531674",
+        "annotation": null,
+        "entry": "\u03b1d'it\u03b1",
+        "id": 260607,
+        "language": "/api/v1/language/kamang-letley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260607/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/leaf/"
     },
     {
         "added": "2013-11-10T02:52:53.908561",

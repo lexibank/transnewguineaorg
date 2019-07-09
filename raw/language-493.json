@@ -240,15 +240,15 @@
         "word": "/api/v1/word/woman/"
     },
     {
-        "added": "2013-11-07T00:50:29.584968",
-        "annotation": "fat",
-        "entry": "hup'ar/t\u03b1m'al",
-        "id": 37416,
+        "added": "2019-03-19T04:16:28.369471",
+        "annotation": null,
+        "entry": "hup'ar",
+        "id": 260550,
         "language": "/api/v1/language/blagar-retta-on-ternate/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37416/",
+        "resource_uri": "/api/v1/lexicon/260550/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -346,6 +346,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/nail/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.418739",
+        "annotation": null,
+        "entry": "k\u03b1k'iri",
+        "id": 260553,
+        "language": "/api/v1/language/blagar-retta-on-ternate/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260553/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
     },
     {
         "added": "2013-11-07T00:50:28.677548",
@@ -1020,13 +1032,13 @@
         "word": "/api/v1/word/mouth/"
     },
     {
-        "added": "2013-11-07T00:50:29.874205",
-        "annotation": "",
-        "entry": "\u0254l/k\u03b1k'iri",
-        "id": 37431,
+        "added": "2019-03-19T04:16:28.405344",
+        "annotation": null,
+        "entry": "\u0254l",
+        "id": 260552,
         "language": "/api/v1/language/blagar-retta-on-ternate/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37431/",
+        "resource_uri": "/api/v1/lexicon/260552/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
@@ -1150,6 +1162,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2019-03-19T04:16:28.383580",
+        "annotation": null,
+        "entry": "t\u03b1m'al",
+        "id": 260551,
+        "language": "/api/v1/language/blagar-retta-on-ternate/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260551/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-07T00:50:29.511852",

@@ -420,6 +420,18 @@
         "word": "/api/v1/word/full/"
     },
     {
+        "added": "2014-07-06T21:29:49.688459",
+        "annotation": "(sg)",
+        "entry": "aw",
+        "id": 138593,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/138593/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "woman",
+        "word": "/api/v1/word/woman/"
+    },
+    {
         "added": "2014-07-06T21:29:55.063301",
         "annotation": null,
         "entry": "aw-",
@@ -442,18 +454,6 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "girl",
         "word": "/api/v1/word/girl/"
-    },
-    {
-        "added": "2014-07-06T21:29:49.688459",
-        "annotation": null,
-        "entry": "aw (sg)",
-        "id": 138593,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/138593/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "woman",
-        "word": "/api/v1/word/woman/"
     },
     {
         "added": "2014-07-06T21:29:57.064137",
@@ -1368,18 +1368,6 @@
         "word": "/api/v1/word/us/"
     },
     {
-        "added": "2014-07-06T21:29:51.365192",
-        "annotation": null,
-        "entry": "gi-",
-        "id": 139419,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139419/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "they (verbal object)",
-        "word": "/api/v1/word/them/"
-    },
-    {
         "added": "2014-07-06T21:29:51.292025",
         "annotation": null,
         "entry": "gi-",
@@ -1390,6 +1378,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "they (genitive)",
         "word": "/api/v1/word/their/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.365192",
+        "annotation": null,
+        "entry": "gi-",
+        "id": 139419,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139419/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "they (verbal object)",
+        "word": "/api/v1/word/them/"
     },
     {
         "added": "2014-07-06T21:29:51.169012",
@@ -1404,18 +1404,6 @@
         "word": "/api/v1/word/you-pl-o2p/"
     },
     {
-        "added": "2014-07-06T21:29:51.097684",
-        "annotation": null,
-        "entry": "gi-",
-        "id": 139287,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139287/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "ye (genitive)",
-        "word": "/api/v1/word/your-pl/"
-    },
-    {
         "added": "2014-07-06T21:29:51.492652",
         "annotation": null,
         "entry": "gi-",
@@ -1426,6 +1414,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "we (genitive)",
         "word": "/api/v1/word/our/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.097684",
+        "annotation": null,
+        "entry": "gi-",
+        "id": 139287,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139287/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "ye (genitive)",
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2014-07-06T21:29:59.053094",
@@ -1752,18 +1752,6 @@
         "word": "/api/v1/word/to-wash/"
     },
     {
-        "added": "2014-07-06T21:29:50.554647",
-        "annotation": null,
-        "entry": "i-",
-        "id": 139019,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139019/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "I (genitive)",
-        "word": "/api/v1/word/my/"
-    },
-    {
         "added": "2014-07-06T21:29:50.575313",
         "annotation": null,
         "entry": "i-",
@@ -1774,6 +1762,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "I (VO)",
         "word": "/api/v1/word/me/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.554647",
+        "annotation": null,
+        "entry": "i-",
+        "id": 139019,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139019/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "I (genitive)",
+        "word": "/api/v1/word/my/"
     },
     {
         "added": "2014-07-06T21:29:58.735923",
@@ -1968,18 +1968,6 @@
         "word": "/api/v1/word/we/"
     },
     {
-        "added": "2014-07-06T21:29:51.586180",
-        "annotation": null,
-        "entry": "iy-",
-        "id": 139519,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139519/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "we (VO)",
-        "word": "/api/v1/word/us/"
-    },
-    {
         "added": "2014-07-06T21:29:51.513320",
         "annotation": null,
         "entry": "iy-",
@@ -1990,6 +1978,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "1st pl poss.",
         "word": "/api/v1/word/our/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.586180",
+        "annotation": null,
+        "entry": "iy-",
+        "id": 139519,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139519/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "we (VO)",
+        "word": "/api/v1/word/us/"
     },
     {
         "added": "2014-07-06T21:30:02.742555",

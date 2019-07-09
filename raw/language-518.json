@@ -144,16 +144,28 @@
         "word": "/api/v1/word/four/"
     },
     {
-        "added": "2013-11-10T02:03:27.273555",
-        "annotation": "",
-        "entry": "b'ugut/b'\u03b1g\u0254t",
-        "id": 38017,
+        "added": "2019-03-19T04:16:30.154879",
+        "annotation": null,
+        "entry": "b'ugut",
+        "id": 260638,
         "language": "/api/v1/language/kamang-pido-2/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38017/",
+        "resource_uri": "/api/v1/lexicon/260638/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.062865",
+        "annotation": null,
+        "entry": "b'uk lap'a\u014b",
+        "id": 260633,
+        "language": "/api/v1/language/kamang-pido-2/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260633/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mountain/"
     },
     {
         "added": "2013-11-10T02:03:27.199493",
@@ -166,6 +178,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.168469",
+        "annotation": null,
+        "entry": "b'\u03b1g\u0254t",
+        "id": 260639,
+        "language": "/api/v1/language/kamang-pido-2/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260639/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
     },
     {
         "added": "2013-11-10T02:03:26.641300",
@@ -204,13 +228,13 @@
         "word": "/api/v1/word/black/"
     },
     {
-        "added": "2013-11-10T02:03:26.745575",
-        "annotation": "",
-        "entry": "'\u025bfata/nub'\u025bta",
-        "id": 37965,
+        "added": "2019-03-19T04:16:30.085183",
+        "annotation": null,
+        "entry": "'\u025bfata",
+        "id": 260634,
         "language": "/api/v1/language/kamang-pido-2/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37965/",
+        "resource_uri": "/api/v1/lexicon/260634/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -286,6 +310,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.131232",
+        "annotation": null,
+        "entry": "'ipi\u014b",
+        "id": 260637,
+        "language": "/api/v1/language/kamang-pido-2/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260637/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cold/"
     },
     {
         "added": "2013-11-10T02:03:26.965615",
@@ -468,13 +504,13 @@
         "word": "/api/v1/word/banana/"
     },
     {
-        "added": "2013-11-10T02:03:27.295704",
-        "annotation": "",
-        "entry": "m\u03b1r'\u03b1to/\u03b1t'umar\u03b1",
-        "id": 38020,
+        "added": "2019-03-19T04:16:30.198516",
+        "annotation": null,
+        "entry": "m\u03b1r'\u03b1to",
+        "id": 260640,
         "language": "/api/v1/language/kamang-pido-2/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38020/",
+        "resource_uri": "/api/v1/lexicon/260640/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/star/"
@@ -912,6 +948,18 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2019-03-19T04:16:30.096043",
+        "annotation": null,
+        "entry": "nub'\u025bta",
+        "id": 260635,
+        "language": "/api/v1/language/kamang-pido-2/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260635/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
         "added": "2013-11-10T02:03:27.214396",
         "annotation": "",
         "entry": "n\u03b1t'\u025b\u014bguh",
@@ -960,13 +1008,13 @@
         "word": "/api/v1/word/two/"
     },
     {
-        "added": "2013-11-10T02:03:27.038886",
-        "annotation": "",
-        "entry": "p'\u025bt\u025b/'ipi\u014b",
-        "id": 37991,
+        "added": "2019-03-19T04:16:30.117759",
+        "annotation": null,
+        "entry": "p'\u025bt\u025b",
+        "id": 260636,
         "language": "/api/v1/language/kamang-pido-2/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37991/",
+        "resource_uri": "/api/v1/lexicon/260636/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/cold/"
@@ -1042,6 +1090,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/sand/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.252846",
+        "annotation": null,
+        "entry": "s\u012dr'i",
+        "id": 260643,
+        "language": "/api/v1/language/kamang-pido-2/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260643/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T02:03:26.611082",
@@ -1128,6 +1188,18 @@
         "word": "/api/v1/word/to-sleep/"
     },
     {
+        "added": "2019-03-19T04:16:30.238974",
+        "annotation": null,
+        "entry": "t'ib\u03b1",
+        "id": 260642,
+        "language": "/api/v1/language/kamang-pido-2/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260642/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-10T02:03:26.981517",
         "annotation": "",
         "entry": "tib'\u03b1",
@@ -1138,18 +1210,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
-    },
-    {
-        "added": "2013-11-10T02:03:27.162239",
-        "annotation": "fat",
-        "entry": "t'ib\u03b1/s\u012dr'i",
-        "id": 38002,
-        "language": "/api/v1/language/kamang-pido-2/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/38002/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
-        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T02:03:27.266331",
@@ -1368,16 +1428,28 @@
         "word": "/api/v1/word/island/"
     },
     {
-        "added": "2013-11-10T02:03:26.730778",
-        "annotation": "",
-        "entry": "\u0294\u03b1t'\u0254k lap''a\u014b/b'uk lap'a\u014b",
-        "id": 37963,
+        "added": "2019-03-19T04:16:30.049730",
+        "annotation": null,
+        "entry": "\u0294\u03b1t'\u0254k lap''a\u014b",
+        "id": 260632,
         "language": "/api/v1/language/kamang-pido-2/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37963/",
+        "resource_uri": "/api/v1/lexicon/260632/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.213662",
+        "annotation": null,
+        "entry": "\u03b1t'umar\u03b1",
+        "id": 260641,
+        "language": "/api/v1/language/kamang-pido-2/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260641/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/star/"
     },
     {
         "added": "2013-11-10T02:03:26.973076",

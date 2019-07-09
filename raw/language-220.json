@@ -564,18 +564,6 @@
         "word": "/api/v1/word/sweet-potato/"
     },
     {
-        "added": "2014-04-14T07:57:45.201714",
-        "annotation": "",
-        "entry": "*i-",
-        "id": 92428,
-        "language": "/api/v1/language/proto-koiarian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/92428/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2013-05-27T07:04:04.399647",
         "annotation": "",
         "entry": "*i-",
@@ -586,6 +574,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat-drink/"
+    },
+    {
+        "added": "2014-04-14T07:57:45.201714",
+        "annotation": "",
+        "entry": "*i-",
+        "id": 92428,
+        "language": "/api/v1/language/proto-koiarian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/92428/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-05-27T07:04:04.440329",
@@ -876,18 +876,6 @@
         "word": "/api/v1/word/if/"
     },
     {
-        "added": "2013-05-27T07:04:09.773501",
-        "annotation": "",
-        "entry": "*ni",
-        "id": 15161,
-        "language": "/api/v1/language/proto-koiarian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15161/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2013-05-27T07:04:09.438938",
         "annotation": "",
         "entry": "*ni",
@@ -898,6 +886,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/for-benefactive-clitic/"
+    },
+    {
+        "added": "2013-05-27T07:04:09.773501",
+        "annotation": "",
+        "entry": "*ni",
+        "id": 15161,
+        "language": "/api/v1/language/proto-koiarian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15161/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2013-05-27T07:04:10.487540",
@@ -986,7 +986,7 @@
     {
         "added": "2013-05-27T07:04:11.036935",
         "annotation": "",
-        "entry": "*ra\u0263(\u00ed, e)-",
+        "entry": "*ra\u0263(\u00ed,e)-",
         "id": 15215,
         "language": "/api/v1/language/proto-koiarian/",
         "loan": false,
@@ -1116,18 +1116,6 @@
         "word": "/api/v1/word/cassowary/"
     },
     {
-        "added": "2013-05-27T07:04:12.808550",
-        "annotation": "",
-        "entry": "*tumu-",
-        "id": 15307,
-        "language": "/api/v1/language/proto-koiarian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15307/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-tie/"
-    },
-    {
         "added": "2013-05-27T07:04:12.721286",
         "annotation": "",
         "entry": "*tumu-",
@@ -1138,6 +1126,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/to-scratch/"
+    },
+    {
+        "added": "2013-05-27T07:04:12.808550",
+        "annotation": "",
+        "entry": "*tumu-",
+        "id": 15307,
+        "language": "/api/v1/language/proto-koiarian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15307/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-tie/"
     },
     {
         "added": "2013-05-27T07:04:12.958016",
@@ -1176,18 +1176,6 @@
         "word": "/api/v1/word/lime/"
     },
     {
-        "added": "2013-05-27T07:04:13.514181",
-        "annotation": "",
-        "entry": "*ufu-",
-        "id": 15329,
-        "language": "/api/v1/language/proto-koiarian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15329/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-blow/"
-    },
-    {
         "added": "2013-05-27T07:04:00.475315",
         "annotation": "",
         "entry": "*ufu-",
@@ -1198,6 +1186,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/pl-suffix-on-kinship-nouns/"
+    },
+    {
+        "added": "2013-05-27T07:04:13.514181",
+        "annotation": "",
+        "entry": "*ufu-",
+        "id": 15329,
+        "language": "/api/v1/language/proto-koiarian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15329/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-blow/"
     },
     {
         "added": "2013-05-27T07:04:13.174383",

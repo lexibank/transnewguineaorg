@@ -72,6 +72,18 @@
         "word": "/api/v1/word/pig/"
     },
     {
+        "added": "2019-03-19T04:16:31.449715",
+        "annotation": null,
+        "entry": "b'\u0254\u0294\u0254",
+        "id": 260691,
+        "language": "/api/v1/language/nedebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260691/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/meat/"
+    },
+    {
         "added": "2013-11-10T04:28:01.660913",
         "annotation": "",
         "entry": "b'un\u03b1",
@@ -144,13 +156,13 @@
         "word": "/api/v1/word/the-snake-sees-me/"
     },
     {
-        "added": "2013-11-10T04:28:01.479816",
-        "annotation": "",
-        "entry": "d'\u03b1x\u0269\u014b/b'\u0254\u0294\u0254",
-        "id": 38829,
+        "added": "2019-03-19T04:16:31.437200",
+        "annotation": null,
+        "entry": "d'\u03b1x\u0269\u014b",
+        "id": 260690,
         "language": "/api/v1/language/nedebang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38829/",
+        "resource_uri": "/api/v1/lexicon/260690/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/meat/"
@@ -182,7 +194,7 @@
     {
         "added": "2013-11-10T04:28:01.244427",
         "annotation": "",
-        "entry": "g;iy\u03b1",
+        "entry": "g'iy\u03b1",
         "id": 38821,
         "language": "/api/v1/language/nedebang/",
         "loan": false,
@@ -190,6 +202,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-go/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.529691",
+        "annotation": null,
+        "entry": "g\u03b1qw'at\u03b1",
+        "id": 260695,
+        "language": "/api/v1/language/nedebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260695/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T04:28:01.587166",
@@ -254,7 +278,7 @@
     {
         "added": "2013-11-10T04:28:01.186857",
         "annotation": "",
-        "entry": "h;illa\u0294",
+        "entry": "h'illa\u0294",
         "id": 38817,
         "language": "/api/v1/language/nedebang/",
         "loan": false,
@@ -300,13 +324,25 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2013-11-10T04:28:01.530647",
-        "annotation": "",
-        "entry": "ilqx'an/''ilaqx'an\u03b1",
-        "id": 38832,
+        "added": "2019-03-19T04:16:31.617014",
+        "annotation": null,
+        "entry": "''ilaqx'an\u03b1",
+        "id": 260700,
         "language": "/api/v1/language/nedebang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38832/",
+        "resource_uri": "/api/v1/lexicon/260700/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.604998",
+        "annotation": null,
+        "entry": "ilqx'an",
+        "id": 260699,
+        "language": "/api/v1/language/nedebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260699/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/night/"
@@ -600,13 +636,25 @@
         "word": "/api/v1/word/body/"
     },
     {
-        "added": "2013-11-10T04:28:00.117623",
-        "annotation": "",
-        "entry": "n\u025b-'\u025b\u014bwak-/n\u025b-\u025b\u014bw'aka",
-        "id": 38759,
+        "added": "2019-03-19T04:16:31.475557",
+        "annotation": null,
+        "entry": "n\u025b-'\u025b\u014bwak-",
+        "id": 260692,
         "language": "/api/v1/language/nedebang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38759/",
+        "resource_uri": "/api/v1/lexicon/260692/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.491755",
+        "annotation": null,
+        "entry": "n\u025b-\u025b\u014bw'aka",
+        "id": 260693,
+        "language": "/api/v1/language/nedebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260693/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
@@ -960,6 +1008,30 @@
         "word": "/api/v1/word/oral-cavity/"
     },
     {
+        "added": "2019-03-19T04:16:31.566115",
+        "annotation": null,
+        "entry": "p\u025bf'\u025b\u0294\u025b",
+        "id": 260697,
+        "language": "/api/v1/language/nedebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260697/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.578229",
+        "annotation": null,
+        "entry": "qxw'ak\u03b1",
+        "id": 260698,
+        "language": "/api/v1/language/nedebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260698/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
+    },
+    {
         "added": "2013-11-10T04:28:00.999457",
         "annotation": "",
         "entry": "qx'\u03b1n\u03b1",
@@ -1032,13 +1104,13 @@
         "word": "/api/v1/word/new/"
     },
     {
-        "added": "2013-11-10T04:28:01.634299",
-        "annotation": "",
-        "entry": "s'amm\u03b1/p\u025bf'\u025b\u0294\u025b/qxw'ak\u03b1",
-        "id": 38838,
+        "added": "2019-03-19T04:16:31.553519",
+        "annotation": null,
+        "entry": "s'amm\u03b1",
+        "id": 260696,
         "language": "/api/v1/language/nedebang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38838/",
+        "resource_uri": "/api/v1/lexicon/260696/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
@@ -1308,6 +1380,18 @@
         "word": "/api/v1/word/road/"
     },
     {
+        "added": "2019-03-19T04:16:31.515083",
+        "annotation": null,
+        "entry": "'\u03b1d\u03b1",
+        "id": 260694,
+        "language": "/api/v1/language/nedebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260694/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-10T04:28:00.991701",
         "annotation": "",
         "entry": "'\u03b1d\u03b1",
@@ -1318,18 +1402,6 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
-    },
-    {
-        "added": "2013-11-10T04:28:01.327094",
-        "annotation": "fat",
-        "entry": "'\u03b1d\u03b1/g\u03b1qw'at\u03b1",
-        "id": 38823,
-        "language": "/api/v1/language/nedebang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/38823/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
-        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T04:28:00.324182",

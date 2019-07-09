@@ -228,18 +228,6 @@
         "word": "/api/v1/word/new/"
     },
     {
-        "added": "2013-10-27T05:48:23.679407",
-        "annotation": "",
-        "entry": "f'\u0254k\u03b1",
-        "id": 34156,
-        "language": "/api/v1/language/abui-makadai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/34156/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/big/"
-    },
-    {
         "added": "2013-10-27T05:48:23.816937",
         "annotation": "fat",
         "entry": "f'\u0254k\u03b1",
@@ -250,6 +238,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": "fat",
         "word": "/api/v1/word/fat/"
+    },
+    {
+        "added": "2013-10-27T05:48:23.679407",
+        "annotation": "",
+        "entry": "f'\u0254k\u03b1",
+        "id": 34156,
+        "language": "/api/v1/language/abui-makadai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/34156/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/big/"
     },
     {
         "added": "2013-10-27T05:48:23.778176",
@@ -936,13 +936,25 @@
         "word": "/api/v1/word/stomach/"
     },
     {
-        "added": "2013-10-27T05:48:23.110252",
-        "annotation": "",
-        "entry": "n\u03b1w'\u025bt-, n\u03b1w'\u025bti",
-        "id": 34097,
+        "added": "2019-03-19T04:12:13.454274",
+        "annotation": null,
+        "entry": "n\u03b1w'\u025bt-",
+        "id": 260522,
         "language": "/api/v1/language/abui-makadai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/34097/",
+        "resource_uri": "/api/v1/lexicon/260522/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2019-03-19T04:12:13.554605",
+        "annotation": null,
+        "entry": "n\u03b1w'\u025bti",
+        "id": 260523,
+        "language": "/api/v1/language/abui-makadai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260523/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
@@ -1224,13 +1236,25 @@
         "word": "/api/v1/word/fruit/"
     },
     {
-        "added": "2013-10-27T05:48:23.421886",
-        "annotation": "",
-        "entry": "\u016dw'\u00e6r, \u016dw'\u03b1ri",
-        "id": 34129,
+        "added": "2019-03-19T04:12:13.590668",
+        "annotation": null,
+        "entry": "\u016dw'\u00e6r",
+        "id": 260524,
         "language": "/api/v1/language/abui-makadai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/34129/",
+        "resource_uri": "/api/v1/lexicon/260524/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2019-03-19T04:12:13.608109",
+        "annotation": null,
+        "entry": "\u016dw'\u03b1ri",
+        "id": 260525,
+        "language": "/api/v1/language/abui-makadai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260525/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/sun/"

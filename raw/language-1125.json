@@ -132,18 +132,6 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2015-05-03T18:39:25.440716",
-        "annotation": "",
-        "entry": "*a\u014ba(m,p)",
-        "id": 212785,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212785/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": null,
-        "word": "/api/v1/word/chicken-tame/"
-    },
-    {
         "added": "2015-05-02T10:00:51.760169",
         "annotation": "",
         "entry": "*a\u014ba(m,p)",
@@ -154,6 +142,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
         "word": "/api/v1/word/chicken/"
+    },
+    {
+        "added": "2015-05-03T18:39:25.440716",
+        "annotation": "",
+        "entry": "*a\u014ba(m,p)",
+        "id": 212785,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212785/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": null,
+        "word": "/api/v1/word/chicken-tame/"
     },
     {
         "added": "2015-05-02T10:35:53.438338",
@@ -648,18 +648,6 @@
         "word": "/api/v1/word/skirt/"
     },
     {
-        "added": "2015-05-03T08:15:17.969126",
-        "annotation": "",
-        "entry": "*kakV-tama",
-        "id": 212779,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212779/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-fasten/"
-    },
-    {
         "added": "2015-05-03T08:15:17.956741",
         "annotation": "",
         "entry": "*kakV-tama",
@@ -670,6 +658,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
         "word": "/api/v1/word/to-tie/"
+    },
+    {
+        "added": "2015-05-03T08:15:17.969126",
+        "annotation": "",
+        "entry": "*kakV-tama",
+        "id": 212779,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212779/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-fasten/"
     },
     {
         "added": "2015-03-19T07:04:57.943395",
@@ -1105,8 +1105,8 @@
     },
     {
         "added": "2015-03-19T07:04:59.375897",
-        "annotation": null,
-        "entry": "*k-/s- ?",
+        "annotation": "?",
+        "entry": "*(k,s)-",
         "id": 207949,
         "language": "/api/v1/language/proto-south-adelbert/",
         "loan": false,
@@ -1644,18 +1644,6 @@
         "word": "/api/v1/word/one/"
     },
     {
-        "added": "2015-03-19T07:05:00.464781",
-        "annotation": null,
-        "entry": "*mira",
-        "id": 208309,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/208309/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "light (of fire)",
-        "word": "/api/v1/word/firelight/"
-    },
-    {
         "added": "2015-05-03T04:57:46.190724",
         "annotation": "",
         "entry": "*mira",
@@ -1666,6 +1654,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
         "word": "/api/v1/word/light/"
+    },
+    {
+        "added": "2015-03-19T07:05:00.464781",
+        "annotation": null,
+        "entry": "*mira",
+        "id": 208309,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208309/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "light (of fire)",
+        "word": "/api/v1/word/firelight/"
     },
     {
         "added": "2015-05-02T20:55:03.818498",
@@ -1788,18 +1788,6 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2015-05-03T18:22:33.842725",
-        "annotation": "",
-        "entry": "*mu\u014ba",
-        "id": 209669,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/209669/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "take",
-        "word": "/api/v1/word/to-take/"
-    },
-    {
         "added": "2015-05-03T05:21:38.063962",
         "annotation": "",
         "entry": "*mu\u014ba",
@@ -1822,6 +1810,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
         "word": "/api/v1/word/to-hold/"
+    },
+    {
+        "added": "2015-05-03T18:22:33.842725",
+        "annotation": "",
+        "entry": "*mu\u014ba",
+        "id": 209669,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209669/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "take",
+        "word": "/api/v1/word/to-take/"
     },
     {
         "added": "2015-05-03T06:51:44.530573",

@@ -60,13 +60,13 @@
         "word": "/api/v1/word/house/"
     },
     {
-        "added": "2013-11-10T03:42:10.924259",
-        "annotation": "",
-        "entry": "bil/r'ak\u0103r",
-        "id": 38719,
+        "added": "2019-03-19T04:10:46.768690",
+        "annotation": null,
+        "entry": "bil",
+        "id": 260508,
         "language": "/api/v1/language/teiwa-deing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38719/",
+        "resource_uri": "/api/v1/lexicon/260508/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-see/"
@@ -166,6 +166,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-rain/"
+    },
+    {
+        "added": "2019-03-19T04:10:46.702930",
+        "annotation": null,
+        "entry": "har'\u03b1",
+        "id": 260507,
+        "language": "/api/v1/language/teiwa-deing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260507/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
     },
     {
         "added": "2013-11-10T03:42:10.895682",
@@ -310,6 +322,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/cold/"
+    },
+    {
+        "added": "2019-03-19T04:10:46.858683",
+        "annotation": null,
+        "entry": "k'\u03b1ut",
+        "id": 260511,
+        "language": "/api/v1/language/teiwa-deing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260511/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T03:42:10.237104",
@@ -984,16 +1008,28 @@
         "word": "/api/v1/word/twenty/"
     },
     {
-        "added": "2013-11-10T03:42:10.440355",
-        "annotation": "",
-        "entry": "rahb'ax/har'\u03b1",
-        "id": 38668,
+        "added": "2019-03-19T04:10:46.597629",
+        "annotation": null,
+        "entry": "rahb'ax",
+        "id": 260506,
         "language": "/api/v1/language/teiwa-deing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38668/",
+        "resource_uri": "/api/v1/lexicon/260506/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:10:46.788646",
+        "annotation": null,
+        "entry": "r'ak\u0103r",
+        "id": 260509,
+        "language": "/api/v1/language/teiwa-deing/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260509/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
     },
     {
         "added": "2013-11-10T03:42:10.495966",
@@ -1236,15 +1272,15 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2013-11-10T03:42:10.796502",
-        "annotation": "fat",
-        "entry": "'uuwad./k'\u03b1ut",
-        "id": 38705,
+        "added": "2019-03-19T04:10:46.838644",
+        "annotation": null,
+        "entry": "'uuwad.",
+        "id": 260510,
         "language": "/api/v1/language/teiwa-deing/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38705/",
+        "resource_uri": "/api/v1/lexicon/260510/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {

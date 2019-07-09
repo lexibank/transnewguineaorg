@@ -1,5 +1,29 @@
 [
     {
+        "added": "2019-03-19T04:20:00.875805",
+        "annotation": null,
+        "entry": "ab",
+        "id": 260732,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260732/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2019-03-19T04:20:00.746405",
+        "annotation": null,
+        "entry": "ab",
+        "id": 260730,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260730/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
+    },
+    {
         "added": "2013-11-10T01:20:56.865562",
         "annotation": "",
         "entry": "a\u01f0'ur",
@@ -48,13 +72,25 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2013-11-10T01:20:56.590227",
-        "annotation": "",
-        "entry": "ar'akyet\u03b1/ar'ak",
-        "id": 37730,
+        "added": "2019-03-19T04:16:30.724049",
+        "annotation": null,
+        "entry": "ar'ak",
+        "id": 260663,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37730/",
+        "resource_uri": "/api/v1/lexicon/260663/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.689665",
+        "annotation": null,
+        "entry": "ar'akyet\u03b1",
+        "id": 260662,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260662/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -132,16 +168,16 @@
         "word": "/api/v1/word/animal/"
     },
     {
-        "added": "2013-11-10T01:20:57.279652",
-        "annotation": "",
-        "entry": "b,\u0269r",
-        "id": 37785,
+        "added": "2019-03-19T04:16:30.409267",
+        "annotation": null,
+        "entry": "biy'\u03b1k\u03b1",
+        "id": 260651,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37785/",
+        "resource_uri": "/api/v1/lexicon/260651/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
-        "word": "/api/v1/word/star/"
+        "word": "/api/v1/word/new/"
     },
     {
         "added": "2013-11-10T01:20:57.018246",
@@ -180,15 +216,15 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2013-11-10T01:20:57.070806",
-        "annotation": "fat",
-        "entry": "b'\u03b1tt\u03b1/tam'\u03b1d\u03b1",
-        "id": 37767,
+        "added": "2019-03-19T04:16:30.563022",
+        "annotation": null,
+        "entry": "b'\u03b1tt\u03b1",
+        "id": 260658,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37767/",
+        "resource_uri": "/api/v1/lexicon/260658/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -214,6 +250,30 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2019-03-19T04:20:00.889327",
+        "annotation": null,
+        "entry": "'\u025br",
+        "id": 260733,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260733/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2019-03-19T04:20:00.844728",
+        "annotation": null,
+        "entry": "'\u025br",
+        "id": 260731,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260731/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
     },
     {
         "added": "2013-11-10T01:20:56.222218",
@@ -300,13 +360,25 @@
         "word": "/api/v1/word/nail/"
     },
     {
-        "added": "2013-11-10T01:20:56.953755",
-        "annotation": "",
-        "entry": "k\u03b1b, 'uk\u03b1",
-        "id": 37756,
+        "added": "2019-03-19T04:16:30.489695",
+        "annotation": null,
+        "entry": "kuy",
+        "id": 260655,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37756/",
+        "resource_uri": "/api/v1/lexicon/260655/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.688531",
+        "annotation": null,
+        "entry": "k\u03b1b",
+        "id": 260703,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260703/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/cold/"
@@ -336,13 +408,13 @@
         "word": "/api/v1/word/twenty/"
     },
     {
-        "added": "2013-11-10T01:20:56.979204",
-        "annotation": "",
-        "entry": "k\u03b1y/kuy",
-        "id": 37759,
+        "added": "2019-03-19T04:16:30.475868",
+        "annotation": null,
+        "entry": "k\u03b1y",
+        "id": 260654,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37759/",
+        "resource_uri": "/api/v1/lexicon/260654/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
@@ -408,13 +480,25 @@
         "word": "/api/v1/word/road/"
     },
     {
-        "added": "2013-11-10T01:20:56.961272",
-        "annotation": "",
-        "entry": "may/m\u025b\u0294",
-        "id": 37757,
+        "added": "2019-03-19T04:16:30.605796",
+        "annotation": null,
+        "entry": "may",
+        "id": 260660,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37757/",
+        "resource_uri": "/api/v1/lexicon/260660/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.617982",
+        "annotation": null,
+        "entry": "m\u025b\u0294",
+        "id": 260661,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260661/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-come/"
@@ -504,6 +588,18 @@
         "word": "/api/v1/word/meat/"
     },
     {
+        "added": "2019-03-19T04:16:30.449618",
+        "annotation": null,
+        "entry": "nar''eyp\u03b1s",
+        "id": 260653,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260653/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/lips/"
+    },
+    {
         "added": "2013-11-10T01:20:55.941416",
         "annotation": "",
         "entry": "naw'att\u03b1",
@@ -516,16 +612,28 @@
         "word": "/api/v1/word/neck/"
     },
     {
-        "added": "2013-11-10T01:20:55.806970",
-        "annotation": "",
-        "entry": "naw''\u03b1p\u03b1s'\u0254/nar''eyp\u03b1s",
-        "id": 37687,
+        "added": "2019-03-19T04:16:30.435614",
+        "annotation": null,
+        "entry": "naw''\u03b1p\u03b1s'\u0254",
+        "id": 260652,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37687/",
+        "resource_uri": "/api/v1/lexicon/260652/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/lips/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.777753",
+        "annotation": null,
+        "entry": "n\u025b\u0294",
+        "id": 260665,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260665/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
     },
     {
         "added": "2013-11-10T01:20:55.717733",
@@ -732,18 +840,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2013-11-10T01:20:56.672524",
-        "annotation": "",
-        "entry": "n'uku",
-        "id": 37736,
-        "language": "/api/v1/language/kui-kiramang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37736/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/one/"
-    },
-    {
         "added": "2013-11-10T01:20:56.284634",
         "annotation": "",
         "entry": "n'uku",
@@ -754,6 +850,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/friend/"
+    },
+    {
+        "added": "2013-11-10T01:20:56.672524",
+        "annotation": "",
+        "entry": "n'uku",
+        "id": 37736,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/37736/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
     },
     {
         "added": "2013-11-10T01:20:56.621092",
@@ -768,13 +876,25 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
-        "added": "2013-11-10T01:20:56.022453",
-        "annotation": "",
-        "entry": "n\u03b1b\u0294'\u0269t-/n\u03b1b\u0294'\u0269ti",
-        "id": 37697,
+        "added": "2019-03-19T04:16:30.515770",
+        "annotation": null,
+        "entry": "n\u03b1b\u0294'\u0269t-",
+        "id": 260656,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37697/",
+        "resource_uri": "/api/v1/lexicon/260656/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stomach/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.535447",
+        "annotation": null,
+        "entry": "n\u03b1b\u0294'\u0269ti",
+        "id": 260657,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260657/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/stomach/"
@@ -1056,13 +1176,25 @@
         "word": "/api/v1/word/house/"
     },
     {
-        "added": "2013-11-10T01:20:57.212039",
+        "added": "2013-11-10T01:20:57.279652",
         "annotation": "",
-        "entry": "re\u0294/n\u025b\u0294",
-        "id": 37781,
+        "entry": "\u1d80\u0269r",
+        "id": 37785,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37781/",
+        "resource_uri": "/api/v1/lexicon/37785/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.758365",
+        "annotation": null,
+        "entry": "re\u0294",
+        "id": 260664,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260664/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-see/"
@@ -1092,13 +1224,13 @@
         "word": "/api/v1/word/chicken/"
     },
     {
-        "added": "2013-11-10T01:20:57.151029",
-        "annotation": "",
-        "entry": "sib'\u025b\u0294/biy'\u03b1k\u03b1",
-        "id": 37775,
+        "added": "2019-03-19T04:16:30.395007",
+        "annotation": null,
+        "entry": "sib'\u025b\u0294",
+        "id": 260650,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37775/",
+        "resource_uri": "/api/v1/lexicon/260650/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/new/"
@@ -1128,13 +1260,25 @@
         "word": "/api/v1/word/wind/"
     },
     {
-        "added": "2013-11-10T01:20:57.159258",
-        "annotation": "",
-        "entry": "s'insam\u03b1/ab, '\u025br",
-        "id": 37776,
+        "added": "2019-03-19T04:16:31.729213",
+        "annotation": null,
+        "entry": "s'insam\u03b1",
+        "id": 260705,
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/37776/",
+        "resource_uri": "/api/v1/lexicon/260705/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.828506",
+        "annotation": null,
+        "entry": "s'insam\u03b1",
+        "id": 260666,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260666/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/night/"
@@ -1162,6 +1306,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/dry/"
+    },
+    {
+        "added": "2019-03-19T04:16:30.576577",
+        "annotation": null,
+        "entry": "tam'\u03b1d\u03b1",
+        "id": 260659,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260659/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T01:20:56.654037",
@@ -1234,6 +1390,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/island/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.704609",
+        "annotation": null,
+        "entry": "'uk\u03b1",
+        "id": 260704,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260704/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cold/"
     },
     {
         "added": "2013-11-10T01:20:56.529818",

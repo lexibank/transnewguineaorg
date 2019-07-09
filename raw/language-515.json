@@ -144,6 +144,18 @@
         "word": "/api/v1/word/white/"
     },
     {
+        "added": "2019-03-19T04:16:29.367804",
+        "annotation": null,
+        "entry": "bli",
+        "id": 260601,
+        "language": "/api/v1/language/kamang-langkuru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260601/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2013-11-10T03:24:13.825681",
         "annotation": "",
         "entry": "b'\u0254kk\u0254n",
@@ -300,27 +312,39 @@
         "word": "/api/v1/word/snake/"
     },
     {
-        "added": "2013-11-10T03:24:13.889934",
-        "annotation": "",
-        "entry": "gum'\u025b g\u025bn'\u025btik-/gum'\u025b n\u03b1t'ik-",
-        "id": 38611,
+        "added": "2019-03-19T04:16:29.293770",
+        "annotation": null,
+        "entry": "gum'\u025b g\u025bn'\u025btik-",
+        "id": 260598,
         "language": "/api/v1/language/kamang-langkuru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38611/",
+        "resource_uri": "/api/v1/lexicon/260598/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/the-snake-sees-me/"
     },
     {
-        "added": "2013-11-10T03:24:13.700133",
-        "annotation": "fat",
-        "entry": "g\u03b1s'ay ka\u014b/bli",
-        "id": 38588,
+        "added": "2019-03-19T04:16:29.321934",
+        "annotation": null,
+        "entry": "gum'\u025b n\u03b1t'ik-",
+        "id": 260599,
         "language": "/api/v1/language/kamang-langkuru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38588/",
+        "resource_uri": "/api/v1/lexicon/260599/",
         "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
+        "source_gloss": null,
+        "word": "/api/v1/word/the-snake-sees-me/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.352034",
+        "annotation": null,
+        "entry": "g\u03b1s'ay ka\u014b",
+        "id": 260600,
+        "language": "/api/v1/language/kamang-langkuru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260600/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
         "word": "/api/v1/word/fat/"
     },
     {
@@ -636,13 +660,13 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2013-11-10T03:24:12.947581",
-        "annotation": "",
-        "entry": "n\u2019'\u025bmi/ny'\u00e6mi",
-        "id": 38517,
+        "added": "2019-03-19T04:16:29.201277",
+        "annotation": null,
+        "entry": "n\u2019'\u025bmi",
+        "id": 260594,
         "language": "/api/v1/language/kamang-langkuru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38517/",
+        "resource_uri": "/api/v1/lexicon/260594/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/breast/"
@@ -768,18 +792,6 @@
         "word": "/api/v1/word/stomach/"
     },
     {
-        "added": "2013-11-10T03:24:11.269408",
-        "annotation": "",
-        "entry": "nih",
-        "id": 38496,
-        "language": "/api/v1/language/kamang-langkuru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/38496/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/body/"
-    },
-    {
         "added": "2013-11-10T03:24:13.364802",
         "annotation": "",
         "entry": "nih",
@@ -790,6 +802,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2013-11-10T03:24:11.269408",
+        "annotation": "",
+        "entry": "nih",
+        "id": 38496,
+        "language": "/api/v1/language/kamang-langkuru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/38496/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/body/"
     },
     {
         "added": "2013-11-10T03:24:13.101217",
@@ -814,6 +838,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.221112",
+        "annotation": null,
+        "entry": "ny'\u00e6mi",
+        "id": 260595,
+        "language": "/api/v1/language/kamang-langkuru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260595/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/breast/"
     },
     {
         "added": "2013-11-10T03:24:12.980150",
@@ -1080,13 +1116,25 @@
         "word": "/api/v1/word/thousand/"
     },
     {
-        "added": "2013-11-10T03:24:13.332535",
-        "annotation": "",
-        "entry": "r\u03b1b'\u025bt\u025b/r\u03b1f'utt\u03b1",
-        "id": 38551,
+        "added": "2019-03-19T04:16:29.252489",
+        "annotation": null,
+        "entry": "r\u03b1b'\u025bt\u025b",
+        "id": 260596,
         "language": "/api/v1/language/kamang-langkuru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38551/",
+        "resource_uri": "/api/v1/lexicon/260596/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rice/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.265474",
+        "annotation": null,
+        "entry": "r\u03b1f'utt\u03b1",
+        "id": 260597,
+        "language": "/api/v1/language/kamang-langkuru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260597/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/rice/"
@@ -1200,13 +1248,25 @@
         "word": "/api/v1/word/to-come/"
     },
     {
-        "added": "2013-11-10T03:24:13.413534",
-        "annotation": "",
-        "entry": "tar'i/tad'i",
-        "id": 38555,
+        "added": "2019-03-19T04:16:29.171609",
+        "annotation": null,
+        "entry": "tad'i",
+        "id": 260593,
         "language": "/api/v1/language/kamang-langkuru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/38555/",
+        "resource_uri": "/api/v1/lexicon/260593/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2019-03-19T04:16:29.142540",
+        "annotation": null,
+        "entry": "tar'i",
+        "id": 260592,
+        "language": "/api/v1/language/kamang-langkuru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260592/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
