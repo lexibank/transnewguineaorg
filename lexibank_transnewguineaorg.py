@@ -1,9 +1,8 @@
 import unicodedata
 from datetime import datetime
 from os import remove
+from pathlib import Path
 
-from clldutils.path import Path
-from clldutils.text import strip_brackets
 from pybtex.database import parse_string  # dependency of pycldf, so should be installed.
 from pybtex.utils import OrderedCaseInsensitiveDict
 from pylexibank.dataset import Dataset as BaseDataset
