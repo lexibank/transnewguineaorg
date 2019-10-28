@@ -18,7 +18,8 @@ Available online at http://transnewguinea.org
 
 - **Varieties:** 1,011
 - **Concepts:** 1,210
-- **Lexemes:** 145,686
+- **Lexemes:** 145,761
+- **Sources:** 148
 - **Synonymy:** 1.15
 
 ## Possible Improvements:

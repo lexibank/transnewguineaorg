@@ -732,18 +732,6 @@
         "word": "/api/v1/word/ear/"
     },
     {
-        "added": "2014-04-10T20:22:29.565491",
-        "annotation": "thou",
-        "entry": "gi",
-        "id": 90471,
-        "language": "/api/v1/language/kube/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90471/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "thou",
-        "word": "/api/v1/word/thou/"
-    },
-    {
         "added": "2014-07-30T23:28:44.860455",
         "annotation": null,
         "entry": "gi",
@@ -754,6 +742,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "you",
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2014-04-10T20:22:29.565491",
+        "annotation": "thou",
+        "entry": "gi",
+        "id": 90471,
+        "language": "/api/v1/language/kube/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90471/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "thou",
+        "word": "/api/v1/word/thou/"
     },
     {
         "added": "2014-04-10T20:22:31.976660",
@@ -912,18 +912,6 @@
         "word": "/api/v1/word/smoke/"
     },
     {
-        "added": "2014-07-30T23:28:44.055474",
-        "annotation": null,
-        "entry": "homa",
-        "id": 159835,
-        "language": "/api/v1/language/kube/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159835/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "ashes",
-        "word": "/api/v1/word/ashes/"
-    },
-    {
         "added": "2014-04-10T20:22:31.803700",
         "annotation": "ashes",
         "entry": "homa",
@@ -932,6 +920,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/91325/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2014-07-30T23:28:44.055474",
+        "annotation": null,
+        "entry": "homa",
+        "id": 159835,
+        "language": "/api/v1/language/kube/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159835/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "ashes",
         "word": "/api/v1/word/ashes/"
     },
@@ -1008,6 +1008,18 @@
         "word": "/api/v1/word/he-she/"
     },
     {
+        "added": "2014-07-30T23:28:39.591919",
+        "annotation": null,
+        "entry": "i",
+        "id": 158411,
+        "language": "/api/v1/language/kube/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/158411/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "he-she",
+        "word": "/api/v1/word/he-she/"
+    },
+    {
         "added": "2014-04-10T20:22:29.747030",
         "annotation": "this",
         "entry": "i",
@@ -1032,18 +1044,6 @@
         "word": "/api/v1/word/you-pl/"
     },
     {
-        "added": "2014-07-30T23:28:39.591919",
-        "annotation": null,
-        "entry": "i",
-        "id": 158411,
-        "language": "/api/v1/language/kube/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/158411/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "he-she",
-        "word": "/api/v1/word/he-she/"
-    },
-    {
         "added": "2014-04-10T20:22:33.106655",
         "annotation": "(he) pushes",
         "entry": "igokge-",
@@ -1056,18 +1056,6 @@
         "word": "/api/v1/word/to-push/"
     },
     {
-        "added": "2014-04-10T20:22:32.187341",
-        "annotation": "man",
-        "entry": "ik",
-        "id": 91479,
-        "language": "/api/v1/language/kube/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91479/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "man",
-        "word": "/api/v1/word/man/"
-    },
-    {
         "added": "2014-04-10T20:22:31.908423",
         "annotation": "tree",
         "entry": "ik",
@@ -1078,6 +1066,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "tree",
         "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.187341",
+        "annotation": "man",
+        "entry": "ik",
+        "id": 91479,
+        "language": "/api/v1/language/kube/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91479/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "man",
+        "word": "/api/v1/word/man/"
     },
     {
         "added": "2014-04-10T20:22:32.049180",
@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
-        "added": "2014-07-30T23:28:42.740939",
-        "annotation": null,
-        "entry": "kia",
-        "id": 159411,
-        "language": "/api/v1/language/kube/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159411/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-04-10T20:22:30.576186",
         "annotation": "rain",
         "entry": "kia",
@@ -1232,6 +1220,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/90863/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-07-30T23:28:42.740939",
+        "annotation": null,
+        "entry": "kia",
+        "id": 159411,
+        "language": "/api/v1/language/kube/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159411/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -1728,18 +1728,6 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2014-07-30T23:28:36.853169",
-        "annotation": null,
-        "entry": "ni",
-        "id": 157563,
-        "language": "/api/v1/language/kube/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157563/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "we",
-        "word": "/api/v1/word/we/"
-    },
-    {
         "added": "2014-04-10T20:22:29.528302",
         "annotation": "I",
         "entry": "ni",
@@ -1762,6 +1750,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "i",
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2014-07-30T23:28:36.853169",
+        "annotation": null,
+        "entry": "ni",
+        "id": 157563,
+        "language": "/api/v1/language/kube/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157563/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "we",
+        "word": "/api/v1/word/we/"
     },
     {
         "added": "2014-04-10T20:22:30.859180",

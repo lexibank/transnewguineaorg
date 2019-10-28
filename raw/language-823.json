@@ -84,18 +84,6 @@
         "word": "/api/v1/word/to-pull/"
     },
     {
-        "added": "2014-04-10T20:22:31.291506",
-        "annotation": "(it is) dry",
-        "entry": "\u00e2r\u00e2\u014bg\u00e2-",
-        "id": 91141,
-        "language": "/api/v1/language/burum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91141/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(it is) dry",
-        "word": "/api/v1/word/dry/"
-    },
-    {
         "added": "2014-04-10T20:22:33.207725",
         "annotation": "(he) cuts",
         "entry": "\u00e2r\u00e2\u014bg\u00e2-",
@@ -106,6 +94,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(he) cuts",
         "word": "/api/v1/word/to-cut/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.291506",
+        "annotation": "(it is) dry",
+        "entry": "\u00e2r\u00e2\u014bg\u00e2-",
+        "id": 91141,
+        "language": "/api/v1/language/burum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91141/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(it is) dry",
+        "word": "/api/v1/word/dry/"
     },
     {
         "added": "2014-04-10T20:22:32.182459",
@@ -672,18 +672,6 @@
         "word": "/api/v1/word/to-fall/"
     },
     {
-        "added": "2014-07-30T23:28:41.619723",
-        "annotation": null,
-        "entry": "i",
-        "id": 159053,
-        "language": "/api/v1/language/burum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159053/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "you-pl",
-        "word": "/api/v1/word/you-pl/"
-    },
-    {
         "added": "2014-04-10T20:22:32.612377",
         "annotation": "he",
         "entry": "i",
@@ -708,16 +696,16 @@
         "word": "/api/v1/word/he-she/"
     },
     {
-        "added": "2014-04-10T20:22:32.044231",
-        "annotation": "louse",
-        "entry": "imin",
-        "id": 91421,
+        "added": "2014-07-30T23:28:41.619723",
+        "annotation": null,
+        "entry": "i",
+        "id": 159053,
         "language": "/api/v1/language/burum/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/91421/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
+        "resource_uri": "/api/v1/lexicon/159053/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "you-pl",
+        "word": "/api/v1/word/you-pl/"
     },
     {
         "added": "2014-07-30T23:28:40.936371",
@@ -728,6 +716,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/158838/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.044231",
+        "annotation": "louse",
+        "entry": "imin",
+        "id": 91421,
+        "language": "/api/v1/language/burum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91421/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "louse",
         "word": "/api/v1/word/louse/"
     },
@@ -972,18 +972,6 @@
         "word": "/api/v1/word/seed/"
     },
     {
-        "added": "2014-04-10T20:22:31.798662",
-        "annotation": "ashes",
-        "entry": "kau",
-        "id": 91323,
-        "language": "/api/v1/language/burum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91323/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "ashes",
-        "word": "/api/v1/word/ashes/"
-    },
-    {
         "added": "2014-07-30T23:28:44.046151",
         "annotation": null,
         "entry": "kau",
@@ -992,6 +980,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/159832/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.798662",
+        "annotation": "ashes",
+        "entry": "kau",
+        "id": 91323,
+        "language": "/api/v1/language/burum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91323/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "ashes",
         "word": "/api/v1/word/ashes/"
     },
@@ -1440,18 +1440,6 @@
         "word": "/api/v1/word/wind/"
     },
     {
-        "added": "2014-04-10T20:22:31.656109",
-        "annotation": "(he) knows",
-        "entry": "ma-",
-        "id": 91267,
-        "language": "/api/v1/language/burum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91267/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(he) knows",
-        "word": "/api/v1/word/to-know/"
-    },
-    {
         "added": "2014-04-10T20:22:32.923480",
         "annotation": "(he) holds",
         "entry": "ma-",
@@ -1462,6 +1450,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(he) holds",
         "word": "/api/v1/word/to-hold/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.656109",
+        "annotation": "(he) knows",
+        "entry": "ma-",
+        "id": 91267,
+        "language": "/api/v1/language/burum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91267/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(he) knows",
+        "word": "/api/v1/word/to-know/"
     },
     {
         "added": "2014-04-10T20:22:34.025813",
@@ -1620,18 +1620,6 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
-        "added": "2014-07-30T23:28:36.409323",
-        "annotation": null,
-        "entry": "nei",
-        "id": 157424,
-        "language": "/api/v1/language/burum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157424/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "bird",
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2014-04-10T20:22:32.112166",
         "annotation": "bird",
         "entry": "nei",
@@ -1640,6 +1628,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/91449/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2014-07-30T23:28:36.409323",
+        "annotation": null,
+        "entry": "nei",
+        "id": 157424,
+        "language": "/api/v1/language/burum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157424/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "bird",
         "word": "/api/v1/word/bird/"
     },
@@ -1728,18 +1728,6 @@
         "word": "/api/v1/word/i/"
     },
     {
-        "added": "2014-07-30T23:28:36.843815",
-        "annotation": null,
-        "entry": "ni",
-        "id": 157560,
-        "language": "/api/v1/language/burum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157560/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "we",
-        "word": "/api/v1/word/we/"
-    },
-    {
         "added": "2014-04-10T20:22:29.522854",
         "annotation": "I",
         "entry": "ni",
@@ -1750,6 +1738,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "I",
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2014-07-30T23:28:36.843815",
+        "annotation": null,
+        "entry": "ni",
+        "id": 157560,
+        "language": "/api/v1/language/burum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157560/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "we",
+        "word": "/api/v1/word/we/"
     },
     {
         "added": "2014-04-10T20:22:30.179730",
@@ -1908,18 +1908,6 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2014-04-10T20:22:31.690944",
-        "annotation": "sand",
-        "entry": "sak",
-        "id": 91281,
-        "language": "/api/v1/language/burum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91281/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "sand",
-        "word": "/api/v1/word/sand/"
-    },
-    {
         "added": "2014-07-30T23:28:29.394976",
         "annotation": null,
         "entry": "sak",
@@ -1928,6 +1916,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/155229/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "sand",
+        "word": "/api/v1/word/sand/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.690944",
+        "annotation": "sand",
+        "entry": "sak",
+        "id": 91281,
+        "language": "/api/v1/language/burum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91281/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "sand",
         "word": "/api/v1/word/sand/"
     },

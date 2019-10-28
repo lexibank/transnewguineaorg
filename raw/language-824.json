@@ -324,18 +324,6 @@
         "word": "/api/v1/word/they/"
     },
     {
-        "added": "2014-04-10T20:22:29.682275",
-        "annotation": "that",
-        "entry": "eri",
-        "id": 90516,
-        "language": "/api/v1/language/ono/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90516/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "that",
-        "word": "/api/v1/word/that/"
-    },
-    {
         "added": "2014-04-10T20:22:32.797769",
         "annotation": "there",
         "entry": "eri",
@@ -346,6 +334,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "there",
         "word": "/api/v1/word/there/"
+    },
+    {
+        "added": "2014-04-10T20:22:29.682275",
+        "annotation": "that",
+        "entry": "eri",
+        "id": 90516,
+        "language": "/api/v1/language/ono/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90516/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "that",
+        "word": "/api/v1/word/that/"
     },
     {
         "added": "2014-04-10T20:22:29.791548",
@@ -588,18 +588,6 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2014-04-10T20:22:30.938056",
-        "annotation": "(he) bites it",
-        "entry": "ki-",
-        "id": 91006,
-        "language": "/api/v1/language/ono/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91006/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(he) bites it",
-        "word": "/api/v1/word/to-bite/"
-    },
-    {
         "added": "2014-04-10T20:22:32.349725",
         "annotation": "(its) foot",
         "entry": "ki-",
@@ -610,6 +598,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(its) foot",
         "word": "/api/v1/word/foot/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.938056",
+        "annotation": "(he) bites it",
+        "entry": "ki-",
+        "id": 91006,
+        "language": "/api/v1/language/ono/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91006/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(he) bites it",
+        "word": "/api/v1/word/to-bite/"
     },
     {
         "added": "2014-04-10T20:22:34.074431",
@@ -900,18 +900,6 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2014-04-10T20:22:31.375230",
-        "annotation": "not",
-        "entry": "mi",
-        "id": 91174,
-        "language": "/api/v1/language/ono/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91174/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "not",
-        "word": "/api/v1/word/not/"
-    },
-    {
         "added": "2014-04-10T20:22:32.762729",
         "annotation": "and",
         "entry": "mi",
@@ -922,6 +910,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "and",
         "word": "/api/v1/word/and/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.375230",
+        "annotation": "not",
+        "entry": "mi",
+        "id": 91174,
+        "language": "/api/v1/language/ono/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91174/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "not",
+        "word": "/api/v1/word/not/"
     },
     {
         "added": "2014-04-10T20:22:32.901631",
@@ -1596,18 +1596,6 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2014-04-10T20:22:31.705301",
-        "annotation": "stone",
-        "entry": "wesi",
-        "id": 91286,
-        "language": "/api/v1/language/ono/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91286/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "stone",
-        "word": "/api/v1/word/stone/"
-    },
-    {
         "added": "2014-04-10T20:22:32.866716",
         "annotation": "left side",
         "entry": "wesi",
@@ -1618,6 +1606,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "left side",
         "word": "/api/v1/word/left-side/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.705301",
+        "annotation": "stone",
+        "entry": "wesi",
+        "id": 91286,
+        "language": "/api/v1/language/ono/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91286/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "stone",
+        "word": "/api/v1/word/stone/"
     },
     {
         "added": "2014-04-10T20:22:31.010000",

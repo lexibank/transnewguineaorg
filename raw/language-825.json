@@ -1020,18 +1020,6 @@
         "word": "/api/v1/word/to-cut/"
     },
     {
-        "added": "2014-04-10T20:22:30.561368",
-        "annotation": "rain",
-        "entry": "map",
-        "id": 90857,
-        "language": "/api/v1/language/komba/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90857/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-07-30T23:28:42.750569",
         "annotation": null,
         "entry": "map",
@@ -1040,6 +1028,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/159414/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.561368",
+        "annotation": "rain",
+        "entry": "map",
+        "id": 90857,
+        "language": "/api/v1/language/komba/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90857/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -2232,18 +2232,6 @@
         "word": "/api/v1/word/two/"
     },
     {
-        "added": "2014-04-10T20:22:32.670648",
-        "annotation": "they",
-        "entry": "z\u00e2k",
-        "id": 91669,
-        "language": "/api/v1/language/komba/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91669/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "they",
-        "word": "/api/v1/word/they/"
-    },
-    {
         "added": "2014-04-10T20:22:32.602273",
         "annotation": "he",
         "entry": "z\u00e2k",
@@ -2254,6 +2242,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "he",
         "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.670648",
+        "annotation": "they",
+        "entry": "z\u00e2k",
+        "id": 91669,
+        "language": "/api/v1/language/komba/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91669/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "they",
+        "word": "/api/v1/word/they/"
     },
     {
         "added": "2014-07-30T23:28:41.631815",

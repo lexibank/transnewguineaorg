@@ -756,6 +756,18 @@
         "word": "/api/v1/word/big/"
     },
     {
+        "added": "2014-04-10T20:22:31.073822",
+        "annotation": "white",
+        "entry": "kap\u014b kap\u014b",
+        "id": 91058,
+        "language": "/api/v1/language/kate/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91058/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "white",
+        "word": "/api/v1/word/white/"
+    },
+    {
         "added": "2014-04-10T20:22:30.538696",
         "annotation": "cloud",
         "entry": "karorac",
@@ -850,18 +862,6 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "stone",
         "word": "/api/v1/word/stone/"
-    },
-    {
-        "added": "2014-04-10T20:22:31.073822",
-        "annotation": "white",
-        "entry": "kpa\u014b kpa\u014b",
-        "id": 91058,
-        "language": "/api/v1/language/kate/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91058/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "white",
-        "word": "/api/v1/word/white/"
     },
     {
         "added": "2014-04-10T20:22:32.080703",

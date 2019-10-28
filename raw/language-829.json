@@ -468,18 +468,6 @@
         "word": "/api/v1/word/to-burn/"
     },
     {
-        "added": "2014-04-10T20:22:32.457685",
-        "annotation": "(its) eye",
-        "entry": "dzi-",
-        "id": 91582,
-        "language": "/api/v1/language/mesem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91582/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(its) eye",
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2014-04-10T20:22:31.416824",
         "annotation": "(it) burns",
         "entry": "dzi-",
@@ -490,6 +478,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(it) burns",
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.457685",
+        "annotation": "(its) eye",
+        "entry": "dzi-",
+        "id": 91582,
+        "language": "/api/v1/language/mesem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91582/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(its) eye",
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2014-07-30T23:28:34.835543",
@@ -878,7 +878,7 @@
     {
         "added": "2014-04-10T20:22:31.531291",
         "annotation": "smoke",
-        "entry": "kEsE",
+        "entry": "k\u0259s\u0259",
         "id": 91232,
         "language": "/api/v1/language/mesem/",
         "loan": false,
@@ -900,18 +900,6 @@
         "word": "/api/v1/word/sun/"
     },
     {
-        "added": "2014-04-10T20:22:32.354491",
-        "annotation": "(its) foot",
-        "entry": "k\u0259t-",
-        "id": 91540,
-        "language": "/api/v1/language/mesem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91540/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(its) foot",
-        "word": "/api/v1/word/foot/"
-    },
-    {
         "added": "2014-04-10T20:22:31.955163",
         "annotation": "(its) seed",
         "entry": "k\u0259t-",
@@ -922,6 +910,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(its) seed",
         "word": "/api/v1/word/seed/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.354491",
+        "annotation": "(its) foot",
+        "entry": "k\u0259t-",
+        "id": 91540,
+        "language": "/api/v1/language/mesem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91540/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(its) foot",
+        "word": "/api/v1/word/foot/"
     },
     {
         "added": "2014-04-10T20:22:33.013932",
@@ -1236,18 +1236,6 @@
         "word": "/api/v1/word/he-she/"
     },
     {
-        "added": "2014-04-10T20:22:32.026639",
-        "annotation": "louse",
-        "entry": "l\u0259m",
-        "id": 91414,
-        "language": "/api/v1/language/mesem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91414/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2014-04-10T20:22:33.408227",
         "annotation": "lake",
         "entry": "l\u0259m",
@@ -1258,6 +1246,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "lake",
         "word": "/api/v1/word/lake/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.026639",
+        "annotation": "louse",
+        "entry": "l\u0259m",
+        "id": 91414,
+        "language": "/api/v1/language/mesem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91414/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
     },
     {
         "added": "2014-04-10T20:22:32.663338",
@@ -1332,18 +1332,6 @@
         "word": "/api/v1/word/to-dig/"
     },
     {
-        "added": "2014-04-10T20:22:30.553626",
-        "annotation": "rain",
-        "entry": "ma",
-        "id": 90854,
-        "language": "/api/v1/language/mesem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90854/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-07-30T23:28:42.756506",
         "annotation": null,
         "entry": "ma",
@@ -1352,6 +1340,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/159416/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.553626",
+        "annotation": "rain",
+        "entry": "ma",
+        "id": 90854,
+        "language": "/api/v1/language/mesem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90854/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -1584,18 +1584,6 @@
         "word": "/api/v1/word/to-see/"
     },
     {
-        "added": "2014-07-30T23:28:35.969621",
-        "annotation": null,
-        "entry": "ni",
-        "id": 157285,
-        "language": "/api/v1/language/mesem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157285/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "to-eat",
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2014-07-30T23:28:36.868871",
         "annotation": null,
         "entry": "ni",
@@ -1606,6 +1594,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "we",
         "word": "/api/v1/word/we/"
+    },
+    {
+        "added": "2014-07-30T23:28:35.969621",
+        "annotation": null,
+        "entry": "ni",
+        "id": 157285,
+        "language": "/api/v1/language/mesem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157285/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "to-eat",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2014-04-10T20:22:29.578685",
@@ -2076,18 +2076,6 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2014-07-30T23:28:35.571187",
-        "annotation": null,
-        "entry": "tedzi",
-        "id": 157158,
-        "language": "/api/v1/language/mesem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157158/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "fire",
-        "word": "/api/v1/word/fire/"
-    },
-    {
         "added": "2014-04-10T20:22:31.204170",
         "annotation": "hot",
         "entry": "tedzi",
@@ -2098,6 +2086,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "hot",
         "word": "/api/v1/word/hot/"
+    },
+    {
+        "added": "2014-07-30T23:28:35.571187",
+        "annotation": null,
+        "entry": "tedzi",
+        "id": 157158,
+        "language": "/api/v1/language/mesem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157158/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "fire",
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2014-04-10T20:22:33.298262",

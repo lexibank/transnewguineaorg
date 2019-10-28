@@ -960,18 +960,6 @@
         "word": "/api/v1/word/this/"
     },
     {
-        "added": "2014-04-10T20:22:29.700349",
-        "annotation": "that",
-        "entry": "id\u00e2",
-        "id": 90523,
-        "language": "/api/v1/language/timbe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90523/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "that",
-        "word": "/api/v1/word/that/"
-    },
-    {
         "added": "2014-04-10T20:22:32.814684",
         "annotation": "there",
         "entry": "id\u00e2",
@@ -982,6 +970,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "there",
         "word": "/api/v1/word/there/"
+    },
+    {
+        "added": "2014-04-10T20:22:29.700349",
+        "annotation": "that",
+        "entry": "id\u00e2",
+        "id": 90523,
+        "language": "/api/v1/language/timbe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90523/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "that",
+        "word": "/api/v1/word/that/"
     },
     {
         "added": "2014-04-10T20:22:33.878602",
@@ -1032,18 +1032,6 @@
         "word": "/api/v1/word/neck/"
     },
     {
-        "added": "2014-07-30T23:28:40.949177",
-        "annotation": null,
-        "entry": "imen",
-        "id": 158842,
-        "language": "/api/v1/language/timbe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/158842/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2014-04-10T20:22:32.039183",
         "annotation": "louse",
         "entry": "imen",
@@ -1052,6 +1040,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/91419/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2014-07-30T23:28:40.949177",
+        "annotation": null,
+        "entry": "imen",
+        "id": 158842,
+        "language": "/api/v1/language/timbe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/158842/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "louse",
         "word": "/api/v1/word/louse/"
     },
@@ -1140,18 +1140,6 @@
         "word": "/api/v1/word/dry/"
     },
     {
-        "added": "2014-04-10T20:22:32.883780",
-        "annotation": "left side",
-        "entry": "kane",
-        "id": 91755,
-        "language": "/api/v1/language/timbe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91755/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "left side",
-        "word": "/api/v1/word/left-side/"
-    },
-    {
         "added": "2014-07-30T23:28:42.418844",
         "annotation": null,
         "entry": "kane",
@@ -1162,6 +1150,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "left-hand",
         "word": "/api/v1/word/left-hand/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.883780",
+        "annotation": "left side",
+        "entry": "kane",
+        "id": 91755,
+        "language": "/api/v1/language/timbe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91755/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "left side",
+        "word": "/api/v1/word/left-side/"
     },
     {
         "added": "2014-04-10T20:22:29.772596",
@@ -1188,6 +1188,18 @@
         "word": "/api/v1/word/stone/"
     },
     {
+        "added": "2014-04-10T20:22:31.066079",
+        "annotation": "white",
+        "entry": "kau",
+        "id": 91055,
+        "language": "/api/v1/language/timbe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91055/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "white",
+        "word": "/api/v1/word/white/"
+    },
+    {
         "added": "2014-04-10T20:22:31.793337",
         "annotation": "ashes",
         "entry": "kau",
@@ -1210,18 +1222,6 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "ashes",
         "word": "/api/v1/word/ashes/"
-    },
-    {
-        "added": "2014-04-10T20:22:31.066079",
-        "annotation": "white",
-        "entry": "kau",
-        "id": 91055,
-        "language": "/api/v1/language/timbe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91055/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "white",
-        "word": "/api/v1/word/white/"
     },
     {
         "added": "2014-04-10T20:22:34.547808",
@@ -1380,18 +1380,6 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2014-07-30T23:28:38.080095",
-        "annotation": null,
-        "entry": "k\u0254t",
-        "id": 157944,
-        "language": "/api/v1/language/timbe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157944/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "name",
-        "word": "/api/v1/word/name/"
-    },
-    {
         "added": "2014-07-30T23:28:36.531406",
         "annotation": null,
         "entry": "k\u0254t",
@@ -1402,6 +1390,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "stone",
         "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2014-07-30T23:28:38.080095",
+        "annotation": null,
+        "entry": "k\u0254t",
+        "id": 157944,
+        "language": "/api/v1/language/timbe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157944/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2014-07-30T23:28:30.390220",
@@ -1884,18 +1884,6 @@
         "word": "/api/v1/word/wing/"
     },
     {
-        "added": "2014-07-30T23:28:35.201313",
-        "annotation": null,
-        "entry": "pitu\u014b",
-        "id": 157041,
-        "language": "/api/v1/language/timbe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157041/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "star",
-        "word": "/api/v1/word/star/"
-    },
-    {
         "added": "2014-04-10T20:22:30.461208",
         "annotation": "star",
         "entry": "pitu\u014b",
@@ -1904,6 +1892,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/90817/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "star",
+        "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2014-07-30T23:28:35.201313",
+        "annotation": null,
+        "entry": "pitu\u014b",
+        "id": 157041,
+        "language": "/api/v1/language/timbe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157041/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "star",
         "word": "/api/v1/word/star/"
     },
@@ -2292,18 +2292,6 @@
         "word": "/api/v1/word/they/"
     },
     {
-        "added": "2014-04-10T20:22:32.641460",
-        "annotation": "ye",
-        "entry": "ye",
-        "id": 91657,
-        "language": "/api/v1/language/timbe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91657/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "ye",
-        "word": "/api/v1/word/you-pl/"
-    },
-    {
         "added": "2014-07-30T23:28:31.149426",
         "annotation": null,
         "entry": "ye",
@@ -2314,6 +2302,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "to-sleep",
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.641460",
+        "annotation": "ye",
+        "entry": "ye",
+        "id": 91657,
+        "language": "/api/v1/language/timbe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91657/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "ye",
+        "word": "/api/v1/word/you-pl/"
     },
     {
         "added": "2014-07-30T23:28:41.625654",
