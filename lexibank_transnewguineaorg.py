@@ -1,14 +1,13 @@
-import unicodedata
 from datetime import datetime
 from os import remove
 from pathlib import Path
 
+from cldfbench.datadir import get_url
 from pybtex.database import parse_string  # dependency of pycldf, so should be installed.
 from pybtex.utils import OrderedCaseInsensitiveDict
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import pb, get_url, jsondump
 from pylexibank import FormSpec
-
+from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.util import progressbar, jsondump
 
 LIMIT = 2000  # how many records to fetch at once
 
@@ -31,8 +30,8 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(
         brackets={"(": ")"},
         separators=";/,",
-        missing_data=('?', '-', '*', '---'),
-        strip_inside_brackets=True
+        missing_data=("?", "-", "*", "---"),
+        strip_inside_brackets=True,
     )
 
     def cmd_makecldf(self, args):
@@ -51,7 +50,7 @@ class Dataset(BaseDataset):
             args.writer.add_sources(bib)
 
         # handle languages
-        for l in pb(sorted(languages), desc="adding languages"):
+        for l in progressbar(sorted(languages), desc="adding languages"):
             args.writer.add_language(
                 ID=l,
                 Name=languages[l]["fullname"],
@@ -60,7 +59,7 @@ class Dataset(BaseDataset):
             )
 
         # handle concepts
-        for c in pb(sorted(words), desc='adding concepts'):
+        for c in progressbar(sorted(words), desc="adding concepts"):
             args.writer.add_concept(
                 ID=c,
                 # Local_ID=words[c]['id'],
@@ -70,7 +69,7 @@ class Dataset(BaseDataset):
             )
 
         itemfiles = [f for f in self.raw_dir.iterdir() if f.name.startswith("language-")]
-        for filename in pb(sorted(itemfiles), desc="adding lexemes"):
+        for filename in progressbar(sorted(itemfiles), desc="adding lexemes"):
             for o in sorted(self.raw_dir.read_json(filename), key=lambda d: d["id"]):
                 args.writer.add_forms_from_value(
                     # ID=o['id'],
@@ -97,7 +96,7 @@ class Dataset(BaseDataset):
 
         for fname in self.raw_dir.iterdir():
             remove(fname)
-            
+
         # sources
         sources = []
         for j in self.get_all(SOURCES_URL % {"limit": LIMIT}):
