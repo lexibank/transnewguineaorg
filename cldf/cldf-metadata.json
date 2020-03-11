@@ -15,13 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
-            "dc:created": "v2.0-5-g310aaf6"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a-90-ge34e420"
+            "dc:created": "v2.0-6-g94a7eb4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -34,6 +28,12 @@
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.1a-90-ge34e420"
         }
     ],
     "prov:wasGeneratedBy": [
