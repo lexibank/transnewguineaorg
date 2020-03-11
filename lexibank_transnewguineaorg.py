@@ -45,6 +45,7 @@ class Dataset(BaseDataset):
             ("') :", ""),
             ("a ͥ", "aj"),
             ("̋y", "y"),
+            (" ̟", ""),
         ],
     )
 
