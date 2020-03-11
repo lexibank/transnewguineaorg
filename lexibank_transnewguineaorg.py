@@ -3,7 +3,9 @@ from os import remove
 from pathlib import Path
 
 from cldfbench.datadir import get_url
-from pybtex.database import parse_string  # dependency of pycldf, so should be installed.
+from pybtex.database import (
+    parse_string,
+)  # dependency of pycldf, so should be installed.
 from pybtex.utils import OrderedCaseInsensitiveDict
 from pylexibank import FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
@@ -14,7 +16,9 @@ LIMIT = 2000  # how many records to fetch at once
 BASE_URL = "http://transnewguinea.org"
 
 LANGUAGES_URL = BASE_URL + "/api/v1/language/?limit=%(limit)d"
-RECORDS_URL = BASE_URL + "/api/v1/lexicon/?limit=%(limit)d&language=%(language)d"
+RECORDS_URL = (
+    BASE_URL + "/api/v1/lexicon/?limit=%(limit)d&language=%(language)d"
+)
 WORDS_URL = BASE_URL + "/api/v1/word/?limit=%(limit)d"
 SOURCES_URL = BASE_URL + "/api/v1/source/?limit=%(limit)d"
 
@@ -28,51 +32,76 @@ class Dataset(BaseDataset):
         return [_ for _ in uri.split("/") if _][-1]
 
     form_spec = FormSpec(
-        brackets={"(": ")"},
-        separators=";/,",
+        brackets={"(": ")", "[": "]"},
+        separators=";/,|<",
         missing_data=("?", "-", "*", "---"),
         strip_inside_brackets=True,
+        replacements=[
+            ("ɬ ̥", "ɬ̥"),
+            ("l ̥", "l̥"),
+            ('"', "'"),
+            (" ?", ""),
+            ("91)", ""),
+            ("') :", ""),
+            ("a ͥ", "aj"),
+            ("̋y", "y"),
+            (" ̟", ""),
+        ],
     )
 
     def cmd_makecldf(self, args):
-        languages = {o["slug"]: o for o in self.raw_dir.read_json(self.raw_dir / "languages.json")}
-        words = {o["slug"]: o for o in self.raw_dir.read_json(self.raw_dir / "words.json")}
-        sources = {o["slug"]: o for o in self.raw_dir.read_json(self.raw_dir / "sources.json")}
+        languages = {
+            o["slug"]: o
+            for o in self.raw_dir.read_json(self.raw_dir / "languages.json")
+        }
+        words = {
+            o["slug"]: o
+            for o in self.raw_dir.read_json(self.raw_dir / "words.json")
+        }
+        sources = {
+            o["slug"]: o
+            for o in self.raw_dir.read_json(self.raw_dir / "sources.json")
+        }
 
         # handle sources
         # want to make sure that the bibtex key matches our source id.
-        for s in sorted(sources):
+        for source in sorted(sources):
             # this is ugly, I wish pybtex made this easier!
-            bib = parse_string(sources[s]["bibtex"], "bibtex")
+            bib = parse_string(sources[source]["bibtex"], "bibtex")
             old_key = bib.entries.keys()[0]
-            bib.entries[old_key].key = s
-            bib.entries = OrderedCaseInsensitiveDict([(s, bib.entries[old_key])])
+            bib.entries[old_key].key = source
+            bib.entries = OrderedCaseInsensitiveDict(
+                [(source, bib.entries[old_key])]
+            )
             args.writer.add_sources(bib)
 
         # handle languages
-        for l in progressbar(sorted(languages), desc="adding languages"):
+        for lang in progressbar(sorted(languages), desc="adding languages"):
             args.writer.add_language(
-                ID=l,
-                Name=languages[l]["fullname"],
-                ISO639P3code=languages[l]["isocode"],
-                Glottocode=languages[l]["glottocode"],
+                ID=lang,
+                Name=languages[lang]["fullname"],
+                ISO639P3code=languages[lang]["isocode"],
+                Glottocode=languages[lang]["glottocode"],
             )
 
         # handle concepts
-        for c in progressbar(sorted(words), desc="adding concepts"):
+        for concept in progressbar(sorted(words), desc="adding concepts"):
             args.writer.add_concept(
-                ID=c,
+                ID=concept,
                 # Local_ID=words[c]['id'],
-                Name=words[c]["word"],
-                Concepticon_ID=words[c]["concepticon_id"],
-                Concepticon_Gloss=words[c]["concepticon_gloss"],
+                Name=words[concept]["word"],
+                Concepticon_ID=words[concept]["concepticon_id"],
+                Concepticon_Gloss=words[concept]["concepticon_gloss"],
             )
 
-        itemfiles = [f for f in self.raw_dir.iterdir() if f.name.startswith("language-")]
+        itemfiles = [
+            f for f in self.raw_dir.iterdir() if f.name.startswith("language-")
+        ]
         for filename in progressbar(sorted(itemfiles), desc="adding lexemes"):
-            for o in sorted(self.raw_dir.read_json(filename), key=lambda d: d["id"]):
+            for o in sorted(
+                self.raw_dir.read_json(filename), key=lambda d: d["id"]
+            ):
                 args.writer.add_forms_from_value(
-                    # ID=o['id'],
                     Local_ID=o["id"],
                     Language_ID=self.get_slug_from_uri(o["language"]),
                     Parameter_ID=self.get_slug_from_uri(o["word"]),
@@ -118,9 +147,15 @@ class Dataset(BaseDataset):
         # items
         for language in languages:
             items = []
-            for j in self.get_all(RECORDS_URL % {"limit": LIMIT, "language": language["id"]}):
+            for j in self.get_all(
+                RECORDS_URL % {"limit": LIMIT, "language": language["id"]}
+            ):
                 items.extend(j)
-            jsondump(items, self.raw_dir / "language-%d.json" % language["id"], args.log)
+            jsondump(
+                items,
+                self.raw_dir / "language-%d.json" % language["id"],
+                args.log,
+            )
 
         # version information
         with open(self.raw_dir / "version.txt", "w") as handle:
