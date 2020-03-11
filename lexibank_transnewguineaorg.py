@@ -42,22 +42,10 @@ class Dataset(BaseDataset):
             ('"', "'"),
             (" ?", ""),
             ("91)", ""),
-            ("') :",""),
+            ("') :", ""),
             ("a ͥ", "aj"),
-            ("id ːnu", "id nu"),
-            ("*inda ~ *iñja", "*inda"),
-            ("*POc malo", "*malo"),
-            ("*yaga PENGH Ø-Q", "*yaga"),
-            ("*X + *si-", "*si-"),
-            ("maygasak ʰ", "maygasakʰ"),
-            ("mə'j ̟ane", "mə'jane"),
-            ("bu'j ̟uvə", "bu'juvə"),
-            ("ambakɨt  ̚", "ambakɨt"),
-            (" ĵ ̟ʌ'ĵ ̟ɔre", "jʌjɔre"),
-            ("ohɔj ̟e", ",ohɔje"),
-
+            ("̋y", "y"),
         ],
-
     )
 
     def cmd_makecldf(self, args):
@@ -112,10 +100,6 @@ class Dataset(BaseDataset):
             for o in sorted(
                 self.raw_dir.read_json(filename), key=lambda d: d["id"]
             ):
-                # Skip hard-coded errors
-                if o["entry"] in ["r expected)          :"]:
-                    continue
-
                 args.writer.add_forms_from_value(
                     Local_ID=o["id"],
                     Language_ID=self.get_slug_from_uri(o["language"]),
@@ -123,7 +107,7 @@ class Dataset(BaseDataset):
                     Value=o["entry"],
                     Source=self.get_slug_from_uri(o["source"]),
                     Comment=o["annotation"],
-               )
+                )
 
     def get_all(self, url):
         """Helper function to iterate across the API's _next_ commands for a given URL"""
