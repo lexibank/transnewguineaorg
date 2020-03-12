@@ -25,7 +25,7 @@ Available online at http://transnewguinea.org
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
 - **Tokens:** 725,766
-- **Segments:** 389 (0 BIPA errors, 0 CTLS sound class errors, 388 CLTS modified)
+- **Segments:** 390 (0 BIPA errors, 0 CTLS sound class errors, 389 CLTS modified)
 - **Inventory size (avg):** 27.47
 
 ## Possible Improvements:
