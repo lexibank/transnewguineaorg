@@ -62,7 +62,6 @@ class Dataset(BaseDataset):
             o["slug"]: o
             for o in self.raw_dir.read_json(self.raw_dir / "sources.json")
         }
-
         # handle sources
         # want to make sure that the bibtex key matches our source id.
         for source in sorted(sources):

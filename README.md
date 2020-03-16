@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Greenhill, Simon J. (2015): TransNewGuinea.org: An Online Database of New Guinea Languages. PLoS ONE 10.10: e0141563.
 
-This dataset is licensed under a CC-BY license
+This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
 Available online at http://transnewguinea.org
 
@@ -24,7 +24,7 @@ Available online at http://transnewguinea.org
 - **Sources:** 148
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 725,766
+- **Tokens:** 725,762
 - **Segments:** 390 (0 BIPA errors, 0 CTLS sound class errors, 389 CLTS modified)
 - **Inventory size (avg):** 27.47
 
