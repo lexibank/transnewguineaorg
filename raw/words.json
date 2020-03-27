@@ -288,8 +288,8 @@
         "word": "arm"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "ARMLET",
+        "concepticon_id": "3149",
         "id": 2386,
         "resource_uri": "/api/v1/word/armband/",
         "slug": "armband",

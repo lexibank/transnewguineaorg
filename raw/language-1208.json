@@ -1,5 +1,17 @@
 [
     {
+        "added": "2015-09-24T08:43:09.141558",
+        "annotation": "",
+        "entry": "\u0294a\u2071",
+        "id": 244785,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244785/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-walk/"
+    },
+    {
         "added": "2016-01-12T15:21:38.048956",
         "annotation": "",
         "entry": "\u0294ag\u028cn\u028c",
@@ -12,6 +24,18 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2015-09-24T08:53:27.562087",
+        "annotation": "",
+        "entry": "\u0294ag\u028cn\u028c",
+        "id": 244808,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244808/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
         "added": "2016-01-12T15:21:38.057891",
         "annotation": "",
         "entry": "\u0294agwein\u0259",
@@ -19,6 +43,18 @@
         "language": "/api/v1/language/burui/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/256947/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.570690",
+        "annotation": "",
+        "entry": "\u0294agwe\u2071n\u0259",
+        "id": 244809,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244809/",
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/to-give/"
@@ -48,6 +84,18 @@
         "word": "/api/v1/word/to-see/"
     },
     {
+        "added": "2015-09-24T08:53:27.580047",
+        "annotation": "",
+        "entry": "\u0294a\u0180i",
+        "id": 244810,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244810/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
+    },
+    {
         "added": "2016-01-12T15:21:38.084500",
         "annotation": "",
         "entry": "a\u0180\u028ck\u02b0",
@@ -58,6 +106,30 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.613738",
+        "annotation": "",
+        "entry": "a\u0180\u028ck\u02b0",
+        "id": 244812,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244812/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.772072",
+        "annotation": "",
+        "entry": "\u0294ambu",
+        "id": 244765,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244765/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/head/"
     },
     {
         "added": "2016-01-12T15:14:02.814448",
@@ -84,6 +156,18 @@
         "word": "/api/v1/word/to-lie-down/"
     },
     {
+        "added": "2015-09-24T08:43:09.133667",
+        "annotation": "",
+        "entry": "ante\u2071kw\u0259",
+        "id": 244784,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244784/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-lie-down/"
+    },
+    {
         "added": "2016-01-12T15:14:02.985480",
         "annotation": "",
         "entry": "ante\u0159\u0259",
@@ -91,6 +175,18 @@
         "language": "/api/v1/language/burui/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/256917/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sit/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.117490",
+        "annotation": "",
+        "entry": "ante\u0159\u0259",
+        "id": 244782,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244782/",
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sit/"
@@ -108,6 +204,30 @@
         "word": "/api/v1/word/to-come/"
     },
     {
+        "added": "2015-09-24T08:53:27.605795",
+        "annotation": "",
+        "entry": "\u0294ay\u0268",
+        "id": 244811,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244811/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.938442",
+        "annotation": "",
+        "entry": "biy\u028c",
+        "id": 244778,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244778/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
         "added": "2016-01-12T15:14:02.962108",
         "annotation": "",
         "entry": "biy\u028c",
@@ -118,6 +238,18 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.067859",
+        "annotation": "",
+        "entry": "g\u0268tiwa",
+        "id": 244781,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244781/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-bite/"
     },
     {
         "added": "2016-01-12T15:14:02.977665",
@@ -144,6 +276,30 @@
         "word": "/api/v1/word/fire/"
     },
     {
+        "added": "2015-09-24T08:43:09.181336",
+        "annotation": "",
+        "entry": "\u0294iya",
+        "id": 244790,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244790/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.838330",
+        "annotation": "",
+        "entry": "iya\u00b7l\u0268",
+        "id": 244770,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244770/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
         "added": "2016-01-12T15:14:02.868360",
         "annotation": "",
         "entry": "iyal\u0268",
@@ -166,6 +322,30 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/knee/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.867190",
+        "annotation": "",
+        "entry": "k\u02b7a\u00b7ti",
+        "id": 244772,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244772/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/knee/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.621655",
+        "annotation": "",
+        "entry": "k\u0268t\u028ck\u02b0",
+        "id": 244813,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244813/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
     },
     {
         "added": "2016-01-12T15:21:38.093927",
@@ -192,6 +372,30 @@
         "word": "/api/v1/word/mouth/"
     },
     {
+        "added": "2015-09-24T08:36:04.789835",
+        "annotation": "",
+        "entry": "kundi\u0161\u0268b\u0268",
+        "id": 244766,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244766/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.827093",
+        "annotation": "",
+        "entry": "kwa\u0294mungi",
+        "id": 244769,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244769/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/neck/"
+    },
+    {
         "added": "2016-01-12T15:14:02.860480",
         "annotation": "",
         "entry": "kwa\u0294mungi",
@@ -216,6 +420,18 @@
         "word": "/api/v1/word/fat/"
     },
     {
+        "added": "2015-09-24T08:53:27.647692",
+        "annotation": "",
+        "entry": "kwia",
+        "id": 244816,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244816/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2016-01-12T15:18:38.476162",
         "annotation": "",
         "entry": "kwi\u1e4bgwal\u0268k",
@@ -226,6 +442,18 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.245804",
+        "annotation": "",
+        "entry": "ma\u0294an",
+        "id": 244798,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244798/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/foot/"
     },
     {
         "added": "2016-01-12T15:18:38.309077",
@@ -240,6 +468,18 @@
         "word": "/api/v1/word/foot/"
     },
     {
+        "added": "2015-09-24T08:43:09.198317",
+        "annotation": "",
+        "entry": "mba\u1d58",
+        "id": 244792,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244792/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ashes/"
+    },
+    {
         "added": "2016-01-12T15:18:38.398767",
         "annotation": "",
         "entry": "mball",
@@ -250,6 +490,18 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.553196",
+        "annotation": "",
+        "entry": "mbandung",
+        "id": 244807,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244807/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2016-01-12T15:21:38.038943",
@@ -271,6 +523,18 @@
         "language": "/api/v1/language/burui/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/256941/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.496044",
+        "annotation": "",
+        "entry": "mi",
+        "id": 244803,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244803/",
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/tree/"
@@ -300,6 +564,18 @@
         "word": "/api/v1/word/leaf/"
     },
     {
+        "added": "2015-09-24T08:53:27.536678",
+        "annotation": "",
+        "entry": "minganka",
+        "id": 244805,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244805/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/leaf/"
+    },
+    {
         "added": "2016-01-12T15:14:02.852237",
         "annotation": "",
         "entry": "m\u0268ni 'ta\u0294am\u0268",
@@ -310,6 +586,30 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.817557",
+        "annotation": "",
+        "entry": "m\u0268n 'ta\u0294am\u0268",
+        "id": 244768,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244768/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.460587",
+        "annotation": "",
+        "entry": "mpa\u0294opmu",
+        "id": 244800,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244800/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/moon/"
     },
     {
         "added": "2016-01-12T15:18:38.468132",
@@ -336,6 +636,42 @@
         "word": "/api/v1/word/small/"
     },
     {
+        "added": "2015-09-24T08:43:09.173445",
+        "annotation": "",
+        "entry": "mp\u025b\u0294ndza\u2071k\u0259",
+        "id": 244789,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244789/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.230125",
+        "annotation": "",
+        "entry": "mu\u00f1a",
+        "id": 244796,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244796/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.443622",
+        "annotation": "",
+        "entry": "\u00f1\u028c",
+        "id": 244799,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244799/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
+    },
+    {
         "added": "2016-01-12T15:18:38.459616",
         "annotation": "",
         "entry": "\u00f1\u028c",
@@ -346,6 +682,18 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.970488",
+        "annotation": "",
+        "entry": "nam\u02b7io",
+        "id": 244779,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244779/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2016-01-12T15:14:02.969890",
@@ -360,6 +708,18 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2015-09-24T08:36:04.848783",
+        "annotation": "",
+        "entry": "nbang\u0268",
+        "id": 244771,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244771/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/skin/"
+    },
+    {
         "added": "2016-01-12T15:14:02.876273",
         "annotation": "",
         "entry": "nbung\u0268",
@@ -370,6 +730,18 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.478782",
+        "annotation": "",
+        "entry": "ngu",
+        "id": 244802,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244802/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2016-01-12T15:21:37.978837",
@@ -384,6 +756,18 @@
         "word": "/api/v1/word/water/"
     },
     {
+        "added": "2015-09-24T08:36:04.727487",
+        "annotation": "",
+        "entry": "n\u0268mb\u0268",
+        "id": 244764,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244764/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
+    },
+    {
         "added": "2016-01-12T15:14:02.465714",
         "annotation": "",
         "entry": "n\u0268mb\u0268",
@@ -396,6 +780,18 @@
         "word": "/api/v1/word/hair/"
     },
     {
+        "added": "2015-09-24T08:43:09.222162",
+        "annotation": "",
+        "entry": "n\u0268mbi",
+        "id": 244795,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244795/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
+    },
+    {
         "added": "2016-01-12T15:18:38.422951",
         "annotation": "",
         "entry": "n\u0268mbi",
@@ -406,6 +802,18 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.895874",
+        "annotation": "",
+        "entry": "ntu",
+        "id": 244773,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244773/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/man/"
     },
     {
         "added": "2016-01-12T15:14:02.892246",
@@ -432,6 +840,18 @@
         "word": "/api/v1/word/big/"
     },
     {
+        "added": "2015-09-24T08:43:09.165522",
+        "annotation": "",
+        "entry": "numan",
+        "id": 244788,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244788/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/big/"
+    },
+    {
         "added": "2016-01-12T15:18:38.317431",
         "annotation": "",
         "entry": "raget\u0268",
@@ -442,6 +862,30 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.125742",
+        "annotation": "",
+        "entry": "\u0159aget\u0268",
+        "id": 244783,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244783/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.904413",
+        "annotation": "",
+        "entry": "ta\u0294agwa",
+        "id": 244774,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244774/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/woman/"
     },
     {
         "added": "2016-01-12T15:14:02.900139",
@@ -468,6 +912,30 @@
         "word": "/api/v1/word/nose/"
     },
     {
+        "added": "2015-09-24T08:36:04.804665",
+        "annotation": "",
+        "entry": "ta\u0294ama",
+        "id": 244767,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244767/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/nose/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.237982",
+        "annotation": "",
+        "entry": "ta\u0294amb\u028c",
+        "id": 244797,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244797/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hand/"
+    },
+    {
         "added": "2016-01-12T15:18:38.286958",
         "annotation": "",
         "entry": "ta\u0294amb\u028c",
@@ -492,6 +960,18 @@
         "word": "/api/v1/word/mouth/"
     },
     {
+        "added": "2015-09-24T08:36:04.929749",
+        "annotation": "",
+        "entry": "takN",
+        "id": 244777,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244777/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mouth/"
+    },
+    {
         "added": "2016-01-12T15:18:38.414912",
         "annotation": "",
         "entry": "t\u0268gal\u0268",
@@ -499,6 +979,18 @@
         "language": "/api/v1/language/burui/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/256931/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tongue/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.214260",
+        "annotation": "",
+        "entry": "t\u0268gal\u0268",
+        "id": 244794,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244794/",
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/tongue/"
@@ -516,6 +1008,18 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2015-09-24T08:53:27.631930",
+        "annotation": "",
+        "entry": "\u0180\u0269tik",
+        "id": 244814,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244814/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2016-01-12T15:18:38.485885",
         "annotation": "",
         "entry": "t\u028cmbu",
@@ -526,6 +1030,30 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.469676",
+        "annotation": "",
+        "entry": "t\u028cmbu",
+        "id": 244801,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244801/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.157514",
+        "annotation": "",
+        "entry": "tumbu",
+        "id": 244787,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244787/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
     },
     {
         "added": "2016-01-12T15:18:38.350616",
@@ -552,6 +1080,30 @@
         "word": "/api/v1/word/ear/"
     },
     {
+        "added": "2015-09-24T08:43:09.206310",
+        "annotation": "",
+        "entry": "wa\u0294a\u028c",
+        "id": 244793,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244793/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.912851",
+        "annotation": "",
+        "entry": "wa\u0294a\u0180i",
+        "id": 244775,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244775/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
+    },
+    {
         "added": "2016-01-12T15:14:02.907980",
         "annotation": "",
         "entry": "wa\u0294a\u0180i",
@@ -576,6 +1128,18 @@
         "word": "/api/v1/word/dog/"
     },
     {
+        "added": "2015-09-24T08:53:27.639822",
+        "annotation": "",
+        "entry": "waiagungiyawa",
+        "id": 244815,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244815/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rain/"
+    },
+    {
         "added": "2016-01-12T15:18:38.496210",
         "annotation": "",
         "entry": "waiagungiyawe",
@@ -586,6 +1150,42 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.984050",
+        "annotation": "",
+        "entry": "wa\u0294\u0161\u0268",
+        "id": 244780,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244780/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2015-09-24T08:36:04.921190",
+        "annotation": "",
+        "entry": "wa\u0294\u0161\u028c",
+        "id": 244776,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244776/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.545026",
+        "annotation": "",
+        "entry": "wimbu",
+        "id": 244806,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244806/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/meat/"
     },
     {
         "added": "2016-01-12T15:21:38.029391",
@@ -612,6 +1212,30 @@
         "word": "/api/v1/word/road/"
     },
     {
+        "added": "2015-09-24T08:43:09.149498",
+        "annotation": "",
+        "entry": "ya\u0294ambu",
+        "id": 244786,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244786/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/road/"
+    },
+    {
+        "added": "2015-09-24T08:53:27.528269",
+        "annotation": "",
+        "entry": "y\u0259mb\u02b7e",
+        "id": 244804,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244804/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/root/"
+    },
+    {
         "added": "2016-01-12T15:21:38.005653",
         "annotation": "",
         "entry": "y\u0259mb\u02b7e",
@@ -622,6 +1246,18 @@
         "source": "/api/v1/source/sil-1962c/",
         "source_gloss": null,
         "word": "/api/v1/word/root/"
+    },
+    {
+        "added": "2015-09-24T08:43:09.190347",
+        "annotation": "",
+        "entry": "y\u0268g\u0268mbi",
+        "id": 244791,
+        "language": "/api/v1/language/burui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/244791/",
+        "source": "/api/v1/source/sil-1962c/",
+        "source_gloss": null,
+        "word": "/api/v1/word/smoke/"
     },
     {
         "added": "2016-01-12T15:18:38.390707",

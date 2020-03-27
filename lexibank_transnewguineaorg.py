@@ -152,7 +152,7 @@ class Dataset(BaseDataset):
                 items.extend(j)
             jsondump(
                 items,
-                self.raw_dir / "language-%d.json" % language["id"],
+                self.raw_dir / ("language-%d.json" % language["id"]),
                 args.log,
             )
 

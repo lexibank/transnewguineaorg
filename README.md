@@ -26,10 +26,4 @@ Available online at http://transnewguinea.org
 - **Invalid lexemes:** 0
 - **Tokens:** 725,761
 - **Segments:** 390 (0 BIPA errors, 0 CTLS sound class errors, 389 CLTS modified)
-- **Inventory size (avg):** 27.47
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Bikaru [bika1251](http://glottolog.org/resource/languoid/id/bika1251)
-
+- **Inventory size (avg):** 27.46
