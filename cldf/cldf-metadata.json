@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
-            "dc:created": "v2.0-10-gf3b9362"
+            "dc:created": "v2.0-13-ge3deb2b"
         },
         {
             "rdf:type": "prov:Entity",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 145985,
+            "dc:extent": 145984,
             "tableSchema": {
                 "columns": [
                     {
