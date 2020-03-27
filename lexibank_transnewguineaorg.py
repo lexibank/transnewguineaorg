@@ -75,7 +75,7 @@ class Dataset(BaseDataset):
             args.writer.add_sources(bib)
 
         # handle languages
-        for lang in progressbar(sorted(languages), desc="adding languages"):
+        for lang in sorted(languages):
             args.writer.add_language(
                 ID=lang,
                 Name=languages[lang]["fullname"],
@@ -84,7 +84,7 @@ class Dataset(BaseDataset):
             )
 
         # handle concepts
-        for concept in progressbar(sorted(words), desc="adding concepts"):
+        for concept in sorted(words):
             args.writer.add_concept(
                 ID=concept,
                 # Local_ID=words[c]['id'],
