@@ -1,4 +1,4 @@
-# TransNewGuinea.org
+# CLDF dataset derived from Greenhill's "TransNewGuinea.org" from 2015.
 
 Cite the source dataset as
 
@@ -27,3 +27,13 @@ Available online at http://transnewguinea.org
 - **Tokens:** 725,761
 - **Segments:** 390 (0 BIPA errors, 0 CTLS sound class errors, 389 CLTS modified)
 - **Inventory size (avg):** 27.46
+
+# Contributors
+
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author
+Robert Forkel      | @xrotwang       | author                               | Author
+Tiago Tresoldi     | @tresoldi       | profile                              | Author
+
+
