@@ -8,14 +8,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Greenhill's \"TransNewGuinea.org\" from 2015.",
+    "dc:title": "CLDF dataset derived from Greenhill's \"TransNewGuinea.org\" from 2015",
     "dcat:accessURL": "https://github.com/lexibank/transnewguineaorg",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
-            "dc:created": "v2.0-16-g84083f6"
+            "dc:created": "v2.0-18-g5eac783"
         },
         {
             "rdf:type": "prov:Entity",

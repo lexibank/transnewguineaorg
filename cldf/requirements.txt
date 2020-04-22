@@ -13,6 +13,7 @@ isodate==0.6.0
 jdcal==1.4.1
 lingpy==2.6.6
 Markdown==3.2.1
+nameparser==1.0.6
 networkx==2.2
 newick==1.0.0
 numpy==1.18.1

@@ -1,4 +1,4 @@
-# CLDF dataset derived from Greenhill's "TransNewGuinea.org" from 2015.
+# CLDF dataset derived from Greenhill's "TransNewGuinea.org" from 2015
 
 Cite the source dataset as
 
