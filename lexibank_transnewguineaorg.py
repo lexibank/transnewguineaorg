@@ -67,7 +67,7 @@ class Dataset(BaseDataset):
         for source in sorted(sources):
             # this is ugly, I wish pybtex made this easier!
             bib = parse_string(sources[source]["bibtex"], "bibtex")
-            old_key = bib.entries.keys()[0]
+            old_key = list(bib.entries.keys())[0]
             bib.entries[old_key].key = source
             bib.entries = OrderedCaseInsensitiveDict(
                 [(source, bib.entries[old_key])]
