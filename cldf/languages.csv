@@ -32,11 +32,11 @@ amaimon,Amaimon,amai1246,Amaimon,ali,Papunesia,-5.18742,145.368,Nuclear Trans Ne
 amal,Amal,amal1242,Amal,aad,Papunesia,-4.04517,141.995,Sepik
 ambai,Ambai,amba1265,Ambai,amk,Papunesia,-1.88126,136.526,Austronesian
 ambai-wadapi-laut,Ambai (Wadapi-Laut Dialect),amba1265,Ambai,amk,Papunesia,-1.88126,136.526,Austronesian
-ambakich-agurant,Ambakich (Agurant Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Ambakich
-ambakich-arango,Ambakich (Arango Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Ambakich
-ambakich-ombos,Ambakich (Ombos Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Ambakich
-ambakich-pangin,Ambakich (Pangin Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Ambakich
-ambakich-yaut,Ambakich (Yaut Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Ambakich
+ambakich-agurant,Ambakich (Agurant Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram
+ambakich-arango,Ambakich (Arango Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram
+ambakich-ombos,Ambakich (Ombos Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram
+ambakich-pangin,Ambakich (Pangin Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram
+ambakich-yaut,Ambakich (Yaut Dialect),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram
 ambe-dofo,Yegha (Ambe-Dofo Dialect),kora1294,Korafe-Yegha,kpr,Papunesia,-9.07,149.267,Nuclear Trans New Guinea
 ambulas,Ambulas,ambu1247,Ambulas,abt,Papunesia,-3.7801,143.059,Ndu
 amele,Amele,amel1241,Amele,aey,Papunesia,-5.29126,145.687,Nuclear Trans New Guinea
@@ -62,8 +62,8 @@ anjam,Anjam,anja1238,Anjam,boj,Papunesia,-5.45899,145.717,Nuclear Trans New Guin
 anjam-lalok,Anjam (Lalok Dialect),anja1238,Anjam,boj,Papunesia,-5.45899,145.717,Nuclear Trans New Guinea
 ankave,Ankave,anka1246,Ankave,aak,Papunesia,-7.19444,145.754,Angan
 ansus,Ansus,ansu1237,Ansus,and,Papunesia,-1.7543,135.866,Austronesian
-ap-ma,Ap Ma,apma1241,Ap Ma,kbx,Papunesia,-4.35147,144.085,Ap Ma
-ap-ma-kambaramba,Ap Ma (Kambaramba Dialect),kamb1306,Kambaramba,kbx,Papunesia,,,Ap Ma
+ap-ma,Ap Ma,apma1241,Ap Ma,kbx,Papunesia,-4.35147,144.085,Keram
+ap-ma-kambaramba,Ap Ma (Kambaramba Dialect),kamb1306,Kambaramba,kbx,Papunesia,,,Keram
 apali,Apali,apal1256,Apali,ena,Papunesia,-5.1727,145.023,Nuclear Trans New Guinea
 aramo,Pinai-Hagahai (Aramo Dialect),pina1252,Pinai-Hagahai,pnn,Papunesia,-5.12624,144.137,Piawi
 arandai,Arandai,aran1237,Dombano,jbj,Papunesia,-2.08016,132.983,South Bird's Head Family
@@ -401,7 +401,7 @@ karon-dori,Karon Dori,karo1303,Karon Dori,kgw,Papunesia,-0.7871,132.663,Maybrat-
 karoto,Gaina (Karoto Dialect),gain1243,Gaina,gcn,Papunesia,-9.14409,148.59,Nuclear Trans New Guinea
 kasua,Kasua,kasu1251,Kasua,khs,Papunesia,-6.64861,142.993,Bosavi
 kate,Kâte,kate1253,Kâte,kmg,Papunesia,-6.4795,147.757,Nuclear Trans New Guinea
-kaure,Kaure,kaur1271,Kaure-Narau,bpp,Papunesia,-3.39188,140.14,Kaure-Narau
+kaure,Kaure,kaur1271,Kaure-Narau,bpp,Papunesia,-3.39188,140.14,Kaure-Kosare
 kauwera,Kauwera,kauw1242,Kauwera,xau,Papunesia,-2.22799,138.157,Greater Kwerba
 kawacha,Kawacha,kawa1276,Kawacha,kcb,Papunesia,-6.95411,146.20997,Angan
 kayagar,Kayagar,kaya1328,Kayagar,kyt,Papunesia,-6.37677,138.932,Kayagaric
@@ -447,7 +447,7 @@ korafe-yegha,Korafe,kora1294,Korafe-Yegha,kpr,Papunesia,-9.07,149.267,Nuclear Tr
 korak,Korak,kora1296,Korak,koz,Papunesia,-4.5998,145.514,Nuclear Trans New Guinea
 korapun-sela,Korapun-Sela,koru1245,Korupun-Sela,kpq,Papunesia,-4.53497,139.678,Nuclear Trans New Guinea
 korowai,Korowai,koro1312,Korowai,khe,Papunesia,-5.26952,140.047,Nuclear Trans New Guinea
-kosare,Kosare,kosa1251,Kosadle,kiq,Papunesia,-3.78748,140.197,Kosadle
+kosare,Kosare,kosa1251,Kosadle,kiq,Papunesia,-3.78748,140.197,Kaure-Kosare
 kovai,Kovai,kova1243,Kovai,kqb,Papunesia,-5.61712,147.862,Nuclear Trans New Guinea
 kowaki,Kowaki,kowa1245,Kowaki,xow,Papunesia,-4.63032,145.412,Nuclear Trans New Guinea
 kowiai,Kowiai,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian
@@ -618,7 +618,7 @@ namo,Namo,namo1246,Namo,mxw,Papunesia,-9.12416,141.824,Yam
 namumi,Fasu (Namumi Dialect),fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu
 nangenuwetan,Pinai-Hagahai (Nangenuwetan Dialect),pina1252,Pinai-Hagahai,pnn,Papunesia,-5.12624,144.137,Piawi
 nankina,Nankina,nank1250,Nankina,nnk,Papunesia,-5.80804,146.464,Nuclear Trans New Guinea
-narau,Narau,kaur1271,Kaure-Narau,nxu,Papunesia,-3.39188,140.14,Kaure-Narau
+narau,Narau,kaur1271,Kaure-Narau,nxu,Papunesia,-3.39188,140.14,Kaure-Kosare
 ndom,Ndom,ndom1245,Ndom,nqm,Papunesia,-7.93553,138.019,Kolopom
 nedebang,Nedebang,nede1245,Klamu,nec,Papunesia,-8.28776,124.192,Timor-Alor-Pantar
 nek,Nek,nekk1240,Nek,nif,Papunesia,-6.37697,146.841,Nuclear Trans New Guinea
@@ -703,7 +703,7 @@ proto-awyu-dumut,Proto-Awyu-Dumut,awyu1263,Awyu-Dumut,,,,,Nuclear Trans New Guin
 proto-baraic,Proto-Baraic,bara1376,Baraic,,,,,Koiarian
 proto-baruga,Proto-Baruga,baru1269,Baruga,bjz,Papunesia,-9.40132,148.761,Nuclear Trans New Guinea
 proto-binandere,Proto-Binandere,bina1279,Binanderean,,,,,Nuclear Trans New Guinea
-proto-central-sogeram,Proto-Central-Sogeram,cent2257,Central Sogeram,,,,,Nuclear Trans New Guinea
+proto-central-sogeram,Proto-Central-Sogeram,cent2257,,,,,,
 proto-central-tariku,Proto-Central-Tariku,cent2110,Central Tariku,,,,,Lakes Plain
 proto-chimbu-wahgi,Proto-Chimbu-Wahgi,cent2120,Chimbu-Wahgi,,,,,Nuclear Trans New Guinea
 proto-coastal-binandere,Proto-Coastal-Binandere,coas1297,Coastal Binanderean,,,,,Nuclear Trans New Guinea
