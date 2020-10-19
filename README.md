@@ -20,12 +20,12 @@ Available online at http://transnewguinea.org
 
 - **Varieties:** 1,011
 - **Concepts:** 1,210
-- **Lexemes:** 145,984
+- **Lexemes:** 145,983
 - **Sources:** 148
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 725,763
-- **Segments:** 391 (1 BIPA errors, 1 CTLS sound class errors, 389 CLTS modified)
+- **Tokens:** 725,756
+- **Segments:** 390 (0 BIPA errors, 0 CTLS sound class errors, 389 CLTS modified)
 - **Inventory size (avg):** 27.46
 
 # Contributors

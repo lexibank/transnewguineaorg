@@ -24,7 +24,7 @@ purl==1.5
 py==1.8.1
 pybtex==0.22.2
 pycldf==1.16.0
-pyclts==2.0.0
+pyclts==2.1.3
 pyconcepticon==2.6.0
 pycountry==19.8.18
 pyglottolog==3.0.0
