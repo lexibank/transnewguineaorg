@@ -34,9 +34,16 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(
         brackets={"(": ")", "[": "]"},
         separators=";/,|<",
-        missing_data=("?", "-", "*", "---"),
+        missing_data=("?", "-", "*", "---", "-BB:SRP", '*-', '*', ),
         strip_inside_brackets=True,
         replacements=[
+            (" ", "_"),
+            ('_+_modif.', ''),
+            ('_+_verb', ''),
+            ('_+_PL', ''),
+            ('_+_mdf', ''),
+            ('_+_mod', ''),
+            ("_+_'make", ''),
             ("ɬ ̥", "ɬ̥"),
             ("l ̥", "l̥"),
             ('"', "'"),
