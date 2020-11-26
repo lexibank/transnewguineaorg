@@ -30,11 +30,11 @@ purl==1.5
 py==1.9.0
 pybtex==0.23.0
 pycldf==1.17.0
--e git+https://github.com/cldf-clts/pyclts@5d58dccb484f440f9438bc68469b0b6ca08cf1f9#egg=pyclts
+-e git+https://github.com/cldf-clts/pyclts@8883bed9ce42fe8ad64770947ce3e9bfc00f9981#egg=pyclts
 -e git+https://github.com/concepticon/pyconcepticon.git@86cf8b33182298c709736360e65caf29570d940e#egg=pyconcepticon
 pycountry==20.7.3
 -e git+https://github.com/clld/pyglottolog.git@c17c4d48c35c0666d58eac89ba5ea806f62a14ff#egg=pyglottolog
--e git+https://github.com/lexibank/pylexibank.git@18a3128822a737725f0f7995b0e438612d810255#egg=pylexibank
+-e git+https://github.com/lexibank/pylexibank.git@88f895e4125e6a402f1c0503d06c73e6bc355820#egg=pylexibank
 pyparsing==2.4.7
 pytest==6.1.2
 regex==2020.11.13
