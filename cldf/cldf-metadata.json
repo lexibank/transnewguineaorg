@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
-            "dc:created": "v2.0-29-g82dbe43"
+            "dc:created": "v2.0-30-g459342c"
         },
         {
             "rdf:type": "prov:Entity",

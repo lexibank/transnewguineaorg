@@ -26,7 +26,7 @@ Available online at http://transnewguinea.org
 - **Invalid lexemes:** 0
 - **Tokens:** 705,939
 - **Segments:** 410 (0 BIPA errors, 0 CTLS sound class errors, 409 CLTS modified)
-- **Inventory size (avg):** 27.47
+- **Inventory size (avg):** 27.24
 
 # Contributors
 
