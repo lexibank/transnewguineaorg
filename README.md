@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Greenhill, Simon J. (2015): TransNewGuinea.org: An Online Database of New Guinea Languages. PLoS ONE 10.10: e0141563.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://transnewguinea.org
 
@@ -33,7 +33,7 @@ Available online at http://transnewguinea.org
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Robert Forkel      | @xrotwang       | author                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Robert Forkel      | @xrotwang       | author                               | Other 
+Tiago Tresoldi     | @tresoldi       | profile                              | Other 
 
 

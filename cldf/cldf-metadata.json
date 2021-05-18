@@ -5,7 +5,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://transnewguinea.org",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Greenhill's \"TransNewGuinea.org\" from 2015",
@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
-            "dc:created": "v2.0-35-g58d165b"
+            "dc:created": "v2.0-36-gb9ab268"
         },
         {
             "rdf:type": "prov:Entity",
