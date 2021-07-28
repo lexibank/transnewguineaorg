@@ -4,10 +4,10 @@ def test_valid(cldf_dataset, cldf_logger):
 
 def test_forms(cldf_dataset):
     # check one specific form to make sure columns, values are correct.
-    # 49995,karoto,father,aɸa
+    # 49995,karoto,120_father,aɸa
     f = [f for f in cldf_dataset["FormTable"] if f["Local_ID"] == "49995"]
     assert len(f) == 1
-    assert f[0]["Parameter_ID"] == "father"
+    assert f[0]["Parameter_ID"] == "120_father"
     assert f[0]["Language_ID"] == "karoto"
     assert f[0]["Form"] == "aɸa"
 
@@ -24,10 +24,10 @@ def test_languages(cldf_dataset):
 
 def test_parameters(cldf_dataset):
     # ID,Name,Concepticon_ID,Concepticon_Gloss
-    # cough,a cough,879,COUGH
-    f = [f for f in cldf_dataset["ParameterTable"] if f["ID"] == "cough"]
+    # 796_tocough,to cough,879,COUGH
+    f = [f for f in cldf_dataset["ParameterTable"] if f["ID"] == "796_tocough"]
     assert len(f) == 1
-    assert f[0]["Name"] == "a cough"
+    assert f[0]["Name"] == "to cough"
     assert f[0]["Concepticon_ID"] == "879"
     assert f[0]["Concepticon_Gloss"] == "COUGH"
 
