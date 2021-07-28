@@ -13,6 +13,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 13_coldweather,cold (weather),1287,COLD
 14_dog,dog,2009,DOG
 16_ear,ear,1247,EAR
+17_earthsoil,earth/soil,1228,EARTH (SOIL)
 18_egg,egg,744,EGG
 19_eye,eye,1248,EYE
 21_feather,feather,1201,FEATHER
@@ -43,6 +44,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 51_one,one,1493,ONE
 52_person,person,683,PERSON
 53_red,red,156,RED
+54_roadpath,road/path,2457,PATH OR ROAD
 55_root,root,670,ROOT
 56_round,round,1395,ROUND
 57_sand,sand,671,SAND
@@ -79,6 +81,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 90_toothfrontratherthanmolar,tooth (front rather than molar),1380,TOOTH
 91_tree,tree,906,TREE
 92_two,two,1498,TWO
+93_warmhot,warm/hot,2272,HOT OR WARM
 94_water,water,948,WATER
 95_weinclpronound1pincl,"we incl. (pronoun d:1p, incl)",1131,WE (INCLUSIVE)
 96_what,what?,1236,WHAT
@@ -120,6 +123,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 139_tohuntgame,to hunt (game),1435,HUNT
 140_husband,husband,1200,HUSBAND
 142_if,if,1459,IF
+143_ininside,"in, inside",1606,INSIDE
 144_lake,lake,624,LAKE
 145_tolaugh,to laugh,1355,LAUGH
 146_lefthand,left (hand),2182,LEFT HAND
@@ -131,6 +135,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 154_toplay,to play,1413,PLAY
 155_topull,to pull,1455,PULL
 156_topush,to push,1452,PUSH
+157_rightcorrecttrue,"right (correct, true)",1725,CORRECT (RIGHT)
 158_righthand,right (hand),2183,RIGHT HAND
 159_river,river,666,RIVER
 160_rope,rope,1218,ROPE
@@ -251,6 +256,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 294_totouch,to touch,1892,TOUCH
 295_totrade,to trade,2135,TRADE OR BARTER
 296_fruit,fruit,1507,FRUIT
+298_youpronound2s,you (pronoun d:2s),,
 299_shoulder,shoulder,1482,SHOULDER
 300_cassowary,cassowary,466,CASSOWARY
 301_stringbag,string bag,,
@@ -272,6 +278,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 499_medialsequentialsuffixhavingfinishedthatandthen,"Medial Sequential Suffix (having finished that, and then)",,
 506_medialssverbsuffix,Medial SS Verb Suffix,,
 508_interrogativeparticlegenerallysuffixedtosubject,interrogative particle ((generally suffixed to subject)),,
+511_forbenefactivecliticisedorsuffixedtonoun,for (benefactive) ((cliticised or suffixed to noun)),,
 791_thigh,thigh,800,THIGH
 792_son,son,1620,SON
 793_which,which?,727,WHICH
@@ -294,6 +301,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 813_todrill,to drill,1501,BORE
 814_leech,leech,949,WATER LEECH
 817_topain,to pain,2561,HURT (SENSE PAIN)
+818_tochopcutdown,"to chop, cut down",155,CHOP
 822_plsuffixonkinshipnouns,PL suffix on kinship nouns,,
 823_breadfruit,breadfruit,2371,BREADFRUIT
 824_taro,taro,351,TARO
@@ -397,6 +405,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 946_sorewound,"sore, wound",51,SORE
 947_saliva,saliva,1503,SALIVA
 948_throat,throat,1346,THROAT
+949_yourpronounp2s,your (pronoun: p:2s),732,YOUR (SINGULAR)
 950_yourplpronounp2p,your pl (pronoun p:2p),2274,YOUR (PLURAL)
 951_language,language,1307,LANGUAGE
 952_lungs,lungs,688,LUNG
@@ -426,8 +435,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 983_stomach,stomach,819,STOMACH
 984_grandfather,grandfather,1383,GRANDFATHER
 985_grandmother,grandmother,1496,GRANDMOTHER
+986_mansfatherinlaw,mans' father in law,2255,FATHER-IN-LAW (OF MAN)
 987_mansmotherinlaw,man's mother in law,2257,MOTHER-IN-LAW (OF MAN)
 988_womansinlaw,woman's in law,,
+989_sisterinlaw,sister in law,2317,SISTER-IN-LAW
 990_brotherinlaw,brother in law,2314,BROTHER-IN-LAW
 995_grandson,grandson,1618,GRANDSON
 996_uncle,uncle,1327,UNCLE
@@ -512,6 +523,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1274_tongs,tongs,272,TONGS
 1275_totravel,to travel,2393,JOURNEY
 1276_treekangaroo,tree kangaroo,,
+1277_treespgnetumgnemon,tree sp. (Gnetum gnemon),,
 1278_tuber,tuber,,
 1280_turtle,turtle,112,TURTLE
 1281_tourinate,to urinate,592,PISS
@@ -586,6 +598,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1616_dirtmud,"dirt, mud",25,DIRT
 1617_discclub,disc club,,
 1618_dragonfly,dragon-fly,2352,DRAGONFLY
+1619_drawwatercarry,draw water / carry,1911,DRAW (WATER)
 1624_earthmud,earth/mud,2158,EARTH (WET SUBSTANCE)
 1626_empty,empty,1624,EMPTY
 1628_eyelashes,eyelashes,1540,EYELASH
@@ -647,6 +660,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1718_raft,raft,1664,RAFT
 1721_reciprocalaction,reciprocal action,,
 1723_ridgepole,ridge pole,280,RIDGEPOLE
+1726_roast,roast,1962,ROAST (SOMETHING)
 1730_sandfly,sandfly,95,SANDFLY
 1731_sawfish,sawfish,,
 1736_shadowshadeshadow,"shadow (shade, shadow)",2275,SHADOW
@@ -680,10 +694,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1789_wrap,wrap,1113,WRAP
 1790_youngerlastborn,younger/lastborn,,
 1854_netbag,net bag,293,NETBAG
+1863_weexcldualpronound1pexcldual,"we excl. dual (pronoun d:1p, excl, dual)",2636,WE TWO (EXCLUSIVE)
+1864_youpluraltwopronound2pdual,"you plural two (pronoun d:2p, dual)",2111,YOU TWO
+1866_weexclpluralpronound1pexclplural,"we excl. plural (pronoun d:1p, excl, plural)",2636,WE TWO (EXCLUSIVE)
 1901_recline,recline,,
 1905_theydualpronound3pdual,"they dual (pronoun d:3p, dual)",,
 1906_wedualpronound1pdual,"we dual (pronoun d:1p, dual)",2634,WE TWO
 1907_wepronound1p,we (pronoun d:1p),1212,WE
+1908_youtwopronound2sdual,"you two (pronoun d:2s, dual)",2111,YOU TWO
 1909_but,but,3843,BUT
 1910_therefore,therefore,,
 1911_toclimb,to climb,1102,CLIMB
@@ -796,6 +814,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2036_daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
 2037_howmany,how many?,822,HOW MANY
 2038_shrub,shrub,751,SHRUB
+2039_betelpeppervine,betelpepper vine,177,BETEL PEPPER VINE
 2040_comb,comb,1475,COMB
 2041_leftarm,left (arm),,
 2042_rightarm,right (arm),,
@@ -835,6 +854,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2085_ustwopronouno1pdual,"us two (pronoun o:1p, dual)",,
 2086_thempronouno3pdual,"them (pronoun o:3p, dual)",,
 2087_axeiron,axe (iron),,
+2088_yourtwoplpronounp2pdual,"your (two) pl (pronoun p:2p, dual)",,
 2089_ourtwopronounp1pdual,"our (two) (pronoun p:1p, dual)",,
 2090_theirpronounp3pdual,"their (pronoun p:3p, dual)",,
 2091_chickentame,chicken (tame),,
@@ -853,6 +873,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2109_witchcraft,witchcraft,,
 2110_blue,blue,837,BLUE
 2111_alangalang,alangalang,,
+2112_blowonfire,blow (on fire),176,BLOW (WITH MOUTH)
 2113_burntr,burn (tr.),141,BURN (SOMETHING)
 2116_slowly,slowly,2165,SLOWLY
 2117_mask,mask,2005,MASK
@@ -887,11 +908,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2147_littlefinger,little finger,2774,LITTLE FINGER
 2148_nettle,nettle,33,NETTLE
 2149_pus,pus,1808,PUS
+2150_fedupwith,fed up (with),,
+2151_sitwithfeetandlegstogether,sit (with feet and legs together),,
 2152_smallmammal,small mammal,,
 2153_squash,squash,,
 2154_taboo,taboo,,
 2155_temporary,temporary,,
 2157_ask,ask,1309,ASK (INQUIRE)
+2158_bluntofegknife,blunt (of e.g. knife),379,BLUNT
 2159_cassurinatree,cassurina tree,,
 2160_collarbone,collar bone,1994,COLLARBONE
 2161_crumbs,crumbs,,
@@ -906,6 +930,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2170_poor,poor,1674,POOR
 2171_pregnant,pregnant,1123,PREGNANT
 2172_selfreflexive,"self, reflexive",1993,SELF
+2173_inlaw,in-law,,
 2174_appetiser,appetiser,,
 2175_breakbone,break (bone),,
 2176_emphaticpronounmarker,emphatic pronoun marker,,
@@ -983,6 +1008,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2252_widowed,widowed,,
 2253_tofetch,to fetch,,
 2254_farm,farm,201,FARM
+2255_hesheitthatthose,"he, she, it, that, those",,
 2256_badworthless,bad (worthless),,
 2257_firegoesout,(fire) goes out,,
 2258_togetup,to get up,1512,RISE (ONESELF)
@@ -992,6 +1018,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2262_marsupial,marsupial,,
 2263_lowbeneath,"low, beneath",1485,BELOW OR UNDER
 2264_beunwilling,be unwilling,,
+2265_tosuckatbreast,to suck at breast,,
 2266_nipple,nipple,796,NIPPLE
 2267_tocall,to call,1084,CALL
 2268_backbone,backbone,805,SPINE
@@ -1119,6 +1146,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2494_testicle,testicle,797,TESTICLES
 2495_axetomahawk,axe (tomahawk),,
 2496_whiskers,whiskers,1165,MOUSTACHE
+2497_notknow,not know,,
 2498_childf,child (f),,
 2499_childm,child (m),,
 2500_pandanusedible,pandanus (edible),,
