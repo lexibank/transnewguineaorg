@@ -1,8 +1,16 @@
 # CLDF dataset derived from Greenhill's "TransNewGuinea.org" from 2015
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/transnewguineaorg/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/transnewguineaorg/actions?query=workflow%3ACLDF-validation)
 
-> Greenhill, Simon J. (2015): TransNewGuinea.org: An Online Database of New Guinea Languages. PLoS ONE 10.10: e0141563.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Greenhill, Simon J. (2015): TransNewGuinea.org: An Online Database of New Guinea Languages. PLoS ONE 10.10: e0141563.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -40,3 +48,10 @@ Robert Forkel      | @xrotwang       | author                               | Ot
 Tiago Tresoldi     | @tresoldi       | profile                              | Other 
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
