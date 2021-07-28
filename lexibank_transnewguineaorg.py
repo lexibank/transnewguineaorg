@@ -10,6 +10,7 @@ from pybtex.utils import OrderedCaseInsensitiveDict
 from pylexibank import FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar, jsondump
+from clldutils.misc import slug
 
 LIMIT = 2000  # how many records to fetch at once
 
@@ -91,30 +92,68 @@ class Dataset(BaseDataset):
             )
 
         # handle concepts
-        for concept in sorted(words):
+        concepts = {}
+        for concept in self.conceptlists[0].concepts.values():
+            idx = '{0}_{1}'.format(
+                    concept.number,
+                    slug(concept.english)
+                    )
             args.writer.add_concept(
-                ID=concept,
-                # Local_ID=words[c]['id'],
-                Name=words[concept]["word"],
-                Concepticon_ID=words[concept]["concepticon_id"],
-                Concepticon_Gloss=words[concept]["concepticon_gloss"],
-            )
+                    ID=idx,
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
+                    )
+            concepts[concept.english] = idx
+            concepts[concept.english.replace(" ", "-")] = idx
+            concepts[concept.english.replace(" ", "-").lower()] = idx
+            concepts[slug(concept.english)] = idx
+            concepts["-".join([slug(x) for x in concept.english.split()])] = idx
+
+            if '(' in concept.english:
+                new_string = concept.english[:concept.english.index('(')-1]
+                concepts["-".join([slug(x) for x in new_string.split()])] = idx
+                concepts[concept.english[:concept.english.index('(')-1]] = idx
+                concepts[concept.english[:concept.english.index('(')-1].replace(' ', '-').lower()] = idx
+            if concept.english.startswith("to "):
+                new_string = concept.english[3:]
+                concepts['-'.join([slug(x) for x in new_string.split()])] = idx
+                concepts[concept.english.replace("to ", "")] = idx
+        concepts["mans-mother-law"] = concepts["man's mother in law"]
+        concepts["brother-law"] = concepts["brother in law"]
+        concepts["to-make-hole"] = concepts["make hole (in ground)"]
+        concepts["front"] = concepts["in front"]
+        concepts["husk-nut"] = concepts["husk (of nut)"]
+        concepts["his"] = concepts["his, hers, its (pronoun p:3s)"]
+        concepts["we-two-incl"] = concepts["we incl. dual (pronoun d:1p, incl, dual)"]
+        concepts["intrnasitivizer"] = concepts["intransitivizer"]
+        concepts["short-piece-wood"] = concepts["short-piece-of-wood"]
+        concepts["top-foot"] = concepts["top (of foot)"]
 
         itemfiles = [
             f for f in self.raw_dir.iterdir() if f.name.startswith("language-")
         ]
+        errors = set()
         for filename in progressbar(sorted(itemfiles), desc="adding lexemes"):
             for o in sorted(
                 self.raw_dir.read_json(filename), key=lambda d: d["id"]
             ):
-                args.writer.add_forms_from_value(
-                    Local_ID=o["id"],
-                    Language_ID=self.get_slug_from_uri(o["language"]),
-                    Parameter_ID=self.get_slug_from_uri(o["word"]),
-                    Value=o["entry"],
-                    Source=self.get_slug_from_uri(o["source"]),
-                    Comment=o["annotation"],
-                )
+                wordid = self.get_slug_from_uri(o['word'])
+                if wordid in concepts:
+                    args.writer.add_forms_from_value(
+                        Local_ID=o["id"],
+                        Language_ID=self.get_slug_from_uri(o["language"]),
+                        Parameter_ID=concepts[wordid],
+                        Value=o["entry"],
+                        Source=self.get_slug_from_uri(o["source"]),
+                        Comment=o["annotation"],
+                    )
+                else:
+                    errors.add(("concept", wordid))
+        for error in errors:
+            args.log.info("error with {0[0]}: {0[1]}".format(error))
+
+        args.log.info("found {0} errors in concepts".format(len(errors)))
 
     def get_all(self, url):
         """Helper function to iterate across the API's _next_ commands for a given URL"""
