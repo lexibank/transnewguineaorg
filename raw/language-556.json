@@ -2340,18 +2340,6 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-11-29T19:34:51.994088",
-        "annotation": "",
-        "entry": "pa'a(ga\u00e9a)",
-        "id": 74524,
-        "language": "/api/v1/language/yagaria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74524/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/they-dual/"
-    },
-    {
         "added": "2013-11-29T19:34:55.006048",
         "annotation": "",
         "entry": "pa'a(ga\u00e9a)",
@@ -2362,6 +2350,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/you-dual/"
+    },
+    {
+        "added": "2013-11-29T19:34:51.994088",
+        "annotation": "",
+        "entry": "pa'a(ga\u00e9a)",
+        "id": 74524,
+        "language": "/api/v1/language/yagaria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74524/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/they-dual/"
     },
     {
         "added": "2013-11-29T19:34:52.077797",

@@ -288,18 +288,6 @@
         "word": "/api/v1/word/when/"
     },
     {
-        "added": "2014-01-20T22:37:43.516927",
-        "annotation": "",
-        "entry": "ave",
-        "id": 75668,
-        "language": "/api/v1/language/savosavo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75668/",
-        "source": "/api/v1/source/wegener2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-die/"
-    },
-    {
         "added": "2014-06-04T02:30:15.448234",
         "annotation": "",
         "entry": "ave",
@@ -310,6 +298,18 @@
         "source": "/api/v1/source/wegener2011/",
         "source_gloss": null,
         "word": "/api/v1/word/we-pl-excl/"
+    },
+    {
+        "added": "2014-01-20T22:37:43.516927",
+        "annotation": "",
+        "entry": "ave",
+        "id": 75668,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75668/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-die/"
     },
     {
         "added": "2014-01-20T22:37:43.846889",
@@ -2304,18 +2304,6 @@
         "word": "/api/v1/word/star/"
     },
     {
-        "added": "2014-01-20T22:37:43.798205",
-        "annotation": "ornamental flowers",
-        "entry": "sisi",
-        "id": 75785,
-        "language": "/api/v1/language/savosavo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75785/",
-        "source": "/api/v1/source/wegener2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/flower/"
-    },
-    {
         "added": "2014-01-20T22:37:43.635416",
         "annotation": "be red",
         "entry": "sisi",
@@ -2326,6 +2314,18 @@
         "source": "/api/v1/source/wegener2011/",
         "source_gloss": null,
         "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2014-01-20T22:37:43.798205",
+        "annotation": "ornamental flowers",
+        "entry": "sisi",
+        "id": 75785,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75785/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/flower/"
     },
     {
         "added": "2014-01-20T22:37:43.754071",
@@ -2448,18 +2448,6 @@
         "word": "/api/v1/word/above/"
     },
     {
-        "added": "2014-01-20T22:37:43.594110",
-        "annotation": "",
-        "entry": "tada",
-        "id": 75700,
-        "language": "/api/v1/language/savosavo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75700/",
-        "source": "/api/v1/source/wegener2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/man/"
-    },
-    {
         "added": "2014-01-20T22:37:43.410434",
         "annotation": "same as man",
         "entry": "tada",
@@ -2470,6 +2458,18 @@
         "source": "/api/v1/source/wegener2011/",
         "source_gloss": null,
         "word": "/api/v1/word/husband/"
+    },
+    {
+        "added": "2014-01-20T22:37:43.594110",
+        "annotation": "",
+        "entry": "tada",
+        "id": 75700,
+        "language": "/api/v1/language/savosavo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75700/",
+        "source": "/api/v1/source/wegener2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/man/"
     },
     {
         "added": "2014-01-20T22:37:43.344545",

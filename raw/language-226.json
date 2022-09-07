@@ -704,8 +704,20 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14995/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.432964",
+        "annotation": "eat, drink",
+        "entry": "ij-o",
+        "id": 260780,
+        "language": "/api/v1/language/ese/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260780/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2014-04-14T07:57:45.250227",
@@ -1248,18 +1260,6 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2014-03-10T22:36:51.982609",
-        "annotation": "yesterday, tomorrow",
-        "entry": "niari",
-        "id": 14460,
-        "language": "/api/v1/language/ese/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14460/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/yesterday/"
-    },
-    {
         "added": "2014-03-10T22:36:51.998416",
         "annotation": "yesterday, tomorrow",
         "entry": "niari",
@@ -1270,6 +1270,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/tomorrow/"
+    },
+    {
+        "added": "2014-03-10T22:36:51.982609",
+        "annotation": "yesterday, tomorrow",
+        "entry": "niari",
+        "id": 14460,
+        "language": "/api/v1/language/ese/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14460/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yesterday/"
     },
     {
         "added": "2013-05-27T07:04:10.650810",

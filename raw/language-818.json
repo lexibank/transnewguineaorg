@@ -12,18 +12,6 @@
         "word": "/api/v1/word/to-suck/"
     },
     {
-        "added": "2014-07-30T23:28:30.091224",
-        "annotation": null,
-        "entry": "afo",
-        "id": 155442,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155442/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "noontime",
-        "word": "/api/v1/word/noontime/"
-    },
-    {
         "added": "2014-04-10T20:22:29.873592",
         "annotation": "moon",
         "entry": "afo",
@@ -34,6 +22,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "moon",
         "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2014-07-30T23:28:30.091224",
+        "annotation": null,
+        "entry": "afo",
+        "id": 155442,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155442/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "noontime",
+        "word": "/api/v1/word/noontime/"
     },
     {
         "added": "2014-04-10T20:22:32.769864",
@@ -168,18 +168,6 @@
         "word": "/api/v1/word/older-brother/"
     },
     {
-        "added": "2014-04-10T20:22:32.735077",
-        "annotation": "how",
-        "entry": "dafi",
-        "id": 91695,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91695/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "how",
-        "word": "/api/v1/word/how/"
-    },
-    {
         "added": "2014-04-10T20:22:29.653525",
         "annotation": "what",
         "entry": "dafi",
@@ -190,6 +178,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "what",
         "word": "/api/v1/word/what/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.735077",
+        "annotation": "how",
+        "entry": "dafi",
+        "id": 91695,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91695/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "how",
+        "word": "/api/v1/word/how/"
     },
     {
         "added": "2014-04-10T20:22:32.700142",
@@ -684,18 +684,6 @@
         "word": "/api/v1/word/worm/"
     },
     {
-        "added": "2014-04-10T20:22:29.544721",
-        "annotation": "thou",
-        "entry": "ge",
-        "id": 90463,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90463/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "thou",
-        "word": "/api/v1/word/thou/"
-    },
-    {
         "added": "2014-07-30T23:28:44.879105",
         "annotation": null,
         "entry": "ge",
@@ -706,6 +694,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "you",
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2014-04-10T20:22:29.544721",
+        "annotation": "thou",
+        "entry": "ge",
+        "id": 90463,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90463/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "thou",
+        "word": "/api/v1/word/thou/"
     },
     {
         "added": "2014-07-30T23:28:35.574284",
@@ -1008,18 +1008,6 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2014-07-30T23:28:44.485450",
-        "annotation": null,
-        "entry": "kasi",
-        "id": 159973,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159973/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "dog",
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2014-04-10T20:22:32.063950",
         "annotation": "dog",
         "entry": "kasi",
@@ -1028,6 +1016,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/91429/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "dog",
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2014-07-30T23:28:44.485450",
+        "annotation": null,
+        "entry": "kasi",
+        "id": 159973,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159973/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "dog",
         "word": "/api/v1/word/dog/"
     },
@@ -1092,18 +1092,6 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
-        "added": "2014-04-10T20:22:30.556189",
-        "annotation": "rain",
-        "entry": "kia",
-        "id": 90855,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90855/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-07-30T23:28:42.759493",
         "annotation": null,
         "entry": "kia",
@@ -1112,6 +1100,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/159417/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.556189",
+        "annotation": "rain",
+        "entry": "kia",
+        "id": 90855,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90855/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -1224,18 +1224,6 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2014-04-10T20:22:33.336310",
-        "annotation": "sky",
-        "entry": "kurume\u014b",
-        "id": 91933,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91933/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "sky",
-        "word": "/api/v1/word/sky/"
-    },
-    {
         "added": "2014-04-10T20:22:30.521521",
         "annotation": "cloud",
         "entry": "kurume\u014b",
@@ -1246,6 +1234,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "cloud",
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2014-04-10T20:22:33.336310",
+        "annotation": "sky",
+        "entry": "kurume\u014b",
+        "id": 91933,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91933/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "sky",
+        "word": "/api/v1/word/sky/"
     },
     {
         "added": "2014-04-10T20:22:32.945480",
@@ -1284,18 +1284,6 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2014-07-30T23:28:45.782547",
-        "annotation": null,
-        "entry": "mari",
-        "id": 160373,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/160373/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "arm",
-        "word": "/api/v1/word/arm/"
-    },
-    {
         "added": "2014-04-10T20:22:32.254070",
         "annotation": "(his) hand",
         "entry": "mari",
@@ -1306,6 +1294,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(his) hand",
         "word": "/api/v1/word/hand/"
+    },
+    {
+        "added": "2014-07-30T23:28:45.782547",
+        "annotation": null,
+        "entry": "mari",
+        "id": 160373,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/160373/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "arm",
+        "word": "/api/v1/word/arm/"
     },
     {
         "added": "2014-04-10T20:22:31.853896",
@@ -1512,18 +1512,6 @@
         "word": "/api/v1/word/sister/"
     },
     {
-        "added": "2014-07-30T23:28:35.972775",
-        "annotation": null,
-        "entry": "ne",
-        "id": 157286,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157286/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "to-eat",
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2014-07-30T23:28:36.871975",
         "annotation": null,
         "entry": "ne",
@@ -1534,6 +1522,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "we",
         "word": "/api/v1/word/we/"
+    },
+    {
+        "added": "2014-07-30T23:28:35.972775",
+        "annotation": null,
+        "entry": "ne",
+        "id": 157286,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157286/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "to-eat",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2014-04-10T20:22:30.910071",
@@ -1572,18 +1572,6 @@
         "word": "/api/v1/word/to-know/"
     },
     {
-        "added": "2014-04-10T20:22:30.164717",
-        "annotation": "(he) gives me",
-        "entry": "nen-",
-        "id": 90701,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90701/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(he) gives me",
-        "word": "/api/v1/word/to-give/"
-    },
-    {
         "added": "2014-04-10T20:22:30.840083",
         "annotation": "(he) sees me",
         "entry": "nen-",
@@ -1594,6 +1582,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(he) sees me",
         "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.164717",
+        "annotation": "(he) gives me",
+        "entry": "nen-",
+        "id": 90701,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90701/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(he) gives me",
+        "word": "/api/v1/word/to-give/"
     },
     {
         "added": "2014-07-30T23:28:36.428093",
@@ -2208,18 +2208,6 @@
         "word": "/api/v1/word/animal/"
     },
     {
-        "added": "2014-04-10T20:22:32.597480",
-        "annotation": "he",
-        "entry": "ye",
-        "id": 91639,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91639/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "he",
-        "word": "/api/v1/word/he-she/"
-    },
-    {
         "added": "2014-07-30T23:28:39.610459",
         "annotation": null,
         "entry": "ye",
@@ -2229,6 +2217,18 @@
         "resource_uri": "/api/v1/lexicon/158417/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "he-she",
+        "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.597480",
+        "annotation": "he",
+        "entry": "ye",
+        "id": 91639,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91639/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "he",
         "word": "/api/v1/word/he-she/"
     },
     {
@@ -2280,18 +2280,6 @@
         "word": "/api/v1/word/two/"
     },
     {
-        "added": "2014-07-30T23:28:40.964305",
-        "annotation": null,
-        "entry": "yomi\u014b",
-        "id": 158847,
-        "language": "/api/v1/language/dedua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/158847/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2014-04-10T20:22:32.029051",
         "annotation": "louse",
         "entry": "yomi\u014b",
@@ -2300,6 +2288,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/91415/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2014-07-30T23:28:40.964305",
+        "annotation": null,
+        "entry": "yomi\u014b",
+        "id": 158847,
+        "language": "/api/v1/language/dedua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/158847/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "louse",
         "word": "/api/v1/word/louse/"
     },

@@ -120,18 +120,6 @@
         "word": "/api/v1/word/bowstring/"
     },
     {
-        "added": "2015-10-26T12:54:15.132739",
-        "annotation": "",
-        "entry": "aman",
-        "id": 254293,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254293/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "(the) inside",
-        "word": "/api/v1/word/in/"
-    },
-    {
         "added": "2015-10-26T12:54:06.513299",
         "annotation": "",
         "entry": "aman",
@@ -142,6 +130,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/bow/"
+    },
+    {
+        "added": "2015-10-26T12:54:15.132739",
+        "annotation": "",
+        "entry": "aman",
+        "id": 254293,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254293/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "(the) inside",
+        "word": "/api/v1/word/in/"
     },
     {
         "added": "2015-10-26T12:54:17.748282",
@@ -588,18 +588,6 @@
         "word": "/api/v1/word/earth/"
     },
     {
-        "added": "2015-10-26T12:54:23.041336",
-        "annotation": "",
-        "entry": "car",
-        "id": 256857,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256857/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/you-pl/"
-    },
-    {
         "added": "2015-10-26T12:54:22.757983",
         "annotation": "",
         "entry": "car",
@@ -610,6 +598,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/who/"
+    },
+    {
+        "added": "2015-10-26T12:54:23.041336",
+        "annotation": "",
+        "entry": "car",
+        "id": 256857,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256857/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/you-pl/"
     },
     {
         "added": "2015-10-26T12:54:14.741962",
@@ -912,18 +912,6 @@
         "word": "/api/v1/word/finger/"
     },
     {
-        "added": "2015-10-26T12:54:12.718245",
-        "annotation": "",
-        "entry": "ek",
-        "id": 253833,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253833/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/fruit/"
-    },
-    {
         "added": "2015-10-26T12:54:20.892591",
         "annotation": "",
         "entry": "ek",
@@ -934,6 +922,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2015-10-26T12:54:12.718245",
+        "annotation": "",
+        "entry": "ek",
+        "id": 253833,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253833/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/fruit/"
     },
     {
         "added": "2015-10-26T12:54:14.209380",
@@ -972,18 +972,6 @@
         "word": "/api/v1/word/wife/"
     },
     {
-        "added": "2015-10-26T12:54:20.766474",
-        "annotation": "",
-        "entry": "em-",
-        "id": 256129,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256129/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/to-stand/"
-    },
-    {
         "added": "2015-10-26T12:54:08.725942",
         "annotation": "",
         "entry": "em-",
@@ -994,6 +982,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/to-do-make/"
+    },
+    {
+        "added": "2015-10-26T12:54:20.766474",
+        "annotation": "",
+        "entry": "em-",
+        "id": 256129,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256129/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-stand/"
     },
     {
         "added": "2015-10-26T12:54:06.472915",
@@ -1500,18 +1500,6 @@
         "word": "/api/v1/word/father/"
     },
     {
-        "added": "2015-10-26T12:54:12.913184",
-        "annotation": "",
-        "entry": "imi",
-        "id": 253854,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253854/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/full/"
-    },
-    {
         "added": "2015-10-26T12:54:21.929945",
         "annotation": "",
         "entry": "imi",
@@ -1522,6 +1510,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/top/"
+    },
+    {
+        "added": "2015-10-26T12:54:12.913184",
+        "annotation": "",
+        "entry": "imi",
+        "id": 253854,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253854/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/full/"
     },
     {
         "added": "2015-10-26T12:54:19.820263",
@@ -1560,18 +1560,6 @@
         "word": "/api/v1/word/hornbill/"
     },
     {
-        "added": "2015-10-26T12:54:20.207455",
-        "annotation": "",
-        "entry": "isi",
-        "id": 255962,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255962/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "sleep, to sleep",
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2015-10-26T12:54:16.747678",
         "annotation": "",
         "entry": "isi",
@@ -1582,6 +1570,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/mosquito/"
+    },
+    {
+        "added": "2015-10-26T12:54:20.207455",
+        "annotation": "",
+        "entry": "isi",
+        "id": 255962,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255962/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "sleep, to sleep",
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2015-10-26T12:54:08.923149",
@@ -1884,18 +1884,6 @@
         "word": "/api/v1/word/day/"
     },
     {
-        "added": "2015-10-26T12:54:18.254347",
-        "annotation": "",
-        "entry": "me",
-        "id": 255323,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255323/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "prawn sp.",
-        "word": "/api/v1/word/prawn/"
-    },
-    {
         "added": "2015-10-26T12:54:16.883924",
         "annotation": "",
         "entry": "me",
@@ -1906,6 +1894,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2015-10-26T12:54:18.254347",
+        "annotation": "",
+        "entry": "me",
+        "id": 255323,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255323/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "prawn sp.",
+        "word": "/api/v1/word/prawn/"
     },
     {
         "added": "2015-10-26T12:54:08.274855",
@@ -2148,18 +2148,6 @@
         "word": "/api/v1/word/snot/"
     },
     {
-        "added": "2015-10-26T12:54:17.412134",
-        "annotation": "",
-        "entry": "miw",
-        "id": 255031,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255031/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/nipa-fruit/"
-    },
-    {
         "added": "2015-10-26T12:54:13.082475",
         "annotation": "",
         "entry": "miw",
@@ -2170,6 +2158,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/ghost/"
+    },
+    {
+        "added": "2015-10-26T12:54:17.412134",
+        "annotation": "",
+        "entry": "miw",
+        "id": 255031,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255031/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/nipa-fruit/"
     },
     {
         "added": "2015-10-26T12:54:15.036898",
@@ -2184,18 +2184,6 @@
         "word": "/api/v1/word/husband/"
     },
     {
-        "added": "2015-10-26T12:54:22.418061",
-        "annotation": "",
-        "entry": "mo-",
-        "id": 256659,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256659/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/to-vomit/"
-    },
-    {
         "added": "2015-10-26T12:54:08.364128",
         "annotation": "",
         "entry": "mo-",
@@ -2206,6 +2194,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/to-cut-down/"
+    },
+    {
+        "added": "2015-10-26T12:54:22.418061",
+        "annotation": "",
+        "entry": "mo-",
+        "id": 256659,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256659/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-vomit/"
     },
     {
         "added": "2015-10-26T12:54:22.648228",
@@ -2316,18 +2316,6 @@
         "word": "/api/v1/word/raw/"
     },
     {
-        "added": "2015-10-26T12:54:19.724737",
-        "annotation": "",
-        "entry": "nam",
-        "id": 255813,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255813/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "sick",
-        "word": "/api/v1/word/to-be-sick/"
-    },
-    {
         "added": "2015-10-26T12:54:06.334039",
         "annotation": "",
         "entry": "nam",
@@ -2338,6 +2326,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/body/"
+    },
+    {
+        "added": "2015-10-26T12:54:19.724737",
+        "annotation": "",
+        "entry": "nam",
+        "id": 255813,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255813/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "sick",
+        "word": "/api/v1/word/to-be-sick/"
     },
     {
         "added": "2015-10-26T12:54:20.293660",
@@ -3096,18 +3096,6 @@
         "word": "/api/v1/word/ripe/"
     },
     {
-        "added": "2015-10-26T12:54:16.606495",
-        "annotation": "",
-        "entry": "po",
-        "id": 254756,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254756/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/midrib/"
-    },
-    {
         "added": "2015-10-26T12:54:17.768776",
         "annotation": "",
         "entry": "po",
@@ -3118,6 +3106,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/paddle/"
+    },
+    {
+        "added": "2015-10-26T12:54:16.606495",
+        "annotation": "",
+        "entry": "po",
+        "id": 254756,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254756/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/midrib/"
     },
     {
         "added": "2015-10-26T12:54:06.412681",
@@ -3252,18 +3252,6 @@
         "word": "/api/v1/word/high-tide/"
     },
     {
-        "added": "2015-10-26T12:54:09.805398",
-        "annotation": "",
-        "entry": "sa",
-        "id": 253353,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253353/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2015-10-26T12:54:09.051033",
         "annotation": "",
         "entry": "sa",
@@ -3274,6 +3262,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/dry/"
+    },
+    {
+        "added": "2015-10-26T12:54:09.805398",
+        "annotation": "",
+        "entry": "sa",
+        "id": 253353,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253353/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2015-10-26T12:54:08.382694",
@@ -3420,18 +3420,6 @@
         "word": "/api/v1/word/dry-meat/"
     },
     {
-        "added": "2015-10-26T12:54:08.710269",
-        "annotation": "",
-        "entry": "sey",
-        "id": 253097,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253097/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/distribution/"
-    },
-    {
         "added": "2015-10-26T12:54:19.657084",
         "annotation": "",
         "entry": "sey",
@@ -3444,16 +3432,16 @@
         "word": "/api/v1/word/shoulder/"
     },
     {
-        "added": "2015-10-26T12:54:18.181159",
+        "added": "2015-10-26T12:54:08.710269",
         "annotation": "",
-        "entry": "si-",
-        "id": 255298,
+        "entry": "sey",
+        "id": 253097,
         "language": "/api/v1/language/asmat-central-simai-ayam/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/255298/",
+        "resource_uri": "/api/v1/lexicon/253097/",
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
-        "word": "/api/v1/word/to-plait/"
+        "word": "/api/v1/word/distribution/"
     },
     {
         "added": "2015-10-26T12:54:08.639844",
@@ -3466,6 +3454,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/to-dig/"
+    },
+    {
+        "added": "2015-10-26T12:54:18.181159",
+        "annotation": "",
+        "entry": "si-",
+        "id": 255298,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255298/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-plait/"
     },
     {
         "added": "2015-10-26T12:54:08.081250",
@@ -3864,18 +3864,6 @@
         "word": "/api/v1/word/son/"
     },
     {
-        "added": "2015-10-26T12:54:14.918764",
-        "annotation": "",
-        "entry": "to",
-        "id": 254249,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254249/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "hungry",
-        "word": "/api/v1/word/to-be-hungry/"
-    },
-    {
         "added": "2015-10-26T12:54:21.677971",
         "annotation": "",
         "entry": "to",
@@ -3886,6 +3874,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/tomorrow/"
+    },
+    {
+        "added": "2015-10-26T12:54:14.918764",
+        "annotation": "",
+        "entry": "to",
+        "id": 254249,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254249/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "hungry",
+        "word": "/api/v1/word/to-be-hungry/"
     },
     {
         "added": "2015-10-26T12:54:07.744524",
@@ -4116,18 +4116,6 @@
         "word": "/api/v1/word/louse/"
     },
     {
-        "added": "2015-10-26T12:54:21.638890",
-        "annotation": "",
-        "entry": "wow",
-        "id": 256413,
-        "language": "/api/v1/language/asmat-central-simai-ayam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256413/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/today/"
-    },
-    {
         "added": "2015-10-26T12:54:07.285667",
         "annotation": "",
         "entry": "wow",
@@ -4138,6 +4126,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/carving/"
+    },
+    {
+        "added": "2015-10-26T12:54:21.638890",
+        "annotation": "",
+        "entry": "wow",
+        "id": 256413,
+        "language": "/api/v1/language/asmat-central-simai-ayam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256413/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/today/"
     },
     {
         "added": "2015-10-26T12:54:07.430172",
@@ -4268,8 +4268,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/252591/",
         "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "to call",
-        "word": "/api/v1/word/call/"
+        "source_gloss": "to call out",
+        "word": "/api/v1/word/to-call-out/"
     },
     {
         "added": "2015-10-26T12:54:07.446847",

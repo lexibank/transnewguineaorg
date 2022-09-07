@@ -252,18 +252,6 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2019-03-19T04:20:00.889327",
-        "annotation": null,
-        "entry": "'\u025br",
-        "id": 260733,
-        "language": "/api/v1/language/kui-kiramang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260733/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/night/"
-    },
-    {
         "added": "2019-03-19T04:20:00.844728",
         "annotation": null,
         "entry": "'\u025br",
@@ -271,6 +259,18 @@
         "language": "/api/v1/language/kui-kiramang/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/260731/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2019-03-19T04:20:00.889327",
+        "annotation": null,
+        "entry": "'\u025br",
+        "id": 260733,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260733/",
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/night/"
@@ -840,18 +840,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2013-11-10T01:20:56.284634",
-        "annotation": "",
-        "entry": "n'uku",
-        "id": 37711,
-        "language": "/api/v1/language/kui-kiramang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37711/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/friend/"
-    },
-    {
         "added": "2013-11-10T01:20:56.672524",
         "annotation": "",
         "entry": "n'uku",
@@ -862,6 +850,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-11-10T01:20:56.284634",
+        "annotation": "",
+        "entry": "n'uku",
+        "id": 37711,
+        "language": "/api/v1/language/kui-kiramang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/37711/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/friend/"
     },
     {
         "added": "2013-11-10T01:20:56.621092",

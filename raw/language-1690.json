@@ -216,18 +216,6 @@
         "word": "/api/v1/word/feather/"
     },
     {
-        "added": "2018-05-24T02:44:41.052691",
-        "annotation": "",
-        "entry": "api-",
-        "id": 259607,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259607/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "hold in hand",
-        "word": "/api/v1/word/to-hold/"
-    },
-    {
         "added": "2018-05-24T02:44:38.598375",
         "annotation": "",
         "entry": "api-",
@@ -238,6 +226,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "take",
         "word": "/api/v1/word/to-take/"
+    },
+    {
+        "added": "2018-05-24T02:44:41.052691",
+        "annotation": "",
+        "entry": "api-",
+        "id": 259607,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259607/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "hold in hand",
+        "word": "/api/v1/word/to-hold/"
     },
     {
         "added": "2018-05-24T02:44:30.894899",
@@ -264,18 +264,6 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2018-05-24T02:44:23.719724",
-        "annotation": "",
-        "entry": "arawa-",
-        "id": 257355,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257355/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "wife",
-        "word": "/api/v1/word/wife/"
-    },
-    {
         "added": "2018-05-24T02:44:23.608852",
         "annotation": "",
         "entry": "arawa-",
@@ -286,6 +274,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "husband",
         "word": "/api/v1/word/husband/"
+    },
+    {
+        "added": "2018-05-24T02:44:23.719724",
+        "annotation": "",
+        "entry": "arawa-",
+        "id": 257355,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257355/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "wife",
+        "word": "/api/v1/word/wife/"
     },
     {
         "added": "2018-05-24T02:44:25.852105",
@@ -300,18 +300,6 @@
         "word": "/api/v1/word/chin-jaw/"
     },
     {
-        "added": "2018-05-24T02:44:24.134160",
-        "annotation": "",
-        "entry": "ari-",
-        "id": 257406,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257406/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "\"sibling, s.sex, younger\"",
-        "word": "/api/v1/word/sibling-same-sex-younger/"
-    },
-    {
         "added": "2018-05-24T02:44:24.027791",
         "annotation": "",
         "entry": "ari-",
@@ -322,6 +310,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "\"sibling, s.sex, older\"",
         "word": "/api/v1/word/sibling-same-sex-older/"
+    },
+    {
+        "added": "2018-05-24T02:44:24.134160",
+        "annotation": "",
+        "entry": "ari-",
+        "id": 257406,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257406/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "\"sibling, s.sex, younger\"",
+        "word": "/api/v1/word/sibling-same-sex-younger/"
     },
     {
         "added": "2018-05-24T02:44:43.918215",
@@ -564,18 +564,6 @@
         "word": "/api/v1/word/to-pour-out/"
     },
     {
-        "added": "2018-05-24T02:44:24.543647",
-        "annotation": "",
-        "entry": "ia",
-        "id": 257461,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257461/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "he",
-        "word": "/api/v1/word/he-she/"
-    },
-    {
         "added": "2018-05-24T02:44:24.628417",
         "annotation": "",
         "entry": "ia",
@@ -586,6 +574,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "we incl.",
         "word": "/api/v1/word/we-incl/"
+    },
+    {
+        "added": "2018-05-24T02:44:24.543647",
+        "annotation": "",
+        "entry": "ia",
+        "id": 257461,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257461/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "he",
+        "word": "/api/v1/word/he-she/"
     },
     {
         "added": "2018-05-24T02:44:39.333486",
@@ -1020,18 +1020,6 @@
         "word": "/api/v1/word/salt/"
     },
     {
-        "added": "2018-05-24T02:44:25.541251",
-        "annotation": "",
-        "entry": "kea-",
-        "id": 257589,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257589/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "ear",
-        "word": "/api/v1/word/ear/"
-    },
-    {
         "added": "2018-05-24T02:44:38.021316",
         "annotation": "",
         "entry": "kea-",
@@ -1042,6 +1030,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "call out",
         "word": "/api/v1/word/to-call-out/"
+    },
+    {
+        "added": "2018-05-24T02:44:25.541251",
+        "annotation": "",
+        "entry": "kea-",
+        "id": 257589,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257589/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
     },
     {
         "added": "2018-05-24T02:44:35.322052",
@@ -1296,18 +1296,6 @@
         "word": "/api/v1/word/rope/"
     },
     {
-        "added": "2018-05-24T02:44:30.263727",
-        "annotation": "",
-        "entry": "kovu",
-        "id": 258156,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258156/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "round water pond",
-        "word": "/api/v1/word/pond/"
-    },
-    {
         "added": "2018-05-24T02:44:31.379375",
         "annotation": "",
         "entry": "kovu",
@@ -1318,6 +1306,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "smoke",
         "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2018-05-24T02:44:30.263727",
+        "annotation": "",
+        "entry": "kovu",
+        "id": 258156,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258156/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "round water pond",
+        "word": "/api/v1/word/pond/"
     },
     {
         "added": "2018-05-24T02:44:32.237760",
@@ -1368,18 +1368,6 @@
         "word": "/api/v1/word/to-bury/"
     },
     {
-        "added": "2018-05-24T02:44:32.501421",
-        "annotation": "",
-        "entry": "kulokulo",
-        "id": 258448,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258448/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "kunai",
-        "word": "/api/v1/word/kunai/"
-    },
-    {
         "added": "2018-05-24T02:44:36.179497",
         "annotation": "",
         "entry": "kulokulo",
@@ -1390,6 +1378,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "white",
         "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2018-05-24T02:44:32.501421",
+        "annotation": "",
+        "entry": "kulokulo",
+        "id": 258448,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258448/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "kunai",
+        "word": "/api/v1/word/kunai/"
     },
     {
         "added": "2018-05-24T02:44:37.082086",
@@ -1416,18 +1416,6 @@
         "word": "/api/v1/word/short/"
     },
     {
-        "added": "2018-05-24T02:44:29.632489",
-        "annotation": "",
-        "entry": "kupa",
-        "id": 258078,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258078/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2018-05-24T02:44:29.300770",
         "annotation": "",
         "entry": "kupa",
@@ -1438,6 +1426,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "sky",
         "word": "/api/v1/word/sky/"
+    },
+    {
+        "added": "2018-05-24T02:44:29.632489",
+        "annotation": "",
+        "entry": "kupa",
+        "id": 258078,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258078/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
     },
     {
         "added": "2018-05-24T02:44:28.562667",
@@ -2208,18 +2208,6 @@
         "word": "/api/v1/word/wet/"
     },
     {
-        "added": "2018-05-24T02:44:46.148643",
-        "annotation": "",
-        "entry": "oi",
-        "id": 260339,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260339/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "together with",
-        "word": "/api/v1/word/with/"
-    },
-    {
         "added": "2018-05-24T02:44:24.437452",
         "annotation": "",
         "entry": "oi",
@@ -2230,6 +2218,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "you (sing.",
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2018-05-24T02:44:46.148643",
+        "annotation": "",
+        "entry": "oi",
+        "id": 260339,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260339/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "together with",
+        "word": "/api/v1/word/with/"
     },
     {
         "added": "2018-05-24T02:44:30.689841",
@@ -2604,18 +2604,6 @@
         "word": "/api/v1/word/fat/"
     },
     {
-        "added": "2018-05-24T02:44:46.452992",
-        "annotation": "",
-        "entry": "ripa",
-        "id": 260384,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260384/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "understand (language)",
-        "word": "/api/v1/word/to-understand/"
-    },
-    {
         "added": "2018-05-24T02:44:37.329846",
         "annotation": "",
         "entry": "ripa",
@@ -2626,6 +2614,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "right hand",
         "word": "/api/v1/word/right-hand/"
+    },
+    {
+        "added": "2018-05-24T02:44:46.452992",
+        "annotation": "",
+        "entry": "ripa",
+        "id": 260384,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260384/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "understand (language)",
+        "word": "/api/v1/word/to-understand/"
     },
     {
         "added": "2018-05-24T02:44:26.798947",
@@ -2760,18 +2760,6 @@
         "word": "/api/v1/word/black/"
     },
     {
-        "added": "2018-05-24T02:44:45.341548",
-        "annotation": "",
-        "entry": "that + ai",
-        "id": 260231,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260231/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "there (distant)",
-        "word": "/api/v1/word/there-distant/"
-    },
-    {
         "added": "2018-05-24T02:44:45.284332",
         "annotation": "",
         "entry": "that + ai",
@@ -2782,6 +2770,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "there (lohap)",
         "word": "/api/v1/word/there-lohap/"
+    },
+    {
+        "added": "2018-05-24T02:44:45.341548",
+        "annotation": "",
+        "entry": "that + ai",
+        "id": 260231,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260231/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "there (distant)",
+        "word": "/api/v1/word/there-distant/"
     },
     {
         "added": "2018-05-24T02:44:45.204567",
@@ -2880,18 +2880,6 @@
         "word": "/api/v1/word/blunt-eg-knife/"
     },
     {
-        "added": "2018-05-24T02:44:44.653437",
-        "annotation": "",
-        "entry": "\u0263uu-",
-        "id": 260133,
-        "language": "/api/v1/language/hula/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260133/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2018-05-24T02:44:43.663407",
         "annotation": "",
         "entry": "\u0263uu-",
@@ -2902,6 +2890,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "draw water",
         "word": "/api/v1/word/to-draw-water/"
+    },
+    {
+        "added": "2018-05-24T02:44:44.653437",
+        "annotation": "",
+        "entry": "\u0263uu-",
+        "id": 260133,
+        "language": "/api/v1/language/hula/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260133/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
     },
     {
         "added": "2018-05-24T02:44:46.515964",

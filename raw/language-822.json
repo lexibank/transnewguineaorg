@@ -288,18 +288,6 @@
         "word": "/api/v1/word/root/"
     },
     {
-        "added": "2014-04-10T20:22:32.256586",
-        "annotation": "(his) hand",
-        "entry": "dz\u00e2t-",
-        "id": 91500,
-        "language": "/api/v1/language/mindik/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91500/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(his) hand",
-        "word": "/api/v1/word/hand/"
-    },
-    {
         "added": "2014-04-10T20:22:32.325426",
         "annotation": "(its) tooth",
         "entry": "dz\u00e2t-",
@@ -310,6 +298,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(its) tooth",
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.256586",
+        "annotation": "(his) hand",
+        "entry": "dz\u00e2t-",
+        "id": 91500,
+        "language": "/api/v1/language/mindik/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91500/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(his) hand",
+        "word": "/api/v1/word/hand/"
     },
     {
         "added": "2014-04-10T20:22:34.012042",
@@ -540,18 +540,6 @@
         "word": "/api/v1/word/back/"
     },
     {
-        "added": "2014-04-10T20:22:29.547341",
-        "annotation": "thou",
-        "entry": "gi",
-        "id": 90464,
-        "language": "/api/v1/language/mindik/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90464/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "thou",
-        "word": "/api/v1/word/thou/"
-    },
-    {
         "added": "2014-07-30T23:28:44.853990",
         "annotation": null,
         "entry": "gi",
@@ -562,6 +550,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "you",
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2014-04-10T20:22:29.547341",
+        "annotation": "thou",
+        "entry": "gi",
+        "id": 90464,
+        "language": "/api/v1/language/mindik/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90464/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "thou",
+        "word": "/api/v1/word/thou/"
     },
     {
         "added": "2014-04-10T20:22:31.132038",
@@ -708,18 +708,6 @@
         "word": "/api/v1/word/he-she/"
     },
     {
-        "added": "2014-04-10T20:22:32.031429",
-        "annotation": "louse",
-        "entry": "imin",
-        "id": 91416,
-        "language": "/api/v1/language/mindik/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91416/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2014-07-30T23:28:40.939703",
         "annotation": null,
         "entry": "imin",
@@ -728,6 +716,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/158839/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.031429",
+        "annotation": "louse",
+        "entry": "imin",
+        "id": 91416,
+        "language": "/api/v1/language/mindik/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91416/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "louse",
         "word": "/api/v1/word/louse/"
     },
@@ -888,18 +888,6 @@
         "word": "/api/v1/word/warm/"
     },
     {
-        "added": "2014-04-10T20:22:32.876333",
-        "annotation": "left side",
-        "entry": "kani",
-        "id": 91752,
-        "language": "/api/v1/language/mindik/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91752/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "left side",
-        "word": "/api/v1/word/left-side/"
-    },
-    {
         "added": "2014-07-30T23:28:42.396880",
         "annotation": null,
         "entry": "kani",
@@ -910,6 +898,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "left-hand",
         "word": "/api/v1/word/left-hand/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.876333",
+        "annotation": "left side",
+        "entry": "kani",
+        "id": 91752,
+        "language": "/api/v1/language/mindik/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91752/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "left side",
+        "word": "/api/v1/word/left-side/"
     },
     {
         "added": "2014-04-10T20:22:30.348280",
@@ -948,18 +948,6 @@
         "word": "/api/v1/word/seed/"
     },
     {
-        "added": "2014-07-30T23:28:44.049407",
-        "annotation": null,
-        "entry": "kau",
-        "id": 159833,
-        "language": "/api/v1/language/mindik/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159833/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "ashes",
-        "word": "/api/v1/word/ashes/"
-    },
-    {
         "added": "2014-04-10T20:22:31.785670",
         "annotation": "ashes",
         "entry": "kau",
@@ -968,6 +956,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/91318/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2014-07-30T23:28:44.049407",
+        "annotation": null,
+        "entry": "kau",
+        "id": 159833,
+        "language": "/api/v1/language/mindik/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159833/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "ashes",
         "word": "/api/v1/word/ashes/"
     },
@@ -1044,18 +1044,6 @@
         "word": "/api/v1/word/ear/"
     },
     {
-        "added": "2014-04-10T20:22:32.066316",
-        "annotation": "dog",
-        "entry": "kiam",
-        "id": 91430,
-        "language": "/api/v1/language/mindik/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91430/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "dog",
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2014-07-30T23:28:44.460282",
         "annotation": null,
         "entry": "kiam",
@@ -1068,16 +1056,16 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2014-07-30T23:28:42.734510",
-        "annotation": null,
-        "entry": "kie",
-        "id": 159409,
+        "added": "2014-04-10T20:22:32.066316",
+        "annotation": "dog",
+        "entry": "kiam",
+        "id": 91430,
         "language": "/api/v1/language/mindik/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/159409/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
+        "resource_uri": "/api/v1/lexicon/91430/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "dog",
+        "word": "/api/v1/word/dog/"
     },
     {
         "added": "2014-04-10T20:22:30.558784",
@@ -1088,6 +1076,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/90856/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-07-30T23:28:42.734510",
+        "annotation": null,
+        "entry": "kie",
+        "id": 159409,
+        "language": "/api/v1/language/mindik/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159409/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -1740,18 +1740,6 @@
         "word": "/api/v1/word/i/"
     },
     {
-        "added": "2014-07-30T23:28:36.846931",
-        "annotation": null,
-        "entry": "ni",
-        "id": 157561,
-        "language": "/api/v1/language/mindik/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157561/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "we",
-        "word": "/api/v1/word/we/"
-    },
-    {
         "added": "2014-04-10T20:22:29.480225",
         "annotation": "I",
         "entry": "ni",
@@ -1762,6 +1750,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "I",
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2014-07-30T23:28:36.846931",
+        "annotation": null,
+        "entry": "ni",
+        "id": 157561,
+        "language": "/api/v1/language/mindik/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157561/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "we",
+        "word": "/api/v1/word/we/"
     },
     {
         "added": "2014-04-10T20:22:30.167083",

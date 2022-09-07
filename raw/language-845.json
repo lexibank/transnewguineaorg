@@ -168,18 +168,6 @@
         "word": "/api/v1/word/to-hold/"
     },
     {
-        "added": "2018-05-24T02:44:37.630229",
-        "annotation": "",
-        "entry": "a-nE-",
-        "id": 259168,
-        "language": "/api/v1/language/humene/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259168/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "drink",
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2018-05-24T02:44:37.543611",
         "annotation": "",
         "entry": "a-nE-",
@@ -190,6 +178,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "eat",
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2018-05-24T02:44:37.630229",
+        "annotation": "",
+        "entry": "a-nE-",
+        "id": 259168,
+        "language": "/api/v1/language/humene/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259168/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2018-05-24T02:44:39.629346",
@@ -1464,18 +1464,6 @@
         "word": "/api/v1/word/thigh/"
     },
     {
-        "added": "2018-05-24T02:44:30.707279",
-        "annotation": "",
-        "entry": "\u02c8mava",
-        "id": 258209,
-        "language": "/api/v1/language/humene/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258209/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "mountain",
-        "word": "/api/v1/word/mountain/"
-    },
-    {
         "added": "2018-05-24T02:44:33.762826",
         "annotation": "",
         "entry": "\u02c8mava",
@@ -1486,6 +1474,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "feather",
         "word": "/api/v1/word/feather/"
+    },
+    {
+        "added": "2018-05-24T02:44:30.707279",
+        "annotation": "",
+        "entry": "\u02c8mava",
+        "id": 258209,
+        "language": "/api/v1/language/humene/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258209/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
     },
     {
         "added": "2018-05-24T02:44:40.789696",
@@ -1968,18 +1968,6 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2018-05-24T02:44:46.460485",
-        "annotation": "",
-        "entry": "ohi-nE-",
-        "id": 260385,
-        "language": "/api/v1/language/humene/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260385/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "understand (language)",
-        "word": "/api/v1/word/to-understand/"
-    },
-    {
         "added": "2018-05-24T02:44:39.444857",
         "annotation": "",
         "entry": "ohi-nE-",
@@ -1990,6 +1978,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "hear",
         "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2018-05-24T02:44:46.460485",
+        "annotation": "",
+        "entry": "ohi-nE-",
+        "id": 260385,
+        "language": "/api/v1/language/humene/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260385/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "understand (language)",
+        "word": "/api/v1/word/to-understand/"
     },
     {
         "added": "2018-05-24T02:44:22.924664",
@@ -2064,18 +2064,6 @@
         "word": "/api/v1/word/to-come/"
     },
     {
-        "added": "2018-05-24T02:44:38.261129",
-        "annotation": "",
-        "entry": "onamE-",
-        "id": 259258,
-        "language": "/api/v1/language/humene/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259258/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "walk",
-        "word": "/api/v1/word/to-walk/"
-    },
-    {
         "added": "2018-05-24T02:44:40.639057",
         "annotation": "",
         "entry": "onamE-",
@@ -2086,6 +2074,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "go",
         "word": "/api/v1/word/go/"
+    },
+    {
+        "added": "2018-05-24T02:44:38.261129",
+        "annotation": "",
+        "entry": "onamE-",
+        "id": 259258,
+        "language": "/api/v1/language/humene/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259258/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "walk",
+        "word": "/api/v1/word/to-walk/"
     },
     {
         "added": "2018-05-24T02:44:25.966530",
@@ -2352,18 +2352,6 @@
         "word": "/api/v1/word/womans-clothes-pulpul/"
     },
     {
-        "added": "2018-05-24T02:44:45.290494",
-        "annotation": "",
-        "entry": "that + de",
-        "id": 260223,
-        "language": "/api/v1/language/humene/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260223/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "there (lohap)",
-        "word": "/api/v1/word/there-lohap/"
-    },
-    {
         "added": "2018-05-24T02:44:45.348148",
         "annotation": "",
         "entry": "that + de",
@@ -2374,6 +2362,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "there (distant)",
         "word": "/api/v1/word/there-distant/"
+    },
+    {
+        "added": "2018-05-24T02:44:45.290494",
+        "annotation": "",
+        "entry": "that + de",
+        "id": 260223,
+        "language": "/api/v1/language/humene/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260223/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "there (lohap)",
+        "word": "/api/v1/word/there-lohap/"
     },
     {
         "added": "2018-05-24T02:44:45.212594",

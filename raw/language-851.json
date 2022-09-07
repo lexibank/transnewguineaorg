@@ -1296,18 +1296,6 @@
         "word": "/api/v1/word/fence/"
     },
     {
-        "added": "2018-05-24T02:44:25.911729",
-        "annotation": "",
-        "entry": "\u02c8kuri",
-        "id": 257637,
-        "language": "/api/v1/language/doromu-aramaika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257637/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "throat",
-        "word": "/api/v1/word/throat/"
-    },
-    {
         "added": "2018-05-24T02:44:26.008368",
         "annotation": "",
         "entry": "\u02c8kuri",
@@ -1318,6 +1306,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "nape",
         "word": "/api/v1/word/nape/"
+    },
+    {
+        "added": "2018-05-24T02:44:25.911729",
+        "annotation": "",
+        "entry": "\u02c8kuri",
+        "id": 257637,
+        "language": "/api/v1/language/doromu-aramaika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257637/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "throat",
+        "word": "/api/v1/word/throat/"
     },
     {
         "added": "2018-05-24T02:44:34.817792",
@@ -2532,18 +2532,6 @@
         "word": "/api/v1/word/to-carry/"
     },
     {
-        "added": "2018-05-24T02:44:27.436964",
-        "annotation": "",
-        "entry": "va\u02c8dema",
-        "id": 257817,
-        "language": "/api/v1/language/doromu-aramaika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257817/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "buttocks",
-        "word": "/api/v1/word/buttocks/"
-    },
-    {
         "added": "2018-05-24T02:44:27.661193",
         "annotation": "",
         "entry": "va\u02c8dema",
@@ -2554,6 +2542,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "thigh",
         "word": "/api/v1/word/thigh/"
+    },
+    {
+        "added": "2018-05-24T02:44:27.436964",
+        "annotation": "",
+        "entry": "va\u02c8dema",
+        "id": 257817,
+        "language": "/api/v1/language/doromu-aramaika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257817/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "buttocks",
+        "word": "/api/v1/word/buttocks/"
     },
     {
         "added": "2018-05-24T02:44:42.455749",
@@ -2676,18 +2676,6 @@
         "word": "/api/v1/word/four/"
     },
     {
-        "added": "2018-05-24T02:44:39.116817",
-        "annotation": "",
-        "entry": "vare-",
-        "id": 259341,
-        "language": "/api/v1/language/doromu-aramaika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259341/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "sleep",
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2018-05-24T02:44:39.209056",
         "annotation": "",
         "entry": "vare-",
@@ -2698,6 +2686,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "lie on ground",
         "word": "/api/v1/word/to-lie-on-ground/"
+    },
+    {
+        "added": "2018-05-24T02:44:39.116817",
+        "annotation": "",
+        "entry": "vare-",
+        "id": 259341,
+        "language": "/api/v1/language/doromu-aramaika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259341/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "sleep",
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2018-05-24T02:44:44.473816",
@@ -2760,18 +2760,6 @@
         "word": "/api/v1/word/mouth/"
     },
     {
-        "added": "2018-05-24T02:44:24.393122",
-        "annotation": "",
-        "entry": "ya",
-        "id": 257440,
-        "language": "/api/v1/language/doromu-aramaika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257440/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "you (sing.",
-        "word": "/api/v1/word/you/"
-    },
-    {
         "added": "2018-05-24T02:44:24.669145",
         "annotation": "",
         "entry": "ya",
@@ -2782,6 +2770,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "you (pl.)",
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2018-05-24T02:44:24.393122",
+        "annotation": "",
+        "entry": "ya",
+        "id": 257440,
+        "language": "/api/v1/language/doromu-aramaika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257440/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "you (sing.",
+        "word": "/api/v1/word/you/"
     },
     {
         "added": "2018-05-24T02:44:31.642009",

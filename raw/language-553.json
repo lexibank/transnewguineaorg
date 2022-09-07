@@ -2112,18 +2112,6 @@
         "word": "/api/v1/word/pig/"
     },
     {
-        "added": "2013-11-29T19:34:52.507473",
-        "annotation": "",
-        "entry": "y\u00e1go",
-        "id": 74613,
-        "language": "/api/v1/language/benabena/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74613/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tomorrow/"
-    },
-    {
         "added": "2013-11-29T19:34:54.769296",
         "annotation": "",
         "entry": "y\u00e1go",
@@ -2134,6 +2122,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/yesterday/"
+    },
+    {
+        "added": "2013-11-29T19:34:52.507473",
+        "annotation": "",
+        "entry": "y\u00e1go",
+        "id": 74613,
+        "language": "/api/v1/language/benabena/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74613/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tomorrow/"
     },
     {
         "added": "2013-11-29T19:34:52.313682",

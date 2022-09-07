@@ -936,18 +936,6 @@
         "word": "/api/v1/word/talk-to-you/"
     },
     {
-        "added": "2018-05-24T02:44:24.832754",
-        "annotation": "",
-        "entry": "\u0263ia",
-        "id": 257502,
-        "language": "/api/v1/language/sinaugoro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257502/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "they",
-        "word": "/api/v1/word/they/"
-    },
-    {
         "added": "2018-05-24T02:44:24.580780",
         "annotation": "",
         "entry": "\u0263ia",
@@ -958,6 +946,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "he",
         "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2018-05-24T02:44:24.832754",
+        "annotation": "",
+        "entry": "\u0263ia",
+        "id": 257502,
+        "language": "/api/v1/language/sinaugoro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257502/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "they",
+        "word": "/api/v1/word/they/"
     },
     {
         "added": "2018-05-24T02:44:40.656548",
@@ -1296,18 +1296,6 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2018-05-24T02:44:28.076507",
-        "annotation": "",
-        "entry": "kepi-",
-        "id": 257891,
-        "language": "/api/v1/language/sinaugoro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257891/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "skin",
-        "word": "/api/v1/word/skin/"
-    },
-    {
         "added": "2018-05-24T02:44:32.168238",
         "annotation": "",
         "entry": "kepi-",
@@ -1318,6 +1306,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "bark of tree",
         "word": "/api/v1/word/bark/"
+    },
+    {
+        "added": "2018-05-24T02:44:28.076507",
+        "annotation": "",
+        "entry": "kepi-",
+        "id": 257891,
+        "language": "/api/v1/language/sinaugoro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257891/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "skin",
+        "word": "/api/v1/word/skin/"
     },
     {
         "added": "2018-05-24T02:44:39.021581",
@@ -2820,6 +2820,18 @@
         "word": "/api/v1/word/moon/"
     },
     {
+        "added": "2018-05-24T02:44:25.156889",
+        "annotation": "",
+        "entry": "\u0263ui-",
+        "id": 257542,
+        "language": "/api/v1/language/sinaugoro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257542/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "hair of head",
+        "word": "/api/v1/word/hair/"
+    },
+    {
         "added": "2018-05-24T02:44:33.681413",
         "annotation": "",
         "entry": "\u0263ui-",
@@ -2842,18 +2854,6 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "dog's tail",
         "word": "/api/v1/word/tail/"
-    },
-    {
-        "added": "2018-05-24T02:44:25.156889",
-        "annotation": "",
-        "entry": "\u0263ui-",
-        "id": 257542,
-        "language": "/api/v1/language/sinaugoro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257542/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "hair of head",
-        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2018-05-24T02:44:37.120002",

@@ -84,18 +84,6 @@
         "word": "/api/v1/word/youngerlastborn/"
     },
     {
-        "added": "2013-11-19T03:55:52.326185",
-        "annotation": "ashes",
-        "entry": "amiga",
-        "id": 47595,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/47595/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ashes/"
-    },
-    {
         "added": "2013-06-19T21:59:23.088435",
         "annotation": "",
         "entry": "amiga",
@@ -104,6 +92,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28138/",
         "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2013-11-19T03:55:52.326185",
+        "annotation": "ashes",
+        "entry": "amiga",
+        "id": 47595,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/47595/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/ashes/"
     },
@@ -144,7 +144,7 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2013-11-19T03:56:10.099895",
+        "added": "2022-07-25T22:55:17.888482",
         "annotation": "grandfather",
         "entry": "apije",
         "id": 50771,
@@ -152,8 +152,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50771/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandfather/"
     },
     {
         "added": "2013-11-19T03:55:52.321251",
@@ -348,18 +348,6 @@
         "word": "/api/v1/word/mosquito/"
     },
     {
-        "added": "2013-11-19T03:55:54.533124",
-        "annotation": "bird",
-        "entry": "di",
-        "id": 47999,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/47999/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-11-19T03:56:35.067390",
         "annotation": "tooth",
         "entry": "di",
@@ -370,6 +358,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2013-11-19T03:55:54.533124",
+        "annotation": "bird",
+        "entry": "di",
+        "id": 47999,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/47999/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2013-11-19T03:56:05.059700",
@@ -492,18 +492,6 @@
         "word": "/api/v1/word/man/"
     },
     {
-        "added": "2013-06-19T21:59:23.192526",
-        "annotation": "",
-        "entry": "emi",
-        "id": 28142,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28142/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/breast/"
-    },
-    {
         "added": "2013-11-19T03:55:59.956217",
         "annotation": "club (disc)",
         "entry": "emi",
@@ -524,6 +512,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/48438/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2013-06-19T21:59:23.192526",
+        "annotation": "",
+        "entry": "emi",
+        "id": 28142,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28142/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/breast/"
     },
@@ -696,18 +696,6 @@
         "word": "/api/v1/word/woman/"
     },
     {
-        "added": "2014-07-30T23:28:42.803945",
-        "annotation": null,
-        "entry": "ga",
-        "id": 159432,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159432/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2013-11-19T03:56:24.058360",
         "annotation": "rain",
         "entry": "ga",
@@ -718,6 +706,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-rain/"
+    },
+    {
+        "added": "2014-07-30T23:28:42.803945",
+        "annotation": null,
+        "entry": "ga",
+        "id": 159432,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159432/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
     },
     {
         "added": "2013-06-19T22:01:26.185753",
@@ -840,18 +840,6 @@
         "word": "/api/v1/word/lightning/"
     },
     {
-        "added": "2013-06-19T21:59:23.311359",
-        "annotation": "",
-        "entry": "hariga",
-        "id": 28146,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28146/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/moon/"
-    },
-    {
         "added": "2013-11-19T03:56:17.611371",
         "annotation": "moon",
         "entry": "hariga",
@@ -860,6 +848,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/52056/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2013-06-19T21:59:23.311359",
+        "annotation": "",
+        "entry": "hariga",
+        "id": 28146,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28146/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
     },
@@ -888,18 +888,6 @@
         "word": "/api/v1/word/coconut-mat/"
     },
     {
-        "added": "2013-06-19T21:59:22.443397",
-        "annotation": "",
-        "entry": "hini",
-        "id": 28125,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28125/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/belly/"
-    },
-    {
         "added": "2013-11-19T03:55:53.856303",
         "annotation": "belly",
         "entry": "hini",
@@ -908,6 +896,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/47874/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2013-06-19T21:59:22.443397",
+        "annotation": "",
+        "entry": "hini",
+        "id": 28125,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28125/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/belly/"
     },
@@ -948,18 +948,6 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2013-06-19T21:59:19.698386",
-        "annotation": "",
-        "entry": "hu",
-        "id": 28119,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28119/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2014-07-30T23:28:32.870042",
         "annotation": null,
         "entry": "hu",
@@ -969,6 +957,18 @@
         "resource_uri": "/api/v1/lexicon/156319/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2013-06-19T21:59:19.698386",
+        "annotation": "",
+        "entry": "hu",
+        "id": 28119,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28119/",
+        "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
         "word": "/api/v1/word/hair/"
     },
     {
@@ -1140,18 +1140,6 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2013-11-19T03:56:02.347599",
-        "annotation": "dog",
-        "entry": "in\u0169",
-        "id": 49380,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49380/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2013-06-19T21:59:22.735525",
         "annotation": "",
         "entry": "in\u0169",
@@ -1164,16 +1152,16 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2013-06-19T21:59:23.003673",
-        "annotation": "",
-        "entry": "iposi",
-        "id": 28137,
+        "added": "2013-11-19T03:56:02.347599",
+        "annotation": "dog",
+        "entry": "in\u0169",
+        "id": 49380,
         "language": "/api/v1/language/orokaiva-dobuduru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/28137/",
-        "source": "/api/v1/source/wilson-1969/",
+        "resource_uri": "/api/v1/lexicon/49380/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/smoke/"
+        "word": "/api/v1/word/dog/"
     },
     {
         "added": "2013-11-19T03:56:29.484614",
@@ -1184,6 +1172,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/54196/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2013-06-19T21:59:23.003673",
+        "annotation": "",
+        "entry": "iposi",
+        "id": 28137,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28137/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/smoke/"
     },
@@ -1464,18 +1464,6 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2013-11-19T03:56:31.525366",
-        "annotation": "stone",
-        "entry": "kaluma",
-        "id": 54576,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/54576/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/stone/"
-    },
-    {
         "added": "2013-06-19T21:59:22.769142",
         "annotation": "",
         "entry": "kaluma",
@@ -1484,6 +1472,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28133/",
         "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-11-19T03:56:31.525366",
+        "annotation": "stone",
+        "entry": "kaluma",
+        "id": 54576,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/54576/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
     },
@@ -1572,15 +1572,15 @@
         "word": "/api/v1/word/father/"
     },
     {
-        "added": "2014-07-30T23:28:29.801986",
-        "annotation": null,
+        "added": "2013-11-19T03:56:20.883038",
+        "annotation": "nose",
         "entry": "mbende",
-        "id": 155351,
+        "id": 52640,
         "language": "/api/v1/language/orokaiva-dobuduru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/155351/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "nose",
+        "resource_uri": "/api/v1/lexicon/52640/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/nose/"
     },
     {
@@ -1596,15 +1596,15 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2013-11-19T03:56:20.883038",
-        "annotation": "nose",
+        "added": "2014-07-30T23:28:29.801986",
+        "annotation": null,
         "entry": "mbende",
-        "id": 52640,
+        "id": 155351,
         "language": "/api/v1/language/orokaiva-dobuduru/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/52640/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/155351/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "nose",
         "word": "/api/v1/word/nose/"
     },
     {
@@ -1692,18 +1692,6 @@
         "word": "/api/v1/word/brother/"
     },
     {
-        "added": "2014-07-30T23:28:36.462893",
-        "annotation": null,
-        "entry": "ndi",
-        "id": 157441,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157441/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "bird",
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-11-19T03:55:54.538099",
         "annotation": "bird",
         "entry": "ndi",
@@ -1725,6 +1713,18 @@
         "resource_uri": "/api/v1/lexicon/28130/",
         "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2014-07-30T23:28:36.462893",
+        "annotation": null,
+        "entry": "ndi",
+        "id": 157441,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157441/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "bird",
         "word": "/api/v1/word/bird/"
     },
     {
@@ -1920,18 +1920,6 @@
         "word": "/api/v1/word/knee/"
     },
     {
-        "added": "2013-11-19T03:56:19.016737",
-        "annotation": "mouth",
-        "entry": "pe",
-        "id": 52312,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/52312/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/mouth/"
-    },
-    {
         "added": "2013-06-19T21:59:22.139143",
         "annotation": "",
         "entry": "pe",
@@ -1940,6 +1928,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28121/",
         "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2013-11-19T03:56:19.016737",
+        "annotation": "mouth",
+        "entry": "pe",
+        "id": 52312,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/52312/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/mouth/"
     },
@@ -2100,6 +2100,18 @@
         "word": "/api/v1/word/star/"
     },
     {
+        "added": "2013-11-19T03:56:35.072413",
+        "annotation": "tooth",
+        "entry": "ti",
+        "id": 55236,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/55236/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
+    },
+    {
         "added": "2013-06-19T21:59:23.175940",
         "annotation": "",
         "entry": "ti",
@@ -2124,18 +2136,6 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2013-11-19T03:56:35.072413",
-        "annotation": "tooth",
-        "entry": "ti",
-        "id": 55236,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/55236/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2013-06-19T21:59:22.365116",
         "annotation": "",
         "entry": "tihi",
@@ -2144,18 +2144,6 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28123/",
         "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
-        "added": "2013-11-19T03:56:05.064942",
-        "annotation": "eye",
-        "entry": "tihi",
-        "id": 49873,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49873/",
-        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
@@ -2169,6 +2157,18 @@
         "resource_uri": "/api/v1/lexicon/156948/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "eye",
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2013-11-19T03:56:05.064942",
+        "annotation": "eye",
+        "entry": "tihi",
+        "id": 49873,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/49873/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
     {
@@ -2196,18 +2196,6 @@
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2013-06-19T21:59:22.416489",
-        "annotation": "",
-        "entry": "tupo",
-        "id": 28124,
-        "language": "/api/v1/language/orokaiva-dobuduru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28124/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/neck/"
-    },
-    {
         "added": "2013-11-19T03:56:34.279811",
         "annotation": "neck",
         "entry": "tupo",
@@ -2218,6 +2206,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/throat/"
+    },
+    {
+        "added": "2013-06-19T21:59:22.416489",
+        "annotation": "",
+        "entry": "tupo",
+        "id": 28124,
+        "language": "/api/v1/language/orokaiva-dobuduru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28124/",
+        "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/neck/"
     },
     {
         "added": "2013-11-19T03:56:27.133073",

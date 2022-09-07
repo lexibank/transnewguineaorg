@@ -456,18 +456,6 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2013-05-27T07:04:03.965296",
-        "annotation": "",
-        "entry": "*-fe",
-        "id": 14895,
-        "language": "/api/v1/language/proto-koiarian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14895/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/locative-noun-suffix-at-to-from/"
-    },
-    {
         "added": "2013-05-27T07:04:03.922197",
         "annotation": "",
         "entry": "*-fe",
@@ -478,6 +466,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/immediate-imperative-plural-verb-suffix/"
+    },
+    {
+        "added": "2013-05-27T07:04:03.965296",
+        "annotation": "",
+        "entry": "*-fe",
+        "id": 14895,
+        "language": "/api/v1/language/proto-koiarian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14895/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/locative-noun-suffix-at-to-from/"
     },
     {
         "added": "2013-05-27T07:04:04.002432",
@@ -572,8 +572,20 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14987/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.399647",
+        "annotation": "",
+        "entry": "*i-",
+        "id": 260774,
+        "language": "/api/v1/language/proto-koiarian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260774/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2014-04-14T07:57:45.201714",
@@ -848,8 +860,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15141/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interrogative-particle/"
+        "source_gloss": "interrogative particle",
+        "word": "/api/v1/word/interrogative/"
     },
     {
         "added": "2013-05-27T07:04:09.121092",
@@ -1116,18 +1128,6 @@
         "word": "/api/v1/word/cassowary/"
     },
     {
-        "added": "2013-05-27T07:04:12.721286",
-        "annotation": "",
-        "entry": "*tumu-",
-        "id": 15301,
-        "language": "/api/v1/language/proto-koiarian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15301/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-scratch/"
-    },
-    {
         "added": "2013-05-27T07:04:12.808550",
         "annotation": "",
         "entry": "*tumu-",
@@ -1138,6 +1138,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/to-tie/"
+    },
+    {
+        "added": "2013-05-27T07:04:12.721286",
+        "annotation": "",
+        "entry": "*tumu-",
+        "id": 15301,
+        "language": "/api/v1/language/proto-koiarian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15301/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-scratch/"
     },
     {
         "added": "2013-05-27T07:04:12.958016",

@@ -84,18 +84,6 @@
         "word": "/api/v1/word/to-lie-down/"
     },
     {
-        "added": "2015-10-26T12:54:22.201116",
-        "annotation": "",
-        "entry": "amin",
-        "id": 256590,
-        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256590/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/two/"
-    },
-    {
         "added": "2015-10-26T12:54:06.571233",
         "annotation": "",
         "entry": "amin",
@@ -106,6 +94,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/bow/"
+    },
+    {
+        "added": "2015-10-26T12:54:22.201116",
+        "annotation": "",
+        "entry": "amin",
+        "id": 256590,
+        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256590/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/two/"
     },
     {
         "added": "2015-10-26T12:54:19.009937",
@@ -288,18 +288,6 @@
         "word": "/api/v1/word/heart/"
     },
     {
-        "added": "2015-10-26T12:54:08.150502",
-        "annotation": "",
-        "entry": "ee",
-        "id": 252934,
-        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/252934/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/crocodile/"
-    },
-    {
         "added": "2015-10-26T12:54:15.780115",
         "annotation": "",
         "entry": "ee",
@@ -310,6 +298,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2015-10-26T12:54:08.150502",
+        "annotation": "",
+        "entry": "ee",
+        "id": 252934,
+        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252934/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/crocodile/"
     },
     {
         "added": "2015-10-26T12:54:10.802642",
@@ -600,18 +600,6 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2015-10-26T12:54:05.316947",
-        "annotation": "",
-        "entry": "fira",
-        "id": 251993,
-        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/251993/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/arrow/"
-    },
-    {
         "added": "2015-10-26T12:54:19.432581",
         "annotation": "",
         "entry": "fira",
@@ -622,6 +610,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "shaft of arrow",
         "word": "/api/v1/word/arrow-shaft/"
+    },
+    {
+        "added": "2015-10-26T12:54:05.316947",
+        "annotation": "",
+        "entry": "fira",
+        "id": 251993,
+        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/251993/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/arrow/"
     },
     {
         "added": "2015-10-26T12:54:17.077668",
@@ -1560,18 +1560,6 @@
         "word": "/api/v1/word/to-smell/"
     },
     {
-        "added": "2015-10-26T12:54:19.371080",
-        "annotation": "",
-        "entry": "pir",
-        "id": 255693,
-        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255693/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/sea-side-west/"
-    },
-    {
         "added": "2015-10-26T12:54:16.664720",
         "annotation": "",
         "entry": "pir",
@@ -1582,6 +1570,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2015-10-26T12:54:19.371080",
+        "annotation": "",
+        "entry": "pir",
+        "id": 255693,
+        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255693/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/sea-side-west/"
     },
     {
         "added": "2015-10-26T12:54:20.076538",
@@ -1824,18 +1824,6 @@
         "word": "/api/v1/word/one/"
     },
     {
-        "added": "2015-10-26T12:54:16.720120",
-        "annotation": "",
-        "entry": "tam",
-        "id": 254794,
-        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254794/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/morning/"
-    },
-    {
         "added": "2015-10-26T12:54:14.855953",
         "annotation": "",
         "entry": "tam",
@@ -1846,6 +1834,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2015-10-26T12:54:16.720120",
+        "annotation": "",
+        "entry": "tam",
+        "id": 254794,
+        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254794/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/morning/"
     },
     {
         "added": "2015-10-26T12:54:18.871394",
@@ -2456,8 +2456,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/252594/",
         "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "to call",
-        "word": "/api/v1/word/call/"
+        "source_gloss": "to call out",
+        "word": "/api/v1/word/to-call-out/"
     },
     {
         "added": "2015-10-26T12:54:22.290119",
@@ -2544,18 +2544,6 @@
         "word": "/api/v1/word/man/"
     },
     {
-        "added": "2015-10-26T12:54:14.651757",
-        "annotation": "",
-        "entry": "yir",
-        "id": 254194,
-        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254194/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/hornbill/"
-    },
-    {
         "added": "2015-10-26T12:54:13.001020",
         "annotation": "",
         "entry": "yir",
@@ -2566,6 +2554,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/gall/"
+    },
+    {
+        "added": "2015-10-26T12:54:14.651757",
+        "annotation": "",
+        "entry": "yir",
+        "id": 254194,
+        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254194/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/hornbill/"
     },
     {
         "added": "2015-10-26T12:54:16.254399",
@@ -2604,18 +2604,6 @@
         "word": "/api/v1/word/to-give-an-order/"
     },
     {
-        "added": "2015-10-26T12:54:10.953188",
-        "annotation": "",
-        "entry": "yisa",
-        "id": 253554,
-        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253554/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/fire/"
-    },
-    {
         "added": "2015-10-26T12:54:11.269214",
         "annotation": "",
         "entry": "yisa",
@@ -2626,6 +2614,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "firewood, fire",
         "word": "/api/v1/word/firewood/"
+    },
+    {
+        "added": "2015-10-26T12:54:10.953188",
+        "annotation": "",
+        "entry": "yisa",
+        "id": 253554,
+        "language": "/api/v1/language/asmat-casuarina-coast-pirimapun/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253554/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2015-10-26T12:54:20.441426",

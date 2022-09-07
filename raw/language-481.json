@@ -408,7 +408,7 @@
         "word": "/api/v1/word/spear-n/"
     },
     {
-        "added": "2013-11-19T03:56:36.500302",
+        "added": "2022-07-25T22:17:45.654135",
         "annotation": "tree top",
         "entry": "'gombu",
         "id": 55500,
@@ -417,7 +417,7 @@
         "resource_uri": "/api/v1/lexicon/55500/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/upper-part-of-tree/"
+        "word": "/api/v1/word/tree-top/"
     },
     {
         "added": "2013-11-19T03:56:15.787485",

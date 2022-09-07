@@ -216,18 +216,6 @@
         "word": "/api/v1/word/star/"
     },
     {
-        "added": "2013-11-04T01:40:34.363724",
-        "annotation": "",
-        "entry": "hi\u0294",
-        "id": 34895,
-        "language": "/api/v1/language/kafoa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/34895/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-11-04T01:40:34.352824",
         "annotation": "",
         "entry": "hi\u0294",
@@ -238,6 +226,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/chicken/"
+    },
+    {
+        "added": "2013-11-04T01:40:34.363724",
+        "annotation": "",
+        "entry": "hi\u0294",
+        "id": 34895,
+        "language": "/api/v1/language/kafoa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/34895/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2013-11-04T01:40:35.295411",

@@ -144,18 +144,6 @@
         "word": "/api/v1/word/to-count/"
     },
     {
-        "added": "2014-04-10T20:22:31.339611",
-        "annotation": "(its) name",
-        "entry": "dei-",
-        "id": 91160,
-        "language": "/api/v1/language/ono/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91160/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(its) name",
-        "word": "/api/v1/word/name/"
-    },
-    {
         "added": "2014-04-10T20:22:32.452925",
         "annotation": "(its) eye",
         "entry": "dei-",
@@ -166,6 +154,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(its) eye",
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.339611",
+        "annotation": "(its) name",
+        "entry": "dei-",
+        "id": 91160,
+        "language": "/api/v1/language/ono/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91160/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(its) name",
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2014-04-10T20:22:31.634131",
@@ -324,18 +324,6 @@
         "word": "/api/v1/word/they/"
     },
     {
-        "added": "2014-04-10T20:22:32.797769",
-        "annotation": "there",
-        "entry": "eri",
-        "id": 91720,
-        "language": "/api/v1/language/ono/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91720/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "there",
-        "word": "/api/v1/word/there/"
-    },
-    {
         "added": "2014-04-10T20:22:29.682275",
         "annotation": "that",
         "entry": "eri",
@@ -346,6 +334,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "that",
         "word": "/api/v1/word/that/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.797769",
+        "annotation": "there",
+        "entry": "eri",
+        "id": 91720,
+        "language": "/api/v1/language/ono/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91720/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "there",
+        "word": "/api/v1/word/there/"
     },
     {
         "added": "2014-04-10T20:22:29.791548",
@@ -1548,18 +1548,6 @@
         "word": "/api/v1/word/one/"
     },
     {
-        "added": "2014-04-10T20:22:31.234569",
-        "annotation": "new",
-        "entry": "wele",
-        "id": 91118,
-        "language": "/api/v1/language/ono/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91118/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "new",
-        "word": "/api/v1/word/new/"
-    },
-    {
         "added": "2014-04-10T20:22:33.474278",
         "annotation": "(its) fruit",
         "entry": "wele",
@@ -1570,6 +1558,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(its) fruit",
         "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.234569",
+        "annotation": "new",
+        "entry": "wele",
+        "id": 91118,
+        "language": "/api/v1/language/ono/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91118/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "new",
+        "word": "/api/v1/word/new/"
     },
     {
         "added": "2014-04-10T20:22:32.197285",

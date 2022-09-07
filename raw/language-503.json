@@ -420,18 +420,6 @@
         "word": "/api/v1/word/back/"
     },
     {
-        "added": "2013-11-04T23:24:49.947620",
-        "annotation": "",
-        "entry": "nam'\u03b1",
-        "id": 36167,
-        "language": "/api/v1/language/kui/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/36167/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/voice/"
-    },
-    {
         "added": "2013-11-04T23:24:50.214753",
         "annotation": "",
         "entry": "nam'\u03b1",
@@ -442,6 +430,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2013-11-04T23:24:49.947620",
+        "annotation": "",
+        "entry": "nam'\u03b1",
+        "id": 36167,
+        "language": "/api/v1/language/kui/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/36167/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/voice/"
     },
     {
         "added": "2013-11-04T23:24:50.789447",

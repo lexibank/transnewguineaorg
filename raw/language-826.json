@@ -312,18 +312,6 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2014-07-30T23:28:30.081893",
-        "annotation": null,
-        "entry": "emesen\u014be",
-        "id": 155439,
-        "language": "/api/v1/language/selepet/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155439/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "noontime",
-        "word": "/api/v1/word/noontime/"
-    },
-    {
         "added": "2014-04-10T20:22:29.868485",
         "annotation": "moon",
         "entry": "emesen\u014be",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "moon",
         "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2014-07-30T23:28:30.081893",
+        "annotation": null,
+        "entry": "emesen\u014be",
+        "id": 155439,
+        "language": "/api/v1/language/selepet/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155439/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "noontime",
+        "word": "/api/v1/word/noontime/"
     },
     {
         "added": "2014-07-30T23:28:32.184506",
@@ -468,18 +468,6 @@
         "word": "/api/v1/word/root/"
     },
     {
-        "added": "2014-04-10T20:22:31.456587",
-        "annotation": "road",
-        "entry": "giop",
-        "id": 91203,
-        "language": "/api/v1/language/selepet/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91203/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "road",
-        "word": "/api/v1/word/road/"
-    },
-    {
         "added": "2014-07-30T23:28:45.182502",
         "annotation": null,
         "entry": "giop",
@@ -488,6 +476,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/160191/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "road",
+        "word": "/api/v1/word/road/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.456587",
+        "annotation": "road",
+        "entry": "giop",
+        "id": 91203,
+        "language": "/api/v1/language/selepet/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91203/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "road",
         "word": "/api/v1/word/road/"
     },
@@ -948,18 +948,6 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2014-07-30T23:28:42.421785",
-        "annotation": null,
-        "entry": "kane",
-        "id": 159308,
-        "language": "/api/v1/language/selepet/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159308/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "left-hand",
-        "word": "/api/v1/word/left-hand/"
-    },
-    {
         "added": "2014-04-10T20:22:32.869118",
         "annotation": "left side",
         "entry": "kane",
@@ -970,6 +958,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "left side",
         "word": "/api/v1/word/left-side/"
+    },
+    {
+        "added": "2014-07-30T23:28:42.421785",
+        "annotation": null,
+        "entry": "kane",
+        "id": 159308,
+        "language": "/api/v1/language/selepet/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159308/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "left-hand",
+        "word": "/api/v1/word/left-hand/"
     },
     {
         "added": "2014-04-10T20:22:31.050191",
@@ -1452,18 +1452,6 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2014-07-30T23:28:36.859501",
-        "annotation": null,
-        "entry": "ne",
-        "id": 157565,
-        "language": "/api/v1/language/selepet/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157565/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "we",
-        "word": "/api/v1/word/we/"
-    },
-    {
         "added": "2014-07-30T23:28:35.960286",
         "annotation": null,
         "entry": "ne",
@@ -1474,6 +1462,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "to-eat",
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2014-07-30T23:28:36.859501",
+        "annotation": null,
+        "entry": "ne",
+        "id": 157565,
+        "language": "/api/v1/language/selepet/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/157565/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "we",
+        "word": "/api/v1/word/we/"
     },
     {
         "added": "2014-04-10T20:22:30.835210",
@@ -1872,18 +1872,6 @@
         "word": "/api/v1/word/fruit/"
     },
     {
-        "added": "2014-07-30T23:28:29.407365",
-        "annotation": null,
-        "entry": "sak",
-        "id": 155233,
-        "language": "/api/v1/language/selepet/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155233/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "sand",
-        "word": "/api/v1/word/sand/"
-    },
-    {
         "added": "2014-04-10T20:22:31.671383",
         "annotation": "sand",
         "entry": "sak",
@@ -1892,6 +1880,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/91273/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "sand",
+        "word": "/api/v1/word/sand/"
+    },
+    {
+        "added": "2014-07-30T23:28:29.407365",
+        "annotation": null,
+        "entry": "sak",
+        "id": 155233,
+        "language": "/api/v1/language/selepet/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155233/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "sand",
         "word": "/api/v1/word/sand/"
     },

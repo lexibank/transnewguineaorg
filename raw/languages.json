@@ -2899,6 +2899,19 @@
         "slug": "buna"
     },
     {
+        "added": "2022-05-03T05:18:29.960832",
+        "classification": "Nuclear Torricell, Marienberg, Buna",
+        "dialect": null,
+        "fullname": "Buna (Torricelli)",
+        "glottocode": "buna1277",
+        "id": 1695,
+        "information": "",
+        "isocode": "bvn",
+        "language": "Buna (Torricelli)",
+        "resource_uri": "/api/v1/language/buna-torricelli/",
+        "slug": "buna-torricelli"
+    },
+    {
         "added": "2013-06-12T05:43:18.963801",
         "classification": "East Bird's Head-Sentani, Burmeso",
         "dialect": "",
@@ -11193,19 +11206,6 @@
         "slug": "tauade"
     },
     {
-        "added": "2015-05-28T15:29:48.115873",
-        "classification": "East New Britain, Taulil",
-        "dialect": "",
-        "fullname": "Taulil",
-        "glottocode": "taul1251",
-        "id": 1181,
-        "information": "",
-        "isocode": "tuh",
-        "language": "Taulil",
-        "resource_uri": "/api/v1/language/taulil/",
-        "slug": "taulil"
-    },
-    {
         "added": "2015-04-28T19:50:59.498640",
         "classification": "Lakes Plain, Tariku, West",
         "dialect": "",
@@ -11607,6 +11607,19 @@
         "language": "Una",
         "resource_uri": "/api/v1/language/una/",
         "slug": "una"
+    },
+    {
+        "added": "2015-05-28T15:29:48.115873",
+        "classification": "",
+        "dialect": null,
+        "fullname": "Unknown (possibly Konomala)",
+        "glottocode": null,
+        "id": 1181,
+        "information": "",
+        "isocode": null,
+        "language": "Unknown (possibly Konomala)",
+        "resource_uri": "/api/v1/language/unknown1/",
+        "slug": "unknown1"
     },
     {
         "added": "2015-05-28T15:30:49.958095",

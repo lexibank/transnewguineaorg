@@ -240,18 +240,6 @@
         "word": "/api/v1/word/cane/"
     },
     {
-        "added": "2014-09-22T03:11:53.476378",
-        "annotation": null,
-        "entry": "a\u014bgum",
-        "id": 175726,
-        "language": "/api/v1/language/yangulam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/175726/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "girl",
-        "word": "/api/v1/word/girl/"
-    },
-    {
         "added": "2014-09-22T03:12:01.260219",
         "annotation": null,
         "entry": "a\u014bgum",
@@ -262,6 +250,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "trunk (of tree)",
         "word": "/api/v1/word/trunk/"
+    },
+    {
+        "added": "2014-09-22T03:11:53.476378",
+        "annotation": null,
+        "entry": "a\u014bgum",
+        "id": 175726,
+        "language": "/api/v1/language/yangulam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/175726/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "girl",
+        "word": "/api/v1/word/girl/"
     },
     {
         "added": "2014-09-22T03:11:59.560915",
@@ -2064,18 +2064,6 @@
         "word": "/api/v1/word/tongue/"
     },
     {
-        "added": "2014-09-22T03:11:54.288316",
-        "annotation": null,
-        "entry": "na-",
-        "id": 176131,
-        "language": "/api/v1/language/yangulam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176131/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "2sg poss",
-        "word": "/api/v1/word/your-sg/"
-    },
-    {
         "added": "2014-09-22T03:11:55.289965",
         "annotation": null,
         "entry": "na-",
@@ -2086,6 +2074,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "3pl poss",
         "word": "/api/v1/word/theirs/"
+    },
+    {
+        "added": "2014-09-22T03:11:54.288316",
+        "annotation": null,
+        "entry": "na-",
+        "id": 176131,
+        "language": "/api/v1/language/yangulam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176131/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "2sg poss",
+        "word": "/api/v1/word/your-sg/"
     },
     {
         "added": "2014-09-22T03:11:55.360743",
@@ -2724,18 +2724,6 @@
         "word": "/api/v1/word/us/"
     },
     {
-        "added": "2014-09-22T03:11:57.670827",
-        "annotation": null,
-        "entry": "silim",
-        "id": 177646,
-        "language": "/api/v1/language/yangulam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/177646/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "bone",
-        "word": "/api/v1/word/bone/"
-    },
-    {
         "added": "2014-09-22T03:11:58.498124",
         "annotation": null,
         "entry": "silim",
@@ -2758,6 +2746,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "fruit",
         "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2014-09-22T03:11:57.670827",
+        "annotation": null,
+        "entry": "silim",
+        "id": 177646,
+        "language": "/api/v1/language/yangulam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/177646/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
     },
     {
         "added": "2014-09-22T03:12:03.347969",
@@ -2892,18 +2892,6 @@
         "word": "/api/v1/word/to-take/"
     },
     {
-        "added": "2014-09-22T03:11:54.998264",
-        "annotation": null,
-        "entry": "ta-",
-        "id": 176462,
-        "language": "/api/v1/language/yangulam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176462/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "2pl poss",
-        "word": "/api/v1/word/your-pl/"
-    },
-    {
         "added": "2014-09-22T03:12:08.714737",
         "annotation": null,
         "entry": "ta-",
@@ -2914,6 +2902,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to walk",
         "word": "/api/v1/word/to-walk/"
+    },
+    {
+        "added": "2014-09-22T03:11:54.998264",
+        "annotation": null,
+        "entry": "ta-",
+        "id": 176462,
+        "language": "/api/v1/language/yangulam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176462/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "2pl poss",
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2014-09-22T03:12:03.570846",
@@ -3444,18 +3444,6 @@
         "word": "/api/v1/word/i/"
     },
     {
-        "added": "2014-09-22T03:12:03.170470",
-        "annotation": null,
-        "entry": "yi",
-        "id": 180343,
-        "language": "/api/v1/language/yangulam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/180343/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "water",
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2014-09-22T03:12:00.897843",
         "annotation": null,
         "entry": "yi",
@@ -3466,6 +3454,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "green coconut",
         "word": "/api/v1/word/coconut/"
+    },
+    {
+        "added": "2014-09-22T03:12:03.170470",
+        "annotation": null,
+        "entry": "yi",
+        "id": 180343,
+        "language": "/api/v1/language/yangulam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/180343/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2014-09-22T03:12:06.751611",

@@ -552,18 +552,6 @@
         "word": "/api/v1/word/or-pl-in-some-verbs/"
     },
     {
-        "added": "2013-05-27T07:04:14.313546",
-        "annotation": "see it",
-        "entry": "ele-ha-",
-        "id": 15423,
-        "language": "/api/v1/language/mountain-koiari/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15423/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/or-sg-in-some-verbs/"
-    },
-    {
         "added": "2013-05-27T07:04:14.166306",
         "annotation": "see, look",
         "entry": "ele-ha-",
@@ -574,6 +562,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2013-05-27T07:04:14.313546",
+        "annotation": "see it",
+        "entry": "ele-ha-",
+        "id": 15423,
+        "language": "/api/v1/language/mountain-koiari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15423/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/or-sg-in-some-verbs/"
     },
     {
         "added": "2013-05-27T07:04:12.096941",
@@ -660,18 +660,6 @@
         "word": "/api/v1/word/taro/"
     },
     {
-        "added": "2013-05-27T07:04:03.937417",
-        "annotation": "imperative plural suffix",
-        "entry": "-fe",
-        "id": 14890,
-        "language": "/api/v1/language/mountain-koiari/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14890/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/immediate-imperative-plural-verb-suffix/"
-    },
-    {
         "added": "2013-05-27T07:04:03.980692",
         "annotation": "at, to",
         "entry": "-fe",
@@ -682,6 +670,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/locative-noun-suffix-at-to-from/"
+    },
+    {
+        "added": "2013-05-27T07:04:03.937417",
+        "annotation": "imperative plural suffix",
+        "entry": "-fe",
+        "id": 14890,
+        "language": "/api/v1/language/mountain-koiari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14890/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/immediate-imperative-plural-verb-suffix/"
     },
     {
         "added": "2013-05-27T07:04:04.077632",
@@ -912,6 +912,18 @@
         "word": "/api/v1/word/road/"
     },
     {
+        "added": "2013-05-27T07:04:04.410666",
+        "annotation": "eat, drink",
+        "entry": "i-",
+        "id": 14990,
+        "language": "/api/v1/language/mountain-koiari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14990/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
         "added": "2014-04-14T07:57:45.219829",
         "annotation": "eat, drink",
         "entry": "i-",
@@ -927,13 +939,13 @@
         "added": "2013-05-27T07:04:04.410666",
         "annotation": "eat, drink",
         "entry": "i-",
-        "id": 14990,
+        "id": 260777,
         "language": "/api/v1/language/mountain-koiari/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/14990/",
+        "resource_uri": "/api/v1/lexicon/260777/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-05-27T07:04:04.452157",
@@ -1080,18 +1092,6 @@
         "word": "/api/v1/word/you-pl/"
     },
     {
-        "added": "2013-05-27T07:04:15.743496",
-        "annotation": "string bag",
-        "entry": "laha",
-        "id": 15657,
-        "language": "/api/v1/language/mountain-koiari/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15657/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/string-bag/"
-    },
-    {
         "added": "2013-05-27T07:04:11.011400",
         "annotation": "burn (intr.)",
         "entry": "laha",
@@ -1102,6 +1102,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2013-05-27T07:04:15.743496",
+        "annotation": "string bag",
+        "entry": "laha",
+        "id": 15657,
+        "language": "/api/v1/language/mountain-koiari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15657/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/string-bag/"
     },
     {
         "added": "2013-05-27T07:04:15.721375",
@@ -1388,8 +1400,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15144/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interrogative-particle/"
+        "source_gloss": "interrogative particle",
+        "word": "/api/v1/word/interrogative/"
     },
     {
         "added": "2013-05-27T07:04:14.769982",

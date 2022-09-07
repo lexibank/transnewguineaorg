@@ -612,18 +612,6 @@
         "word": "/api/v1/word/or-pl-in-some-verbs/"
     },
     {
-        "added": "2013-05-27T07:04:14.304120",
-        "annotation": "see it",
-        "entry": "ere-va-",
-        "id": 15421,
-        "language": "/api/v1/language/grass-koiari/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15421/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/or-sg-in-some-verbs/"
-    },
-    {
         "added": "2013-05-27T07:04:14.160803",
         "annotation": "see",
         "entry": "ere-va-",
@@ -634,6 +622,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2013-05-27T07:04:14.304120",
+        "annotation": "see it",
+        "entry": "ere-va-",
+        "id": 15421,
+        "language": "/api/v1/language/grass-koiari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15421/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/or-sg-in-some-verbs/"
     },
     {
         "added": "2013-05-27T07:04:03.854660",
@@ -771,13 +771,25 @@
         "added": "2013-05-27T07:04:04.406229",
         "annotation": "eat, drink, smoke (tobacco)",
         "entry": "i-",
+        "id": 260776,
+        "language": "/api/v1/language/grass-koiari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260776/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.406229",
+        "annotation": "eat, drink, smoke (tobacco)",
+        "entry": "i-",
         "id": 14989,
         "language": "/api/v1/language/grass-koiari/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14989/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-05-27T07:04:03.720682",
@@ -1160,8 +1172,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15143/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interrogative-particle/"
+        "source_gloss": "interrogative particle",
+        "word": "/api/v1/word/interrogative/"
     },
     {
         "added": "2013-05-27T07:04:14.799499",
@@ -1188,18 +1200,6 @@
         "word": "/api/v1/word/tongue/"
     },
     {
-        "added": "2013-05-27T07:04:09.575948",
-        "annotation": "to (dative), for (benefactive)",
-        "entry": "ni",
-        "id": 15158,
-        "language": "/api/v1/language/grass-koiari/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15158/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/for-benefactive-clitic/"
-    },
-    {
         "added": "2013-05-27T07:04:09.978457",
         "annotation": "eye",
         "entry": "ni",
@@ -1210,6 +1210,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2013-05-27T07:04:09.575948",
+        "annotation": "to (dative), for (benefactive)",
+        "entry": "ni",
+        "id": 15158,
+        "language": "/api/v1/language/grass-koiari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15158/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/for-benefactive-clitic/"
     },
     {
         "added": "2013-05-27T07:04:14.906802",

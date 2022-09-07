@@ -12,18 +12,6 @@
         "word": "/api/v1/word/to-take/"
     },
     {
-        "added": "2018-05-24T02:44:23.638763",
-        "annotation": "",
-        "entry": "adava-",
-        "id": 257345,
-        "language": "/api/v1/language/motu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257345/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "husband",
-        "word": "/api/v1/word/husband/"
-    },
-    {
         "added": "2018-05-24T02:44:23.743163",
         "annotation": "",
         "entry": "adava-",
@@ -34,6 +22,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "wife",
         "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2018-05-24T02:44:23.638763",
+        "annotation": "",
+        "entry": "adava-",
+        "id": 257345,
+        "language": "/api/v1/language/motu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257345/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "husband",
+        "word": "/api/v1/word/husband/"
     },
     {
         "added": "2018-05-24T02:44:30.002363",
@@ -1248,18 +1248,6 @@
         "word": "/api/v1/word/full/"
     },
     {
-        "added": "2018-05-24T02:44:41.140590",
-        "annotation": "",
-        "entry": "hua-",
-        "id": 259620,
-        "language": "/api/v1/language/motu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259620/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "carry on shoulder",
-        "word": "/api/v1/word/to-carry/"
-    },
-    {
         "added": "2018-05-24T02:44:41.669139",
         "annotation": "",
         "entry": "hua-",
@@ -1282,6 +1270,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "moon",
         "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2018-05-24T02:44:41.140590",
+        "annotation": "",
+        "entry": "hua-",
+        "id": 259620,
+        "language": "/api/v1/language/motu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259620/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "carry on shoulder",
+        "word": "/api/v1/word/to-carry/"
     },
     {
         "added": "2018-05-24T02:44:32.351011",
@@ -1308,18 +1308,6 @@
         "word": "/api/v1/word/navel/"
     },
     {
-        "added": "2018-05-24T02:44:33.665553",
-        "annotation": "",
-        "entry": "hui-",
-        "id": 258639,
-        "language": "/api/v1/language/motu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258639/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "bird",
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2018-05-24T02:44:33.478801",
         "annotation": "",
         "entry": "hui-",
@@ -1330,6 +1318,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "dog's tail",
         "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2018-05-24T02:44:33.665553",
+        "annotation": "",
+        "entry": "hui-",
+        "id": 258639,
+        "language": "/api/v1/language/motu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258639/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2018-05-24T02:44:25.142527",
@@ -2052,18 +2052,6 @@
         "word": "/api/v1/word/on-top/"
     },
     {
-        "added": "2018-05-24T02:44:32.437423",
-        "annotation": "",
-        "entry": "lau",
-        "id": 258440,
-        "language": "/api/v1/language/motu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258440/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "leaf",
-        "word": "/api/v1/word/leaf/"
-    },
-    {
         "added": "2018-05-24T02:44:24.356966",
         "annotation": "",
         "entry": "lau",
@@ -2074,6 +2062,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "I",
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2018-05-24T02:44:32.437423",
+        "annotation": "",
+        "entry": "lau",
+        "id": 258440,
+        "language": "/api/v1/language/motu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258440/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "leaf",
+        "word": "/api/v1/word/leaf/"
     },
     {
         "added": "2018-05-24T02:44:37.457507",
@@ -2412,18 +2412,6 @@
         "word": "/api/v1/word/to-swim/"
     },
     {
-        "added": "2018-05-24T02:44:34.370177",
-        "annotation": "",
-        "entry": "namo",
-        "id": 258728,
-        "language": "/api/v1/language/motu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258728/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "fly",
-        "word": "/api/v1/word/fly-sp/"
-    },
-    {
         "added": "2018-05-24T02:44:35.471661",
         "annotation": "",
         "entry": "namo",
@@ -2434,6 +2422,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "good",
         "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2018-05-24T02:44:34.370177",
+        "annotation": "",
+        "entry": "namo",
+        "id": 258728,
+        "language": "/api/v1/language/motu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258728/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "fly",
+        "word": "/api/v1/word/fly-sp/"
     },
     {
         "added": "2018-05-24T02:44:23.364794",
@@ -3012,18 +3012,6 @@
         "word": "/api/v1/word/six/"
     },
     {
-        "added": "2018-05-24T02:44:45.353406",
-        "annotation": "",
-        "entry": "that + ai",
-        "id": 260233,
-        "language": "/api/v1/language/motu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260233/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "there (distant)",
-        "word": "/api/v1/word/there-distant/"
-    },
-    {
         "added": "2018-05-24T02:44:45.296841",
         "annotation": "",
         "entry": "that + ai",
@@ -3034,6 +3022,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "there (lohap)",
         "word": "/api/v1/word/there-lohap/"
+    },
+    {
+        "added": "2018-05-24T02:44:45.353406",
+        "annotation": "",
+        "entry": "that + ai",
+        "id": 260233,
+        "language": "/api/v1/language/motu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260233/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "there (distant)",
+        "word": "/api/v1/word/there-distant/"
     },
     {
         "added": "2018-05-24T02:44:45.220379",
@@ -3168,18 +3168,6 @@
         "word": "/api/v1/word/bush/"
     },
     {
-        "added": "2018-05-24T02:44:25.461328",
-        "annotation": "",
-        "entry": "udu-",
-        "id": 257579,
-        "language": "/api/v1/language/motu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257579/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "nose",
-        "word": "/api/v1/word/nose/"
-    },
-    {
         "added": "2018-05-24T02:44:26.268827",
         "annotation": "",
         "entry": "udu-",
@@ -3190,6 +3178,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "mouth",
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2018-05-24T02:44:25.461328",
+        "annotation": "",
+        "entry": "udu-",
+        "id": 257579,
+        "language": "/api/v1/language/motu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257579/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
     },
     {
         "added": "2018-05-24T02:44:42.032386",
@@ -3240,16 +3240,16 @@
         "word": "/api/v1/word/that-distant/"
     },
     {
-        "added": "2018-05-24T02:44:43.543530",
+        "added": "2018-05-24T02:44:43.676376",
         "annotation": "",
         "entry": "utu-",
-        "id": 259978,
+        "id": 259998,
         "language": "/api/v1/language/motu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/259978/",
+        "resource_uri": "/api/v1/lexicon/259998/",
         "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "cut rope",
-        "word": "/api/v1/word/to-cut/"
+        "source_gloss": "draw water",
+        "word": "/api/v1/word/to-draw-water/"
     },
     {
         "added": "2018-05-24T02:44:41.758197",
@@ -3264,6 +3264,18 @@
         "word": "/api/v1/word/to-chop/"
     },
     {
+        "added": "2018-05-24T02:44:43.543530",
+        "annotation": "",
+        "entry": "utu-",
+        "id": 259978,
+        "language": "/api/v1/language/motu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259978/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "cut rope",
+        "word": "/api/v1/word/to-cut/"
+    },
+    {
         "added": "2018-05-24T02:44:44.669658",
         "annotation": "",
         "entry": "utu-",
@@ -3274,18 +3286,6 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "louse",
         "word": "/api/v1/word/louse/"
-    },
-    {
-        "added": "2018-05-24T02:44:43.676376",
-        "annotation": "",
-        "entry": "utu-",
-        "id": 259998,
-        "language": "/api/v1/language/motu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259998/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "draw water",
-        "word": "/api/v1/word/to-draw-water/"
     },
     {
         "added": "2018-05-24T02:44:43.282640",

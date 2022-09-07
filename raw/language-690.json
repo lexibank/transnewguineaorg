@@ -36,18 +36,6 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
-        "added": "2014-06-15T21:36:25.616288",
-        "annotation": null,
-        "entry": "-adi-",
-        "id": 119911,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/119911/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "2pl/O:3P",
-        "word": "/api/v1/word/you-pl-o2p/"
-    },
-    {
         "added": "2014-06-15T21:36:24.111102",
         "annotation": null,
         "entry": "-adi-",
@@ -58,6 +46,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "2pl/O:3P",
         "word": "/api/v1/word/them/"
+    },
+    {
+        "added": "2014-06-15T21:36:25.616288",
+        "annotation": null,
+        "entry": "-adi-",
+        "id": 119911,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/119911/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "2pl/O:3P",
+        "word": "/api/v1/word/you-pl-o2p/"
     },
     {
         "added": "2014-06-15T21:36:43.085295",
@@ -96,18 +96,6 @@
         "word": "/api/v1/word/his/"
     },
     {
-        "added": "2014-06-15T21:36:24.237070",
-        "annotation": "gen.",
-        "entry": "-ag",
-        "id": 119226,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/119226/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "2pl/P:3P",
-        "word": "/api/v1/word/their/"
-    },
-    {
         "added": "2014-06-15T21:36:25.734022",
         "annotation": "gen.",
         "entry": "-ag",
@@ -120,16 +108,16 @@
         "word": "/api/v1/word/your-pl/"
     },
     {
-        "added": "2014-06-15T21:36:42.469896",
-        "annotation": null,
-        "entry": "ago-",
-        "id": 127994,
+        "added": "2014-06-15T21:36:24.237070",
+        "annotation": "gen.",
+        "entry": "-ag",
+        "id": 119226,
         "language": "/api/v1/language/isebe/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/127994/",
+        "resource_uri": "/api/v1/lexicon/119226/",
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "chop (with axe)",
-        "word": "/api/v1/word/to-chop/"
+        "source_gloss": "2pl/P:3P",
+        "word": "/api/v1/word/their/"
     },
     {
         "added": "2014-06-15T21:36:42.408967",
@@ -142,6 +130,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "cut (with knife)",
         "word": "/api/v1/word/to-cut/"
+    },
+    {
+        "added": "2014-06-15T21:36:42.469896",
+        "annotation": null,
+        "entry": "ago-",
+        "id": 127994,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/127994/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "chop (with axe)",
+        "word": "/api/v1/word/to-chop/"
     },
     {
         "added": "2014-06-15T21:36:27.457788",
@@ -276,18 +276,6 @@
         "word": "/api/v1/word/girl/"
     },
     {
-        "added": "2014-06-15T21:36:37.718233",
-        "annotation": null,
-        "entry": "aig",
-        "id": 125748,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/125748/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "sharp",
-        "word": "/api/v1/word/sharp/"
-    },
-    {
         "added": "2014-06-15T21:36:32.291330",
         "annotation": null,
         "entry": "aig",
@@ -298,6 +286,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "fruit",
         "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2014-06-15T21:36:37.718233",
+        "annotation": null,
+        "entry": "aig",
+        "id": 125748,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/125748/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "sharp",
+        "word": "/api/v1/word/sharp/"
     },
     {
         "added": "2014-06-15T21:36:33.013675",
@@ -312,18 +312,6 @@
         "word": "/api/v1/word/tanket/"
     },
     {
-        "added": "2014-06-15T21:36:23.416711",
-        "annotation": null,
-        "entry": "-ali-",
-        "id": 118826,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/118826/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "they two (VO)",
-        "word": "/api/v1/word/them-dual/"
-    },
-    {
         "added": "2014-06-15T21:36:26.127306",
         "annotation": null,
         "entry": "-ali-",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "you two (Verbal Object)",
         "word": "/api/v1/word/you-pl-dual-o2p/"
+    },
+    {
+        "added": "2014-06-15T21:36:23.416711",
+        "annotation": null,
+        "entry": "-ali-",
+        "id": 118826,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/118826/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "they two (VO)",
+        "word": "/api/v1/word/them-dual/"
     },
     {
         "added": "2014-06-15T21:36:34.375683",
@@ -804,18 +804,6 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2014-06-15T21:36:43.152778",
-        "annotation": null,
-        "entry": "bi-",
-        "id": 128330,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/128330/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "kill",
-        "word": "/api/v1/word/to-kill/"
-    },
-    {
         "added": "2014-06-15T21:36:43.271055",
         "annotation": null,
         "entry": "bi-",
@@ -826,6 +814,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "shoot, kill",
         "word": "/api/v1/word/to-shoot/"
+    },
+    {
+        "added": "2014-06-15T21:36:43.152778",
+        "annotation": null,
+        "entry": "bi-",
+        "id": 128330,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/128330/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "kill",
+        "word": "/api/v1/word/to-kill/"
     },
     {
         "added": "2014-06-15T21:36:28.002921",
@@ -1068,18 +1068,6 @@
         "word": "/api/v1/word/wallaby/"
     },
     {
-        "added": "2014-06-15T21:36:23.540759",
-        "annotation": null,
-        "entry": "d\u028cna",
-        "id": 118886,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/118886/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "man",
-        "word": "/api/v1/word/man/"
-    },
-    {
         "added": "2014-06-15T21:36:29.979877",
         "annotation": null,
         "entry": "d\u028cna",
@@ -1090,6 +1078,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "male",
         "word": "/api/v1/word/male/"
+    },
+    {
+        "added": "2014-06-15T21:36:23.540759",
+        "annotation": null,
+        "entry": "d\u028cna",
+        "id": 118886,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/118886/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "man",
+        "word": "/api/v1/word/man/"
     },
     {
         "added": "2014-06-15T21:36:41.606541",
@@ -2544,18 +2544,6 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2014-06-15T21:36:35.002162",
-        "annotation": null,
-        "entry": "manu",
-        "id": 124548,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/124548/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "stone axe",
-        "word": "/api/v1/word/axe/"
-    },
-    {
         "added": "2014-06-15T21:36:35.064968",
         "annotation": null,
         "entry": "manu",
@@ -2566,6 +2554,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "axe (iron)",
         "word": "/api/v1/word/axe-iron/"
+    },
+    {
+        "added": "2014-06-15T21:36:35.002162",
+        "annotation": null,
+        "entry": "manu",
+        "id": 124548,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/124548/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "stone axe",
+        "word": "/api/v1/word/axe/"
     },
     {
         "added": "2014-06-15T21:36:31.815505",
@@ -2928,18 +2928,6 @@
         "word": "/api/v1/word/bad/"
     },
     {
-        "added": "2014-06-15T21:36:32.230024",
-        "annotation": null,
-        "entry": "na",
-        "id": 123144,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/123144/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "tree",
-        "word": "/api/v1/word/tree/"
-    },
-    {
         "added": "2014-06-15T21:36:29.787465",
         "annotation": null,
         "entry": "na",
@@ -2950,6 +2938,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "chicken (wild)",
         "word": "/api/v1/word/chicken-wild/"
+    },
+    {
+        "added": "2014-06-15T21:36:32.230024",
+        "annotation": null,
+        "entry": "na",
+        "id": 123144,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/123144/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "tree",
+        "word": "/api/v1/word/tree/"
     },
     {
         "added": "2014-06-15T21:36:36.396607",
@@ -3552,18 +3552,6 @@
         "word": "/api/v1/word/straight/"
     },
     {
-        "added": "2014-06-15T21:36:22.997805",
-        "annotation": null,
-        "entry": "-u",
-        "id": 118618,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/118618/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "negation marker",
-        "word": "/api/v1/word/negation-marker/"
-    },
-    {
         "added": "2014-06-15T21:36:25.281010",
         "annotation": "gen.",
         "entry": "-u",
@@ -3574,6 +3562,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "P:3S",
         "word": "/api/v1/word/his/"
+    },
+    {
+        "added": "2014-06-15T21:36:22.997805",
+        "annotation": null,
+        "entry": "-u",
+        "id": 118618,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/118618/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "negation marker",
+        "word": "/api/v1/word/negation-marker/"
     },
     {
         "added": "2014-06-15T21:36:39.086218",
@@ -3768,18 +3768,6 @@
         "word": "/api/v1/word/your-sg/"
     },
     {
-        "added": "2014-06-15T21:36:34.630583",
-        "annotation": null,
-        "entry": "wa",
-        "id": 124358,
-        "language": "/api/v1/language/isebe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/124358/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-06-15T21:36:40.883937",
         "annotation": null,
         "entry": "wa",
@@ -3790,6 +3778,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "go, walk",
         "word": "/api/v1/word/to-walk/"
+    },
+    {
+        "added": "2014-06-15T21:36:34.630583",
+        "annotation": null,
+        "entry": "wa",
+        "id": 124358,
+        "language": "/api/v1/language/isebe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/124358/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
     },
     {
         "added": "2014-06-15T21:36:30.616799",

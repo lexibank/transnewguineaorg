@@ -1524,18 +1524,6 @@
         "word": "/api/v1/word/chin/"
     },
     {
-        "added": "2015-03-19T07:05:04.376353",
-        "annotation": null,
-        "entry": "*mele",
-        "id": 209537,
-        "language": "/api/v1/language/proto-rai-coast/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/209537/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "tongue",
-        "word": "/api/v1/word/tongue/"
-    },
-    {
         "added": "2015-03-19T07:05:04.099894",
         "annotation": null,
         "entry": "*mele",
@@ -1546,6 +1534,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "cry",
         "word": "/api/v1/word/to-cry/"
+    },
+    {
+        "added": "2015-03-19T07:05:04.376353",
+        "annotation": null,
+        "entry": "*mele",
+        "id": 209537,
+        "language": "/api/v1/language/proto-rai-coast/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209537/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "tongue",
+        "word": "/api/v1/word/tongue/"
     },
     {
         "added": "2015-04-24T05:50:15.754978",
@@ -2952,18 +2952,6 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2015-03-19T07:04:56.223768",
-        "annotation": null,
-        "entry": "*yagu",
-        "id": 207032,
-        "language": "/api/v1/language/proto-rai-coast/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/207032/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "wind (free)",
-        "word": "/api/v1/word/wind/"
-    },
-    {
         "added": "2015-03-19T07:04:58.878712",
         "annotation": null,
         "entry": "*yagu",
@@ -2974,6 +2962,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "bathe",
         "word": "/api/v1/word/to-bathe/"
+    },
+    {
+        "added": "2015-03-19T07:04:56.223768",
+        "annotation": null,
+        "entry": "*yagu",
+        "id": 207032,
+        "language": "/api/v1/language/proto-rai-coast/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207032/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "wind (free)",
+        "word": "/api/v1/word/wind/"
     },
     {
         "added": "2015-03-19T07:05:02.742854",

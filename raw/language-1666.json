@@ -1076,8 +1076,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/252592/",
         "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "to call",
-        "word": "/api/v1/word/call/"
+        "source_gloss": "to call out",
+        "word": "/api/v1/word/to-call-out/"
     },
     {
         "added": "2015-10-26T12:54:07.902217",

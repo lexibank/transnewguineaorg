@@ -24,18 +24,6 @@
         "word": "/api/v1/word/person/"
     },
     {
-        "added": "2013-11-29T19:34:54.753333",
-        "annotation": "",
-        "entry": "\u00e1ize'",
-        "id": 75019,
-        "language": "/api/v1/language/dano-asaro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75019/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/yesterday/"
-    },
-    {
         "added": "2013-11-29T19:34:52.495034",
         "annotation": "",
         "entry": "\u00e1ize'",
@@ -46,6 +34,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/tomorrow/"
+    },
+    {
+        "added": "2013-11-29T19:34:54.753333",
+        "annotation": "",
+        "entry": "\u00e1ize'",
+        "id": 75019,
+        "language": "/api/v1/language/dano-asaro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75019/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yesterday/"
     },
     {
         "added": "2013-07-22T19:54:54.031591",
@@ -2256,18 +2256,6 @@
         "word": "/api/v1/word/thumb/"
     },
     {
-        "added": "2013-11-29T19:34:38.372972",
-        "annotation": "",
-        "entry": "muk\u00ed'",
-        "id": 72073,
-        "language": "/api/v1/language/dano-asaro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72073/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/all/"
-    },
-    {
         "added": "2013-11-29T19:34:47.321894",
         "annotation": "",
         "entry": "muk\u00ed'",
@@ -2278,6 +2266,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/many/"
+    },
+    {
+        "added": "2013-11-29T19:34:38.372972",
+        "annotation": "",
+        "entry": "muk\u00ed'",
+        "id": 72073,
+        "language": "/api/v1/language/dano-asaro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72073/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/all/"
     },
     {
         "added": "2013-11-29T19:34:42.030968",
@@ -2700,18 +2700,6 @@
         "word": "/api/v1/word/to-walk/"
     },
     {
-        "added": "2013-11-29T19:34:41.939116",
-        "annotation": "eat",
-        "entry": "(n\u00f3)n(ave)",
-        "id": 72704,
-        "language": "/api/v1/language/dano-asaro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72704/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2013-11-29T19:34:41.554613",
         "annotation": "drink",
         "entry": "(n\u00f3)n(ave)",
@@ -2722,6 +2710,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2013-11-29T19:34:41.939116",
+        "annotation": "eat",
+        "entry": "(n\u00f3)n(ave)",
+        "id": 72704,
+        "language": "/api/v1/language/dano-asaro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72704/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-11-29T19:34:40.555622",
@@ -3024,18 +3024,6 @@
         "word": "/api/v1/word/no-not/"
     },
     {
-        "added": "2013-07-22T22:02:04.801487",
-        "annotation": "",
-        "entry": "\u0254\u0294ve",
-        "id": 31788,
-        "language": "/api/v1/language/dano-asaro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/31788/",
-        "source": "/api/v1/source/sil-survey-1974/",
-        "source_gloss": null,
-        "word": "/api/v1/word/not/"
-    },
-    {
         "added": "2013-07-22T22:14:57.672294",
         "annotation": "",
         "entry": "\u0254\u0294ve",
@@ -3046,6 +3034,18 @@
         "source": "/api/v1/source/sil-survey-1974/",
         "source_gloss": null,
         "word": "/api/v1/word/no-not/"
+    },
+    {
+        "added": "2013-07-22T22:02:04.801487",
+        "annotation": "",
+        "entry": "\u0254\u0294ve",
+        "id": 31788,
+        "language": "/api/v1/language/dano-asaro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/31788/",
+        "source": "/api/v1/source/sil-survey-1974/",
+        "source_gloss": null,
+        "word": "/api/v1/word/not/"
     },
     {
         "added": "2013-07-22T21:36:36.877311",
@@ -3972,18 +3972,6 @@
         "word": "/api/v1/word/round/"
     },
     {
-        "added": "2013-07-22T20:05:59.596236",
-        "annotation": "",
-        "entry": "y\u028c",
-        "id": 31689,
-        "language": "/api/v1/language/dano-asaro/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/31689/",
-        "source": "/api/v1/source/sil-survey-1974/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tree/"
-    },
-    {
         "added": "2013-07-22T21:52:25.534498",
         "annotation": "",
         "entry": "y\u028c",
@@ -3994,6 +3982,18 @@
         "source": "/api/v1/source/sil-survey-1974/",
         "source_gloss": null,
         "word": "/api/v1/word/bark/"
+    },
+    {
+        "added": "2013-07-22T20:05:59.596236",
+        "annotation": "",
+        "entry": "y\u028c",
+        "id": 31689,
+        "language": "/api/v1/language/dano-asaro/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/31689/",
+        "source": "/api/v1/source/sil-survey-1974/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
     },
     {
         "added": "2013-07-22T22:02:00.173730",

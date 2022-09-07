@@ -756,18 +756,6 @@
         "word": "/api/v1/word/armband/"
     },
     {
-        "added": "2015-10-26T12:54:17.494200",
-        "annotation": "",
-        "entry": "mi",
-        "id": 255061,
-        "language": "/api/v1/language/asmat-central-mecamup-yow/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255061/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/nose/"
-    },
-    {
         "added": "2015-10-26T12:54:15.998940",
         "annotation": "",
         "entry": "mi",
@@ -778,6 +766,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/lime/"
+    },
+    {
+        "added": "2015-10-26T12:54:17.494200",
+        "annotation": "",
+        "entry": "mi",
+        "id": 255061,
+        "language": "/api/v1/language/asmat-central-mecamup-yow/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255061/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/nose/"
     },
     {
         "added": "2015-10-26T12:54:21.149559",

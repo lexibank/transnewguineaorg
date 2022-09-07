@@ -48,7 +48,7 @@
         "word": "/api/v1/word/sago/"
     },
     {
-        "added": "2013-11-19T03:56:10.068489",
+        "added": "2022-07-25T22:55:01.550523",
         "annotation": "grandfather",
         "entry": "apie",
         "id": 50765,
@@ -56,8 +56,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50765/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandfather/"
     },
     {
         "added": "2013-11-19T03:56:28.168769",
@@ -456,18 +456,6 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2013-11-19T03:56:01.260204",
-        "annotation": "weep",
-        "entry": "je",
-        "id": 49192,
-        "language": "/api/v1/language/suena-yema-yarawe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49192/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-cry/"
-    },
-    {
         "added": "2013-11-19T03:56:04.795322",
         "annotation": "bowels",
         "entry": "je",
@@ -478,6 +466,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/faeces/"
+    },
+    {
+        "added": "2013-11-19T03:56:01.260204",
+        "annotation": "weep",
+        "entry": "je",
+        "id": 49192,
+        "language": "/api/v1/language/suena-yema-yarawe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/49192/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-cry/"
     },
     {
         "added": "2013-11-19T03:56:03.695735",
@@ -1068,18 +1068,6 @@
         "word": "/api/v1/word/shellfish/"
     },
     {
-        "added": "2013-11-19T03:55:58.177179",
-        "annotation": "boat (canoe)",
-        "entry": "wa",
-        "id": 48651,
-        "language": "/api/v1/language/suena-yema-yarawe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48651/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/canoe/"
-    },
-    {
         "added": "2013-11-19T03:56:23.962710",
         "annotation": "rain",
         "entry": "wa",
@@ -1090,6 +1078,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-rain/"
+    },
+    {
+        "added": "2013-11-19T03:55:58.177179",
+        "annotation": "boat (canoe)",
+        "entry": "wa",
+        "id": 48651,
+        "language": "/api/v1/language/suena-yema-yarawe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48651/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/canoe/"
     },
     {
         "added": "2014-02-24T17:13:47.392289",

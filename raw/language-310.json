@@ -372,18 +372,6 @@
         "word": "/api/v1/word/to-stand/"
     },
     {
-        "added": "2013-06-13T23:01:44.805990",
-        "annotation": "",
-        "entry": "jagou-on",
-        "id": 27008,
-        "language": "/api/v1/language/yali-angguruk/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/27008/",
-        "source": "/api/v1/source/bromley-1967/",
-        "source_gloss": null,
-        "word": "/api/v1/word/yellow/"
-    },
-    {
         "added": "2013-06-13T23:01:44.661690",
         "annotation": "",
         "entry": "jagou-on",
@@ -394,6 +382,18 @@
         "source": "/api/v1/source/bromley-1967/",
         "source_gloss": null,
         "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2013-06-13T23:01:44.805990",
+        "annotation": "",
+        "entry": "jagou-on",
+        "id": 27008,
+        "language": "/api/v1/language/yali-angguruk/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27008/",
+        "source": "/api/v1/source/bromley-1967/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yellow/"
     },
     {
         "added": "2013-06-12T21:03:00.719680",

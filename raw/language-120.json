@@ -456,18 +456,6 @@
         "word": "/api/v1/word/not/"
     },
     {
-        "added": "2013-05-12T22:32:20.641862",
-        "annotation": "",
-        "entry": "kairu",
-        "id": 4342,
-        "language": "/api/v1/language/aheave/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/4342/",
-        "source": "/api/v1/source/brown-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/yellow/"
-    },
-    {
         "added": "2013-05-12T22:32:20.642840",
         "annotation": "",
         "entry": "kairu",
@@ -478,6 +466,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/green/"
+    },
+    {
+        "added": "2013-05-12T22:32:20.641862",
+        "annotation": "",
+        "entry": "kairu",
+        "id": 4342,
+        "language": "/api/v1/language/aheave/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4342/",
+        "source": "/api/v1/source/brown-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yellow/"
     },
     {
         "added": "2013-05-12T22:32:20.596948",
@@ -1020,18 +1020,6 @@
         "word": "/api/v1/word/to-speak/"
     },
     {
-        "added": "2013-05-12T22:32:20.672987",
-        "annotation": "",
-        "entry": "ohore",
-        "id": 4370,
-        "language": "/api/v1/language/aheave/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/4370/",
-        "source": "/api/v1/source/brown-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/this/"
-    },
-    {
         "added": "2013-05-12T22:32:20.619669",
         "annotation": "",
         "entry": "ohore",
@@ -1042,6 +1030,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-05-12T22:32:20.672987",
+        "annotation": "",
+        "entry": "ohore",
+        "id": 4370,
+        "language": "/api/v1/language/aheave/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4370/",
+        "source": "/api/v1/source/brown-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/this/"
     },
     {
         "added": "2013-05-12T22:32:20.639839",

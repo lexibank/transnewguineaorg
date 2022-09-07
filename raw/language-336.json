@@ -240,18 +240,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2013-06-27T21:44:16.696897",
-        "annotation": "",
-        "entry": "flekle-kunda",
-        "id": 30755,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/30755/",
-        "source": "/api/v1/source/voorhoeve-1971/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2013-06-10T18:36:00.751454",
         "annotation": "",
         "entry": "flekle-kunda",
@@ -264,16 +252,16 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2013-06-27T21:40:32.557562",
+        "added": "2013-06-27T21:44:16.696897",
         "annotation": "",
-        "entry": "fu",
-        "id": 30729,
+        "entry": "flekle-kunda",
+        "id": 30755,
         "language": "/api/v1/language/usku/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/30729/",
+        "resource_uri": "/api/v1/lexicon/30755/",
         "source": "/api/v1/source/voorhoeve-1971/",
         "source_gloss": null,
-        "word": "/api/v1/word/ashes/"
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2013-06-10T18:36:00.569891",
@@ -284,6 +272,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/19659/",
         "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2013-06-27T21:40:32.557562",
+        "annotation": "",
+        "entry": "fu",
+        "id": 30729,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/30729/",
+        "source": "/api/v1/source/voorhoeve-1971/",
         "source_gloss": null,
         "word": "/api/v1/word/ashes/"
     },
@@ -396,18 +396,6 @@
         "word": "/api/v1/word/that/"
     },
     {
-        "added": "2013-06-10T18:36:00.641211",
-        "annotation": "",
-        "entry": "kepo",
-        "id": 19666,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/19666/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2013-06-27T21:44:16.614313",
         "annotation": "",
         "entry": "kepo",
@@ -416,6 +404,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/30745/",
         "source": "/api/v1/source/voorhoeve-1971/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-06-10T18:36:00.641211",
+        "annotation": "",
+        "entry": "kepo",
+        "id": 19666,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/19666/",
+        "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
     },
@@ -444,18 +444,6 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2013-06-27T21:53:11.413744",
-        "annotation": "",
-        "entry": "kisifaini",
-        "id": 30797,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/30797/",
-        "source": "/api/v1/source/voorhoeve-1971/",
-        "source_gloss": null,
-        "word": "/api/v1/word/one/"
-    },
-    {
         "added": "2013-06-10T18:36:00.873097",
         "annotation": "",
         "entry": "kisifaini",
@@ -464,6 +452,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/19682/",
         "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2013-06-27T21:53:11.413744",
+        "annotation": "",
+        "entry": "kisifaini",
+        "id": 30797,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/30797/",
+        "source": "/api/v1/source/voorhoeve-1971/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
     },
@@ -648,18 +648,6 @@
         "word": "/api/v1/word/night/"
     },
     {
-        "added": "2013-06-10T18:36:00.553784",
-        "annotation": "arm",
-        "entry": "mesa",
-        "id": 19658,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/19658/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": "arm",
-        "word": "/api/v1/word/arm/"
-    },
-    {
         "added": "2013-06-27T21:44:16.714932",
         "annotation": "hand, arm",
         "entry": "mesa",
@@ -672,16 +660,16 @@
         "word": "/api/v1/word/arm-hand/"
     },
     {
-        "added": "2013-06-10T18:36:00.946846",
-        "annotation": "",
-        "entry": "mesek\u0259le",
-        "id": 19690,
+        "added": "2013-06-10T18:36:00.553784",
+        "annotation": "arm",
+        "entry": "mesa",
+        "id": 19658,
         "language": "/api/v1/language/usku/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/19690/",
+        "resource_uri": "/api/v1/lexicon/19658/",
         "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tail/"
+        "source_gloss": "arm",
+        "word": "/api/v1/word/arm/"
     },
     {
         "added": "2013-06-27T21:53:11.336452",
@@ -692,6 +680,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/30790/",
         "source": "/api/v1/source/voorhoeve-1971/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2013-06-10T18:36:00.946846",
+        "annotation": "",
+        "entry": "mesek\u0259le",
+        "id": 19690,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/19690/",
+        "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/tail/"
     },
@@ -708,18 +708,6 @@
         "word": "/api/v1/word/bone/"
     },
     {
-        "added": "2013-06-10T18:36:00.596471",
-        "annotation": "",
-        "entry": "mise",
-        "id": 19662,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/19662/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/blood/"
-    },
-    {
         "added": "2013-06-27T21:40:32.614773",
         "annotation": "",
         "entry": "mise",
@@ -730,6 +718,18 @@
         "source": "/api/v1/source/voorhoeve-1971/",
         "source_gloss": null,
         "word": "/api/v1/word/black/"
+    },
+    {
+        "added": "2013-06-10T18:36:00.596471",
+        "annotation": "",
+        "entry": "mise",
+        "id": 19662,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/19662/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/blood/"
     },
     {
         "added": "2013-06-27T21:44:16.668923",
@@ -840,18 +840,6 @@
         "word": "/api/v1/word/this/"
     },
     {
-        "added": "2013-06-27T21:53:11.306662",
-        "annotation": "",
-        "entry": "nei",
-        "id": 30788,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/30788/",
-        "source": "/api/v1/source/voorhoeve-1971/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sun/"
-    },
-    {
         "added": "2013-06-10T18:36:00.938265",
         "annotation": "",
         "entry": "nei",
@@ -860,6 +848,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/19689/",
         "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2013-06-27T21:53:11.306662",
+        "annotation": "",
+        "entry": "nei",
+        "id": 30788,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/30788/",
+        "source": "/api/v1/source/voorhoeve-1971/",
         "source_gloss": null,
         "word": "/api/v1/word/sun/"
     },
@@ -972,18 +972,6 @@
         "word": "/api/v1/word/to-cry/"
     },
     {
-        "added": "2013-06-10T18:36:00.792291",
-        "annotation": "",
-        "entry": "nimi",
-        "id": 19678,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/19678/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2013-06-27T21:46:40.136534",
         "annotation": "",
         "entry": "nimi",
@@ -992,6 +980,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/30763/",
         "source": "/api/v1/source/voorhoeve-1971/",
+        "source_gloss": null,
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2013-06-10T18:36:00.792291",
+        "annotation": "",
+        "entry": "nimi",
+        "id": 19678,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/19678/",
+        "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/louse/"
     },
@@ -1032,18 +1032,6 @@
         "word": "/api/v1/word/new/"
     },
     {
-        "added": "2013-06-27T21:46:40.112994",
-        "annotation": "",
-        "entry": "o\u014bkula",
-        "id": 30760,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/30760/",
-        "source": "/api/v1/source/voorhoeve-1971/",
-        "source_gloss": null,
-        "word": "/api/v1/word/knee/"
-    },
-    {
         "added": "2013-06-27T21:40:32.570202",
         "annotation": "",
         "entry": "o\u014bkula",
@@ -1056,16 +1044,16 @@
         "word": "/api/v1/word/knee/"
     },
     {
-        "added": "2013-06-27T21:46:40.104193",
+        "added": "2013-06-27T21:46:40.112994",
         "annotation": "",
-        "entry": "ose",
-        "id": 30759,
+        "entry": "o\u014bkula",
+        "id": 30760,
         "language": "/api/v1/language/usku/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/30759/",
+        "resource_uri": "/api/v1/lexicon/30760/",
         "source": "/api/v1/source/voorhoeve-1971/",
         "source_gloss": null,
-        "word": "/api/v1/word/i/"
+        "word": "/api/v1/word/knee/"
     },
     {
         "added": "2013-06-10T18:36:00.768597",
@@ -1076,6 +1064,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/19676/",
         "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2013-06-27T21:46:40.104193",
+        "annotation": "",
+        "entry": "ose",
+        "id": 30759,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/30759/",
+        "source": "/api/v1/source/voorhoeve-1971/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
     },
@@ -1176,18 +1176,6 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2013-06-10T18:36:00.990438",
-        "annotation": "",
-        "entry": "pu",
-        "id": 19695,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/19695/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/we/"
-    },
-    {
         "added": "2013-06-27T21:48:59.636301",
         "annotation": "",
         "entry": "pu",
@@ -1198,6 +1186,18 @@
         "source": "/api/v1/source/voorhoeve-1971/",
         "source_gloss": null,
         "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2013-06-10T18:36:00.990438",
+        "annotation": "",
+        "entry": "pu",
+        "id": 19695,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/19695/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/we/"
     },
     {
         "added": "2013-06-27T21:54:55.872668",
@@ -1272,18 +1272,6 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2013-06-10T18:36:00.921248",
-        "annotation": "",
-        "entry": "tianise",
-        "id": 19687,
-        "language": "/api/v1/language/usku/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/19687/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2013-06-27T21:53:11.142273",
         "annotation": "",
         "entry": "tianise",
@@ -1292,6 +1280,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/30782/",
         "source": "/api/v1/source/voorhoeve-1971/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-06-10T18:36:00.921248",
+        "annotation": "",
+        "entry": "tianise",
+        "id": 19687,
+        "language": "/api/v1/language/usku/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/19687/",
+        "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
     },

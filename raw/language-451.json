@@ -8,8 +8,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50140/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/female-sex-organ/"
+        "source_gloss": "female sex organ",
+        "word": "/api/v1/word/vagina/"
     },
     {
         "added": "2013-11-19T03:56:10.126171",
@@ -20,8 +20,32 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50776/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandfather/"
+    },
+    {
+        "added": "2013-11-19T03:56:10.126171",
+        "annotation": "grandfather, uncle, father-in-law",
+        "entry": "afija",
+        "id": 260767,
+        "language": "/api/v1/language/hunjara-kaina-ke/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260767/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/father-in-law/"
+    },
+    {
+        "added": "2013-11-19T03:56:10.126171",
+        "annotation": "grandfather, uncle, father-in-law",
+        "entry": "afija",
+        "id": 260766,
+        "language": "/api/v1/language/hunjara-kaina-ke/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260766/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/uncle/"
     },
     {
         "added": "2013-11-19T03:56:10.131410",
@@ -32,8 +56,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50777/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
+        "source_gloss": "maternal uncle",
+        "word": "/api/v1/word/uncle/"
     },
     {
         "added": "2013-11-19T03:56:18.314837",
@@ -324,18 +348,6 @@
         "word": "/api/v1/word/go/"
     },
     {
-        "added": "2015-04-01T00:56:45.543439",
-        "annotation": "bread-fruit",
-        "entry": "bau",
-        "id": 211154,
-        "language": "/api/v1/language/hunjara-kaina-ke/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/211154/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": "breadfruit/scrotum",
-        "word": "/api/v1/word/testicles/"
-    },
-    {
         "added": "2013-11-19T03:55:56.742871",
         "annotation": "bread-fruit",
         "entry": "bau",
@@ -348,16 +360,16 @@
         "word": "/api/v1/word/breadfruit/"
     },
     {
-        "added": "2013-11-19T03:56:19.058470",
-        "annotation": "mouth",
-        "entry": "be",
-        "id": 52320,
+        "added": "2015-04-01T00:56:45.543439",
+        "annotation": "bread-fruit",
+        "entry": "bau",
+        "id": 211154,
         "language": "/api/v1/language/hunjara-kaina-ke/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/52320/",
+        "resource_uri": "/api/v1/lexicon/211154/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/mouth/"
+        "source_gloss": "breadfruit/scrotum",
+        "word": "/api/v1/word/testicles/"
     },
     {
         "added": "2013-11-19T03:56:36.048192",
@@ -370,6 +382,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/right-correct/"
+    },
+    {
+        "added": "2013-11-19T03:56:19.058470",
+        "annotation": "mouth",
+        "entry": "be",
+        "id": 52320,
+        "language": "/api/v1/language/hunjara-kaina-ke/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/52320/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mouth/"
     },
     {
         "added": "2013-11-19T03:55:55.099063",
@@ -540,18 +564,6 @@
         "word": "/api/v1/word/mosquito/"
     },
     {
-        "added": "2013-11-19T03:56:35.107440",
-        "annotation": "tooth",
-        "entry": "di",
-        "id": 55243,
-        "language": "/api/v1/language/hunjara-kaina-ke/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/55243/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2013-11-19T03:55:54.584491",
         "annotation": "bird",
         "entry": "di",
@@ -562,6 +574,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2013-11-19T03:56:35.107440",
+        "annotation": "tooth",
+        "entry": "di",
+        "id": 55243,
+        "language": "/api/v1/language/hunjara-kaina-ke/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/55243/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
     },
     {
         "added": "2013-11-19T03:56:08.233791",
@@ -1620,18 +1644,6 @@
         "word": "/api/v1/word/to-take/"
     },
     {
-        "added": "2013-11-19T03:55:51.641495",
-        "annotation": "abdomen",
-        "entry": "'humbu",
-        "id": 47473,
-        "language": "/api/v1/language/hunjara-kaina-ke/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/47473/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/abdomen/"
-    },
-    {
         "added": "2013-11-19T03:55:59.764838",
         "annotation": "cloud",
         "entry": "'humbu",
@@ -1642,6 +1654,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2013-11-19T03:55:51.641495",
+        "annotation": "abdomen",
+        "entry": "'humbu",
+        "id": 47473,
+        "language": "/api/v1/language/hunjara-kaina-ke/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/47473/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/abdomen/"
     },
     {
         "added": "2013-11-19T03:56:22.341314",
@@ -1776,7 +1800,7 @@
         "word": "/api/v1/word/ignite/"
     },
     {
-        "added": "2013-11-19T03:56:36.469123",
+        "added": "2022-07-25T22:18:02.684011",
         "annotation": "tree top",
         "entry": "[i] 'kombu",
         "id": 55494,
@@ -1785,7 +1809,7 @@
         "resource_uri": "/api/v1/lexicon/55494/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/upper-part-of-tree/"
+        "word": "/api/v1/word/tree-top/"
     },
     {
         "added": "2013-11-19T03:56:18.636615",

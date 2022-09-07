@@ -204,18 +204,6 @@
         "word": "/api/v1/word/morning/"
     },
     {
-        "added": "2013-11-29T19:34:52.503350",
-        "annotation": "",
-        "entry": "ahbiyah",
-        "id": 74612,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74612/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tomorrow/"
-    },
-    {
         "added": "2013-11-29T19:34:54.761708",
         "annotation": "",
         "entry": "ahbiyah",
@@ -226,6 +214,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/yesterday/"
+    },
+    {
+        "added": "2013-11-29T19:34:52.503350",
+        "annotation": "",
+        "entry": "ahbiyah",
+        "id": 74612,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74612/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tomorrow/"
     },
     {
         "added": "2014-02-25T04:17:14.389861",
@@ -660,6 +660,18 @@
         "word": "/api/v1/word/knee/"
     },
     {
+        "added": "2013-11-29T19:34:54.861881",
+        "annotation": "",
+        "entry": "are",
+        "id": 75040,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/75040/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/you/"
+    },
+    {
         "added": "2014-02-25T04:17:14.360226",
         "annotation": null,
         "entry": "are",
@@ -682,18 +694,6 @@
         "source": "/api/v1/source/sil-1976/",
         "source_gloss": "",
         "word": "/api/v1/word/woman/"
-    },
-    {
-        "added": "2013-11-29T19:34:54.861881",
-        "annotation": "",
-        "entry": "are",
-        "id": 75040,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/75040/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/you/"
     },
     {
         "added": "2013-11-29T19:34:39.250801",
@@ -732,18 +732,6 @@
         "word": "/api/v1/word/liver/"
     },
     {
-        "added": "2014-02-25T04:17:14.434252",
-        "annotation": null,
-        "entry": "  aru",
-        "id": 79274,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/79274/",
-        "source": "/api/v1/source/xiao-1990/",
-        "source_gloss": null,
-        "word": "/api/v1/word/thigh/"
-    },
-    {
         "added": "2014-02-25T04:17:14.537275",
         "annotation": null,
         "entry": "  aru",
@@ -754,6 +742,18 @@
         "source": "/api/v1/source/xiao-1990/",
         "source_gloss": null,
         "word": "/api/v1/word/liver/"
+    },
+    {
+        "added": "2014-02-25T04:17:14.434252",
+        "annotation": null,
+        "entry": "  aru",
+        "id": 79274,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/79274/",
+        "source": "/api/v1/source/xiao-1990/",
+        "source_gloss": null,
+        "word": "/api/v1/word/thigh/"
     },
     {
         "added": "2013-11-29T19:34:45.088422",
@@ -780,18 +780,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2013-11-29T19:34:42.039255",
-        "annotation": "",
-        "entry": "au",
-        "id": 72722,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72722/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2013-11-29T19:34:50.307318",
         "annotation": "",
         "entry": "au",
@@ -802,6 +790,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2013-11-29T19:34:42.039255",
+        "annotation": "",
+        "entry": "au",
+        "id": 72722,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72722/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2013-11-29T19:34:43.962832",
@@ -984,18 +984,6 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2013-11-29T19:34:46.291631",
-        "annotation": "",
-        "entry": "awi'",
-        "id": 73482,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73482/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/name/"
-    },
-    {
         "added": "2013-11-29T19:34:43.759792",
         "annotation": "give",
         "entry": "awi'",
@@ -1006,6 +994,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2013-11-29T19:34:46.291631",
+        "annotation": "",
+        "entry": "awi'",
+        "id": 73482,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73482/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2014-02-25T04:17:14.493682",
@@ -1548,18 +1548,6 @@
         "word": "/api/v1/word/to-stand/"
     },
     {
-        "added": "2013-11-29T19:34:44.471582",
-        "annotation": "hear",
-        "entry": "iro",
-        "id": 73168,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73168/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-hear/"
-    },
-    {
         "added": "2013-11-29T19:34:45.586624",
         "annotation": "know",
         "entry": "iro",
@@ -1570,6 +1558,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-know/"
+    },
+    {
+        "added": "2013-11-29T19:34:44.471582",
+        "annotation": "hear",
+        "entry": "iro",
+        "id": 73168,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73168/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-hear/"
     },
     {
         "added": "2015-05-05T19:06:40.679503",
@@ -1692,6 +1692,18 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
+        "added": "2013-11-29T19:34:43.464706",
+        "annotation": "",
+        "entry": "iyo",
+        "id": 72979,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72979/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/frog/"
+    },
+    {
         "added": "2013-11-29T19:34:47.566938",
         "annotation": "",
         "entry": "iyo",
@@ -1702,18 +1714,6 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
-    },
-    {
-        "added": "2015-05-05T00:02:26.080990",
-        "annotation": "",
-        "entry": "iyo",
-        "id": 212829,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212829/",
-        "source": "/api/v1/source/sil-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sun/"
     },
     {
         "added": "2013-11-29T19:34:51.308291",
@@ -1728,16 +1728,16 @@
         "word": "/api/v1/word/sun/"
     },
     {
-        "added": "2013-11-29T19:34:43.464706",
+        "added": "2015-05-05T00:02:26.080990",
         "annotation": "",
         "entry": "iyo",
-        "id": 72979,
+        "id": 212829,
         "language": "/api/v1/language/awa/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/72979/",
-        "source": "/api/v1/source/scott1978/",
+        "resource_uri": "/api/v1/lexicon/212829/",
+        "source": "/api/v1/source/sil-1976/",
         "source_gloss": null,
-        "word": "/api/v1/word/frog/"
+        "word": "/api/v1/word/sun/"
     },
     {
         "added": "2015-05-05T00:02:26.095063",
@@ -1944,18 +1944,6 @@
         "word": "/api/v1/word/to-dig/"
     },
     {
-        "added": "2015-05-05T18:47:17.418097",
-        "annotation": "",
-        "entry": "\u028cko",
-        "id": 212915,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212915/",
-        "source": "/api/v1/source/sil-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/shoulder/"
-    },
-    {
         "added": "2015-05-05T18:47:17.231620",
         "annotation": "",
         "entry": "\u028cko",
@@ -1963,6 +1951,18 @@
         "language": "/api/v1/language/awa/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212901/",
+        "source": "/api/v1/source/sil-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/shoulder/"
+    },
+    {
+        "added": "2015-05-05T18:47:17.418097",
+        "annotation": "",
+        "entry": "\u028cko",
+        "id": 212915,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212915/",
         "source": "/api/v1/source/sil-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/shoulder/"
@@ -2616,18 +2616,6 @@
         "word": "/api/v1/word/blood/"
     },
     {
-        "added": "2013-11-29T19:34:44.992498",
-        "annotation": "",
-        "entry": "nah",
-        "id": 73257,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73257/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/house/"
-    },
-    {
         "added": "2013-11-29T19:34:40.151533",
         "annotation": "",
         "entry": "nah",
@@ -2638,6 +2626,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2013-11-29T19:34:44.992498",
+        "annotation": "",
+        "entry": "nah",
+        "id": 73257,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73257/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/house/"
     },
     {
         "added": "2014-02-25T04:17:14.421320",
@@ -2832,18 +2832,6 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
-        "added": "2013-11-29T19:34:49.061159",
-        "annotation": "",
-        "entry": "nehe",
-        "id": 73989,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73989/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/red/"
-    },
-    {
         "added": "2013-11-29T19:34:39.860783",
         "annotation": "",
         "entry": "nehe",
@@ -2854,6 +2842,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2013-11-29T19:34:49.061159",
+        "annotation": "",
+        "entry": "nehe",
+        "id": 73989,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73989/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/red/"
     },
     {
         "added": "2015-05-05T19:06:40.744138",
@@ -2904,18 +2904,6 @@
         "word": "/api/v1/word/boy/"
     },
     {
-        "added": "2015-05-05T00:02:26.120149",
-        "annotation": "",
-        "entry": "no",
-        "id": 212833,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212833/",
-        "source": "/api/v1/source/sil-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2013-11-29T19:34:53.260242",
         "annotation": "",
         "entry": "no",
@@ -2924,6 +2912,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/74748/",
         "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2015-05-05T00:02:26.120149",
+        "annotation": "",
+        "entry": "no",
+        "id": 212833,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212833/",
+        "source": "/api/v1/source/sil-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
     },
@@ -3740,8 +3740,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/79284/",
         "source": "/api/v1/source/xiao-1990/",
-        "source_gloss": null,
-        "word": "/api/v1/word/for-benefactive/"
+        "source_gloss": "for (benefactive, cliticise or suffixed to noun)",
+        "word": "/api/v1/word/for-benefactive-clitic/"
     },
     {
         "added": "2013-11-29T19:34:52.780111",
@@ -4164,18 +4164,6 @@
         "word": "/api/v1/word/cold/"
     },
     {
-        "added": "2015-05-05T00:02:26.204259",
-        "annotation": "",
-        "entry": "tiye",
-        "id": 212842,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212842/",
-        "source": "/api/v1/source/sil-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-come/"
-    },
-    {
         "added": "2013-11-29T19:34:41.069212",
         "annotation": "come",
         "entry": "tiye",
@@ -4184,6 +4172,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/72549/",
         "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2015-05-05T00:02:26.204259",
+        "annotation": "",
+        "entry": "tiye",
+        "id": 212842,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212842/",
+        "source": "/api/v1/source/sil-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/to-come/"
     },
@@ -4380,18 +4380,6 @@
         "word": "/api/v1/word/to-kill/"
     },
     {
-        "added": "2015-05-19T02:27:42.597232",
-        "annotation": "",
-        "entry": "tug\u00e6\u0294",
-        "id": 213622,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/213622/",
-        "source": "/api/v1/source/sil-1976/",
-        "source_gloss": "",
-        "word": "/api/v1/word/to-lie-down/"
-    },
-    {
         "added": "2015-05-05T20:23:23.972247",
         "annotation": "",
         "entry": "tug\u00e6\u0294",
@@ -4402,6 +4390,18 @@
         "source": "/api/v1/source/sil-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2015-05-19T02:27:42.597232",
+        "annotation": "",
+        "entry": "tug\u00e6\u0294",
+        "id": 213622,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/213622/",
+        "source": "/api/v1/source/sil-1976/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-lie-down/"
     },
     {
         "added": "2013-11-29T19:34:48.954567",
@@ -4464,18 +4464,6 @@
         "word": "/api/v1/word/frog/"
     },
     {
-        "added": "2015-05-19T02:27:56.615092",
-        "annotation": "",
-        "entry": "\u028c\u0301\u00fa",
-        "id": 212823,
-        "language": "/api/v1/language/awa/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212823/",
-        "source": "/api/v1/source/sil-1976/",
-        "source_gloss": "",
-        "word": "/api/v1/word/skin/"
-    },
-    {
         "added": "2015-05-05T00:02:26.169441",
         "annotation": "",
         "entry": "\u028c\u0301\u00fa",
@@ -4486,6 +4474,18 @@
         "source": "/api/v1/source/sil-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2015-05-19T02:27:56.615092",
+        "annotation": "",
+        "entry": "\u028c\u0301\u00fa",
+        "id": 212823,
+        "language": "/api/v1/language/awa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212823/",
+        "source": "/api/v1/source/sil-1976/",
+        "source_gloss": "",
+        "word": "/api/v1/word/skin/"
     },
     {
         "added": "2015-05-05T18:54:43.511530",

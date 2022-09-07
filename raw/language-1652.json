@@ -48,18 +48,6 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2015-10-26T12:54:15.147021",
-        "annotation": "",
-        "entry": "aman",
-        "id": 254297,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254297/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "(the) inside",
-        "word": "/api/v1/word/in/"
-    },
-    {
         "added": "2015-10-26T12:54:06.538816",
         "annotation": "",
         "entry": "aman",
@@ -70,6 +58,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/bow/"
+    },
+    {
+        "added": "2015-10-26T12:54:15.147021",
+        "annotation": "",
+        "entry": "aman",
+        "id": 254297,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254297/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "(the) inside",
+        "word": "/api/v1/word/in/"
     },
     {
         "added": "2015-10-26T12:54:20.471945",
@@ -164,8 +164,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/252589/",
         "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "to call",
-        "word": "/api/v1/word/call/"
+        "source_gloss": "to call out",
+        "word": "/api/v1/word/to-call-out/"
     },
     {
         "added": "2015-10-26T12:54:06.766613",
@@ -828,18 +828,6 @@
         "word": "/api/v1/word/mosquito/"
     },
     {
-        "added": "2015-10-26T12:54:11.245137",
-        "annotation": "",
-        "entry": "is",
-        "id": 253605,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253605/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "firewood, fire",
-        "word": "/api/v1/word/firewood/"
-    },
-    {
         "added": "2015-10-26T12:54:20.233006",
         "annotation": "",
         "entry": "is",
@@ -850,6 +838,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "sleep, to sleep",
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2015-10-26T12:54:11.245137",
+        "annotation": "",
+        "entry": "is",
+        "id": 253605,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253605/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "firewood, fire",
+        "word": "/api/v1/word/firewood/"
     },
     {
         "added": "2015-10-26T12:54:20.384726",
@@ -1044,18 +1044,6 @@
         "word": "/api/v1/word/leg-foot/"
     },
     {
-        "added": "2015-10-26T12:54:16.923640",
-        "annotation": "",
-        "entry": "me",
-        "id": 254857,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254857/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/mouth/"
-    },
-    {
         "added": "2015-10-26T12:54:18.262120",
         "annotation": "",
         "entry": "me",
@@ -1066,6 +1054,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "prawn sp.",
         "word": "/api/v1/word/prawn/"
+    },
+    {
+        "added": "2015-10-26T12:54:16.923640",
+        "annotation": "",
+        "entry": "me",
+        "id": 254857,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254857/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/mouth/"
     },
     {
         "added": "2015-10-26T12:54:19.238912",
@@ -2136,18 +2136,6 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2015-10-26T12:54:21.653179",
-        "annotation": "",
-        "entry": "wow",
-        "id": 256418,
-        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256418/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/today/"
-    },
-    {
         "added": "2015-10-26T12:54:07.299349",
         "annotation": "",
         "entry": "wow",
@@ -2158,6 +2146,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/carving/"
+    },
+    {
+        "added": "2015-10-26T12:54:21.653179",
+        "annotation": "",
+        "entry": "wow",
+        "id": 256418,
+        "language": "/api/v1/language/asmat-central-mecamup-omanesep/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256418/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/today/"
     },
     {
         "added": "2015-10-26T12:54:17.916805",

@@ -44,7 +44,7 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50757/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
+        "source_gloss": "grandfather, grandchild",
         "word": "/api/v1/word/grandfather/"
     },
     {
@@ -264,18 +264,6 @@
         "word": "/api/v1/word/iron-tool/"
     },
     {
-        "added": "2013-11-19T03:55:57.709772",
-        "annotation": "fire, firebrand (lit: 'burning-wood/tree')",
-        "entry": "awa[rika]",
-        "id": 48567,
-        "language": "/api/v1/language/karoto/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48567/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2013-11-19T03:56:07.327199",
         "annotation": "fire, firebrand (lit: 'burning-wood/tree')",
         "entry": "awa[rika]",
@@ -286,6 +274,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-11-19T03:55:57.709772",
+        "annotation": "fire, firebrand (lit: 'burning-wood/tree')",
+        "entry": "awa[rika]",
+        "id": 48567,
+        "language": "/api/v1/language/karoto/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48567/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2013-11-19T03:55:57.704450",

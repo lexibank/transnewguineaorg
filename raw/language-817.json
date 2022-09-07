@@ -264,18 +264,6 @@
         "word": "/api/v1/word/spear-n/"
     },
     {
-        "added": "2014-04-10T20:22:32.472288",
-        "annotation": "(its) eye",
-        "entry": "dzi\u014b\u00e2-",
-        "id": 91588,
-        "language": "/api/v1/language/mape/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91588/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(its) eye",
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2014-04-10T20:22:31.358813",
         "annotation": "(its) name",
         "entry": "dzi\u014b\u00e2-",
@@ -286,6 +274,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(its) name",
         "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.472288",
+        "annotation": "(its) eye",
+        "entry": "dzi\u014b\u00e2-",
+        "id": 91588,
+        "language": "/api/v1/language/mape/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91588/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(its) eye",
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2014-04-10T20:22:33.636961",

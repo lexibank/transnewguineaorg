@@ -804,18 +804,6 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2013-05-12T22:52:16.824382",
-        "annotation": null,
-        "entry": "kumu",
-        "id": 4514,
-        "language": "/api/v1/language/mena/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/4514/",
-        "source": "/api/v1/source/franklin-1973-b/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ashes/"
-    },
-    {
         "added": "2013-05-01T07:10:01.132139",
         "annotation": "",
         "entry": "kumu",
@@ -826,6 +814,18 @@
         "source": "/api/v1/source/franklin-1973-b/",
         "source_gloss": null,
         "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2013-05-12T22:52:16.824382",
+        "annotation": null,
+        "entry": "kumu",
+        "id": 4514,
+        "language": "/api/v1/language/mena/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4514/",
+        "source": "/api/v1/source/franklin-1973-b/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ashes/"
     },
     {
         "added": "2013-05-01T07:10:01.133209",

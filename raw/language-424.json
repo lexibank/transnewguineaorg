@@ -8,8 +8,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50137/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/female-sex-organ/"
+        "source_gloss": "female sex organ",
+        "word": "/api/v1/word/vagina/"
     },
     {
         "added": "2013-11-19T03:56:18.277920",
@@ -108,18 +108,6 @@
         "word": "/api/v1/word/house-of-woman/"
     },
     {
-        "added": "2013-11-19T03:56:26.445430",
-        "annotation": "seed",
-        "entry": "be",
-        "id": 53634,
-        "language": "/api/v1/language/orokaiva/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53634/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/seed/"
-    },
-    {
         "added": "2013-11-19T03:56:36.022908",
         "annotation": "real/true",
         "entry": "be",
@@ -132,16 +120,16 @@
         "word": "/api/v1/word/right-correct/"
     },
     {
-        "added": "2013-11-19T03:56:22.443815",
-        "annotation": "penis",
-        "entry": "bi",
-        "id": 52915,
+        "added": "2013-11-19T03:56:26.445430",
+        "annotation": "seed",
+        "entry": "be",
+        "id": 53634,
         "language": "/api/v1/language/orokaiva/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/52915/",
+        "resource_uri": "/api/v1/lexicon/53634/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/penis/"
+        "word": "/api/v1/word/seed/"
     },
     {
         "added": "2013-11-19T03:56:28.072626",
@@ -154,6 +142,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/sister-law/"
+    },
+    {
+        "added": "2013-11-19T03:56:22.443815",
+        "annotation": "penis",
+        "entry": "bi",
+        "id": 52915,
+        "language": "/api/v1/language/orokaiva/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/52915/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/penis/"
     },
     {
         "added": "2013-11-19T03:56:16.000728",

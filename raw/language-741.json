@@ -1,17 +1,5 @@
 [
     {
-        "added": "2014-10-12T01:23:09.560439",
-        "annotation": "",
-        "entry": "0-",
-        "id": 190686,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190686/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "2sg.gen",
-        "word": "/api/v1/word/your-sg/"
-    },
-    {
         "added": "2014-10-12T01:23:09.943550",
         "annotation": "",
         "entry": "0-",
@@ -24,16 +12,16 @@
         "word": "/api/v1/word/your-pl/"
     },
     {
-        "added": "2014-10-12T01:23:09.941407",
+        "added": "2014-10-12T01:23:09.560439",
         "annotation": "",
-        "entry": "a-",
-        "id": 190872,
+        "entry": "0-",
+        "id": 190686,
         "language": "/api/v1/language/utarmbung/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/190872/",
+        "resource_uri": "/api/v1/lexicon/190686/",
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "2pl.gen",
-        "word": "/api/v1/word/your-pl/"
+        "source_gloss": "2sg.gen",
+        "word": "/api/v1/word/your-sg/"
     },
     {
         "added": "2014-10-12T01:23:09.558471",
@@ -58,6 +46,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "1pl.poss",
         "word": "/api/v1/word/our/"
+    },
+    {
+        "added": "2014-10-12T01:23:09.941407",
+        "annotation": "",
+        "entry": "a-",
+        "id": 190872,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190872/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "2pl.gen",
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2014-10-12T01:23:12.983056",
@@ -1644,18 +1644,6 @@
         "word": "/api/v1/word/to-go-down/"
     },
     {
-        "added": "2014-10-12T01:23:12.647813",
-        "annotation": "",
-        "entry": "mokr-",
-        "id": 192168,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/192168/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "possum (tree)",
-        "word": "/api/v1/word/tree-possum/"
-    },
-    {
         "added": "2014-10-12T01:23:15.928592",
         "annotation": "",
         "entry": "mokr-",
@@ -1666,6 +1654,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "white",
         "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2014-10-12T01:23:12.647813",
+        "annotation": "",
+        "entry": "mokr-",
+        "id": 192168,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/192168/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "possum (tree)",
+        "word": "/api/v1/word/tree-possum/"
     },
     {
         "added": "2014-10-12T01:23:08.998190",
@@ -1872,18 +1872,6 @@
         "word": "/api/v1/word/coconut/"
     },
     {
-        "added": "2014-10-12T01:23:12.369156",
-        "annotation": "",
-        "entry": "muru-",
-        "id": 192035,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/192035/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "meat",
-        "word": "/api/v1/word/meat/"
-    },
-    {
         "added": "2014-10-12T01:23:13.425396",
         "annotation": "",
         "entry": "muru-",
@@ -1894,6 +1882,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "top",
         "word": "/api/v1/word/top/"
+    },
+    {
+        "added": "2014-10-12T01:23:12.369156",
+        "annotation": "",
+        "entry": "muru-",
+        "id": 192035,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/192035/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "meat",
+        "word": "/api/v1/word/meat/"
     },
     {
         "added": "2014-10-12T01:23:16.173229",
@@ -1944,18 +1944,6 @@
         "word": "/api/v1/word/vulva/"
     },
     {
-        "added": "2014-10-12T01:23:10.066033",
-        "annotation": "",
-        "entry": "n\u0289-",
-        "id": 190932,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190932/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "3pl.gen",
-        "word": "/api/v1/word/their/"
-    },
-    {
         "added": "2014-10-12T01:23:09.717856",
         "annotation": "",
         "entry": "n\u0289-",
@@ -1966,6 +1954,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "3sg.obj",
         "word": "/api/v1/word/him-her-it/"
+    },
+    {
+        "added": "2014-10-12T01:23:10.066033",
+        "annotation": "",
+        "entry": "n\u0289-",
+        "id": 190932,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190932/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "3pl.gen",
+        "word": "/api/v1/word/their/"
     },
     {
         "added": "2014-10-12T01:23:09.691003",
@@ -3900,30 +3900,6 @@
         "word": "/api/v1/word/to-watch/"
     },
     {
-        "added": "2014-10-12T01:23:09.434731",
-        "annotation": "",
-        "entry": "yi-",
-        "id": 190626,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190626/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "1sg.gen",
-        "word": "/api/v1/word/my/"
-    },
-    {
-        "added": "2014-10-12T01:23:09.820151",
-        "annotation": "",
-        "entry": "yi-",
-        "id": 190813,
-        "language": "/api/v1/language/utarmbung/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/190813/",
-        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
-        "source_gloss": "1pl.gen",
-        "word": "/api/v1/word/our/"
-    },
-    {
         "added": "2014-10-12T01:23:09.491797",
         "annotation": "",
         "entry": "yi-",
@@ -3933,6 +3909,18 @@
         "resource_uri": "/api/v1/lexicon/190654/",
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "1sg.poss",
+        "word": "/api/v1/word/my/"
+    },
+    {
+        "added": "2014-10-12T01:23:09.434731",
+        "annotation": "",
+        "entry": "yi-",
+        "id": 190626,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190626/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "1sg.gen",
         "word": "/api/v1/word/my/"
     },
     {
@@ -3946,6 +3934,18 @@
         "source": "/api/v1/source/zgraggen-1980-sadelbert/",
         "source_gloss": "1sg.obj",
         "word": "/api/v1/word/me/"
+    },
+    {
+        "added": "2014-10-12T01:23:09.820151",
+        "annotation": "",
+        "entry": "yi-",
+        "id": 190813,
+        "language": "/api/v1/language/utarmbung/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/190813/",
+        "source": "/api/v1/source/zgraggen-1980-sadelbert/",
+        "source_gloss": "1pl.gen",
+        "word": "/api/v1/word/our/"
     },
     {
         "added": "2014-10-12T01:23:09.399876",

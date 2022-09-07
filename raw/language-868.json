@@ -612,18 +612,6 @@
         "word": "/api/v1/word/cucumber/"
     },
     {
-        "added": "2014-11-17T21:34:03.517748",
-        "annotation": "",
-        "entry": "kin",
-        "id": 197033,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/197033/",
-        "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2014-07-30T23:28:34.592385",
         "annotation": null,
         "entry": "kin",
@@ -633,6 +621,18 @@
         "resource_uri": "/api/v1/lexicon/156855/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "eye",
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2014-11-17T21:34:03.517748",
+        "annotation": "",
+        "entry": "kin",
+        "id": 197033,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/197033/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
     {
@@ -804,18 +804,6 @@
         "word": "/api/v1/word/top/"
     },
     {
-        "added": "2014-11-24T22:27:16.850682",
-        "annotation": "uncle.1.POSS",
-        "entry": "maame\u00edn",
-        "id": 197084,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/197084/",
-        "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/uncle/"
-    },
-    {
         "added": "2014-11-17T21:34:03.630161",
         "annotation": "uncle.1POSS",
         "entry": "maame\u00edn",
@@ -823,6 +811,18 @@
         "language": "/api/v1/language/mian/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/197044/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/uncle/"
+    },
+    {
+        "added": "2014-11-24T22:27:16.850682",
+        "annotation": "uncle.1.POSS",
+        "entry": "maame\u00edn",
+        "id": 197084,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/197084/",
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/uncle/"
@@ -876,15 +876,15 @@
         "word": "/api/v1/word/dirty-water/"
     },
     {
-        "added": "2014-07-30T23:28:39.057041",
-        "annotation": null,
+        "added": "2014-11-24T22:27:16.822414",
+        "annotation": "",
         "entry": "mimin",
-        "id": 158243,
+        "id": 197079,
         "language": "/api/v1/language/mian/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/158243/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "warm",
+        "resource_uri": "/api/v1/lexicon/197079/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/warm/"
     },
     {
@@ -900,15 +900,15 @@
         "word": "/api/v1/word/warm/"
     },
     {
-        "added": "2014-11-24T22:27:16.822414",
-        "annotation": "",
+        "added": "2014-07-30T23:28:39.057041",
+        "annotation": null,
         "entry": "mimin",
-        "id": 197079,
+        "id": 158243,
         "language": "/api/v1/language/mian/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/197079/",
-        "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/158243/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "warm",
         "word": "/api/v1/word/warm/"
     },
     {
@@ -936,18 +936,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2014-10-30T05:21:11.305678",
-        "annotation": "to be, stay 2",
-        "entry": "n-",
-        "id": 196490,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/196490/",
-        "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-stay/"
-    },
-    {
         "added": "2019-03-19T05:55:07.266546",
         "annotation": null,
         "entry": "n-",
@@ -958,6 +946,18 @@
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-be/"
+    },
+    {
+        "added": "2014-10-30T05:21:11.305678",
+        "annotation": "to be, stay 2",
+        "entry": "n-",
+        "id": 196490,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196490/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-stay/"
     },
     {
         "added": "2014-11-17T21:34:03.593487",
@@ -1032,13 +1032,13 @@
         "word": "/api/v1/word/we/"
     },
     {
-        "added": "2014-11-17T21:34:03.648978",
+        "added": "2014-11-24T22:27:16.876085",
         "annotation": "",
         "entry": "ni\u014b",
-        "id": 197045,
+        "id": 197085,
         "language": "/api/v1/language/mian/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/197045/",
+        "resource_uri": "/api/v1/lexicon/197085/",
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/younger-brother/"
@@ -1056,13 +1056,13 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2014-11-24T22:27:16.876085",
+        "added": "2014-11-17T21:34:03.648978",
         "annotation": "",
         "entry": "ni\u014b",
-        "id": 197085,
+        "id": 197045,
         "language": "/api/v1/language/mian/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/197085/",
+        "resource_uri": "/api/v1/lexicon/197045/",
         "source": "/api/v1/source/loughnane-and-fedden-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/younger-brother/"
@@ -1308,18 +1308,6 @@
         "word": "/api/v1/word/story/"
     },
     {
-        "added": "2014-07-30T23:28:45.456041",
-        "annotation": null,
-        "entry": "sikir",
-        "id": 160280,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/160280/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "foot",
-        "word": "/api/v1/word/foot/"
-    },
-    {
         "added": "2014-07-30T23:28:42.094120",
         "annotation": null,
         "entry": "sikir",
@@ -1330,6 +1318,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "leg-foot",
         "word": "/api/v1/word/leg-foot/"
+    },
+    {
+        "added": "2014-07-30T23:28:45.456041",
+        "annotation": null,
+        "entry": "sikir",
+        "id": 160280,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/160280/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "foot",
+        "word": "/api/v1/word/foot/"
     },
     {
         "added": "2014-11-05T21:56:37.109717",
@@ -1440,18 +1440,6 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2014-11-05T21:56:37.057428",
-        "annotation": "also in",
-        "entry": "tem",
-        "id": 196677,
-        "language": "/api/v1/language/mian/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/196677/",
-        "source": "/api/v1/source/loughnane-and-fedden-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hole/"
-    },
-    {
         "added": "2014-07-30T23:28:45.248736",
         "annotation": null,
         "entry": "tem",
@@ -1461,6 +1449,18 @@
         "resource_uri": "/api/v1/lexicon/160213/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "hole",
+        "word": "/api/v1/word/hole/"
+    },
+    {
+        "added": "2014-11-05T21:56:37.057428",
+        "annotation": "also in",
+        "entry": "tem",
+        "id": 196677,
+        "language": "/api/v1/language/mian/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196677/",
+        "source": "/api/v1/source/loughnane-and-fedden-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/hole/"
     },
     {

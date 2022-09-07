@@ -1,6 +1,6 @@
 [
     {
-        "added": "2013-11-19T03:56:10.105146",
+        "added": "2022-07-25T22:54:20.848353",
         "annotation": "grandfather",
         "entry": "ahije",
         "id": 50772,
@@ -8,8 +8,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50772/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandfather/"
     },
     {
         "added": "2013-11-19T03:56:38.310388",
@@ -132,18 +132,6 @@
         "word": "/api/v1/word/house-of-woman/"
     },
     {
-        "added": "2013-11-19T03:55:56.732409",
-        "annotation": "bread-fruit",
-        "entry": "bau",
-        "id": 48394,
-        "language": "/api/v1/language/orokaiva-jegasa-sarau/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48394/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": "breadfruit/scrotum",
-        "word": "/api/v1/word/breadfruit/"
-    },
-    {
         "added": "2015-04-01T00:56:45.534780",
         "annotation": "bread-fruit",
         "entry": "bau",
@@ -154,6 +142,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": "breadfruit/scrotum",
         "word": "/api/v1/word/testicles/"
+    },
+    {
+        "added": "2013-11-19T03:55:56.732409",
+        "annotation": "bread-fruit",
+        "entry": "bau",
+        "id": 48394,
+        "language": "/api/v1/language/orokaiva-jegasa-sarau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48394/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": "breadfruit/scrotum",
+        "word": "/api/v1/word/breadfruit/"
     },
     {
         "added": "2013-11-19T03:56:19.027199",

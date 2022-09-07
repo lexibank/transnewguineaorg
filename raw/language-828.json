@@ -492,18 +492,6 @@
         "word": "/api/v1/word/two/"
     },
     {
-        "added": "2014-04-10T20:22:32.689851",
-        "annotation": "they",
-        "entry": "\u0259k",
-        "id": 91677,
-        "language": "/api/v1/language/nabak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91677/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "they",
-        "word": "/api/v1/word/they/"
-    },
-    {
         "added": "2014-04-10T20:22:32.621898",
         "annotation": "he",
         "entry": "\u0259k",
@@ -514,6 +502,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "he",
         "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.689851",
+        "annotation": "they",
+        "entry": "\u0259k",
+        "id": 91677,
+        "language": "/api/v1/language/nabak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91677/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "they",
+        "word": "/api/v1/word/they/"
     },
     {
         "added": "2014-07-30T23:28:37.488971",
@@ -540,18 +540,6 @@
         "word": "/api/v1/word/to-breathe/"
     },
     {
-        "added": "2014-07-30T23:28:40.958066",
-        "annotation": null,
-        "entry": "emin",
-        "id": 158845,
-        "language": "/api/v1/language/nabak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/158845/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2014-04-10T20:22:32.053937",
         "annotation": "louse",
         "entry": "emin",
@@ -560,6 +548,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/91425/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2014-07-30T23:28:40.958066",
+        "annotation": null,
+        "entry": "emin",
+        "id": 158845,
+        "language": "/api/v1/language/nabak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/158845/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "louse",
         "word": "/api/v1/word/louse/"
     },
@@ -948,18 +948,6 @@
         "word": "/api/v1/word/sun/"
     },
     {
-        "added": "2014-04-10T20:22:33.471290",
-        "annotation": "(its) flower",
-        "entry": "k\u0259t-",
-        "id": 91985,
-        "language": "/api/v1/language/nabak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91985/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(its) flower",
-        "word": "/api/v1/word/flower/"
-    },
-    {
         "added": "2014-04-10T20:22:31.981768",
         "annotation": "(its) seed",
         "entry": "k\u0259t-",
@@ -970,6 +958,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(its) seed",
         "word": "/api/v1/word/seed/"
+    },
+    {
+        "added": "2014-04-10T20:22:33.471290",
+        "annotation": "(its) flower",
+        "entry": "k\u0259t-",
+        "id": 91985,
+        "language": "/api/v1/language/nabak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91985/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(its) flower",
+        "word": "/api/v1/word/flower/"
     },
     {
         "added": "2014-04-10T20:22:33.041373",
@@ -1356,18 +1356,6 @@
         "word": "/api/v1/word/to-pull/"
     },
     {
-        "added": "2014-04-10T20:22:30.581288",
-        "annotation": "rain",
-        "entry": "map",
-        "id": 90865,
-        "language": "/api/v1/language/nabak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90865/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-07-30T23:28:42.753544",
         "annotation": null,
         "entry": "map",
@@ -1376,6 +1364,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/159415/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.581288",
+        "annotation": "rain",
+        "entry": "map",
+        "id": 90865,
+        "language": "/api/v1/language/nabak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90865/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -1596,18 +1596,6 @@
         "word": "/api/v1/word/old/"
     },
     {
-        "added": "2014-07-30T23:28:35.966513",
-        "annotation": null,
-        "entry": "ni",
-        "id": 157284,
-        "language": "/api/v1/language/nabak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157284/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "to-eat",
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2014-07-30T23:28:36.865750",
         "annotation": null,
         "entry": "ni",
@@ -1620,15 +1608,15 @@
         "word": "/api/v1/word/we/"
     },
     {
-        "added": "2014-04-10T20:22:30.935078",
-        "annotation": "(he) eats",
-        "entry": "ni-",
-        "id": 91005,
+        "added": "2014-07-30T23:28:35.966513",
+        "annotation": null,
+        "entry": "ni",
+        "id": 157284,
         "language": "/api/v1/language/nabak/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/91005/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(he) eats",
+        "resource_uri": "/api/v1/lexicon/157284/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "to-eat",
         "word": "/api/v1/word/to-eat/"
     },
     {
@@ -1642,6 +1630,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(he) sees me",
         "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.935078",
+        "annotation": "(he) eats",
+        "entry": "ni-",
+        "id": 91005,
+        "language": "/api/v1/language/nabak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91005/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(he) eats",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2014-04-10T20:22:29.606857",
@@ -2016,18 +2016,6 @@
         "word": "/api/v1/word/to-cry/"
     },
     {
-        "added": "2014-04-10T20:22:30.153781",
-        "annotation": "(he) sits",
-        "entry": "ta-",
-        "id": 90697,
-        "language": "/api/v1/language/nabak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90697/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(he) sits",
-        "word": "/api/v1/word/to-sit/"
-    },
-    {
         "added": "2014-04-10T20:22:30.229494",
         "annotation": "(he) stands",
         "entry": "ta-",
@@ -2038,6 +2026,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(he) stands",
         "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.153781",
+        "annotation": "(he) sits",
+        "entry": "ta-",
+        "id": 90697,
+        "language": "/api/v1/language/nabak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90697/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(he) sits",
+        "word": "/api/v1/word/to-sit/"
     },
     {
         "added": "2014-04-10T20:22:30.406715",
@@ -2196,18 +2196,6 @@
         "word": "/api/v1/word/wind/"
     },
     {
-        "added": "2014-04-10T20:22:31.523343",
-        "annotation": "water",
-        "entry": "tu",
-        "id": 91229,
-        "language": "/api/v1/language/nabak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91229/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "water",
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2014-07-30T23:28:39.984734",
         "annotation": null,
         "entry": "tu",
@@ -2216,6 +2204,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/158536/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.523343",
+        "annotation": "water",
+        "entry": "tu",
+        "id": 91229,
+        "language": "/api/v1/language/nabak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91229/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
     },

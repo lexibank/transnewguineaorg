@@ -912,18 +912,6 @@
         "word": "/api/v1/word/black/"
     },
     {
-        "added": "2018-05-24T02:44:37.537874",
-        "annotation": "",
-        "entry": "iri-",
-        "id": 259155,
-        "language": "/api/v1/language/maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259155/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "eat",
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2018-05-24T02:44:37.622258",
         "annotation": "",
         "entry": "iri-",
@@ -934,6 +922,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "drink",
         "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2018-05-24T02:44:37.537874",
+        "annotation": "",
+        "entry": "iri-",
+        "id": 259155,
+        "language": "/api/v1/language/maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259155/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "eat",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2018-05-24T02:44:31.281888",
@@ -1296,18 +1296,6 @@
         "word": "/api/v1/word/bush/"
     },
     {
-        "added": "2018-05-24T02:44:38.248393",
-        "annotation": "",
-        "entry": "ne-",
-        "id": 259256,
-        "language": "/api/v1/language/maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259256/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "walk",
-        "word": "/api/v1/word/to-walk/"
-    },
-    {
         "added": "2018-05-24T02:44:40.625897",
         "annotation": "",
         "entry": "ne-",
@@ -1318,6 +1306,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "go",
         "word": "/api/v1/word/go/"
+    },
+    {
+        "added": "2018-05-24T02:44:38.248393",
+        "annotation": "",
+        "entry": "ne-",
+        "id": 259256,
+        "language": "/api/v1/language/maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259256/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "walk",
+        "word": "/api/v1/word/to-walk/"
     },
     {
         "added": "2018-05-24T02:44:28.453413",
@@ -1560,18 +1560,6 @@
         "word": "/api/v1/word/come-quick/"
     },
     {
-        "added": "2018-05-24T02:44:30.094245",
-        "annotation": "",
-        "entry": "\u02c8\u0294oru",
-        "id": 258134,
-        "language": "/api/v1/language/maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258134/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "water",
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2018-05-24T02:44:30.198882",
         "annotation": "",
         "entry": "\u02c8\u0294oru",
@@ -1582,6 +1570,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "river",
         "word": "/api/v1/word/river/"
+    },
+    {
+        "added": "2018-05-24T02:44:30.094245",
+        "annotation": "",
+        "entry": "\u02c8\u0294oru",
+        "id": 258134,
+        "language": "/api/v1/language/maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258134/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2018-05-24T02:44:36.916743",
@@ -1632,18 +1632,6 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2018-05-24T02:44:23.728432",
-        "annotation": "",
-        "entry": "\u02c8oue",
-        "id": 257356,
-        "language": "/api/v1/language/maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257356/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "wife",
-        "word": "/api/v1/word/wife/"
-    },
-    {
         "added": "2018-05-24T02:44:23.041889",
         "annotation": "",
         "entry": "\u02c8oue",
@@ -1654,6 +1642,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "woman",
         "word": "/api/v1/word/woman/"
+    },
+    {
+        "added": "2018-05-24T02:44:23.728432",
+        "annotation": "",
+        "entry": "\u02c8oue",
+        "id": 257356,
+        "language": "/api/v1/language/maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257356/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "wife",
+        "word": "/api/v1/word/wife/"
     },
     {
         "added": "2018-05-24T02:44:40.337278",
@@ -1860,18 +1860,6 @@
         "word": "/api/v1/word/fly-sp/"
     },
     {
-        "added": "2018-05-24T02:44:24.141379",
-        "annotation": "",
-        "entry": "\u02c8tubu\u02c8ini",
-        "id": 257407,
-        "language": "/api/v1/language/maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257407/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "\"sibling, s.sex, younger\"",
-        "word": "/api/v1/word/sibling-same-sex-younger/"
-    },
-    {
         "added": "2018-05-24T02:44:24.034610",
         "annotation": "",
         "entry": "\u02c8tubu\u02c8ini",
@@ -1882,6 +1870,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "\"sibling, s.sex, older\"",
         "word": "/api/v1/word/sibling-same-sex-older/"
+    },
+    {
+        "added": "2018-05-24T02:44:24.141379",
+        "annotation": "",
+        "entry": "\u02c8tubu\u02c8ini",
+        "id": 257407,
+        "language": "/api/v1/language/maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257407/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "\"sibling, s.sex, younger\"",
+        "word": "/api/v1/word/sibling-same-sex-younger/"
     },
     {
         "added": "2018-05-24T02:44:34.929439",
@@ -1908,18 +1908,6 @@
         "word": "/api/v1/word/to-hit/"
     },
     {
-        "added": "2018-05-24T02:44:27.396947",
-        "annotation": "",
-        "entry": "u\u02c8boma",
-        "id": 257812,
-        "language": "/api/v1/language/maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257812/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "back",
-        "word": "/api/v1/word/back/"
-    },
-    {
         "added": "2018-05-24T02:44:23.352533",
         "annotation": "",
         "entry": "u\u02c8boma",
@@ -1930,6 +1918,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "child (m)",
         "word": "/api/v1/word/child-m/"
+    },
+    {
+        "added": "2018-05-24T02:44:27.396947",
+        "annotation": "",
+        "entry": "u\u02c8boma",
+        "id": 257812,
+        "language": "/api/v1/language/maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257812/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "back",
+        "word": "/api/v1/word/back/"
     },
     {
         "added": "2018-05-24T02:44:28.138886",
@@ -1992,18 +1992,6 @@
         "word": "/api/v1/word/nape/"
     },
     {
-        "added": "2018-05-24T02:44:38.914152",
-        "annotation": "",
-        "entry": "uro\u0294ire-",
-        "id": 259314,
-        "language": "/api/v1/language/maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259314/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "break (tr.)",
-        "word": "/api/v1/word/to-break/"
-    },
-    {
         "added": "2018-05-24T02:44:38.999709",
         "annotation": "",
         "entry": "uro\u0294ire-",
@@ -2014,6 +2002,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "fall (from standing)",
         "word": "/api/v1/word/to-fall-from-standing/"
+    },
+    {
+        "added": "2018-05-24T02:44:38.914152",
+        "annotation": "",
+        "entry": "uro\u0294ire-",
+        "id": 259314,
+        "language": "/api/v1/language/maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259314/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "break (tr.)",
+        "word": "/api/v1/word/to-break/"
     },
     {
         "added": "2018-05-24T02:44:29.984865",

@@ -156,18 +156,6 @@
         "word": "/api/v1/word/girl/"
     },
     {
-        "added": "2013-06-27T23:47:08.944799",
-        "annotation": "",
-        "entry": "ava",
-        "id": 31198,
-        "language": "/api/v1/language/zimakani/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/31198/",
-        "source": "/api/v1/source/voorhoeve-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bad/"
-    },
-    {
         "added": "2016-11-11T09:21:58.275668",
         "annotation": "",
         "entry": "ava",
@@ -178,6 +166,18 @@
         "source": "/api/v1/source/murray-and-ray-1918/",
         "source_gloss": null,
         "word": "/api/v1/word/bag/"
+    },
+    {
+        "added": "2013-06-27T23:47:08.944799",
+        "annotation": "",
+        "entry": "ava",
+        "id": 31198,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/31198/",
+        "source": "/api/v1/source/voorhoeve-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bad/"
     },
     {
         "added": "2013-06-27T23:33:21.736378",
@@ -408,7 +408,7 @@
         "word": "/api/v1/word/navel/"
     },
     {
-        "added": "2016-11-11T09:21:58.396135",
+        "added": "2022-07-26T01:56:10.334613",
         "annotation": "",
         "entry": "dumu",
         "id": 257197,
@@ -416,8 +416,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/257197/",
         "source": "/api/v1/source/murray-and-ray-1918/",
-        "source_gloss": null,
-        "word": "/api/v1/word/buttock/"
+        "source_gloss": "buttock",
+        "word": "/api/v1/word/buttocks/"
     },
     {
         "added": "2013-06-27T23:10:55.773275",
@@ -552,18 +552,6 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2013-06-27T23:05:16.941549",
-        "annotation": "elder sister",
-        "entry": "ez\u0251i\u032f",
-        "id": 31088,
-        "language": "/api/v1/language/zimakani/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/31088/",
-        "source": "/api/v1/source/voorhoeve-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sister/"
-    },
-    {
         "added": "2013-10-18T01:40:13.748222",
         "annotation": null,
         "entry": "ez\u0251i\u032f",
@@ -574,6 +562,18 @@
         "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/brother/"
+    },
+    {
+        "added": "2013-06-27T23:05:16.941549",
+        "annotation": "elder sister",
+        "entry": "ez\u0251i\u032f",
+        "id": 31088,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/31088/",
+        "source": "/api/v1/source/voorhoeve-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sister/"
     },
     {
         "added": "2013-10-18T01:40:13.752029",
@@ -1680,18 +1680,6 @@
         "word": "/api/v1/word/charcoal/"
     },
     {
-        "added": "2013-10-18T01:40:13.408183",
-        "annotation": null,
-        "entry": "magu",
-        "id": 33437,
-        "language": "/api/v1/language/zimakani/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/33437/",
-        "source": "/api/v1/source/voorhoeve-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/these/"
-    },
-    {
         "added": "2013-10-18T01:40:13.383779",
         "annotation": null,
         "entry": "magu",
@@ -1704,16 +1692,16 @@
         "word": "/api/v1/word/this/"
     },
     {
-        "added": "2013-06-27T22:59:46.960797",
-        "annotation": "that far away",
-        "entry": "maitagu",
-        "id": 31062,
+        "added": "2013-10-18T01:40:13.408183",
+        "annotation": null,
+        "entry": "magu",
+        "id": 33437,
         "language": "/api/v1/language/zimakani/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/31062/",
+        "resource_uri": "/api/v1/lexicon/33437/",
         "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
-        "word": "/api/v1/word/that/"
+        "word": "/api/v1/word/these/"
     },
     {
         "added": "2013-10-18T01:40:13.342577",
@@ -1726,6 +1714,18 @@
         "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/there/"
+    },
+    {
+        "added": "2013-06-27T22:59:46.960797",
+        "annotation": "that far away",
+        "entry": "maitagu",
+        "id": 31062,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/31062/",
+        "source": "/api/v1/source/voorhoeve-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/that/"
     },
     {
         "added": "2016-11-11T09:21:58.485358",
@@ -2772,18 +2772,6 @@
         "word": "/api/v1/word/ear-ring/"
     },
     {
-        "added": "2013-06-27T23:33:21.570816",
-        "annotation": "",
-        "entry": "tae",
-        "id": 31136,
-        "language": "/api/v1/language/zimakani/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/31136/",
-        "source": "/api/v1/source/voorhoeve-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fire/"
-    },
-    {
         "added": "2013-06-27T22:51:48.664846",
         "annotation": "",
         "entry": "tae",
@@ -2794,6 +2782,18 @@
         "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2013-06-27T23:33:21.570816",
+        "annotation": "",
+        "entry": "tae",
+        "id": 31136,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/31136/",
+        "source": "/api/v1/source/voorhoeve-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2016-11-11T09:21:58.561689",

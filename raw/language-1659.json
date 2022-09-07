@@ -516,16 +516,16 @@
         "word": "/api/v1/word/hard/"
     },
     {
-        "added": "2015-10-26T12:54:08.333818",
+        "added": "2015-10-26T12:54:11.595670",
         "annotation": "",
         "entry": "fere",
-        "id": 252978,
+        "id": 253664,
         "language": "/api/v1/language/asmat-central-keenok-komar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/252978/",
+        "resource_uri": "/api/v1/lexicon/253664/",
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
-        "word": "/api/v1/word/cuscus/"
+        "word": "/api/v1/word/fish-weir/"
     },
     {
         "added": "2015-10-26T12:54:19.473476",
@@ -540,16 +540,16 @@
         "word": "/api/v1/word/sharp/"
     },
     {
-        "added": "2015-10-26T12:54:11.595670",
+        "added": "2015-10-26T12:54:08.333818",
         "annotation": "",
         "entry": "fere",
-        "id": 253664,
+        "id": 252978,
         "language": "/api/v1/language/asmat-central-keenok-komar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/253664/",
+        "resource_uri": "/api/v1/lexicon/252978/",
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
-        "word": "/api/v1/word/fish-weir/"
+        "word": "/api/v1/word/cuscus/"
     },
     {
         "added": "2015-10-26T12:54:22.707030",
@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/ancestor/"
     },
     {
-        "added": "2015-10-26T12:54:19.751788",
-        "annotation": "",
-        "entry": "nomo",
-        "id": 255823,
-        "language": "/api/v1/language/asmat-central-keenok-komar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255823/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "sick",
-        "word": "/api/v1/word/to-be-sick/"
-    },
-    {
         "added": "2015-10-26T12:54:06.365192",
         "annotation": "",
         "entry": "nomo",
@@ -1234,6 +1222,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/body/"
+    },
+    {
+        "added": "2015-10-26T12:54:19.751788",
+        "annotation": "",
+        "entry": "nomo",
+        "id": 255823,
+        "language": "/api/v1/language/asmat-central-keenok-komar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255823/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "sick",
+        "word": "/api/v1/word/to-be-sick/"
     },
     {
         "added": "2015-10-26T12:54:07.276050",
@@ -1608,18 +1608,6 @@
         "word": "/api/v1/word/afternoon/"
     },
     {
-        "added": "2015-10-26T12:54:09.824264",
-        "annotation": "",
-        "entry": "sa",
-        "id": 253356,
-        "language": "/api/v1/language/asmat-central-keenok-komar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253356/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2015-10-26T12:54:09.062509",
         "annotation": "",
         "entry": "sa",
@@ -1630,6 +1618,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/dry/"
+    },
+    {
+        "added": "2015-10-26T12:54:09.824264",
+        "annotation": "",
+        "entry": "sa",
+        "id": 253356,
+        "language": "/api/v1/language/asmat-central-keenok-komar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253356/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2015-10-26T12:54:08.393804",
@@ -2100,18 +2100,6 @@
         "word": "/api/v1/word/outside/"
     },
     {
-        "added": "2015-10-26T12:54:15.824175",
-        "annotation": "",
-        "entry": "ti",
-        "id": 254507,
-        "language": "/api/v1/language/asmat-central-keenok-komar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254507/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/leech/"
-    },
-    {
         "added": "2015-10-26T12:54:07.204788",
         "annotation": "",
         "entry": "ti",
@@ -2122,6 +2110,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/canoe/"
+    },
+    {
+        "added": "2015-10-26T12:54:15.824175",
+        "annotation": "",
+        "entry": "ti",
+        "id": 254507,
+        "language": "/api/v1/language/asmat-central-keenok-komar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254507/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/leech/"
     },
     {
         "added": "2015-10-26T12:54:14.356256",
@@ -2172,6 +2172,18 @@
         "word": "/api/v1/word/to-tremble/"
     },
     {
+        "added": "2015-10-26T12:54:21.700651",
+        "annotation": "",
+        "entry": "to",
+        "id": 256433,
+        "language": "/api/v1/language/asmat-central-keenok-komar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256433/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/tomorrow/"
+    },
+    {
         "added": "2015-10-26T12:54:14.937185",
         "annotation": "",
         "entry": "to",
@@ -2194,18 +2206,6 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/nest/"
-    },
-    {
-        "added": "2015-10-26T12:54:21.700651",
-        "annotation": "",
-        "entry": "to",
-        "id": 256433,
-        "language": "/api/v1/language/asmat-central-keenok-komar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256433/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/tomorrow/"
     },
     {
         "added": "2015-10-26T12:54:17.661238",
@@ -2516,20 +2516,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/252593/",
         "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "to call",
-        "word": "/api/v1/word/call/"
-    },
-    {
-        "added": "2015-10-26T12:54:19.180684",
-        "annotation": "",
-        "entry": "yi",
-        "id": 255623,
-        "language": "/api/v1/language/asmat-central-keenok-komar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255623/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/sago-pith/"
+        "source_gloss": "to call out",
+        "word": "/api/v1/word/to-call-out/"
     },
     {
         "added": "2015-10-26T12:54:18.752181",
@@ -2542,6 +2530,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/river/"
+    },
+    {
+        "added": "2015-10-26T12:54:19.180684",
+        "annotation": "",
+        "entry": "yi",
+        "id": 255623,
+        "language": "/api/v1/language/asmat-central-keenok-komar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255623/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/sago-pith/"
     },
     {
         "added": "2015-10-26T12:54:21.612765",

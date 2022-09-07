@@ -2832,18 +2832,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2014-09-22T03:12:11.019617",
-        "annotation": null,
-        "entry": "oro-",
-        "id": 183969,
-        "language": "/api/v1/language/urigina/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183969/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to sharpen",
-        "word": "/api/v1/word/to-sharpen/"
-    },
-    {
         "added": "2014-09-22T03:11:55.343291",
         "annotation": null,
         "entry": "oro-",
@@ -2854,6 +2842,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "head",
         "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2014-09-22T03:12:11.019617",
+        "annotation": null,
+        "entry": "oro-",
+        "id": 183969,
+        "language": "/api/v1/language/urigina/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183969/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to sharpen",
+        "word": "/api/v1/word/to-sharpen/"
     },
     {
         "added": "2014-09-22T03:11:53.397308",
@@ -3480,18 +3480,6 @@
         "word": "/api/v1/word/straight/"
     },
     {
-        "added": "2014-09-22T03:12:10.300188",
-        "annotation": null,
-        "entry": "ta-",
-        "id": 183633,
-        "language": "/api/v1/language/urigina/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183633/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to buy",
-        "word": "/api/v1/word/to-buy-sell-barter/"
-    },
-    {
         "added": "2014-09-22T03:12:11.580449",
         "annotation": null,
         "entry": "ta-",
@@ -3502,6 +3490,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to take",
         "word": "/api/v1/word/to-take/"
+    },
+    {
+        "added": "2014-09-22T03:12:10.300188",
+        "annotation": null,
+        "entry": "ta-",
+        "id": 183633,
+        "language": "/api/v1/language/urigina/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183633/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to buy",
+        "word": "/api/v1/word/to-buy-sell-barter/"
     },
     {
         "added": "2014-09-22T03:11:56.656291",

@@ -252,18 +252,6 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2015-08-24T19:40:16.007819",
-        "annotation": "",
-        "entry": "la",
-        "id": 237794,
-        "language": "/api/v1/language/yessan-mayo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/237794/",
-        "source": "/api/v1/source/foley2005/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-see/"
-    },
-    {
         "added": "2015-09-23T19:31:18.007638",
         "annotation": "",
         "entry": "la",
@@ -274,6 +262,18 @@
         "source": "/api/v1/source/laycock1968/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2015-08-24T19:40:16.007819",
+        "annotation": "",
+        "entry": "la",
+        "id": 237794,
+        "language": "/api/v1/language/yessan-mayo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/237794/",
+        "source": "/api/v1/source/foley2005/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
     },
     {
         "added": "2015-09-23T19:31:19.517130",
@@ -432,18 +432,6 @@
         "word": "/api/v1/word/three/"
     },
     {
-        "added": "2015-08-24T19:40:15.953809",
-        "annotation": "",
-        "entry": "n\u0268",
-        "id": 237781,
-        "language": "/api/v1/language/yessan-mayo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/237781/",
-        "source": "/api/v1/source/foley2005/",
-        "source_gloss": null,
-        "word": "/api/v1/word/louse/"
-    },
-    {
         "added": "2015-08-24T19:40:16.288150",
         "annotation": "",
         "entry": "n\u0268",
@@ -454,6 +442,18 @@
         "source": "/api/v1/source/foley2005/",
         "source_gloss": null,
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2015-08-24T19:40:15.953809",
+        "annotation": "",
+        "entry": "n\u0268",
+        "id": 237781,
+        "language": "/api/v1/language/yessan-mayo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/237781/",
+        "source": "/api/v1/source/foley2005/",
+        "source_gloss": null,
+        "word": "/api/v1/word/louse/"
     },
     {
         "added": "2015-09-23T19:31:17.393870",
@@ -816,18 +816,6 @@
         "word": "/api/v1/word/to-stand/"
     },
     {
-        "added": "2015-09-23T19:31:21.650263",
-        "annotation": "",
-        "entry": "wala",
-        "id": 244224,
-        "language": "/api/v1/language/yessan-mayo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/244224/",
-        "source": "/api/v1/source/laycock1968/",
-        "source_gloss": null,
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2015-08-24T19:40:15.869985",
         "annotation": "",
         "entry": "wala",
@@ -840,16 +828,16 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2015-09-23T19:31:18.251586",
+        "added": "2015-09-23T19:31:21.650263",
         "annotation": "",
-        "entry": "wan",
-        "id": 243360,
+        "entry": "wala",
+        "id": 244224,
         "language": "/api/v1/language/yessan-mayo/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/243360/",
+        "resource_uri": "/api/v1/lexicon/244224/",
         "source": "/api/v1/source/laycock1968/",
         "source_gloss": null,
-        "word": "/api/v1/word/ear/"
+        "word": "/api/v1/word/dog/"
     },
     {
         "added": "2015-08-24T19:40:15.714519",
@@ -860,6 +848,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/237724/",
         "source": "/api/v1/source/foley2005/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2015-09-23T19:31:18.251586",
+        "annotation": "",
+        "entry": "wan",
+        "id": 243360,
+        "language": "/api/v1/language/yessan-mayo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/243360/",
+        "source": "/api/v1/source/laycock1968/",
         "source_gloss": null,
         "word": "/api/v1/word/ear/"
     },

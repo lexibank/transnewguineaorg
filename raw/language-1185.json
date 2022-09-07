@@ -60,18 +60,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2015-06-05T23:06:56.290712",
-        "annotation": "",
-        "entry": "aya",
-        "id": 228558,
-        "language": "/api/v1/language/seta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/228558/",
-        "source": "/api/v1/source/sil-2000b/",
-        "source_gloss": null,
-        "word": "/api/v1/word/father/"
-    },
-    {
         "added": "2015-09-23T19:31:16.870008",
         "annotation": "",
         "entry": "aya",
@@ -80,6 +68,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/242944/",
         "source": "/api/v1/source/laycock1968/",
+        "source_gloss": null,
+        "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2015-06-05T23:06:56.290712",
+        "annotation": "",
+        "entry": "aya",
+        "id": 228558,
+        "language": "/api/v1/language/seta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/228558/",
+        "source": "/api/v1/source/sil-2000b/",
         "source_gloss": null,
         "word": "/api/v1/word/father/"
     },

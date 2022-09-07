@@ -516,18 +516,6 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2013-10-27T05:25:02.968122",
-        "annotation": "",
-        "entry": "l\u03b1r'al",
-        "id": 33973,
-        "language": "/api/v1/language/abui-atimelang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/33973/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/language/"
-    },
-    {
         "added": "2013-10-27T05:25:02.929820",
         "annotation": "",
         "entry": "l\u03b1r'al",
@@ -538,6 +526,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/voice/"
+    },
+    {
+        "added": "2013-10-27T05:25:02.968122",
+        "annotation": "",
+        "entry": "l\u03b1r'al",
+        "id": 33973,
+        "language": "/api/v1/language/abui-atimelang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/33973/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/language/"
     },
     {
         "added": "2013-10-27T05:25:04.598590",

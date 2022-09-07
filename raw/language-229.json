@@ -644,8 +644,20 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14992/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.419635",
+        "annotation": "eat, drink",
+        "entry": "i",
+        "id": 260772,
+        "language": "/api/v1/language/omie/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260772/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-05-27T07:03:59.864319",
@@ -672,6 +684,30 @@
         "word": "/api/v1/word/name/"
     },
     {
+        "added": "2013-05-27T07:04:04.457092",
+        "annotation": "tree",
+        "entry": "ij-e",
+        "id": 15000,
+        "language": "/api/v1/language/omie/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15000/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.415046",
+        "annotation": "eat, drink, smoke (tobacco)",
+        "entry": "ij-e",
+        "id": 260779,
+        "language": "/api/v1/language/omie/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260779/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
+    },
+    {
         "added": "2014-04-14T07:57:45.225933",
         "annotation": "eat, drink, smoke (tobacco)",
         "entry": "ij-e",
@@ -692,20 +728,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14991/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
-    },
-    {
-        "added": "2013-05-27T07:04:04.457092",
-        "annotation": "tree",
-        "entry": "ij-e",
-        "id": 15000,
-        "language": "/api/v1/language/omie/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15000/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tree/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-05-27T07:03:58.100054",
@@ -1136,8 +1160,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15145/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interrogative-particle/"
+        "source_gloss": "interrogative particle",
+        "word": "/api/v1/word/interrogative/"
     },
     {
         "added": "2013-05-27T07:03:59.052644",
@@ -1692,18 +1716,6 @@
         "word": "/api/v1/word/egg/"
     },
     {
-        "added": "2013-05-27T07:03:58.227767",
-        "annotation": "talk",
-        "entry": "\u0294uv-",
-        "id": 14410,
-        "language": "/api/v1/language/omie/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14410/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-talk/"
-    },
-    {
         "added": "2013-05-27T07:03:58.323153",
         "annotation": "call out",
         "entry": "\u0294uv-",
@@ -1714,6 +1726,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/to-call-out/"
+    },
+    {
+        "added": "2013-05-27T07:03:58.227767",
+        "annotation": "talk",
+        "entry": "\u0294uv-",
+        "id": 14410,
+        "language": "/api/v1/language/omie/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14410/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-talk/"
     },
     {
         "added": "2013-05-27T07:04:11.528474",

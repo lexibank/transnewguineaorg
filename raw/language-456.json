@@ -8,8 +8,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50128/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/female-sex-organ/"
+        "source_gloss": "female sex organ",
+        "word": "/api/v1/word/vagina/"
     },
     {
         "added": "2013-11-19T03:56:10.402878",
@@ -120,18 +120,6 @@
         "word": "/api/v1/word/to-die/"
     },
     {
-        "added": "2013-11-19T03:55:56.874034",
-        "annotation": "",
-        "entry": "*ami",
-        "id": 48417,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48417/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/breast/"
-    },
-    {
         "added": "2013-11-19T03:55:59.924816",
         "annotation": "",
         "entry": "*ami",
@@ -142,6 +130,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/club/"
+    },
+    {
+        "added": "2013-11-19T03:55:56.874034",
+        "annotation": "",
+        "entry": "*ami",
+        "id": 48417,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48417/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/breast/"
     },
     {
         "added": "2013-11-19T03:56:38.103651",
@@ -200,8 +200,20 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50763/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandfather/"
+    },
+    {
+        "added": "2013-11-19T03:56:10.057952",
+        "annotation": "",
+        "entry": "*apiye",
+        "id": 260762,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260762/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandchild/"
     },
     {
         "added": "2013-11-19T03:56:30.680939",
@@ -1356,18 +1368,6 @@
         "word": "/api/v1/word/sweet-potato/"
     },
     {
-        "added": "2013-11-19T03:56:30.122178",
-        "annotation": "",
-        "entry": "*gi",
-        "id": 54315,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/54315/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/spear-n/"
-    },
-    {
         "added": "2013-11-19T03:56:14.094038",
         "annotation": "",
         "entry": "*gi",
@@ -1378,6 +1378,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2013-11-19T03:56:30.122178",
+        "annotation": "",
+        "entry": "*gi",
+        "id": 54315,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/54315/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/spear-n/"
     },
     {
         "added": "2013-11-19T03:56:11.095967",
@@ -1416,7 +1428,7 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2013-11-19T03:56:36.444244",
+        "added": "2022-07-25T22:17:34.742451",
         "annotation": "",
         "entry": "*gomb{i,u}",
         "id": 55489,
@@ -1425,7 +1437,7 @@
         "resource_uri": "/api/v1/lexicon/55489/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/upper-part-of-tree/"
+        "word": "/api/v1/word/tree-top/"
     },
     {
         "added": "2013-11-19T03:56:01.693054",
@@ -1452,18 +1464,6 @@
         "word": "/api/v1/word/rat/"
     },
     {
-        "added": "2013-11-19T03:55:55.185987",
-        "annotation": "",
-        "entry": "*goroba",
-        "id": 48116,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48116/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/black-palm/"
-    },
-    {
         "added": "2013-11-19T03:56:32.121418",
         "annotation": "",
         "entry": "*goroba",
@@ -1474,6 +1474,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/strong/"
+    },
+    {
+        "added": "2013-11-19T03:55:55.185987",
+        "annotation": "",
+        "entry": "*goroba",
+        "id": 48116,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48116/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/black-palm/"
     },
     {
         "added": "2013-11-19T03:55:59.620516",
@@ -1776,18 +1788,6 @@
         "word": "/api/v1/word/siblings/"
     },
     {
-        "added": "2013-11-19T03:56:27.888771",
-        "annotation": "sister of woman",
-        "entry": "*jaw\u04d9",
-        "id": 53897,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53897/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sister/"
-    },
-    {
         "added": "2013-11-19T03:56:19.300233",
         "annotation": "",
         "entry": "*jaw\u04d9",
@@ -1798,6 +1798,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2013-11-19T03:56:27.888771",
+        "annotation": "sister of woman",
+        "entry": "*jaw\u04d9",
+        "id": 53897,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53897/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sister/"
     },
     {
         "added": "2013-11-19T03:56:03.680064",
@@ -2868,18 +2880,6 @@
         "word": "/api/v1/word/cowrie/"
     },
     {
-        "added": "2014-02-24T17:07:05.473594",
-        "annotation": "",
-        "entry": "*pumb-",
-        "id": 78904,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/78904/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-take/"
-    },
-    {
         "added": "2014-02-24T17:07:05.418690",
         "annotation": "",
         "entry": "*pumb-",
@@ -2890,6 +2890,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-carry/"
+    },
+    {
+        "added": "2014-02-24T17:07:05.473594",
+        "annotation": "",
+        "entry": "*pumb-",
+        "id": 78904,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/78904/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-take/"
     },
     {
         "added": "2013-11-19T03:55:55.610568",
@@ -3744,18 +3756,6 @@
         "word": "/api/v1/word/canoe/"
     },
     {
-        "added": "2014-02-24T17:13:47.408234",
-        "annotation": "arm/hand/paddle",
-        "entry": "*wanda",
-        "id": 52798,
-        "language": "/api/v1/language/proto-binandere/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/52798/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/paddle/"
-    },
-    {
         "added": "2014-02-24T17:13:47.420205",
         "annotation": "arm/hand/paddle",
         "entry": "*wanda",
@@ -3766,6 +3766,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/arm-hand/"
+    },
+    {
+        "added": "2014-02-24T17:13:47.408234",
+        "annotation": "arm/hand/paddle",
+        "entry": "*wanda",
+        "id": 52798,
+        "language": "/api/v1/language/proto-binandere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/52798/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/paddle/"
     },
     {
         "added": "2013-11-19T03:56:38.830150",

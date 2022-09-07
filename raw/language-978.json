@@ -12,18 +12,6 @@
         "word": "/api/v1/word/to-tie/"
     },
     {
-        "added": "2015-06-07T03:08:07.271536",
-        "annotation": "",
-        "entry": "*agay",
-        "id": 229401,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/229401/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2015-06-03T05:38:55.456986",
         "annotation": "",
         "entry": "*agay",
@@ -31,6 +19,18 @@
         "language": "/api/v1/language/proto-dumut/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/226585/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2015-06-07T03:08:07.271536",
+        "annotation": "",
+        "entry": "*agay",
+        "id": 229401,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/229401/",
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
@@ -1044,18 +1044,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2015-06-07T03:08:07.748882",
-        "annotation": "",
-        "entry": "*kerop",
-        "id": 229457,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/229457/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2015-01-29T22:41:45.673741",
         "annotation": "",
         "entry": "*kerop",
@@ -1068,16 +1056,16 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2015-06-07T03:08:07.757903",
+        "added": "2015-06-07T03:08:07.748882",
         "annotation": "",
-        "entry": "*ket",
-        "id": 229458,
+        "entry": "*kerop",
+        "id": 229457,
         "language": "/api/v1/language/proto-dumut/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/229458/",
+        "resource_uri": "/api/v1/lexicon/229457/",
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
-        "word": "/api/v1/word/flower/"
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2015-01-29T22:41:45.706855",
@@ -1088,6 +1076,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/201759/",
         "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/flower/"
+    },
+    {
+        "added": "2015-06-07T03:08:07.757903",
+        "annotation": "",
+        "entry": "*ket",
+        "id": 229458,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/229458/",
+        "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/flower/"
     },
@@ -1152,18 +1152,6 @@
         "word": "/api/v1/word/to-sleep/"
     },
     {
-        "added": "2015-01-29T22:48:54.254657",
-        "annotation": "",
-        "entry": "*kiwuy",
-        "id": 201816,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201816/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/wind/"
-    },
-    {
         "added": "2015-06-07T03:08:07.789918",
         "annotation": "",
         "entry": "*kiwuy",
@@ -1172,6 +1160,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/229459/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/wind/"
+    },
+    {
+        "added": "2015-01-29T22:48:54.254657",
+        "annotation": "",
+        "entry": "*kiwuy",
+        "id": 201816,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201816/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/wind/"
     },
@@ -1368,18 +1368,6 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2015-06-07T03:08:07.862626",
-        "annotation": "die, (fire) goes out",
-        "entry": "*k\u00fcm-",
-        "id": 229467,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/229467/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-die/"
-    },
-    {
         "added": "2015-01-29T22:41:45.596144",
         "annotation": "",
         "entry": "*k\u00fcm-",
@@ -1388,6 +1376,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/201744/",
         "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-die/"
+    },
+    {
+        "added": "2015-06-07T03:08:07.862626",
+        "annotation": "die, (fire) goes out",
+        "entry": "*k\u00fcm-",
+        "id": 229467,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/229467/",
+        "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/to-die/"
     },
@@ -1428,18 +1428,6 @@
         "word": "/api/v1/word/sugarcane/"
     },
     {
-        "added": "2015-06-07T03:08:08.883124",
-        "annotation": "[K]",
-        "entry": "*kut",
-        "id": 229570,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/229570/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sky/"
-    },
-    {
         "added": "2015-01-29T22:41:45.540436",
         "annotation": "",
         "entry": "*kut",
@@ -1450,6 +1438,18 @@
         "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2015-06-07T03:08:08.883124",
+        "annotation": "[K]",
+        "entry": "*kut",
+        "id": 229570,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/229570/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sky/"
     },
     {
         "added": "2015-06-07T03:08:07.897273",
@@ -1536,18 +1536,6 @@
         "word": "/api/v1/word/this/"
     },
     {
-        "added": "2015-01-29T22:48:54.224959",
-        "annotation": "",
-        "entry": "*met",
-        "id": 201812,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201812/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/vein/"
-    },
-    {
         "added": "2015-06-07T03:08:07.959351",
         "annotation": "",
         "entry": "*met",
@@ -1558,6 +1546,18 @@
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/tendon/"
+    },
+    {
+        "added": "2015-01-29T22:48:54.224959",
+        "annotation": "",
+        "entry": "*met",
+        "id": 201812,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201812/",
+        "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/vein/"
     },
     {
         "added": "2015-01-29T22:48:53.965123",
@@ -1572,18 +1572,6 @@
         "word": "/api/v1/word/mouth/"
     },
     {
-        "added": "2015-01-29T22:41:45.620397",
-        "annotation": "",
-        "entry": "*mi-",
-        "id": 201747,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201747/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2015-06-07T03:08:07.981466",
         "annotation": "",
         "entry": "*mi-",
@@ -1592,6 +1580,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/229479/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2015-01-29T22:41:45.620397",
+        "annotation": "",
+        "entry": "*mi-",
+        "id": 201747,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201747/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/to-drink/"
     },
@@ -1848,18 +1848,6 @@
         "word": "/api/v1/word/tongue/"
     },
     {
-        "added": "2015-01-29T22:48:54.246991",
-        "annotation": "",
-        "entry": "*ok",
-        "id": 201815,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/201815/",
-        "source": "/api/v1/source/voorhoeve-2000/",
-        "source_gloss": null,
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2015-06-07T03:08:08.230274",
         "annotation": "",
         "entry": "*ok",
@@ -1868,6 +1856,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/229502/",
         "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2015-01-29T22:48:54.246991",
+        "annotation": "",
+        "entry": "*ok",
+        "id": 201815,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/201815/",
+        "source": "/api/v1/source/voorhoeve-2000/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
     },
@@ -2004,18 +2004,6 @@
         "word": "/api/v1/word/excreta/"
     },
     {
-        "added": "2015-06-07T03:08:08.191477",
-        "annotation": "",
-        "entry": "*\u0254y gum",
-        "id": 229500,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/229500/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/umbilical-cord/"
-    },
-    {
         "added": "2015-06-07T03:08:07.688773",
         "annotation": "",
         "entry": "*\u0254y gum",
@@ -2023,6 +2011,18 @@
         "language": "/api/v1/language/proto-dumut/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/229450/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/umbilical-cord/"
+    },
+    {
+        "added": "2015-06-07T03:08:08.191477",
+        "annotation": "",
+        "entry": "*\u0254y gum",
+        "id": 229500,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/229500/",
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/umbilical-cord/"
@@ -2340,18 +2340,6 @@
         "word": "/api/v1/word/to-say/"
     },
     {
-        "added": "2015-06-07T03:08:08.362529",
-        "annotation": "",
-        "entry": "*rom-",
-        "id": 229515,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/229515/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-cry/"
-    },
-    {
         "added": "2015-01-29T22:41:45.586482",
         "annotation": "",
         "entry": "*rom-",
@@ -2360,6 +2348,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/201743/",
         "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-cry/"
+    },
+    {
+        "added": "2015-06-07T03:08:08.362529",
+        "annotation": "",
+        "entry": "*rom-",
+        "id": 229515,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/229515/",
+        "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/to-cry/"
     },
@@ -2388,18 +2388,6 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2015-06-07T03:08:08.389082",
-        "annotation": "",
-        "entry": "*rop",
-        "id": 229518,
-        "language": "/api/v1/language/proto-dumut/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/229518/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fruit/"
-    },
-    {
         "added": "2015-01-29T22:41:45.718314",
         "annotation": "",
         "entry": "*rop",
@@ -2408,6 +2396,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/201761/",
         "source": "/api/v1/source/voorhoeve-2000/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2015-06-07T03:08:08.389082",
+        "annotation": "",
+        "entry": "*rop",
+        "id": 229518,
+        "language": "/api/v1/language/proto-dumut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/229518/",
+        "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/fruit/"
     },

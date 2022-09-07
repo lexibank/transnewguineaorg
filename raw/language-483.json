@@ -1,17 +1,5 @@
 [
     {
-        "added": "2019-03-19T04:09:47.729173",
-        "annotation": null,
-        "entry": "'akku",
-        "id": 260483,
-        "language": "/api/v1/language/western-pantar-biangwala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260483/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fat/"
-    },
-    {
         "added": "2013-11-10T01:40:17.953636",
         "annotation": "",
         "entry": "'akku",
@@ -22,6 +10,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2019-03-19T04:09:47.729173",
+        "annotation": null,
+        "entry": "'akku",
+        "id": 260483,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260483/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T01:40:17.816267",
@@ -1104,18 +1104,6 @@
         "word": "/api/v1/word/knee/"
     },
     {
-        "added": "2013-11-10T01:40:16.422388",
-        "annotation": "",
-        "entry": "n'\u03b1war",
-        "id": 37803,
-        "language": "/api/v1/language/western-pantar-biangwala/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37803/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/cheek/"
-    },
-    {
         "added": "2013-11-10T01:40:16.628404",
         "annotation": "jaw, chin",
         "entry": "n'\u03b1war",
@@ -1126,6 +1114,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": "jaw, chin",
         "word": "/api/v1/word/chin-jaw/"
+    },
+    {
+        "added": "2013-11-10T01:40:16.422388",
+        "annotation": "",
+        "entry": "n'\u03b1war",
+        "id": 37803,
+        "language": "/api/v1/language/western-pantar-biangwala/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/37803/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cheek/"
     },
     {
         "added": "2013-11-10T01:40:16.275740",

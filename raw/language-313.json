@@ -360,18 +360,6 @@
         "word": "/api/v1/word/headwaters/"
     },
     {
-        "added": "2013-06-13T23:00:15.140563",
-        "annotation": "",
-        "entry": "ji",
-        "id": 26882,
-        "language": "/api/v1/language/dani-upper-grand-valley/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/26882/",
-        "source": "/api/v1/source/bromley-1967/",
-        "source_gloss": null,
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2013-06-13T23:00:14.680526",
         "annotation": "",
         "entry": "ji",
@@ -382,6 +370,18 @@
         "source": "/api/v1/source/bromley-1967/",
         "source_gloss": null,
         "word": "/api/v1/word/this/"
+    },
+    {
+        "added": "2013-06-13T23:00:15.140563",
+        "annotation": "",
+        "entry": "ji",
+        "id": 26882,
+        "language": "/api/v1/language/dani-upper-grand-valley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/26882/",
+        "source": "/api/v1/source/bromley-1967/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2013-06-13T21:48:00.049585",
@@ -660,18 +660,6 @@
         "word": "/api/v1/word/yellow/"
     },
     {
-        "added": "2013-06-13T21:47:59.609501",
-        "annotation": "",
-        "entry": "muli",
-        "id": 26628,
-        "language": "/api/v1/language/dani-upper-grand-valley/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/26628/",
-        "source": "/api/v1/source/bromley-1967/",
-        "source_gloss": null,
-        "word": "/api/v1/word/black/"
-    },
-    {
         "added": "2013-06-13T21:48:00.783532",
         "annotation": "dark",
         "entry": "muli",
@@ -682,6 +670,18 @@
         "source": "/api/v1/source/bromley-1967/",
         "source_gloss": null,
         "word": "/api/v1/word/green/"
+    },
+    {
+        "added": "2013-06-13T21:47:59.609501",
+        "annotation": "",
+        "entry": "muli",
+        "id": 26628,
+        "language": "/api/v1/language/dani-upper-grand-valley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/26628/",
+        "source": "/api/v1/source/bromley-1967/",
+        "source_gloss": null,
+        "word": "/api/v1/word/black/"
     },
     {
         "added": "2013-06-13T23:00:13.765906",

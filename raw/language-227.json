@@ -615,13 +615,13 @@
         "added": "2013-05-27T07:04:04.424322",
         "annotation": "eat",
         "entry": "i",
-        "id": 14993,
+        "id": 260773,
         "language": "/api/v1/language/north-barai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/14993/",
+        "resource_uri": "/api/v1/lexicon/260773/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2014-04-14T07:57:45.238110",
@@ -633,6 +633,18 @@
         "resource_uri": "/api/v1/lexicon/92434/",
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.424322",
+        "annotation": "eat",
+        "entry": "i",
+        "id": 14993,
+        "language": "/api/v1/language/north-barai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14993/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
         "word": "/api/v1/word/to-eat/"
     },
     {
@@ -1280,8 +1292,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15146/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interrogative-particle/"
+        "source_gloss": "interrogative particle",
+        "word": "/api/v1/word/interrogative/"
     },
     {
         "added": "2013-05-27T07:04:09.311313",
@@ -1340,8 +1352,20 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14467/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/day-before-yesterday-day-after-tomorrow/"
+        "source_gloss": "day after tomorrow, day before yesterday",
+        "word": "/api/v1/word/day-after-tomorrow/"
+    },
+    {
+        "added": "2013-05-27T07:03:59.219390",
+        "annotation": "day before yesterday, day after tomorrow",
+        "entry": "nitu|a",
+        "id": 260771,
+        "language": "/api/v1/language/north-barai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260771/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "day after tomorrow, day before yesterday",
+        "word": "/api/v1/word/day-before-yesterday/"
     },
     {
         "added": "2013-05-27T07:04:10.765569",
@@ -1776,18 +1800,6 @@
         "word": "/api/v1/word/liver/"
     },
     {
-        "added": "2013-05-27T07:04:01.381122",
-        "annotation": "rain",
-        "entry": "ve",
-        "id": 14712,
-        "language": "/api/v1/language/north-barai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14712/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-rain/"
-    },
-    {
         "added": "2013-05-27T07:03:59.778226",
         "annotation": "day and night, rain",
         "entry": "ve",
@@ -1798,5 +1810,17 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2013-05-27T07:04:01.381122",
+        "annotation": "rain",
+        "entry": "ve",
+        "id": 14712,
+        "language": "/api/v1/language/north-barai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14712/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-rain/"
     }
 ]

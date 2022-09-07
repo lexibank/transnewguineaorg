@@ -312,18 +312,6 @@
         "word": "/api/v1/word/dull/"
     },
     {
-        "added": "2014-04-10T20:22:29.860714",
-        "annotation": "(he) says",
-        "entry": "dzi-",
-        "id": 90584,
-        "language": "/api/v1/language/tobo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90584/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "(he) says",
-        "word": "/api/v1/word/to-say/"
-    },
-    {
         "added": "2014-04-10T20:22:32.413480",
         "annotation": "(its) tail",
         "entry": "dzi-",
@@ -334,6 +322,18 @@
         "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "(its) tail",
         "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2014-04-10T20:22:29.860714",
+        "annotation": "(he) says",
+        "entry": "dzi-",
+        "id": 90584,
+        "language": "/api/v1/language/tobo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90584/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "(he) says",
+        "word": "/api/v1/word/to-say/"
     },
     {
         "added": "2014-07-30T23:28:37.740422",
@@ -720,18 +720,6 @@
         "word": "/api/v1/word/leg-foot/"
     },
     {
-        "added": "2014-07-30T23:28:39.588442",
-        "annotation": null,
-        "entry": "i",
-        "id": 158410,
-        "language": "/api/v1/language/tobo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/158410/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "he-she",
-        "word": "/api/v1/word/he-she/"
-    },
-    {
         "added": "2014-04-10T20:22:32.619536",
         "annotation": "he",
         "entry": "i",
@@ -744,16 +732,16 @@
         "word": "/api/v1/word/he-she/"
     },
     {
-        "added": "2014-04-10T20:22:32.051565",
-        "annotation": "louse",
-        "entry": "imin",
-        "id": 91424,
+        "added": "2014-07-30T23:28:39.588442",
+        "annotation": null,
+        "entry": "i",
+        "id": 158410,
         "language": "/api/v1/language/tobo/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/91424/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "louse",
-        "word": "/api/v1/word/louse/"
+        "resource_uri": "/api/v1/lexicon/158410/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "he-she",
+        "word": "/api/v1/word/he-she/"
     },
     {
         "added": "2014-07-30T23:28:40.942973",
@@ -764,6 +752,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/158840/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2014-04-10T20:22:32.051565",
+        "annotation": "louse",
+        "entry": "imin",
+        "id": 91424,
+        "language": "/api/v1/language/tobo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91424/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "louse",
         "word": "/api/v1/word/louse/"
     },
@@ -1116,18 +1116,6 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
-        "added": "2014-04-10T20:22:30.578681",
-        "annotation": "rain",
-        "entry": "kia",
-        "id": 90864,
-        "language": "/api/v1/language/tobo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/90864/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-07-30T23:28:42.737717",
         "annotation": null,
         "entry": "kia",
@@ -1136,6 +1124,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/159410/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-04-10T20:22:30.578681",
+        "annotation": "rain",
+        "entry": "kia",
+        "id": 90864,
+        "language": "/api/v1/language/tobo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90864/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -1740,18 +1740,6 @@
         "word": "/api/v1/word/to-see/"
     },
     {
-        "added": "2014-07-30T23:28:36.415651",
-        "annotation": null,
-        "entry": "ni",
-        "id": 157426,
-        "language": "/api/v1/language/tobo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157426/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "bird",
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2014-07-30T23:28:43.693265",
         "annotation": null,
         "entry": "ni",
@@ -1776,6 +1764,18 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2014-04-10T20:22:29.530984",
+        "annotation": "I",
+        "entry": "ni",
+        "id": 90458,
+        "language": "/api/v1/language/tobo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/90458/",
+        "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "I",
+        "word": "/api/v1/word/i/"
+    },
+    {
         "added": "2014-07-30T23:28:36.850041",
         "annotation": null,
         "entry": "ni",
@@ -1788,16 +1788,16 @@
         "word": "/api/v1/word/we/"
     },
     {
-        "added": "2014-04-10T20:22:29.530984",
-        "annotation": "I",
+        "added": "2014-07-30T23:28:36.415651",
+        "annotation": null,
         "entry": "ni",
-        "id": 90458,
+        "id": 157426,
         "language": "/api/v1/language/tobo/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/90458/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "I",
-        "word": "/api/v1/word/i/"
+        "resource_uri": "/api/v1/lexicon/157426/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2014-04-10T20:22:31.663302",

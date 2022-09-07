@@ -240,18 +240,6 @@
         "word": "/api/v1/word/sister/"
     },
     {
-        "added": "2015-05-21T00:30:15.720114",
-        "annotation": "",
-        "entry": "a\u2071z\u031fa\u0294",
-        "id": 221132,
-        "language": "/api/v1/language/tokano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/221132/",
-        "source": "/api/v1/source/sil-1965/",
-        "source_gloss": null,
-        "word": "/api/v1/word/yesterday/"
-    },
-    {
         "added": "2015-05-21T00:30:15.728707",
         "annotation": "",
         "entry": "a\u2071z\u031fa\u0294",
@@ -262,6 +250,18 @@
         "source": "/api/v1/source/sil-1965/",
         "source_gloss": null,
         "word": "/api/v1/word/tomorrow/"
+    },
+    {
+        "added": "2015-05-21T00:30:15.720114",
+        "annotation": "",
+        "entry": "a\u2071z\u031fa\u0294",
+        "id": 221132,
+        "language": "/api/v1/language/tokano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/221132/",
+        "source": "/api/v1/source/sil-1965/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yesterday/"
     },
     {
         "added": "2015-05-18T22:46:24.312323",
@@ -504,18 +504,6 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2015-05-21T01:23:06.883164",
-        "annotation": "",
-        "entry": "gel\u030ceka\u0180e",
-        "id": 221186,
-        "language": "/api/v1/language/tokano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/221186/",
-        "source": "/api/v1/source/sil-1965/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-hear/"
-    },
-    {
         "added": "2015-05-21T01:23:06.891418",
         "annotation": "",
         "entry": "gel\u030ceka\u0180e",
@@ -526,6 +514,18 @@
         "source": "/api/v1/source/sil-1965/",
         "source_gloss": null,
         "word": "/api/v1/word/to-know/"
+    },
+    {
+        "added": "2015-05-21T01:23:06.883164",
+        "annotation": "",
+        "entry": "gel\u030ceka\u0180e",
+        "id": 221186,
+        "language": "/api/v1/language/tokano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/221186/",
+        "source": "/api/v1/source/sil-1965/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-hear/"
     },
     {
         "added": "2015-05-21T01:23:06.749309",

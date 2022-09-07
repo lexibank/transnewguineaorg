@@ -144,18 +144,6 @@
         "word": "/api/v1/word/black/"
     },
     {
-        "added": "2015-09-23T19:31:18.004922",
-        "annotation": "",
-        "entry": "lakwo",
-        "id": 243277,
-        "language": "/api/v1/language/mehek/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/243277/",
-        "source": "/api/v1/source/laycock1968/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2015-09-23T19:31:21.874438",
         "annotation": "",
         "entry": "lakwo",
@@ -166,6 +154,18 @@
         "source": "/api/v1/source/laycock1968/",
         "source_gloss": null,
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2015-09-23T19:31:18.004922",
+        "annotation": "",
+        "entry": "lakwo",
+        "id": 243277,
+        "language": "/api/v1/language/mehek/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/243277/",
+        "source": "/api/v1/source/laycock1968/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2015-09-23T19:31:19.514460",

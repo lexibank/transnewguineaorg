@@ -56,7 +56,7 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50758/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
+        "source_gloss": "grandfather, grandchild",
         "word": "/api/v1/word/grandfather/"
     },
     {
@@ -972,18 +972,6 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2013-11-19T03:55:54.675462",
-        "annotation": "bird",
-        "entry": "'di",
-        "id": 48027,
-        "language": "/api/v1/language/baruga-bareji/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48027/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-11-19T03:56:35.190675",
         "annotation": "tooth",
         "entry": "'di",
@@ -994,6 +982,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2013-11-19T03:55:54.675462",
+        "annotation": "bird",
+        "entry": "'di",
+        "id": 48027,
+        "language": "/api/v1/language/baruga-bareji/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48027/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2013-11-19T03:56:04.972396",
@@ -1632,7 +1632,7 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-11-19T03:56:36.479431",
+        "added": "2022-07-25T22:17:57.134129",
         "annotation": "tree top",
         "entry": "[ika] 'gwombu",
         "id": 55496,
@@ -1641,7 +1641,7 @@
         "resource_uri": "/api/v1/lexicon/55496/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/upper-part-of-tree/"
+        "word": "/api/v1/word/tree-top/"
     },
     {
         "added": "2013-11-19T03:56:31.173701",

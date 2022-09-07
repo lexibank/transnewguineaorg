@@ -456,18 +456,6 @@
         "word": "/api/v1/word/moon/"
     },
     {
-        "added": "2018-05-24T02:44:39.143681",
-        "annotation": "",
-        "entry": "ba\u0292E-",
-        "id": 259345,
-        "language": "/api/v1/language/uare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259345/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "sleep",
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2018-05-24T02:44:39.236484",
         "annotation": "",
         "entry": "ba\u0292E-",
@@ -478,6 +466,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "lie on ground",
         "word": "/api/v1/word/to-lie-on-ground/"
+    },
+    {
+        "added": "2018-05-24T02:44:39.143681",
+        "annotation": "",
+        "entry": "ba\u0292E-",
+        "id": 259345,
+        "language": "/api/v1/language/uare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259345/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "sleep",
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2018-05-24T02:44:42.337925",
@@ -2592,18 +2592,6 @@
         "word": "/api/v1/word/egg/"
     },
     {
-        "added": "2018-05-24T02:44:30.672216",
-        "annotation": "",
-        "entry": "\u02c8ma\u0263a",
-        "id": 258205,
-        "language": "/api/v1/language/uare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258205/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "mountain",
-        "word": "/api/v1/word/mountain/"
-    },
-    {
         "added": "2018-05-24T02:44:33.729357",
         "annotation": "",
         "entry": "\u02c8ma\u0263a",
@@ -2614,6 +2602,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "feather",
         "word": "/api/v1/word/feather/"
+    },
+    {
+        "added": "2018-05-24T02:44:30.672216",
+        "annotation": "",
+        "entry": "\u02c8ma\u0263a",
+        "id": 258205,
+        "language": "/api/v1/language/uare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258205/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
     },
     {
         "added": "2015-05-17T21:54:37.086278",
@@ -2796,18 +2796,6 @@
         "word": "/api/v1/word/to-catch/"
     },
     {
-        "added": "2015-05-17T23:52:33.758080",
-        "annotation": "",
-        "entry": "ma\u1d58 \u0294ohe",
-        "id": 217731,
-        "language": "/api/v1/language/uare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/217731/",
-        "source": "/api/v1/source/sil-1988/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-hit/"
-    },
-    {
         "added": "2015-05-17T23:52:33.704670",
         "annotation": "",
         "entry": "ma\u1d58 \u0294ohe",
@@ -2818,6 +2806,18 @@
         "source": "/api/v1/source/sil-1988/",
         "source_gloss": null,
         "word": "/api/v1/word/to-kill/"
+    },
+    {
+        "added": "2015-05-17T23:52:33.758080",
+        "annotation": "",
+        "entry": "ma\u1d58 \u0294ohe",
+        "id": 217731,
+        "language": "/api/v1/language/uare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/217731/",
+        "source": "/api/v1/source/sil-1988/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-hit/"
     },
     {
         "added": "2018-05-24T02:44:25.742105",
@@ -3732,18 +3732,6 @@
         "word": "/api/v1/word/yesterday/"
     },
     {
-        "added": "2018-05-24T02:44:22.882499",
-        "annotation": "",
-        "entry": "o\u02c8ho\u0292e",
-        "id": 257252,
-        "language": "/api/v1/language/uare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257252/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "man",
-        "word": "/api/v1/word/man/"
-    },
-    {
         "added": "2018-05-24T02:44:23.591162",
         "annotation": "",
         "entry": "o\u02c8ho\u0292e",
@@ -3754,6 +3742,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "husband",
         "word": "/api/v1/word/husband/"
+    },
+    {
+        "added": "2018-05-24T02:44:22.882499",
+        "annotation": "",
+        "entry": "o\u02c8ho\u0292e",
+        "id": 257252,
+        "language": "/api/v1/language/uare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257252/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "man",
+        "word": "/api/v1/word/man/"
     },
     {
         "added": "2015-05-17T22:29:35.937801",
@@ -3924,18 +3924,6 @@
         "word": "/api/v1/word/to-cook/"
     },
     {
-        "added": "2018-05-24T02:44:29.501540",
-        "annotation": "",
-        "entry": "\u02c8\u0263o\u0292e",
-        "id": 258062,
-        "language": "/api/v1/language/uare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258062/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "fog",
-        "word": "/api/v1/word/fog/"
-    },
-    {
         "added": "2018-05-24T02:44:29.386262",
         "annotation": "",
         "entry": "\u02c8\u0263o\u0292e",
@@ -3946,6 +3934,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "cloud",
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2018-05-24T02:44:29.501540",
+        "annotation": "",
+        "entry": "\u02c8\u0263o\u0292e",
+        "id": 258062,
+        "language": "/api/v1/language/uare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258062/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "fog",
+        "word": "/api/v1/word/fog/"
     },
     {
         "added": "2018-05-24T02:44:34.129173",
@@ -4860,18 +4860,6 @@
         "word": "/api/v1/word/old/"
     },
     {
-        "added": "2018-05-24T02:44:30.172942",
-        "annotation": "",
-        "entry": "\u02c8vou",
-        "id": 258144,
-        "language": "/api/v1/language/uare/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258144/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "river",
-        "word": "/api/v1/word/river/"
-    },
-    {
         "added": "2018-05-24T02:44:30.070881",
         "annotation": "",
         "entry": "\u02c8vou",
@@ -4882,6 +4870,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2018-05-24T02:44:30.172942",
+        "annotation": "",
+        "entry": "\u02c8vou",
+        "id": 258144,
+        "language": "/api/v1/language/uare/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258144/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "river",
+        "word": "/api/v1/word/river/"
     },
     {
         "added": "2015-05-17T21:54:37.133706",

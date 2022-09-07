@@ -912,18 +912,6 @@
         "word": "/api/v1/word/navel/"
     },
     {
-        "added": "2013-11-06T02:47:25.151590",
-        "annotation": "",
-        "entry": "n\u03b1",
-        "id": 36677,
-        "language": "/api/v1/language/blagar-bakalang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/36677/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
         "added": "2013-11-06T02:47:25.163513",
         "annotation": "",
         "entry": "n\u03b1",
@@ -934,6 +922,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2013-11-06T02:47:25.151590",
+        "annotation": "",
+        "entry": "n\u03b1",
+        "id": 36677,
+        "language": "/api/v1/language/blagar-bakalang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/36677/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-11-06T02:47:24.434628",

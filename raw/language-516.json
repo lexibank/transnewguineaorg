@@ -1056,18 +1056,6 @@
         "word": "/api/v1/word/pig/"
     },
     {
-        "added": "2013-11-10T02:52:53.618488",
-        "annotation": "",
-        "entry": "p'uk(u)",
-        "id": 38338,
-        "language": "/api/v1/language/kamang-letley/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/38338/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/big/"
-    },
-    {
         "added": "2019-03-19T04:16:29.466712",
         "annotation": null,
         "entry": "p'uk(u)",
@@ -1078,6 +1066,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fat/"
+    },
+    {
+        "added": "2013-11-10T02:52:53.618488",
+        "annotation": "",
+        "entry": "p'uk(u)",
+        "id": 38338,
+        "language": "/api/v1/language/kamang-letley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/38338/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/big/"
     },
     {
         "added": "2013-11-10T02:52:53.963851",

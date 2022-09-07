@@ -1,17 +1,5 @@
 [
     {
-        "added": "2013-11-29T19:34:47.955237",
-        "annotation": "",
-        "entry": "\u00e1:'",
-        "id": 73796,
-        "language": "/api/v1/language/fore/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73796/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/not/"
-    },
-    {
         "added": "2013-11-29T19:34:49.831728",
         "annotation": "",
         "entry": "\u00e1:'",
@@ -22,6 +10,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/seed/"
+    },
+    {
+        "added": "2013-11-29T19:34:47.955237",
+        "annotation": "",
+        "entry": "\u00e1:'",
+        "id": 73796,
+        "language": "/api/v1/language/fore/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73796/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/not/"
     },
     {
         "added": "2013-11-29T19:34:46.826196",
@@ -1128,16 +1128,16 @@
         "word": "/api/v1/word/meat/"
     },
     {
-        "added": "2013-11-29T19:34:42.629210",
+        "added": "2013-11-29T19:34:44.077615",
         "annotation": "",
         "entry": "(a)ya:'",
-        "id": 72828,
+        "id": 73095,
         "language": "/api/v1/language/fore/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/72828/",
+        "resource_uri": "/api/v1/lexicon/73095/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/feather/"
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2013-11-29T19:34:44.175472",
@@ -1152,16 +1152,16 @@
         "word": "/api/v1/word/hand/"
     },
     {
-        "added": "2013-11-29T19:34:44.077615",
+        "added": "2013-11-29T19:34:42.629210",
         "annotation": "",
         "entry": "(a)ya:'",
-        "id": 73095,
+        "id": 72828,
         "language": "/api/v1/language/fore/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/73095/",
+        "resource_uri": "/api/v1/lexicon/72828/",
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/hair/"
+        "word": "/api/v1/word/feather/"
     },
     {
         "added": "2013-11-29T19:34:40.758861",

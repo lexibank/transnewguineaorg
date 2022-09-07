@@ -228,18 +228,6 @@
         "word": "/api/v1/word/new/"
     },
     {
-        "added": "2013-10-27T05:48:23.816937",
-        "annotation": "fat",
-        "entry": "f'\u0254k\u03b1",
-        "id": 34172,
-        "language": "/api/v1/language/abui-makadai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/34172/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": "fat",
-        "word": "/api/v1/word/fat/"
-    },
-    {
         "added": "2013-10-27T05:48:23.679407",
         "annotation": "",
         "entry": "f'\u0254k\u03b1",
@@ -250,6 +238,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2013-10-27T05:48:23.816937",
+        "annotation": "fat",
+        "entry": "f'\u0254k\u03b1",
+        "id": 34172,
+        "language": "/api/v1/language/abui-makadai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/34172/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": "fat",
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-10-27T05:48:23.778176",

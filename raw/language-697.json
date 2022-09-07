@@ -552,18 +552,6 @@
         "word": "/api/v1/word/to-cut/"
     },
     {
-        "added": "2014-06-15T21:36:28.085609",
-        "annotation": null,
-        "entry": "au",
-        "id": 121128,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/121128/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "breast",
-        "word": "/api/v1/word/breast/"
-    },
-    {
         "added": "2014-06-15T21:36:34.644053",
         "annotation": null,
         "entry": "au",
@@ -574,6 +562,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-06-15T21:36:28.085609",
+        "annotation": null,
+        "entry": "au",
+        "id": 121128,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/121128/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "breast",
+        "word": "/api/v1/word/breast/"
     },
     {
         "added": "2014-06-15T21:36:36.678748",
@@ -1344,18 +1344,6 @@
         "word": "/api/v1/word/vulva/"
     },
     {
-        "added": "2014-06-15T21:36:42.080033",
-        "annotation": null,
-        "entry": "fue",
-        "id": 127816,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/127816/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "blow",
-        "word": "/api/v1/word/to-blow/"
-    },
-    {
         "added": "2014-06-15T21:36:42.015357",
         "annotation": null,
         "entry": "fue",
@@ -1365,6 +1353,18 @@
         "resource_uri": "/api/v1/lexicon/127787/",
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "blow (on fire)",
+        "word": "/api/v1/word/to-blow/"
+    },
+    {
+        "added": "2014-06-15T21:36:42.080033",
+        "annotation": null,
+        "entry": "fue",
+        "id": 127816,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/127816/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "blow",
         "word": "/api/v1/word/to-blow/"
     },
     {
@@ -1728,18 +1728,6 @@
         "word": "/api/v1/word/their-dual/"
     },
     {
-        "added": "2014-06-15T21:36:24.252510",
-        "annotation": "gen.",
-        "entry": "-iaga",
-        "id": 119234,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/119234/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "2pl/P:3P",
-        "word": "/api/v1/word/their/"
-    },
-    {
         "added": "2014-06-15T21:36:25.749521",
         "annotation": "gen.",
         "entry": "-iaga",
@@ -1752,16 +1740,16 @@
         "word": "/api/v1/word/your-pl/"
     },
     {
-        "added": "2014-06-15T21:36:36.104433",
-        "annotation": null,
-        "entry": "ibua",
-        "id": 125064,
+        "added": "2014-06-15T21:36:24.252510",
+        "annotation": "gen.",
+        "entry": "-iaga",
+        "id": 119234,
         "language": "/api/v1/language/murupi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/125064/",
+        "resource_uri": "/api/v1/lexicon/119234/",
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "good",
-        "word": "/api/v1/word/good/"
+        "source_gloss": "2pl/P:3P",
+        "word": "/api/v1/word/their/"
     },
     {
         "added": "2014-06-15T21:36:37.817541",
@@ -1774,6 +1762,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "straight",
         "word": "/api/v1/word/straight/"
+    },
+    {
+        "added": "2014-06-15T21:36:36.104433",
+        "annotation": null,
+        "entry": "ibua",
+        "id": 125064,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/125064/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "good",
+        "word": "/api/v1/word/good/"
     },
     {
         "added": "2014-06-15T21:36:25.510038",
@@ -2184,18 +2184,6 @@
         "word": "/api/v1/word/to-fall/"
     },
     {
-        "added": "2014-06-15T21:36:41.292537",
-        "annotation": null,
-        "entry": "m\u025b-",
-        "id": 127414,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/127414/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "give.23NSG ?",
-        "word": "/api/v1/word/to-give/"
-    },
-    {
         "added": "2014-06-15T21:36:43.343171",
         "annotation": null,
         "entry": "m\u025b-",
@@ -2206,6 +2194,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "make",
         "word": "/api/v1/word/to-do-make/"
+    },
+    {
+        "added": "2014-06-15T21:36:42.613200",
+        "annotation": null,
+        "entry": "m\u025b-",
+        "id": 128065,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/128065/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "bury",
+        "word": "/api/v1/word/to-bury/"
     },
     {
         "added": "2014-06-15T21:36:43.703630",
@@ -2220,16 +2220,16 @@
         "word": "/api/v1/word/to-put/"
     },
     {
-        "added": "2014-06-15T21:36:42.613200",
+        "added": "2014-06-15T21:36:41.292537",
         "annotation": null,
         "entry": "m\u025b-",
-        "id": 128065,
+        "id": 127414,
         "language": "/api/v1/language/murupi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/128065/",
+        "resource_uri": "/api/v1/lexicon/127414/",
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "bury",
-        "word": "/api/v1/word/to-bury/"
+        "source_gloss": "give.23NSG ?",
+        "word": "/api/v1/word/to-give/"
     },
     {
         "added": "2014-06-15T21:36:30.702829",
@@ -3612,18 +3612,6 @@
         "word": "/api/v1/word/loincloth/"
     },
     {
-        "added": "2014-06-15T21:36:32.361340",
-        "annotation": null,
-        "entry": "tita",
-        "id": 123211,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/123211/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "sap",
-        "word": "/api/v1/word/sap/"
-    },
-    {
         "added": "2014-06-15T21:36:36.553982",
         "annotation": null,
         "entry": "tita",
@@ -3634,6 +3622,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "red",
         "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2014-06-15T21:36:32.361340",
+        "annotation": null,
+        "entry": "tita",
+        "id": 123211,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/123211/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "sap",
+        "word": "/api/v1/word/sap/"
     },
     {
         "added": "2014-06-15T21:36:38.910423",
@@ -3852,18 +3852,6 @@
         "word": "/api/v1/word/to-dance/"
     },
     {
-        "added": "2014-06-15T21:36:37.280508",
-        "annotation": null,
-        "entry": "utu",
-        "id": 125564,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/125564/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "short",
-        "word": "/api/v1/word/short/"
-    },
-    {
         "added": "2014-06-15T21:36:32.668963",
         "annotation": null,
         "entry": "utu",
@@ -3874,6 +3862,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "piece of wood",
         "word": "/api/v1/word/short-piece-wood/"
+    },
+    {
+        "added": "2014-06-15T21:36:37.280508",
+        "annotation": null,
+        "entry": "utu",
+        "id": 125564,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/125564/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "short",
+        "word": "/api/v1/word/short/"
     },
     {
         "added": "2014-06-15T21:36:38.780429",
@@ -4116,18 +4116,6 @@
         "word": "/api/v1/word/work-n/"
     },
     {
-        "added": "2014-06-15T21:36:34.890822",
-        "annotation": null,
-        "entry": "wamaru",
-        "id": 124491,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/124491/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "spear",
-        "word": "/api/v1/word/spear-n/"
-    },
-    {
         "added": "2014-06-15T21:36:34.957298",
         "annotation": null,
         "entry": "wamaru",
@@ -4138,6 +4126,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "spear (fish spear)",
         "word": "/api/v1/word/fish-spear/"
+    },
+    {
+        "added": "2014-06-15T21:36:34.890822",
+        "annotation": null,
+        "entry": "wamaru",
+        "id": 124491,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/124491/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "spear",
+        "word": "/api/v1/word/spear-n/"
     },
     {
         "added": "2014-06-15T21:36:44.625214",
@@ -4272,18 +4272,6 @@
         "word": "/api/v1/word/to-pull/"
     },
     {
-        "added": "2014-06-15T21:36:36.106848",
-        "annotation": null,
-        "entry": "w\u028c\u02d0lu",
-        "id": 125065,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/125065/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "good",
-        "word": "/api/v1/word/good/"
-    },
-    {
         "added": "2014-06-15T21:36:36.620037",
         "annotation": null,
         "entry": "w\u028c\u02d0lu",
@@ -4294,6 +4282,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "white",
         "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2014-06-15T21:36:36.106848",
+        "annotation": null,
+        "entry": "w\u028c\u02d0lu",
+        "id": 125065,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/125065/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "good",
+        "word": "/api/v1/word/good/"
     },
     {
         "added": "2014-06-15T21:36:30.894124",
@@ -4332,18 +4332,6 @@
         "word": "/api/v1/word/we-dual/"
     },
     {
-        "added": "2014-06-15T21:36:25.630200",
-        "annotation": null,
-        "entry": "-(y)ar-",
-        "id": 119918,
-        "language": "/api/v1/language/murupi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/119918/",
-        "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "2pl/O:3P",
-        "word": "/api/v1/word/you-pl-o2p/"
-    },
-    {
         "added": "2014-06-15T21:36:24.124980",
         "annotation": null,
         "entry": "-(y)ar-",
@@ -4356,16 +4344,16 @@
         "word": "/api/v1/word/them/"
     },
     {
-        "added": "2014-06-15T21:36:23.430385",
+        "added": "2014-06-15T21:36:25.630200",
         "annotation": null,
-        "entry": "-(y)at-",
-        "id": 118833,
+        "entry": "-(y)ar-",
+        "id": 119918,
         "language": "/api/v1/language/murupi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/118833/",
+        "resource_uri": "/api/v1/lexicon/119918/",
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
-        "source_gloss": "they two (VO)",
-        "word": "/api/v1/word/them-dual/"
+        "source_gloss": "2pl/O:3P",
+        "word": "/api/v1/word/you-pl-o2p/"
     },
     {
         "added": "2014-06-15T21:36:26.143289",
@@ -4378,6 +4366,18 @@
         "source": "/api/v1/source/zgraggen-1980-mabuso/",
         "source_gloss": "you two (Verbal Object)",
         "word": "/api/v1/word/you-pl-dual-o2p/"
+    },
+    {
+        "added": "2014-06-15T21:36:23.430385",
+        "annotation": null,
+        "entry": "-(y)at-",
+        "id": 118833,
+        "language": "/api/v1/language/murupi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/118833/",
+        "source": "/api/v1/source/zgraggen-1980-mabuso/",
+        "source_gloss": "they two (VO)",
+        "word": "/api/v1/word/them-dual/"
     },
     {
         "added": "2014-06-15T21:36:31.015356",

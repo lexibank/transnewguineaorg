@@ -108,18 +108,6 @@
         "word": "/api/v1/word/not/"
     },
     {
-        "added": "2013-06-02T22:27:38.316580",
-        "annotation": "",
-        "entry": "alu",
-        "id": 16126,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16126/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/feather/"
-    },
-    {
         "added": "2013-05-13T22:20:05.977615",
         "annotation": "",
         "entry": "alu",
@@ -142,6 +130,18 @@
         "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/string-bag/"
+    },
+    {
+        "added": "2013-06-02T22:27:38.316580",
+        "annotation": "",
+        "entry": "alu",
+        "id": 16126,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16126/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/feather/"
     },
     {
         "added": "2013-05-13T22:20:06.499643",
@@ -300,6 +300,18 @@
         "word": "/api/v1/word/breast/"
     },
     {
+        "added": "2013-06-02T22:27:38.793968",
+        "annotation": "",
+        "entry": "bule",
+        "id": 16163,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16163/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/many/"
+    },
+    {
         "added": "2013-06-02T22:27:38.335223",
         "annotation": "",
         "entry": "bule",
@@ -320,18 +332,6 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/6058/",
         "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/many/"
-    },
-    {
-        "added": "2013-06-02T22:27:38.793968",
-        "annotation": "",
-        "entry": "bule",
-        "id": 16163,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16163/",
-        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/many/"
     },
@@ -696,18 +696,6 @@
         "word": "/api/v1/word/louse/"
     },
     {
-        "added": "2013-06-02T22:27:38.232698",
-        "annotation": "",
-        "entry": "gali",
-        "id": 16115,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16115/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/mountain/"
-    },
-    {
         "added": "2013-05-13T22:20:06.235225",
         "annotation": "",
         "entry": "gali",
@@ -716,6 +704,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/6010/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2013-06-02T22:27:38.232698",
+        "annotation": "",
+        "entry": "gali",
+        "id": 16115,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16115/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/mountain/"
     },
@@ -792,18 +792,6 @@
         "word": "/api/v1/word/to-sleep/"
     },
     {
-        "added": "2013-06-02T22:27:38.583554",
-        "annotation": "",
-        "entry": "hanema",
-        "id": 16149,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16149/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2013-06-02T22:27:38.590862",
         "annotation": "",
         "entry": "hanema",
@@ -816,16 +804,16 @@
         "word": "/api/v1/word/to-lie-down/"
     },
     {
-        "added": "2013-05-13T22:20:06.253602",
+        "added": "2013-06-02T22:27:38.583554",
         "annotation": "",
-        "entry": "hani",
-        "id": 6023,
+        "entry": "hanema",
+        "id": 16149,
         "language": "/api/v1/language/onabasulu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/6023/",
-        "source": "/api/v1/source/shaw-1973/",
+        "resource_uri": "/api/v1/lexicon/16149/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
-        "word": "/api/v1/word/fish/"
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2013-06-02T22:27:38.328679",
@@ -836,6 +824,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16128/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2013-05-13T22:20:06.253602",
+        "annotation": "",
+        "entry": "hani",
+        "id": 6023,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/6023/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/fish/"
     },
@@ -936,6 +936,18 @@
         "word": "/api/v1/word/to-fly/"
     },
     {
+        "added": "2013-05-13T22:20:06.121027",
+        "annotation": "",
+        "entry": "hele",
+        "id": 6007,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/6007/",
+        "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ground/"
+    },
+    {
         "added": "2013-05-13T22:20:06.115572",
         "annotation": "rain",
         "entry": "hele",
@@ -960,16 +972,16 @@
         "word": "/api/v1/word/ground/"
     },
     {
-        "added": "2013-05-13T22:20:06.121027",
-        "annotation": "",
-        "entry": "hele",
-        "id": 6007,
+        "added": "2013-05-13T22:20:06.403758",
+        "annotation": "(?)",
+        "entry": "hili",
+        "id": 6036,
         "language": "/api/v1/language/onabasulu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/6007/",
+        "resource_uri": "/api/v1/lexicon/6036/",
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/ground/"
+        "word": "/api/v1/word/new/"
     },
     {
         "added": "2013-06-02T22:27:38.413739",
@@ -980,18 +992,6 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16141/",
         "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/new/"
-    },
-    {
-        "added": "2013-05-13T22:20:06.403758",
-        "annotation": "(?)",
-        "entry": "hili",
-        "id": 6036,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/6036/",
-        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/new/"
     },
@@ -1104,18 +1104,6 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2013-06-02T22:27:38.093852",
-        "annotation": "",
-        "entry": "ibi",
-        "id": 16100,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16100/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/blood/"
-    },
-    {
         "added": "2013-05-13T22:20:06.101535",
         "annotation": "",
         "entry": "ibi",
@@ -1124,6 +1112,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/5995/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2013-06-02T22:27:38.093852",
+        "annotation": "",
+        "entry": "ibi",
+        "id": 16100,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16100/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/blood/"
     },
@@ -1356,18 +1356,6 @@
         "word": "/api/v1/word/shoulder/"
     },
     {
-        "added": "2013-05-13T22:20:06.104641",
-        "annotation": "",
-        "entry": "kiwi",
-        "id": 5997,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/5997/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bone/"
-    },
-    {
         "added": "2013-06-02T22:27:38.104975",
         "annotation": "",
         "entry": "kiwi",
@@ -1376,6 +1364,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16102/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2013-05-13T22:20:06.104641",
+        "annotation": "",
+        "entry": "kiwi",
+        "id": 5997,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/5997/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
     },
@@ -1500,18 +1500,6 @@
         "word": "/api/v1/word/to-give/"
     },
     {
-        "added": "2013-05-13T22:20:06.409960",
-        "annotation": "",
-        "entry": "mesa",
-        "id": 6040,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/6040/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sit/"
-    },
-    {
         "added": "2013-06-02T22:27:38.483381",
         "annotation": "",
         "entry": "mesa",
@@ -1520,6 +1508,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16145/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sit/"
+    },
+    {
+        "added": "2013-05-13T22:20:06.409960",
+        "annotation": "",
+        "entry": "mesa",
+        "id": 6040,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/6040/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sit/"
     },
@@ -1620,18 +1620,6 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
-        "added": "2013-05-13T22:20:05.900530",
-        "annotation": "",
-        "entry": "na",
-        "id": 5976,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/5976/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/i/"
-    },
-    {
         "added": "2013-06-02T22:27:37.958806",
         "annotation": "",
         "entry": "na",
@@ -1640,6 +1628,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/16081/",
         "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2013-05-13T22:20:05.900530",
+        "annotation": "",
+        "entry": "na",
+        "id": 5976,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/5976/",
+        "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
     },
@@ -1692,18 +1692,6 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
-        "added": "2013-05-13T22:20:06.406946",
-        "annotation": "",
-        "entry": "namena",
-        "id": 6038,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/6038/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2013-05-13T22:20:06.405283",
         "annotation": "",
         "entry": "namena",
@@ -1714,6 +1702,18 @@
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-05-13T22:20:06.406946",
+        "annotation": "",
+        "entry": "namena",
+        "id": 6038,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/6038/",
+        "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-06-02T22:27:38.929397",
@@ -1800,18 +1800,6 @@
         "word": "/api/v1/word/to-die/"
     },
     {
-        "added": "2013-06-02T22:27:38.018727",
-        "annotation": "",
-        "entry": "pese",
-        "id": 16090,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16090/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2013-05-13T22:20:06.044292",
         "annotation": "",
         "entry": "pese",
@@ -1820,6 +1808,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/5985/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2013-06-02T22:27:38.018727",
+        "annotation": "",
+        "entry": "pese",
+        "id": 16090,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16090/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
     },
@@ -1980,18 +1980,6 @@
         "word": "/api/v1/word/heart/"
     },
     {
-        "added": "2013-05-13T22:20:06.515446",
-        "annotation": "(?)",
-        "entry": "sone",
-        "id": 6069,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/6069/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/claw/"
-    },
-    {
         "added": "2013-05-13T22:20:06.091460",
         "annotation": "arm",
         "entry": "sone",
@@ -2002,6 +1990,18 @@
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": "arm",
         "word": "/api/v1/word/arm/"
+    },
+    {
+        "added": "2013-05-13T22:20:06.515446",
+        "annotation": "(?)",
+        "entry": "sone",
+        "id": 6069,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/6069/",
+        "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/claw/"
     },
     {
         "added": "2013-06-02T22:27:38.039369",
@@ -2292,18 +2292,6 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2013-06-02T22:27:38.682455",
-        "annotation": "",
-        "entry": "wi",
-        "id": 16157,
-        "language": "/api/v1/language/onabasulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/16157/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/name/"
-    },
-    {
         "added": "2013-05-13T22:20:06.486085",
         "annotation": "",
         "entry": "wi",
@@ -2316,16 +2304,16 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2013-06-02T22:27:38.364589",
+        "added": "2013-06-02T22:27:38.682455",
         "annotation": "",
-        "entry": "yabulu",
-        "id": 16135,
+        "entry": "wi",
+        "id": 16157,
         "language": "/api/v1/language/onabasulu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/16135/",
+        "resource_uri": "/api/v1/lexicon/16157/",
         "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
-        "word": "/api/v1/word/black/"
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2013-05-13T22:20:06.261473",
@@ -2336,6 +2324,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/6030/",
         "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/black/"
+    },
+    {
+        "added": "2013-06-02T22:27:38.364589",
+        "annotation": "",
+        "entry": "yabulu",
+        "id": 16135,
+        "language": "/api/v1/language/onabasulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/16135/",
+        "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/black/"
     },

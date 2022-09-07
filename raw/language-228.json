@@ -600,16 +600,16 @@
         "word": "/api/v1/word/to-laugh/"
     },
     {
-        "added": "2014-04-14T07:57:45.244134",
+        "added": "2013-05-27T07:04:04.428661",
         "annotation": "eat, drink",
         "entry": "i-",
-        "id": 92435,
+        "id": 260778,
         "language": "/api/v1/language/south-barai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/92435/",
+        "resource_uri": "/api/v1/lexicon/260778/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-05-27T07:04:04.428661",
@@ -620,8 +620,20 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14994/",
         "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2014-04-14T07:57:45.244134",
+        "annotation": "eat, drink",
+        "entry": "i-",
+        "id": 92435,
+        "language": "/api/v1/language/south-barai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/92435/",
+        "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-05-27T07:03:55.201216",
@@ -1076,8 +1088,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15147/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interrogative-particle/"
+        "source_gloss": "interrogative particle",
+        "word": "/api/v1/word/interrogative/"
     },
     {
         "added": "2014-03-10T22:36:51.978399",
@@ -1131,13 +1143,25 @@
         "added": "2013-05-27T07:03:59.228308",
         "annotation": "day before yesterday, day after tomorrow",
         "entry": "nito|he",
+        "id": 260769,
+        "language": "/api/v1/language/south-barai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260769/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "day after tomorrow, day before yesterday",
+        "word": "/api/v1/word/day-before-yesterday/"
+    },
+    {
+        "added": "2013-05-27T07:03:59.228308",
+        "annotation": "day before yesterday, day after tomorrow",
+        "entry": "nito|he",
         "id": 14468,
         "language": "/api/v1/language/south-barai/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14468/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/day-before-yesterday-day-after-tomorrow/"
+        "source_gloss": "day after tomorrow, day before yesterday",
+        "word": "/api/v1/word/day-after-tomorrow/"
     },
     {
         "added": "2014-06-01T22:34:03.884038",
@@ -1584,18 +1608,6 @@
         "word": "/api/v1/word/son/"
     },
     {
-        "added": "2013-05-27T07:04:01.389535",
-        "annotation": "rain",
-        "entry": "ve",
-        "id": 14713,
-        "language": "/api/v1/language/south-barai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14713/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-rain/"
-    },
-    {
         "added": "2013-05-27T07:03:59.783043",
         "annotation": "sun",
         "entry": "ve",
@@ -1606,6 +1618,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2013-05-27T07:04:01.389535",
+        "annotation": "rain",
+        "entry": "ve",
+        "id": 14713,
+        "language": "/api/v1/language/south-barai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14713/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-rain/"
     },
     {
         "added": "2013-05-27T07:03:59.869088",

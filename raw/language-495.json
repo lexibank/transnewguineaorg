@@ -60,18 +60,6 @@
         "word": "/api/v1/word/house/"
     },
     {
-        "added": "2013-11-04T22:16:31.869972",
-        "annotation": "",
-        "entry": "b\u025bh",
-        "id": 35779,
-        "language": "/api/v1/language/kabola-aimoli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35779/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/leaf/"
-    },
-    {
         "added": "2013-11-04T22:16:31.383249",
         "annotation": "",
         "entry": "b\u025bh",
@@ -82,6 +70,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-beat/"
+    },
+    {
+        "added": "2013-11-04T22:16:31.869972",
+        "annotation": "",
+        "entry": "b\u025bh",
+        "id": 35779,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/35779/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/leaf/"
     },
     {
         "added": "2013-11-04T22:16:31.137635",
@@ -372,18 +372,6 @@
         "word": "/api/v1/word/five/"
     },
     {
-        "added": "2013-11-04T22:16:31.190954",
-        "annotation": "",
-        "entry": "h'iwu",
-        "id": 35730,
-        "language": "/api/v1/language/kabola-aimoli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35730/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-11-04T22:16:31.158137",
         "annotation": "",
         "entry": "h'iwu",
@@ -394,6 +382,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/chicken/"
+    },
+    {
+        "added": "2013-11-04T22:16:31.190954",
+        "annotation": "",
+        "entry": "h'iwu",
+        "id": 35730,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/35730/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2013-11-04T22:16:31.671205",
@@ -636,18 +636,6 @@
         "word": "/api/v1/word/ashes/"
     },
     {
-        "added": "2019-03-19T04:06:31.579823",
-        "annotation": null,
-        "entry": "m'\u03b1tt\u025b",
-        "id": 260450,
-        "language": "/api/v1/language/kabola-aimoli/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260450/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fat/"
-    },
-    {
         "added": "2013-11-04T22:16:31.622628",
         "annotation": "",
         "entry": "m'\u03b1tt\u025b",
@@ -658,6 +646,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2019-03-19T04:06:31.579823",
+        "annotation": null,
+        "entry": "m'\u03b1tt\u025b",
+        "id": 260450,
+        "language": "/api/v1/language/kabola-aimoli/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260450/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-04T22:16:30.390469",

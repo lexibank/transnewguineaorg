@@ -8,8 +8,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50138/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/female-sex-organ/"
+        "source_gloss": "female sex organ",
+        "word": "/api/v1/word/vagina/"
     },
     {
         "added": "2013-11-19T03:56:18.288856",

@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/this/"
     },
     {
-        "added": "2015-06-09T20:48:15.472914",
-        "annotation": "",
-        "entry": "me=ta=rep ke-",
-        "id": 231543,
-        "language": "/api/v1/language/kwem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231543/",
-        "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-be-hungry/"
-    },
-    {
         "added": "2015-06-09T20:48:15.805376",
         "annotation": "",
         "entry": "me=ta=rep ke-",
@@ -1231,6 +1219,18 @@
         "language": "/api/v1/language/kwem/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231574/",
+        "source": "/api/v1/source/healey-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-be-hungry/"
+    },
+    {
+        "added": "2015-06-09T20:48:15.472914",
+        "annotation": "",
+        "entry": "me=ta=rep ke-",
+        "id": 231543,
+        "language": "/api/v1/language/kwem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231543/",
         "source": "/api/v1/source/healey-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/to-be-hungry/"
@@ -2180,8 +2180,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/231638/",
         "source": "/api/v1/source/healey-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/call/"
+        "source_gloss": "to call out",
+        "word": "/api/v1/word/to-call-out/"
     },
     {
         "added": "2015-06-09T20:48:16.600775",

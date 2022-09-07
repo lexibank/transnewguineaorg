@@ -264,18 +264,6 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2013-05-13T20:52:19.402256",
-        "annotation": "",
-        "entry": "\u025bmi",
-        "id": 5176,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/5176/",
-        "source": "/api/v1/source/macdonald-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/breast/"
-    },
-    {
         "added": "2013-04-25T21:04:06.752146",
         "annotation": "",
         "entry": "\u025bmi",
@@ -286,6 +274,18 @@
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/milk/"
+    },
+    {
+        "added": "2013-05-13T20:52:19.402256",
+        "annotation": "",
+        "entry": "\u025bmi",
+        "id": 5176,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/5176/",
+        "source": "/api/v1/source/macdonald-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/breast/"
     },
     {
         "added": "2013-04-25T21:04:06.753949",
@@ -1368,18 +1368,6 @@
         "word": "/api/v1/word/grass/"
     },
     {
-        "added": "2013-04-23T05:10:51.793956",
-        "annotation": "",
-        "entry": "mu",
-        "id": 74,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74/",
-        "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/head/"
-    },
-    {
         "added": "2013-05-13T20:52:19.387620",
         "annotation": "",
         "entry": "mu",
@@ -1388,6 +1376,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/5166/",
         "source": "/api/v1/source/macdonald-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2013-04-23T05:10:51.793956",
+        "annotation": "",
+        "entry": "mu",
+        "id": 74,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74/",
+        "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/head/"
     },
@@ -1716,18 +1716,6 @@
         "word": "/api/v1/word/star/"
     },
     {
-        "added": "2013-05-13T20:52:19.500277",
-        "annotation": "",
-        "entry": "o",
-        "id": 5245,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/5245/",
-        "source": "/api/v1/source/macdonald-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/this/"
-    },
-    {
         "added": "2013-04-25T21:04:06.774981",
         "annotation": "",
         "entry": "o",
@@ -1740,16 +1728,16 @@
         "word": "/api/v1/word/snake/"
     },
     {
-        "added": "2013-04-23T05:10:51.801612",
+        "added": "2013-05-13T20:52:19.500277",
         "annotation": "",
-        "entry": "obu",
-        "id": 79,
+        "entry": "o",
+        "id": 5245,
         "language": "/api/v1/language/pawaia/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/79/",
-        "source": "/api/v1/source/trefry-1969/",
+        "resource_uri": "/api/v1/lexicon/5245/",
+        "source": "/api/v1/source/macdonald-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/knee/"
+        "word": "/api/v1/word/this/"
     },
     {
         "added": "2013-04-23T04:58:43.341641",
@@ -1764,6 +1752,18 @@
         "word": "/api/v1/word/black/"
     },
     {
+        "added": "2013-04-23T05:10:51.801612",
+        "annotation": "",
+        "entry": "obu",
+        "id": 79,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/79/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/knee/"
+    },
+    {
         "added": "2013-04-23T04:58:43.346147",
         "annotation": "",
         "entry": "ogu",
@@ -1776,18 +1776,6 @@
         "word": "/api/v1/word/claw/"
     },
     {
-        "added": "2013-04-24T23:04:37.304762",
-        "annotation": "",
-        "entry": "oi",
-        "id": 133,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/133/",
-        "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/woman/"
-    },
-    {
         "added": "2013-04-24T23:29:46.452054",
         "annotation": "",
         "entry": "oi",
@@ -1798,6 +1786,18 @@
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/girl/"
+    },
+    {
+        "added": "2013-04-24T23:04:37.304762",
+        "annotation": "",
+        "entry": "oi",
+        "id": 133,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/133/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/woman/"
     },
     {
         "added": "2013-04-24T23:04:37.288680",
@@ -1820,8 +1820,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/192/",
         "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interior/"
+        "source_gloss": "interior",
+        "word": "/api/v1/word/in/"
     },
     {
         "added": "2013-04-24T23:29:46.450241",
@@ -2388,18 +2388,6 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2013-05-13T20:52:19.413571",
-        "annotation": "",
-        "entry": "sia",
-        "id": 5186,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/5186/",
-        "source": "/api/v1/source/macdonald-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sun/"
-    },
-    {
         "added": "2013-05-13T20:52:19.425083",
         "annotation": "",
         "entry": "sia",
@@ -2412,16 +2400,28 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2013-04-23T04:58:43.365703",
+        "added": "2013-04-24T23:29:46.439278",
         "annotation": "",
         "entry": "sia",
-        "id": 64,
+        "id": 167,
         "language": "/api/v1/language/pawaia/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/64/",
+        "resource_uri": "/api/v1/lexicon/167/",
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
-        "word": "/api/v1/word/fire/"
+        "word": "/api/v1/word/eel/"
+    },
+    {
+        "added": "2013-05-13T20:52:19.413571",
+        "annotation": "",
+        "entry": "sia",
+        "id": 5186,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/5186/",
+        "source": "/api/v1/source/macdonald-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
     },
     {
         "added": "2013-04-23T05:10:51.906064",
@@ -2436,16 +2436,16 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2013-04-24T23:29:46.439278",
+        "added": "2013-04-23T04:58:43.365703",
         "annotation": "",
         "entry": "sia",
-        "id": 167,
+        "id": 64,
         "language": "/api/v1/language/pawaia/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/167/",
+        "resource_uri": "/api/v1/lexicon/64/",
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
-        "word": "/api/v1/word/eel/"
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2013-05-13T20:52:19.427047",
@@ -2544,18 +2544,6 @@
         "word": "/api/v1/word/belly/"
     },
     {
-        "added": "2013-04-24T23:04:37.309757",
-        "annotation": "",
-        "entry": "so",
-        "id": 138,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/138/",
-        "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/arrow/"
-    },
-    {
         "added": "2013-04-23T04:58:43.357973",
         "annotation": "",
         "entry": "so",
@@ -2566,6 +2554,18 @@
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/earth/"
+    },
+    {
+        "added": "2013-04-24T23:04:37.309757",
+        "annotation": "",
+        "entry": "so",
+        "id": 138,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/138/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/arrow/"
     },
     {
         "added": "2013-05-13T20:52:19.422920",
@@ -2700,26 +2700,14 @@
         "word": "/api/v1/word/belly/"
     },
     {
-        "added": "2013-04-24T23:29:46.437317",
+        "added": "2013-04-24T23:04:37.295521",
         "annotation": "",
         "entry": "su",
-        "id": 165,
+        "id": 123,
         "language": "/api/v1/language/pawaia/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/165/",
+        "resource_uri": "/api/v1/lexicon/123/",
         "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/door/"
-    },
-    {
-        "added": "2013-05-13T20:52:19.395611",
-        "annotation": "",
-        "entry": "su",
-        "id": 5171,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/5171/",
-        "source": "/api/v1/source/macdonald-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
     },
@@ -2736,16 +2724,28 @@
         "word": "/api/v1/word/liver/"
     },
     {
-        "added": "2013-04-24T23:04:37.295521",
+        "added": "2013-05-13T20:52:19.395611",
         "annotation": "",
         "entry": "su",
-        "id": 123,
+        "id": 5171,
         "language": "/api/v1/language/pawaia/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/123/",
-        "source": "/api/v1/source/trefry-1969/",
+        "resource_uri": "/api/v1/lexicon/5171/",
+        "source": "/api/v1/source/macdonald-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2013-04-24T23:29:46.437317",
+        "annotation": "",
+        "entry": "su",
+        "id": 165,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/165/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/door/"
     },
     {
         "added": "2013-05-13T20:52:19.408055",
@@ -3108,18 +3108,6 @@
         "word": "/api/v1/word/tail/"
     },
     {
-        "added": "2013-04-25T21:04:06.773044",
-        "annotation": "",
-        "entry": "u",
-        "id": 211,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/211/",
-        "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/skirt/"
-    },
-    {
         "added": "2013-05-13T20:52:19.379324",
         "annotation": "",
         "entry": "u",
@@ -3130,6 +3118,18 @@
         "source": "/api/v1/source/macdonald-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/woman/"
+    },
+    {
+        "added": "2013-04-25T21:04:06.773044",
+        "annotation": "",
+        "entry": "u",
+        "id": 211,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/211/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/skirt/"
     },
     {
         "added": "2013-05-13T20:52:19.382790",
@@ -3468,18 +3468,6 @@
         "word": "/api/v1/word/and/"
     },
     {
-        "added": "2013-04-21T20:56:53.125237",
-        "annotation": "",
-        "entry": "yu",
-        "id": 35,
-        "language": "/api/v1/language/pawaia/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35/",
-        "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/wallaby/"
-    },
-    {
         "added": "2013-04-24T23:04:37.284897",
         "annotation": "",
         "entry": "yu",
@@ -3490,6 +3478,18 @@
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2013-04-21T20:56:53.125237",
+        "annotation": "",
+        "entry": "yu",
+        "id": 35,
+        "language": "/api/v1/language/pawaia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/35/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/wallaby/"
     },
     {
         "added": "2013-04-25T21:04:06.763739",

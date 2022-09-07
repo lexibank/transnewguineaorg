@@ -1068,18 +1068,6 @@
         "word": "/api/v1/word/to-see/"
     },
     {
-        "added": "2013-06-16T19:18:35.062276",
-        "annotation": "",
-        "entry": "tenele",
-        "id": 27174,
-        "language": "/api/v1/language/ari/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/27174/",
-        "source": "/api/v1/source/reesink-1976/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-lie-down/"
-    },
-    {
         "added": "2013-06-16T19:18:35.070972",
         "annotation": "",
         "entry": "tenele",
@@ -1090,6 +1078,18 @@
         "source": "/api/v1/source/reesink-1976/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-06-16T19:18:35.062276",
+        "annotation": "",
+        "entry": "tenele",
+        "id": 27174,
+        "language": "/api/v1/language/ari/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/27174/",
+        "source": "/api/v1/source/reesink-1976/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-lie-down/"
     },
     {
         "added": "2013-06-16T19:18:34.994829",

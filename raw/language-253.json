@@ -708,18 +708,6 @@
         "word": "/api/v1/word/sun/"
     },
     {
-        "added": "2013-06-13T22:37:45.028612",
-        "annotation": "",
-        "entry": "mo\ud835\udeffa",
-        "id": 26770,
-        "language": "/api/v1/language/dani-mid-grand-valley/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/26770/",
-        "source": "/api/v1/source/bromley-1967/",
-        "source_gloss": null,
-        "word": "/api/v1/word/white/"
-    },
-    {
         "added": "2013-06-13T22:37:45.392493",
         "annotation": "",
         "entry": "mo\ud835\udeffa",
@@ -730,6 +718,18 @@
         "source": "/api/v1/source/bromley-1967/",
         "source_gloss": null,
         "word": "/api/v1/word/yellow/"
+    },
+    {
+        "added": "2013-06-13T22:37:45.028612",
+        "annotation": "",
+        "entry": "mo\ud835\udeffa",
+        "id": 26770,
+        "language": "/api/v1/language/dani-mid-grand-valley/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/26770/",
+        "source": "/api/v1/source/bromley-1967/",
+        "source_gloss": null,
+        "word": "/api/v1/word/white/"
     },
     {
         "added": "2013-06-13T22:37:40.146652",

@@ -348,18 +348,6 @@
         "word": "/api/v1/word/fingernail/"
     },
     {
-        "added": "2013-06-11T19:12:25.523929",
-        "annotation": "",
-        "entry": "toko",
-        "id": 21519,
-        "language": "/api/v1/language/momuna/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/21519/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/head/"
-    },
-    {
         "added": "2013-06-11T19:12:25.185913",
         "annotation": "",
         "entry": "toko",
@@ -370,6 +358,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2013-06-11T19:12:25.523929",
+        "annotation": "",
+        "entry": "toko",
+        "id": 21519,
+        "language": "/api/v1/language/momuna/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/21519/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/head/"
     },
     {
         "added": "2013-06-11T19:12:25.474668",

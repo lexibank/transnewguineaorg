@@ -1356,40 +1356,16 @@
         "word": "/api/v1/word/to-be-hungry/"
     },
     {
-        "added": "2014-07-06T21:29:51.584178",
+        "added": "2014-07-06T21:29:51.097684",
         "annotation": null,
         "entry": "gi-",
-        "id": 139518,
+        "id": 139287,
         "language": "/api/v1/language/bargam/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/139518/",
+        "resource_uri": "/api/v1/lexicon/139287/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "we (VO)",
-        "word": "/api/v1/word/us/"
-    },
-    {
-        "added": "2014-07-06T21:29:51.292025",
-        "annotation": null,
-        "entry": "gi-",
-        "id": 139383,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139383/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "they (genitive)",
-        "word": "/api/v1/word/their/"
-    },
-    {
-        "added": "2014-07-06T21:29:51.365192",
-        "annotation": null,
-        "entry": "gi-",
-        "id": 139419,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139419/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "they (verbal object)",
-        "word": "/api/v1/word/them/"
+        "source_gloss": "ye (genitive)",
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2014-07-06T21:29:51.169012",
@@ -1416,16 +1392,40 @@
         "word": "/api/v1/word/our/"
     },
     {
-        "added": "2014-07-06T21:29:51.097684",
+        "added": "2014-07-06T21:29:51.292025",
         "annotation": null,
         "entry": "gi-",
-        "id": 139287,
+        "id": 139383,
         "language": "/api/v1/language/bargam/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/139287/",
+        "resource_uri": "/api/v1/lexicon/139383/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "ye (genitive)",
-        "word": "/api/v1/word/your-pl/"
+        "source_gloss": "they (genitive)",
+        "word": "/api/v1/word/their/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.584178",
+        "annotation": null,
+        "entry": "gi-",
+        "id": 139518,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139518/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "we (VO)",
+        "word": "/api/v1/word/us/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.365192",
+        "annotation": null,
+        "entry": "gi-",
+        "id": 139419,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139419/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "they (verbal object)",
+        "word": "/api/v1/word/them/"
     },
     {
         "added": "2014-07-06T21:29:59.053094",
@@ -1824,18 +1824,6 @@
         "word": "/api/v1/word/afternoon/"
     },
     {
-        "added": "2014-07-06T21:29:50.847189",
-        "annotation": null,
-        "entry": "in",
-        "id": 139163,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139163/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(3sg)",
-        "word": "/api/v1/word/he-she/"
-    },
-    {
         "added": "2014-07-06T21:29:51.237176",
         "annotation": null,
         "entry": "in",
@@ -1848,16 +1836,16 @@
         "word": "/api/v1/word/they/"
     },
     {
-        "added": "2014-07-06T21:29:51.316606",
+        "added": "2014-07-06T21:29:50.847189",
         "annotation": null,
-        "entry": "in-",
-        "id": 139395,
+        "entry": "in",
+        "id": 139163,
         "language": "/api/v1/language/bargam/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/139395/",
+        "resource_uri": "/api/v1/lexicon/139163/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "3.pl.poss",
-        "word": "/api/v1/word/their/"
+        "source_gloss": "(3sg)",
+        "word": "/api/v1/word/he-she/"
     },
     {
         "added": "2014-07-06T21:29:50.924683",
@@ -1870,6 +1858,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "3sg poss.",
         "word": "/api/v1/word/his/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.316606",
+        "annotation": null,
+        "entry": "in-",
+        "id": 139395,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139395/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "3.pl.poss",
+        "word": "/api/v1/word/their/"
     },
     {
         "added": "2014-07-06T21:29:52.838649",
@@ -2400,18 +2400,6 @@
         "word": "/api/v1/word/shore/"
     },
     {
-        "added": "2014-07-06T21:30:05.087946",
-        "annotation": null,
-        "entry": "leh-",
-        "id": 145784,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/145784/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(go)",
-        "word": "/api/v1/word/go/"
-    },
-    {
         "added": "2014-07-06T21:30:05.315972",
         "annotation": null,
         "entry": "leh-",
@@ -2422,6 +2410,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "walk",
         "word": "/api/v1/word/to-walk/"
+    },
+    {
+        "added": "2014-07-06T21:30:05.087946",
+        "annotation": null,
+        "entry": "leh-",
+        "id": 145784,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/145784/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(go)",
+        "word": "/api/v1/word/go/"
     },
     {
         "added": "2014-07-06T21:30:06.938478",
@@ -2712,18 +2712,6 @@
         "word": "/api/v1/word/meat/"
     },
     {
-        "added": "2014-07-06T21:30:08.773664",
-        "annotation": null,
-        "entry": "mo",
-        "id": 147619,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/147619/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "sick",
-        "word": "/api/v1/word/to-be-sick/"
-    },
-    {
         "added": "2014-07-06T21:30:04.960704",
         "annotation": null,
         "entry": "mo",
@@ -2734,6 +2722,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(die)",
         "word": "/api/v1/word/to-die/"
+    },
+    {
+        "added": "2014-07-06T21:30:08.773664",
+        "annotation": null,
+        "entry": "mo",
+        "id": 147619,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/147619/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "sick",
+        "word": "/api/v1/word/to-be-sick/"
     },
     {
         "added": "2014-07-06T21:29:54.826240",
@@ -2916,18 +2916,6 @@
         "word": "/api/v1/word/fruit/"
     },
     {
-        "added": "2014-07-06T21:29:56.257639",
-        "annotation": null,
-        "entry": "nal",
-        "id": 141816,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/141816/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "lime",
-        "word": "/api/v1/word/lime/"
-    },
-    {
         "added": "2014-07-06T21:30:01.117825",
         "annotation": null,
         "entry": "nal",
@@ -2938,6 +2926,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(white)",
         "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2014-07-06T21:29:56.257639",
+        "annotation": null,
+        "entry": "nal",
+        "id": 141816,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/141816/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "lime",
+        "word": "/api/v1/word/lime/"
     },
     {
         "added": "2014-07-06T21:29:54.373301",
@@ -3000,30 +3000,6 @@
         "word": "/api/v1/word/you-pl/"
     },
     {
-        "added": "2014-07-06T21:30:07.273685",
-        "annotation": null,
-        "entry": "ne-",
-        "id": 146879,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146879/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "eat",
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
-        "added": "2014-07-06T21:29:51.367212",
-        "annotation": null,
-        "entry": "ne-",
-        "id": 139420,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139420/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "they (verbal object)",
-        "word": "/api/v1/word/them/"
-    },
-    {
         "added": "2014-07-06T21:29:51.170980",
         "annotation": null,
         "entry": "ne-",
@@ -3046,6 +3022,30 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "2 pl poss.",
         "word": "/api/v1/word/your-pl/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.273685",
+        "annotation": null,
+        "entry": "ne-",
+        "id": 146879,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146879/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "eat",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.367212",
+        "annotation": null,
+        "entry": "ne-",
+        "id": 139420,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139420/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "they (verbal object)",
+        "word": "/api/v1/word/them/"
     },
     {
         "added": "2014-07-06T21:29:53.574764",
@@ -3096,18 +3096,6 @@
         "word": "/api/v1/word/you/"
     },
     {
-        "added": "2014-07-06T21:29:50.780696",
-        "annotation": null,
-        "entry": "ni-",
-        "id": 139130,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139130/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "thou (VO)",
-        "word": "/api/v1/word/you-o2s/"
-    },
-    {
         "added": "2014-07-06T21:29:50.706485",
         "annotation": null,
         "entry": "ni-",
@@ -3118,6 +3106,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "thou (genitive)",
         "word": "/api/v1/word/your-sg/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.780696",
+        "annotation": null,
+        "entry": "ni-",
+        "id": 139130,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139130/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "thou (VO)",
+        "word": "/api/v1/word/you-o2s/"
     },
     {
         "added": "2014-07-06T21:29:57.001337",
@@ -3276,18 +3276,6 @@
         "word": "/api/v1/word/to-cut/"
     },
     {
-        "added": "2014-07-06T21:30:04.495131",
-        "annotation": null,
-        "entry": "os-",
-        "id": 145522,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/145522/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(be)",
-        "word": "/api/v1/word/to-be/"
-    },
-    {
         "added": "2014-07-06T21:30:04.637155",
         "annotation": null,
         "entry": "os-",
@@ -3298,6 +3286,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(sit down)",
         "word": "/api/v1/word/to-sit/"
+    },
+    {
+        "added": "2014-07-06T21:30:04.495131",
+        "annotation": null,
+        "entry": "os-",
+        "id": 145522,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/145522/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(be)",
+        "word": "/api/v1/word/to-be/"
     },
     {
         "added": "2014-07-06T21:30:07.096146",
@@ -4008,18 +4008,6 @@
         "word": "/api/v1/word/star/"
     },
     {
-        "added": "2014-07-06T21:30:06.526030",
-        "annotation": null,
-        "entry": "ulum-",
-        "id": 146502,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146502/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "dig",
-        "word": "/api/v1/word/to-dig/"
-    },
-    {
         "added": "2014-07-06T21:30:07.393334",
         "annotation": null,
         "entry": "ulum-",
@@ -4030,6 +4018,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(kill)",
         "word": "/api/v1/word/to-kill/"
+    },
+    {
+        "added": "2014-07-06T21:30:06.526030",
+        "annotation": null,
+        "entry": "ulum-",
+        "id": 146502,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146502/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "dig",
+        "word": "/api/v1/word/to-dig/"
     },
     {
         "added": "2014-07-06T21:30:07.859804",
@@ -4332,18 +4332,6 @@
         "word": "/api/v1/word/i/"
     },
     {
-        "added": "2014-07-06T21:29:50.577305",
-        "annotation": null,
-        "entry": "ya-",
-        "id": 139030,
-        "language": "/api/v1/language/bargam/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139030/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "I (VO)",
-        "word": "/api/v1/word/me/"
-    },
-    {
         "added": "2014-07-06T21:29:50.445743",
         "annotation": null,
         "entry": "ya-",
@@ -4354,6 +4342,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "1st sg poss.",
         "word": "/api/v1/word/my/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.577305",
+        "annotation": null,
+        "entry": "ya-",
+        "id": 139030,
+        "language": "/api/v1/language/bargam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139030/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "I (VO)",
+        "word": "/api/v1/word/me/"
     },
     {
         "added": "2014-07-06T21:30:00.880883",

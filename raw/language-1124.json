@@ -1008,18 +1008,6 @@
         "word": "/api/v1/word/fence/"
     },
     {
-        "added": "2015-03-19T07:05:04.766526",
-        "annotation": null,
-        "entry": "*kau[li]",
-        "id": 209674,
-        "language": "/api/v1/language/proto-madang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/209674/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "areca nut",
-        "word": "/api/v1/word/areca-nut/"
-    },
-    {
         "added": "2015-03-19T07:05:05.355409",
         "annotation": null,
         "entry": "*kau[li]",
@@ -1030,6 +1018,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "lime",
         "word": "/api/v1/word/lime/"
+    },
+    {
+        "added": "2015-03-19T07:05:04.766526",
+        "annotation": null,
+        "entry": "*kau[li]",
+        "id": 209674,
+        "language": "/api/v1/language/proto-madang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209674/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "areca nut",
+        "word": "/api/v1/word/areca-nut/"
     },
     {
         "added": "2015-03-19T07:04:58.161787",
@@ -1476,6 +1476,18 @@
         "word": "/api/v1/word/to-smell/"
     },
     {
+        "added": "2015-03-19T07:04:56.065575",
+        "annotation": null,
+        "entry": "*kut(i,u)",
+        "id": 206981,
+        "language": "/api/v1/language/proto-madang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/206981/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "black",
+        "word": "/api/v1/word/black/"
+    },
+    {
         "added": "2015-03-19T07:05:05.017011",
         "annotation": null,
         "entry": "*kut(i,u)",
@@ -1488,13 +1500,13 @@
         "word": "/api/v1/word/heart/"
     },
     {
-        "added": "2015-03-19T07:04:56.065575",
+        "added": "2015-03-19T07:04:55.432508",
         "annotation": null,
-        "entry": "*kut(i,u)",
-        "id": 206981,
+        "entry": "*kutuma",
+        "id": 206771,
         "language": "/api/v1/language/proto-madang/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/206981/",
+        "resource_uri": "/api/v1/lexicon/206771/",
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "black",
         "word": "/api/v1/word/black/"
@@ -1510,18 +1522,6 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "night",
         "word": "/api/v1/word/night/"
-    },
-    {
-        "added": "2015-03-19T07:04:55.432508",
-        "annotation": null,
-        "entry": "*kutuma",
-        "id": 206771,
-        "language": "/api/v1/language/proto-madang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/206771/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "black",
-        "word": "/api/v1/word/black/"
     },
     {
         "added": "2015-04-27T22:30:49.001668",
@@ -1728,18 +1728,6 @@
         "word": "/api/v1/word/mountain/"
     },
     {
-        "added": "2015-03-19T07:04:58.866942",
-        "annotation": null,
-        "entry": "*ma\u014bgam",
-        "id": 207830,
-        "language": "/api/v1/language/proto-madang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/207830/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "mouth",
-        "word": "/api/v1/word/mouth/"
-    },
-    {
         "added": "2015-03-19T07:05:00.399181",
         "annotation": null,
         "entry": "*ma\u014bgam",
@@ -1750,6 +1738,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "chin",
         "word": "/api/v1/word/chin/"
+    },
+    {
+        "added": "2015-03-19T07:04:58.866942",
+        "annotation": null,
+        "entry": "*ma\u014bgam",
+        "id": 207830,
+        "language": "/api/v1/language/proto-madang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207830/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "mouth",
+        "word": "/api/v1/word/mouth/"
     },
     {
         "added": "2015-03-19T07:04:59.887841",
@@ -1956,18 +1956,6 @@
         "word": "/api/v1/word/snake/"
     },
     {
-        "added": "2015-03-19T07:04:59.969930",
-        "annotation": null,
-        "entry": "*na",
-        "id": 208141,
-        "language": "/api/v1/language/proto-madang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/208141/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "2 sing. poss.",
-        "word": "/api/v1/word/your-sg/"
-    },
-    {
         "added": "2015-03-19T07:04:56.177086",
         "annotation": null,
         "entry": "*na",
@@ -1978,6 +1966,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "2sg free",
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2015-03-19T07:04:59.969930",
+        "annotation": null,
+        "entry": "*na",
+        "id": 208141,
+        "language": "/api/v1/language/proto-madang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208141/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "2 sing. poss.",
+        "word": "/api/v1/word/your-sg/"
     },
     {
         "added": "2015-03-19T07:04:58.585667",
@@ -2316,18 +2316,6 @@
         "word": "/api/v1/word/to-blow/"
     },
     {
-        "added": "2015-03-19T07:05:05.212341",
-        "annotation": null,
-        "entry": "*sabata",
-        "id": 209828,
-        "language": "/api/v1/language/proto-madang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/209828/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "saliva",
-        "word": "/api/v1/word/saliva/"
-    },
-    {
         "added": "2015-03-19T07:05:01.614652",
         "annotation": null,
         "entry": "*sabata",
@@ -2338,6 +2326,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "mouth",
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2015-03-19T07:05:05.212341",
+        "annotation": null,
+        "entry": "*sabata",
+        "id": 209828,
+        "language": "/api/v1/language/proto-madang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209828/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "saliva",
+        "word": "/api/v1/word/saliva/"
     },
     {
         "added": "2015-03-19T07:05:04.851145",
@@ -2412,6 +2412,18 @@
         "word": "/api/v1/word/wing/"
     },
     {
+        "added": "2015-03-19T07:05:00.611707",
+        "annotation": null,
+        "entry": "*sibi",
+        "id": 208356,
+        "language": "/api/v1/language/proto-madang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208356/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "dung",
+        "word": "/api/v1/word/faeces/"
+    },
+    {
         "added": "2015-03-19T07:05:05.022702",
         "annotation": null,
         "entry": "*sibi",
@@ -2434,18 +2446,6 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "guts",
         "word": "/api/v1/word/guts/"
-    },
-    {
-        "added": "2015-03-19T07:05:00.611707",
-        "annotation": null,
-        "entry": "*sibi",
-        "id": 208356,
-        "language": "/api/v1/language/proto-madang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/208356/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "dung",
-        "word": "/api/v1/word/faeces/"
     },
     {
         "added": "2015-03-19T07:04:58.371414",
@@ -2532,18 +2532,6 @@
         "word": "/api/v1/word/rat/"
     },
     {
-        "added": "2015-03-19T07:05:03.473606",
-        "annotation": null,
-        "entry": "*sipili",
-        "id": 209278,
-        "language": "/api/v1/language/proto-madang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/209278/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "cane",
-        "word": "/api/v1/word/cane/"
-    },
-    {
         "added": "2015-03-19T07:05:02.789555",
         "annotation": null,
         "entry": "*sipili",
@@ -2554,6 +2542,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "heavy",
         "word": "/api/v1/word/heavy/"
+    },
+    {
+        "added": "2015-03-19T07:05:03.473606",
+        "annotation": null,
+        "entry": "*sipili",
+        "id": 209278,
+        "language": "/api/v1/language/proto-madang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209278/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "cane",
+        "word": "/api/v1/word/cane/"
     },
     {
         "added": "2015-03-19T07:05:00.756182",

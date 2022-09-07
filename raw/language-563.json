@@ -276,18 +276,6 @@
         "word": "/api/v1/word/belly/"
     },
     {
-        "added": "2013-11-29T19:34:49.860320",
-        "annotation": "",
-        "entry": "auru",
-        "id": 74141,
-        "language": "/api/v1/language/tairora-north/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74141/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/seed/"
-    },
-    {
         "added": "2013-11-29T19:34:42.080437",
         "annotation": "",
         "entry": "auru",
@@ -298,6 +286,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-11-29T19:34:49.860320",
+        "annotation": "",
+        "entry": "auru",
+        "id": 74141,
+        "language": "/api/v1/language/tairora-north/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74141/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/seed/"
     },
     {
         "added": "2013-11-29T19:34:46.336764",
@@ -804,18 +804,6 @@
         "word": "/api/v1/word/small/"
     },
     {
-        "added": "2013-11-29T19:34:44.509562",
-        "annotation": "hear",
-        "entry": "iri",
-        "id": 73177,
-        "language": "/api/v1/language/tairora-north/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73177/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-hear/"
-    },
-    {
         "added": "2013-11-29T19:34:45.630509",
         "annotation": "know",
         "entry": "iri",
@@ -826,6 +814,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-know/"
+    },
+    {
+        "added": "2013-11-29T19:34:44.509562",
+        "annotation": "hear",
+        "entry": "iri",
+        "id": 73177,
+        "language": "/api/v1/language/tairora-north/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73177/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-hear/"
     },
     {
         "added": "2013-11-29T19:34:40.407208",
@@ -972,18 +972,6 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2013-11-29T19:34:42.657842",
-        "annotation": "",
-        "entry": "kauhi",
-        "id": 72835,
-        "language": "/api/v1/language/tairora-north/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72835/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/feather/"
-    },
-    {
         "added": "2013-11-29T19:34:44.109737",
         "annotation": "",
         "entry": "kauhi",
@@ -994,6 +982,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2013-11-29T19:34:42.657842",
+        "annotation": "",
+        "entry": "kauhi",
+        "id": 72835,
+        "language": "/api/v1/language/tairora-north/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72835/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/feather/"
     },
     {
         "added": "2013-11-29T19:34:51.349631",
@@ -1260,18 +1260,6 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
-        "added": "2013-11-29T19:34:49.116362",
-        "annotation": "",
-        "entry": "naare",
-        "id": 74003,
-        "language": "/api/v1/language/tairora-north/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74003/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/red/"
-    },
-    {
         "added": "2013-11-29T19:34:39.906716",
         "annotation": "",
         "entry": "naare",
@@ -1282,6 +1270,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2013-11-29T19:34:49.116362",
+        "annotation": "",
+        "entry": "naare",
+        "id": 74003,
+        "language": "/api/v1/language/tairora-north/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74003/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/red/"
     },
     {
         "added": "2013-11-29T19:34:48.085865",

@@ -408,18 +408,6 @@
         "word": "/api/v1/word/chest/"
     },
     {
-        "added": "2014-07-06T21:29:51.313753",
-        "annotation": null,
-        "entry": "e-",
-        "id": 139394,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139394/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "they (genitive)",
-        "word": "/api/v1/word/their/"
-    },
-    {
         "added": "2014-07-06T21:29:50.921741",
         "annotation": null,
         "entry": "e-",
@@ -430,6 +418,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "he (genitive)",
         "word": "/api/v1/word/his/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.313753",
+        "annotation": null,
+        "entry": "e-",
+        "id": 139394,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139394/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "they (genitive)",
+        "word": "/api/v1/word/their/"
     },
     {
         "added": "2014-07-06T21:30:04.468506",
@@ -888,18 +888,6 @@
         "word": "/api/v1/word/to-turn/"
     },
     {
-        "added": "2014-07-06T21:30:07.074119",
-        "annotation": null,
-        "entry": "gum-",
-        "id": 146780,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146780/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "roast",
-        "word": "/api/v1/word/to-roast/"
-    },
-    {
         "added": "2014-07-06T21:30:07.195041",
         "annotation": null,
         "entry": "gum-",
@@ -910,6 +898,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(burn tr.)",
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.074119",
+        "annotation": null,
+        "entry": "gum-",
+        "id": 146780,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146780/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "roast",
+        "word": "/api/v1/word/to-roast/"
     },
     {
         "added": "2014-07-06T21:30:06.448196",
@@ -1092,18 +1092,6 @@
         "word": "/api/v1/word/cane/"
     },
     {
-        "added": "2014-07-06T21:30:02.653015",
-        "annotation": null,
-        "entry": "h\u025bk\u025bw-",
-        "id": 144712,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/144712/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(work)",
-        "word": "/api/v1/word/work-n/"
-    },
-    {
         "added": "2014-07-06T21:30:07.675259",
         "annotation": null,
         "entry": "h\u025bk\u025bw-",
@@ -1114,6 +1102,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "sharpen (a bow)",
         "word": "/api/v1/word/to-sharpen/"
+    },
+    {
+        "added": "2014-07-06T21:30:02.653015",
+        "annotation": null,
+        "entry": "h\u025bk\u025bw-",
+        "id": 144712,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/144712/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(work)",
+        "word": "/api/v1/word/work-n/"
     },
     {
         "added": "2019-03-19T04:17:08.433063",
@@ -1548,18 +1548,6 @@
         "word": "/api/v1/word/cold/"
     },
     {
-        "added": "2014-07-06T21:30:07.365260",
-        "annotation": null,
-        "entry": "huk-",
-        "id": 146926,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146926/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(fight, hit)",
-        "word": "/api/v1/word/to-fight/"
-    },
-    {
         "added": "2014-07-06T21:30:06.748555",
         "annotation": null,
         "entry": "huk-",
@@ -1584,16 +1572,16 @@
         "word": "/api/v1/word/to-swell/"
     },
     {
-        "added": "2014-07-06T21:30:00.517393",
+        "added": "2014-07-06T21:30:07.365260",
         "annotation": null,
-        "entry": "huku",
-        "id": 143839,
+        "entry": "huk-",
+        "id": 146926,
         "language": "/api/v1/language/musar/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/143839/",
+        "resource_uri": "/api/v1/lexicon/146926/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "loincloth",
-        "word": "/api/v1/word/loincloth/"
+        "source_gloss": "(fight, hit)",
+        "word": "/api/v1/word/to-fight/"
     },
     {
         "added": "2014-07-06T21:29:53.938950",
@@ -1606,6 +1594,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(skin)",
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2014-07-06T21:30:00.517393",
+        "annotation": null,
+        "entry": "huku",
+        "id": 143839,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/143839/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "loincloth",
+        "word": "/api/v1/word/loincloth/"
     },
     {
         "added": "2014-07-06T21:30:03.297882",
@@ -1716,18 +1716,6 @@
         "word": "/api/v1/word/fat/"
     },
     {
-        "added": "2014-07-06T21:29:50.572403",
-        "annotation": null,
-        "entry": "i-",
-        "id": 139028,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139028/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "I (genitive)",
-        "word": "/api/v1/word/my/"
-    },
-    {
         "added": "2014-07-06T21:29:51.510473",
         "annotation": null,
         "entry": "i-",
@@ -1738,6 +1726,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "we (genitive)",
         "word": "/api/v1/word/our/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.572403",
+        "annotation": null,
+        "entry": "i-",
+        "id": 139028,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139028/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "I (genitive)",
+        "word": "/api/v1/word/my/"
     },
     {
         "added": "2014-07-06T21:29:59.026246",
@@ -2796,18 +2796,6 @@
         "word": "/api/v1/word/brains/"
     },
     {
-        "added": "2014-07-06T21:30:07.555896",
-        "annotation": null,
-        "entry": "n-",
-        "id": 147021,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/147021/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(shoot)",
-        "word": "/api/v1/word/to-shoot/"
-    },
-    {
         "added": "2014-07-06T21:29:50.757182",
         "annotation": null,
         "entry": "n-",
@@ -2818,6 +2806,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "2 sing. poss.",
         "word": "/api/v1/word/your-sg/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.555896",
+        "annotation": null,
+        "entry": "n-",
+        "id": 147021,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/147021/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(shoot)",
+        "word": "/api/v1/word/to-shoot/"
     },
     {
         "added": "2014-07-06T21:29:57.097173",
@@ -2856,18 +2856,6 @@
         "word": "/api/v1/word/you/"
     },
     {
-        "added": "2014-07-06T21:29:51.113584",
-        "annotation": null,
-        "entry": "ne-",
-        "id": 139295,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139295/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "ye (genitive)",
-        "word": "/api/v1/word/your-pl/"
-    },
-    {
         "added": "2014-07-06T21:29:50.724271",
         "annotation": null,
         "entry": "ne-",
@@ -2890,6 +2878,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "thou (VO)",
         "word": "/api/v1/word/you-o2s/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.113584",
+        "annotation": null,
+        "entry": "ne-",
+        "id": 139295,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139295/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "ye (genitive)",
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2014-07-06T21:30:01.203907",
@@ -3828,18 +3828,6 @@
         "word": "/api/v1/word/to-plant/"
     },
     {
-        "added": "2014-07-06T21:29:57.155752",
-        "annotation": null,
-        "entry": "un-",
-        "id": 142253,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/142253/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "fill up (water)",
-        "word": "/api/v1/word/to-fill/"
-    },
-    {
         "added": "2014-07-06T21:30:07.249261",
         "annotation": null,
         "entry": "un-",
@@ -3847,6 +3835,18 @@
         "language": "/api/v1/language/musar/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/146867/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "fill up (water)",
+        "word": "/api/v1/word/to-fill/"
+    },
+    {
+        "added": "2014-07-06T21:29:57.155752",
+        "annotation": null,
+        "entry": "un-",
+        "id": 142253,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/142253/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "fill up (water)",
         "word": "/api/v1/word/to-fill/"
@@ -3984,18 +3984,6 @@
         "word": "/api/v1/word/fell-tree/"
     },
     {
-        "added": "2014-07-06T21:29:50.954336",
-        "annotation": null,
-        "entry": "wo",
-        "id": 139216,
-        "language": "/api/v1/language/musar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139216/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "3sg poss.",
-        "word": "/api/v1/word/his/"
-    },
-    {
         "added": "2014-07-06T21:29:50.879227",
         "annotation": null,
         "entry": "wo",
@@ -4006,6 +3994,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(3sg)",
         "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.954336",
+        "annotation": null,
+        "entry": "wo",
+        "id": 139216,
+        "language": "/api/v1/language/musar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139216/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "3sg poss.",
+        "word": "/api/v1/word/his/"
     },
     {
         "added": "2014-07-06T21:30:04.223222",

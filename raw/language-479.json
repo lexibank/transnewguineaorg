@@ -44,7 +44,7 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50759/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
+        "source_gloss": "grandfather, grandchild",
         "word": "/api/v1/word/grandfather/"
     },
     {

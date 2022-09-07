@@ -864,18 +864,6 @@
         "word": "/api/v1/word/hot/"
     },
     {
-        "added": "2014-09-22T03:12:10.356121",
-        "annotation": null,
-        "entry": "fi-",
-        "id": 183659,
-        "language": "/api/v1/language/sop/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183659/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to roast",
-        "word": "/api/v1/word/to-roast/"
-    },
-    {
         "added": "2014-09-22T03:12:10.494134",
         "annotation": null,
         "entry": "fi-",
@@ -886,6 +874,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to burn",
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2014-09-22T03:12:10.356121",
+        "annotation": null,
+        "entry": "fi-",
+        "id": 183659,
+        "language": "/api/v1/language/sop/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183659/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to roast",
+        "word": "/api/v1/word/to-roast/"
     },
     {
         "added": "2014-09-22T03:12:07.452001",
@@ -900,18 +900,6 @@
         "word": "/api/v1/word/near/"
     },
     {
-        "added": "2014-09-22T03:12:09.494396",
-        "annotation": null,
-        "entry": "fis-",
-        "id": 183242,
-        "language": "/api/v1/language/sop/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183242/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to bathe",
-        "word": "/api/v1/word/to-bathe/"
-    },
-    {
         "added": "2014-09-22T03:12:09.553282",
         "annotation": null,
         "entry": "fis-",
@@ -922,6 +910,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to wash (tr)",
         "word": "/api/v1/word/to-wash/"
+    },
+    {
+        "added": "2014-09-22T03:12:09.494396",
+        "annotation": null,
+        "entry": "fis-",
+        "id": 183242,
+        "language": "/api/v1/language/sop/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183242/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to bathe",
+        "word": "/api/v1/word/to-bathe/"
     },
     {
         "added": "2014-09-22T03:12:09.734501",
@@ -2412,18 +2412,6 @@
         "word": "/api/v1/word/fruit/"
     },
     {
-        "added": "2014-09-22T03:12:05.914313",
-        "annotation": null,
-        "entry": "m\u028cga",
-        "id": 181615,
-        "language": "/api/v1/language/sop/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/181615/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "sharp",
-        "word": "/api/v1/word/sharp/"
-    },
-    {
         "added": "2014-09-22T03:11:55.894480",
         "annotation": null,
         "entry": "m\u028cga",
@@ -2434,6 +2422,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "tooth",
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2014-09-22T03:12:05.914313",
+        "annotation": null,
+        "entry": "m\u028cga",
+        "id": 181615,
+        "language": "/api/v1/language/sop/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/181615/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "sharp",
+        "word": "/api/v1/word/sharp/"
     },
     {
         "added": "2014-09-22T03:11:59.123241",
@@ -2988,18 +2988,6 @@
         "word": "/api/v1/word/girl/"
     },
     {
-        "added": "2014-09-22T03:11:54.333500",
-        "annotation": null,
-        "entry": "nu",
-        "id": 176153,
-        "language": "/api/v1/language/sop/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176153/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "3sg free",
-        "word": "/api/v1/word/he-she/"
-    },
-    {
         "added": "2014-09-22T03:11:55.058379",
         "annotation": null,
         "entry": "nu",
@@ -3012,16 +3000,16 @@
         "word": "/api/v1/word/they/"
     },
     {
-        "added": "2014-09-22T03:11:54.560429",
+        "added": "2014-09-22T03:11:54.333500",
         "annotation": null,
-        "entry": "nu-",
-        "id": 176254,
+        "entry": "nu",
+        "id": 176153,
         "language": "/api/v1/language/sop/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/176254/",
+        "resource_uri": "/api/v1/lexicon/176153/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "3sg poss",
-        "word": "/api/v1/word/his/"
+        "source_gloss": "3sg free",
+        "word": "/api/v1/word/he-she/"
     },
     {
         "added": "2014-09-22T03:11:55.260464",
@@ -3034,6 +3022,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "3pl poss",
         "word": "/api/v1/word/theirs/"
+    },
+    {
+        "added": "2014-09-22T03:11:54.560429",
+        "annotation": null,
+        "entry": "nu-",
+        "id": 176254,
+        "language": "/api/v1/language/sop/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176254/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "3sg poss",
+        "word": "/api/v1/word/his/"
     },
     {
         "added": "2014-09-22T03:12:11.524646",

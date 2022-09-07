@@ -48,18 +48,6 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2013-06-19T22:25:59.734655",
-        "annotation": "",
-        "entry": "ainso",
-        "id": 28279,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28279/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/skin/"
-    },
-    {
         "added": "2013-11-19T03:56:28.361450",
         "annotation": "skin",
         "entry": "ainso",
@@ -72,16 +60,16 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-11-19T03:56:25.530601",
-        "annotation": "sago",
-        "entry": "ami",
-        "id": 53468,
+        "added": "2013-06-19T22:25:59.734655",
+        "annotation": "",
+        "entry": "ainso",
+        "id": 28279,
         "language": "/api/v1/language/zia-mawai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/53468/",
-        "source": "/api/v1/source/smallhorn-2011/",
+        "resource_uri": "/api/v1/lexicon/28279/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
-        "word": "/api/v1/word/sago/"
+        "word": "/api/v1/word/skin/"
     },
     {
         "added": "2013-11-19T03:55:56.936893",
@@ -108,6 +96,18 @@
         "word": "/api/v1/word/breast/"
     },
     {
+        "added": "2013-11-19T03:56:25.530601",
+        "annotation": "sago",
+        "entry": "ami",
+        "id": 53468,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53468/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sago/"
+    },
+    {
         "added": "2013-06-19T22:26:00.745947",
         "annotation": "",
         "entry": "ami",
@@ -132,7 +132,7 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2013-11-19T03:56:10.073725",
+        "added": "2022-07-25T22:54:43.061218",
         "annotation": "grandfather",
         "entry": "apie",
         "id": 50766,
@@ -140,20 +140,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50766/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
-    },
-    {
-        "added": "2013-06-19T22:26:00.881925",
-        "annotation": "",
-        "entry": "arasa",
-        "id": 28300,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28300/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/star/"
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandfather/"
     },
     {
         "added": "2013-11-19T03:56:30.716474",
@@ -164,6 +152,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/54424/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2013-06-19T22:26:00.881925",
+        "annotation": "",
+        "entry": "arasa",
+        "id": 28300,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28300/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/star/"
     },
@@ -324,18 +324,6 @@
         "word": "/api/v1/word/go/"
     },
     {
-        "added": "2014-07-30T23:28:30.421248",
-        "annotation": null,
-        "entry": "be",
-        "id": 155547,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155547/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "mouth",
-        "word": "/api/v1/word/mouth/"
-    },
-    {
         "added": "2013-06-19T22:25:59.660467",
         "annotation": "",
         "entry": "be",
@@ -357,6 +345,18 @@
         "resource_uri": "/api/v1/lexicon/52300/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
+        "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2014-07-30T23:28:30.421248",
+        "annotation": null,
+        "entry": "be",
+        "id": 155547,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155547/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "mouth",
         "word": "/api/v1/word/mouth/"
     },
     {
@@ -540,18 +540,6 @@
         "word": "/api/v1/word/mosquito/"
     },
     {
-        "added": "2013-11-19T03:56:35.025244",
-        "annotation": "tooth",
-        "entry": "di",
-        "id": 55227,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/55227/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2013-06-19T22:26:00.736258",
         "annotation": "",
         "entry": "di",
@@ -573,6 +561,18 @@
         "resource_uri": "/api/v1/lexicon/157399/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2013-11-19T03:56:35.025244",
+        "annotation": "tooth",
+        "entry": "di",
+        "id": 55227,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/55227/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/tooth/"
     },
     {
@@ -624,18 +624,6 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2013-11-19T03:56:05.038774",
-        "annotation": "eye",
-        "entry": "diti",
-        "id": 49868,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49868/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2013-06-19T22:25:59.706174",
         "annotation": "",
         "entry": "diti",
@@ -644,6 +632,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28276/",
         "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2013-11-19T03:56:05.038774",
+        "annotation": "eye",
+        "entry": "diti",
+        "id": 49868,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/49868/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
@@ -684,18 +684,6 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2013-06-19T22:25:59.889622",
-        "annotation": "",
-        "entry": "emo",
-        "id": 28281,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28281/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/man/"
-    },
-    {
         "added": "2013-11-19T03:56:17.011759",
         "annotation": "man",
         "entry": "emo",
@@ -704,6 +692,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/51944/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2013-06-19T22:25:59.889622",
+        "annotation": "",
+        "entry": "emo",
+        "id": 28281,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28281/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
     },
@@ -804,16 +804,16 @@
         "word": "/api/v1/word/to-talk/"
     },
     {
-        "added": "2013-11-19T03:56:30.169011",
-        "annotation": "spear",
+        "added": "2013-11-19T03:56:14.141100",
+        "annotation": "leaf",
         "entry": "gi",
-        "id": 54324,
+        "id": 51492,
         "language": "/api/v1/language/zia-mawai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/54324/",
+        "resource_uri": "/api/v1/lexicon/51492/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/spear-n/"
+        "word": "/api/v1/word/leaf/"
     },
     {
         "added": "2013-06-19T22:26:01.031043",
@@ -828,16 +828,16 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2013-11-19T03:56:14.141100",
-        "annotation": "leaf",
+        "added": "2013-11-19T03:56:30.169011",
+        "annotation": "spear",
         "entry": "gi",
-        "id": 51492,
+        "id": 54324,
         "language": "/api/v1/language/zia-mawai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/51492/",
+        "resource_uri": "/api/v1/lexicon/54324/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/leaf/"
+        "word": "/api/v1/word/spear-n/"
     },
     {
         "added": "2013-11-19T03:56:02.218080",
@@ -936,18 +936,6 @@
         "word": "/api/v1/word/to-burn/"
     },
     {
-        "added": "2013-06-19T22:25:59.692271",
-        "annotation": "",
-        "entry": "heno",
-        "id": 28275,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28275/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/nose/"
-    },
-    {
         "added": "2014-07-30T23:28:29.792623",
         "annotation": null,
         "entry": "heno",
@@ -972,16 +960,16 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2013-11-19T03:55:55.818161",
-        "annotation": "bone",
-        "entry": "hetu",
-        "id": 48231,
+        "added": "2013-06-19T22:25:59.692271",
+        "annotation": "",
+        "entry": "heno",
+        "id": 28275,
         "language": "/api/v1/language/zia-mawai/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/48231/",
-        "source": "/api/v1/source/smallhorn-2011/",
+        "resource_uri": "/api/v1/lexicon/28275/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
-        "word": "/api/v1/word/bone/"
+        "word": "/api/v1/word/nose/"
     },
     {
         "added": "2014-07-30T23:28:29.120790",
@@ -993,6 +981,18 @@
         "resource_uri": "/api/v1/lexicon/155143/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2013-11-19T03:55:55.818161",
+        "annotation": "bone",
+        "entry": "hetu",
+        "id": 48231,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48231/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/bone/"
     },
     {
@@ -1116,18 +1116,6 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2013-11-19T03:56:17.491987",
-        "annotation": "moon",
-        "entry": "ino",
-        "id": 52033,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/52033/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/moon/"
-    },
-    {
         "added": "2013-06-19T22:26:00.870550",
         "annotation": "",
         "entry": "ino",
@@ -1136,6 +1124,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28299/",
         "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2013-11-19T03:56:17.491987",
+        "annotation": "moon",
+        "entry": "ino",
+        "id": 52033,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/52033/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
     },
@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2013-06-19T22:26:00.325508",
-        "annotation": "",
-        "entry": "kaka",
-        "id": 28288,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28288/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/small/"
-    },
-    {
         "added": "2013-11-19T03:56:29.255159",
         "annotation": "small",
         "entry": "kaka",
@@ -1232,6 +1220,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/54153/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/small/"
+    },
+    {
+        "added": "2013-06-19T22:26:00.325508",
+        "annotation": "",
+        "entry": "kaka",
+        "id": 28288,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28288/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
     },
@@ -1488,18 +1488,6 @@
         "word": "/api/v1/word/village/"
     },
     {
-        "added": "2013-06-19T22:26:00.111505",
-        "annotation": "",
-        "entry": "ni",
-        "id": 28283,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28283/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2014-07-30T23:28:36.449922",
         "annotation": null,
         "entry": "ni",
@@ -1520,6 +1508,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/47988/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2013-06-19T22:26:00.111505",
+        "annotation": "",
+        "entry": "ni",
+        "id": 28283,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28283/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
     },
@@ -1584,18 +1584,6 @@
         "word": "/api/v1/word/food/"
     },
     {
-        "added": "2013-11-19T03:56:27.489082",
-        "annotation": "sibling to opposite sex",
-        "entry": "nu",
-        "id": 53823,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53823/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sibling-opposite-sex/"
-    },
-    {
         "added": "2014-07-30T23:28:39.648509",
         "annotation": null,
         "entry": "nu",
@@ -1606,6 +1594,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "he-she",
         "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2013-11-19T03:56:27.489082",
+        "annotation": "sibling to opposite sex",
+        "entry": "nu",
+        "id": 53823,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53823/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sibling-opposite-sex/"
     },
     {
         "added": "2013-11-19T03:56:37.602461",
@@ -1620,18 +1620,6 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2013-06-19T22:25:59.724536",
-        "annotation": "",
-        "entry": "oti",
-        "id": 28278,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28278/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/belly/"
-    },
-    {
         "added": "2013-11-19T03:55:53.737883",
         "annotation": "belly",
         "entry": "oti",
@@ -1640,6 +1628,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/47852/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2013-06-19T22:25:59.724536",
+        "annotation": "",
+        "entry": "oti",
+        "id": 28278,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28278/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/belly/"
     },
@@ -1654,6 +1654,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/co-wife/"
+    },
+    {
+        "added": "2014-07-30T23:28:40.032480",
+        "annotation": null,
+        "entry": "ou",
+        "id": 158551,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/158551/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2013-06-19T22:26:00.930527",
@@ -1677,18 +1689,6 @@
         "resource_uri": "/api/v1/lexicon/55702/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/water/"
-    },
-    {
-        "added": "2014-07-30T23:28:40.032480",
-        "annotation": null,
-        "entry": "ou",
-        "id": 158551,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/158551/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "water",
         "word": "/api/v1/word/water/"
     },
     {
@@ -1812,18 +1812,6 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-11-19T03:56:14.807806",
-        "annotation": "foot",
-        "entry": "te",
-        "id": 51611,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/51611/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/foot/"
-    },
-    {
         "added": "2013-06-19T22:26:00.827744",
         "annotation": "foot",
         "entry": "te",
@@ -1833,6 +1821,18 @@
         "resource_uri": "/api/v1/lexicon/28297/",
         "source": "/api/v1/source/wilson-1969/",
         "source_gloss": "foot",
+        "word": "/api/v1/word/foot/"
+    },
+    {
+        "added": "2013-11-19T03:56:14.807806",
+        "annotation": "foot",
+        "entry": "te",
+        "id": 51611,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/51611/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/foot/"
     },
     {
@@ -1872,18 +1872,6 @@
         "word": "/api/v1/word/belly/"
     },
     {
-        "added": "2013-06-19T22:25:59.715550",
-        "annotation": "",
-        "entry": "tumo",
-        "id": 28277,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28277/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/neck/"
-    },
-    {
         "added": "2013-11-19T03:56:19.506494",
         "annotation": "neck",
         "entry": "tumo",
@@ -1894,6 +1882,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/nape/"
+    },
+    {
+        "added": "2013-06-19T22:25:59.715550",
+        "annotation": "",
+        "entry": "tumo",
+        "id": 28277,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28277/",
+        "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/neck/"
     },
     {
         "added": "2013-11-19T03:56:00.051093",
@@ -1944,18 +1944,6 @@
         "word": "/api/v1/word/rain/"
     },
     {
-        "added": "2013-11-19T03:56:23.999775",
-        "annotation": "rain",
-        "entry": "wa",
-        "id": 53194,
-        "language": "/api/v1/language/zia-mawai/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53194/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-rain/"
-    },
-    {
         "added": "2013-06-19T22:26:00.902407",
         "annotation": "rain",
         "entry": "wa",
@@ -1966,6 +1954,18 @@
         "source": "/api/v1/source/wilson-1969/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2013-11-19T03:56:23.999775",
+        "annotation": "rain",
+        "entry": "wa",
+        "id": 53194,
+        "language": "/api/v1/language/zia-mawai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53194/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-rain/"
     },
     {
         "added": "2013-11-19T03:55:58.198103",

@@ -1488,18 +1488,6 @@
         "word": "/api/v1/word/to-cut/"
     },
     {
-        "added": "2014-09-22T03:12:00.503460",
-        "annotation": null,
-        "entry": "hou",
-        "id": 179046,
-        "language": "/api/v1/language/sinsauru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/179046/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "yam",
-        "word": "/api/v1/word/yam/"
-    },
-    {
         "added": "2014-09-22T03:12:02.641721",
         "annotation": null,
         "entry": "hou",
@@ -1522,6 +1510,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "few",
         "word": "/api/v1/word/few/"
+    },
+    {
+        "added": "2014-09-22T03:12:00.503460",
+        "annotation": null,
+        "entry": "hou",
+        "id": 179046,
+        "language": "/api/v1/language/sinsauru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/179046/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "yam",
+        "word": "/api/v1/word/yam/"
     },
     {
         "added": "2014-09-22T03:12:06.107225",
@@ -1860,18 +1860,6 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2014-09-22T03:12:10.990958",
-        "annotation": null,
-        "entry": "kili-",
-        "id": 183955,
-        "language": "/api/v1/language/sinsauru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183955/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to sharpen",
-        "word": "/api/v1/word/to-sharpen/"
-    },
-    {
         "added": "2014-09-22T03:12:11.398475",
         "annotation": null,
         "entry": "kili-",
@@ -1882,6 +1870,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to scratch",
         "word": "/api/v1/word/to-scratch/"
+    },
+    {
+        "added": "2014-09-22T03:12:10.990958",
+        "annotation": null,
+        "entry": "kili-",
+        "id": 183955,
+        "language": "/api/v1/language/sinsauru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183955/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to sharpen",
+        "word": "/api/v1/word/to-sharpen/"
     },
     {
         "added": "2014-09-22T03:12:01.089982",
@@ -2664,18 +2664,6 @@
         "word": "/api/v1/word/chicken-tame/"
     },
     {
-        "added": "2014-09-22T03:11:53.704542",
-        "annotation": null,
-        "entry": "nonu",
-        "id": 175841,
-        "language": "/api/v1/language/sinsauru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/175841/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "young-same-sex-sibling",
-        "word": "/api/v1/word/sibling-same-sex-younger/"
-    },
-    {
         "added": "2014-09-22T03:11:53.821067",
         "annotation": null,
         "entry": "nonu",
@@ -2686,6 +2674,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "sibling-different-sex-younger",
         "word": "/api/v1/word/sibling-opposite-sex-younger/"
+    },
+    {
+        "added": "2014-09-22T03:11:53.704542",
+        "annotation": null,
+        "entry": "nonu",
+        "id": 175841,
+        "language": "/api/v1/language/sinsauru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/175841/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "young-same-sex-sibling",
+        "word": "/api/v1/word/sibling-same-sex-younger/"
     },
     {
         "added": "2014-09-22T03:11:54.299384",

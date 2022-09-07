@@ -1116,18 +1116,6 @@
         "word": "/api/v1/word/sibling-same-sex-older/"
     },
     {
-        "added": "2018-05-24T02:44:34.575902",
-        "annotation": "",
-        "entry": "niva",
-        "id": 258755,
-        "language": "/api/v1/language/mulaha/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258755/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "butterfly",
-        "word": "/api/v1/word/butterfly/"
-    },
-    {
         "added": "2018-05-24T02:44:34.642108",
         "annotation": "",
         "entry": "niva",
@@ -1138,6 +1126,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "house",
         "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2018-05-24T02:44:34.575902",
+        "annotation": "",
+        "entry": "niva",
+        "id": 258755,
+        "language": "/api/v1/language/mulaha/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258755/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "butterfly",
+        "word": "/api/v1/word/butterfly/"
     },
     {
         "added": "2018-05-24T02:44:33.213320",
@@ -1584,18 +1584,6 @@
         "word": "/api/v1/word/good/"
     },
     {
-        "added": "2018-05-24T02:44:23.647381",
-        "annotation": "",
-        "entry": "veki",
-        "id": 257346,
-        "language": "/api/v1/language/mulaha/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257346/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "husband",
-        "word": "/api/v1/word/husband/"
-    },
-    {
         "added": "2018-05-24T02:44:23.750703",
         "annotation": "",
         "entry": "veki",
@@ -1606,6 +1594,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "wife",
         "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2018-05-24T02:44:23.647381",
+        "annotation": "",
+        "entry": "veki",
+        "id": 257346,
+        "language": "/api/v1/language/mulaha/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257346/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "husband",
+        "word": "/api/v1/word/husband/"
     },
     {
         "added": "2018-05-24T02:44:30.723039",

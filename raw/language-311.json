@@ -696,18 +696,6 @@
         "word": "/api/v1/word/sun/"
     },
     {
-        "added": "2013-06-13T20:48:51.722530",
-        "annotation": "",
-        "entry": "mola",
-        "id": 26332,
-        "language": "/api/v1/language/dani-lower-grand-valley-hitigima/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/26332/",
-        "source": "/api/v1/source/bromley-1967/",
-        "source_gloss": null,
-        "word": "/api/v1/word/red/"
-    },
-    {
         "added": "2013-06-13T20:48:52.050213",
         "annotation": "",
         "entry": "mola",
@@ -732,6 +720,18 @@
         "word": "/api/v1/word/yellow/"
     },
     {
+        "added": "2013-06-13T20:48:51.722530",
+        "annotation": "",
+        "entry": "mola",
+        "id": 26332,
+        "language": "/api/v1/language/dani-lower-grand-valley-hitigima/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/26332/",
+        "source": "/api/v1/source/bromley-1967/",
+        "source_gloss": null,
+        "word": "/api/v1/word/red/"
+    },
+    {
         "added": "2013-06-13T20:48:51.713119",
         "annotation": "rain",
         "entry": "moso",
@@ -744,18 +744,6 @@
         "word": "/api/v1/word/rain/"
     },
     {
-        "added": "2013-06-27T19:10:55.985176",
-        "annotation": null,
-        "entry": "muli",
-        "id": 30591,
-        "language": "/api/v1/language/dani-lower-grand-valley-hitigima/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/30591/",
-        "source": "/api/v1/source/bromley-1967/",
-        "source_gloss": null,
-        "word": "/api/v1/word/green/"
-    },
-    {
         "added": "2013-06-13T20:35:29.526477",
         "annotation": "",
         "entry": "muli",
@@ -766,6 +754,18 @@
         "source": "/api/v1/source/bromley-1967/",
         "source_gloss": null,
         "word": "/api/v1/word/black/"
+    },
+    {
+        "added": "2013-06-27T19:10:55.985176",
+        "annotation": null,
+        "entry": "muli",
+        "id": 30591,
+        "language": "/api/v1/language/dani-lower-grand-valley-hitigima/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/30591/",
+        "source": "/api/v1/source/bromley-1967/",
+        "source_gloss": null,
+        "word": "/api/v1/word/green/"
     },
     {
         "added": "2013-06-13T20:48:51.980331",

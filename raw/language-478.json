@@ -128,7 +128,7 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50761/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
+        "source_gloss": "grandfather, grandchild",
         "word": "/api/v1/word/grandfather/"
     },
     {
@@ -140,7 +140,7 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50760/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
+        "source_gloss": "grandfather, grandchild",
         "word": "/api/v1/word/grandfather/"
     },
     {
@@ -960,16 +960,16 @@
         "word": "/api/v1/word/right-correct/"
     },
     {
-        "added": "2013-11-19T03:56:26.510562",
-        "annotation": "fruit of tree",
+        "added": "2013-11-19T03:56:24.701478",
+        "annotation": "right hand",
         "entry": "'be",
-        "id": 53647,
+        "id": 53319,
         "language": "/api/v1/language/baruga-tafota/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/53647/",
+        "resource_uri": "/api/v1/lexicon/53319/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/seed/"
+        "word": "/api/v1/word/right-hand/"
     },
     {
         "added": "2013-11-19T03:56:19.188761",
@@ -984,16 +984,16 @@
         "word": "/api/v1/word/mouth/"
     },
     {
-        "added": "2013-11-19T03:56:24.701478",
-        "annotation": "right hand",
+        "added": "2013-11-19T03:56:26.510562",
+        "annotation": "fruit of tree",
         "entry": "'be",
-        "id": 53319,
+        "id": 53647,
         "language": "/api/v1/language/baruga-tafota/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/53319/",
+        "resource_uri": "/api/v1/lexicon/53647/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/right-hand/"
+        "word": "/api/v1/word/seed/"
     },
     {
         "added": "2013-11-19T03:56:08.971160",
@@ -1632,18 +1632,6 @@
         "word": "/api/v1/word/mosquito/"
     },
     {
-        "added": "2013-11-19T03:55:54.711264",
-        "annotation": "generic term for bird",
-        "entry": "di",
-        "id": 48034,
-        "language": "/api/v1/language/baruga-tafota/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48034/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-11-19T03:56:35.220893",
         "annotation": "tooth",
         "entry": "di",
@@ -1656,13 +1644,13 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2013-11-19T03:55:54.695984",
-        "annotation": "bird",
-        "entry": "'di",
-        "id": 48031,
+        "added": "2013-11-19T03:55:54.711264",
+        "annotation": "generic term for bird",
+        "entry": "di",
+        "id": 48034,
         "language": "/api/v1/language/baruga-tafota/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/48031/",
+        "resource_uri": "/api/v1/lexicon/48034/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
@@ -1678,6 +1666,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2013-11-19T03:55:54.695984",
+        "annotation": "bird",
+        "entry": "'di",
+        "id": 48031,
+        "language": "/api/v1/language/baruga-tafota/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48031/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2013-11-19T03:56:38.762450",
@@ -1764,18 +1764,6 @@
         "word": "/api/v1/word/smoke/"
     },
     {
-        "added": "2013-11-19T03:56:02.645690",
-        "annotation": "dip up, ladle up (often done with the container the substance will remain in)",
-        "entry": "d\u0129bu",
-        "id": 49434,
-        "language": "/api/v1/language/baruga-tafota/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49434/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/draw-water-carry/"
-    },
-    {
         "added": "2013-11-19T03:55:58.978474",
         "annotation": "cheek",
         "entry": "d\u0129bu",
@@ -1786,6 +1774,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/cheek/"
+    },
+    {
+        "added": "2013-11-19T03:56:02.645690",
+        "annotation": "dip up, ladle up (often done with the container the substance will remain in)",
+        "entry": "d\u0129bu",
+        "id": 49434,
+        "language": "/api/v1/language/baruga-tafota/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/49434/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/draw-water-carry/"
     },
     {
         "added": "2013-11-19T03:55:58.973229",
@@ -1812,18 +1812,6 @@
         "word": "/api/v1/word/pig/"
     },
     {
-        "added": "2013-11-19T03:56:35.215885",
-        "annotation": "tooth",
-        "entry": "dii",
-        "id": 55264,
-        "language": "/api/v1/language/baruga-tafota/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/55264/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2013-11-19T03:56:05.180825",
         "annotation": "eye",
         "entry": "dii",
@@ -1846,6 +1834,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2013-11-19T03:56:35.215885",
+        "annotation": "tooth",
+        "entry": "dii",
+        "id": 55264,
+        "language": "/api/v1/language/baruga-tafota/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/55264/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
     },
     {
         "added": "2013-11-19T03:56:34.624602",
@@ -2364,18 +2364,6 @@
         "word": "/api/v1/word/woman/"
     },
     {
-        "added": "2013-11-19T03:56:39.510623",
-        "annotation": "wrap around",
-        "entry": "e\u03b2i",
-        "id": 56042,
-        "language": "/api/v1/language/baruga-tafota/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/56042/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/wrap/"
-    },
-    {
         "added": "2013-11-19T03:56:29.018277",
         "annotation": "sleep",
         "entry": "e\u03b2i",
@@ -2386,6 +2374,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2013-11-19T03:56:39.510623",
+        "annotation": "wrap around",
+        "entry": "e\u03b2i",
+        "id": 56042,
+        "language": "/api/v1/language/baruga-tafota/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/56042/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/wrap/"
     },
     {
         "added": "2013-11-19T03:56:27.294476",
@@ -2724,7 +2724,7 @@
         "word": "/api/v1/word/to-see/"
     },
     {
-        "added": "2013-11-19T03:56:36.484895",
+        "added": "2022-07-25T22:17:16.743679",
         "annotation": "growing crown of tree; canoe prow",
         "entry": "g\u00f5bu",
         "id": 55497,
@@ -2733,10 +2733,10 @@
         "resource_uri": "/api/v1/lexicon/55497/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/upper-part-of-tree/"
+        "word": "/api/v1/word/tree-top/"
     },
     {
-        "added": "2013-11-19T03:56:36.490174",
+        "added": "2022-07-25T22:17:29.602813",
         "annotation": "the growing end",
         "entry": "g\u00f5'bu",
         "id": 55498,
@@ -2745,7 +2745,7 @@
         "resource_uri": "/api/v1/lexicon/55498/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/upper-part-of-tree/"
+        "word": "/api/v1/word/tree-top/"
     },
     {
         "added": "2013-11-19T03:56:35.307777",
@@ -5952,18 +5952,6 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2013-11-19T03:56:23.789514",
-        "annotation": "overhang of roof, terminal points of roof rafters",
-        "entry": "sisi",
-        "id": 53155,
-        "language": "/api/v1/language/baruga-tafota/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53155/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/rafter/"
-    },
-    {
         "added": "2013-11-19T03:56:10.215307",
         "annotation": "grasshopper",
         "entry": "sisi",
@@ -5974,6 +5962,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/grasshopper/"
+    },
+    {
+        "added": "2013-11-19T03:56:23.789514",
+        "annotation": "overhang of roof, terminal points of roof rafters",
+        "entry": "sisi",
+        "id": 53155,
+        "language": "/api/v1/language/baruga-tafota/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53155/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rafter/"
     },
     {
         "added": "2013-11-19T03:56:10.210064",

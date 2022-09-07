@@ -120,18 +120,6 @@
         "word": "/api/v1/word/to-understand/"
     },
     {
-        "added": "2018-05-24T02:44:43.104574",
-        "annotation": "",
-        "entry": "ai-",
-        "id": 259911,
-        "language": "/api/v1/language/doromu-lofaika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259911/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "bury",
-        "word": "/api/v1/word/to-bury/"
-    },
-    {
         "added": "2018-05-24T02:44:40.956951",
         "annotation": "",
         "entry": "ai-",
@@ -142,6 +130,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "put down (on ground)",
         "word": "/api/v1/word/to-put/"
+    },
+    {
+        "added": "2018-05-24T02:44:43.104574",
+        "annotation": "",
+        "entry": "ai-",
+        "id": 259911,
+        "language": "/api/v1/language/doromu-lofaika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259911/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "bury",
+        "word": "/api/v1/word/to-bury/"
     },
     {
         "added": "2018-05-24T02:44:41.461944",
@@ -1620,18 +1620,6 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2018-05-24T02:44:40.579303",
-        "annotation": "",
-        "entry": "ne-",
-        "id": 259539,
-        "language": "/api/v1/language/doromu-lofaika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259539/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "go",
-        "word": "/api/v1/word/go/"
-    },
-    {
         "added": "2018-05-24T02:44:38.191869",
         "annotation": "",
         "entry": "ne-",
@@ -1642,6 +1630,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "walk",
         "word": "/api/v1/word/to-walk/"
+    },
+    {
+        "added": "2018-05-24T02:44:40.579303",
+        "annotation": "",
+        "entry": "ne-",
+        "id": 259539,
+        "language": "/api/v1/language/doromu-lofaika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259539/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "go",
+        "word": "/api/v1/word/go/"
     },
     {
         "added": "2018-05-24T02:44:39.401275",

@@ -84,18 +84,6 @@
         "word": "/api/v1/word/long/"
     },
     {
-        "added": "2013-11-04T02:54:00.796173",
-        "annotation": "",
-        "entry": "b\u025b\u014b",
-        "id": 35282,
-        "language": "/api/v1/language/alor-kalabahi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35282/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/big/"
-    },
-    {
         "added": "2013-11-04T02:54:00.983903",
         "annotation": "fat",
         "entry": "b\u025b\u014b",
@@ -106,6 +94,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": "fat",
         "word": "/api/v1/word/fat/"
+    },
+    {
+        "added": "2013-11-04T02:54:00.796173",
+        "annotation": "",
+        "entry": "b\u025b\u014b",
+        "id": 35282,
+        "language": "/api/v1/language/alor-kalabahi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/35282/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/big/"
     },
     {
         "added": "2013-11-04T02:54:00.497451",
@@ -708,18 +708,6 @@
         "word": "/api/v1/word/to-go/"
     },
     {
-        "added": "2013-11-04T02:54:01.049485",
-        "annotation": "",
-        "entry": "n'ihi",
-        "id": 35306,
-        "language": "/api/v1/language/alor-kalabahi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/35306/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/new/"
-    },
-    {
         "added": "2013-11-04T02:54:00.052388",
         "annotation": "",
         "entry": "n'ihi",
@@ -730,6 +718,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/mucus/"
+    },
+    {
+        "added": "2013-11-04T02:54:01.049485",
+        "annotation": "",
+        "entry": "n'ihi",
+        "id": 35306,
+        "language": "/api/v1/language/alor-kalabahi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/35306/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/new/"
     },
     {
         "added": "2013-11-04T02:54:00.467010",

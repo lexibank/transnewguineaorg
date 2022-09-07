@@ -264,18 +264,6 @@
         "word": "/api/v1/word/sweet-potato/"
     },
     {
-        "added": "2014-09-22T03:11:57.034715",
-        "annotation": null,
-        "entry": "b\u028cku\u014b",
-        "id": 177335,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/177335/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "knee",
-        "word": "/api/v1/word/knee/"
-    },
-    {
         "added": "2014-09-22T03:11:56.450524",
         "annotation": null,
         "entry": "b\u028cku\u014b",
@@ -286,6 +274,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "elbow",
         "word": "/api/v1/word/elbow/"
+    },
+    {
+        "added": "2014-09-22T03:11:57.034715",
+        "annotation": null,
+        "entry": "b\u028cku\u014b",
+        "id": 177335,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/177335/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "knee",
+        "word": "/api/v1/word/knee/"
     },
     {
         "added": "2014-09-22T03:12:11.190343",
@@ -1380,18 +1380,6 @@
         "word": "/api/v1/word/white/"
     },
     {
-        "added": "2014-09-22T03:12:09.222927",
-        "annotation": null,
-        "entry": "ko-",
-        "id": 183109,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183109/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to talk (tr)",
-        "word": "/api/v1/word/to-talk/"
-    },
-    {
         "added": "2014-09-22T03:12:09.161792",
         "annotation": null,
         "entry": "ko-",
@@ -1401,6 +1389,18 @@
         "resource_uri": "/api/v1/lexicon/183079/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to talk (itr)",
+        "word": "/api/v1/word/to-talk/"
+    },
+    {
+        "added": "2014-09-22T03:12:09.222927",
+        "annotation": null,
+        "entry": "ko-",
+        "id": 183109,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183109/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to talk (tr)",
         "word": "/api/v1/word/to-talk/"
     },
     {
@@ -2820,18 +2820,6 @@
         "word": "/api/v1/word/vulva/"
     },
     {
-        "added": "2014-09-22T03:12:09.421234",
-        "annotation": null,
-        "entry": "si-",
-        "id": 183206,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183206/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to hear",
-        "word": "/api/v1/word/to-hear/"
-    },
-    {
         "added": "2014-09-22T03:12:09.048501",
         "annotation": null,
         "entry": "si-",
@@ -2842,6 +2830,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to give",
         "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2014-09-22T03:12:09.421234",
+        "annotation": null,
+        "entry": "si-",
+        "id": 183206,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183206/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to hear",
+        "word": "/api/v1/word/to-hear/"
     },
     {
         "added": "2014-09-22T03:11:58.992055",
@@ -3048,18 +3048,6 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2014-09-22T03:12:11.563226",
-        "annotation": null,
-        "entry": "ta-",
-        "id": 184234,
-        "language": "/api/v1/language/migum/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/184234/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to take",
-        "word": "/api/v1/word/to-take/"
-    },
-    {
         "added": "2014-09-22T03:12:09.050501",
         "annotation": null,
         "entry": "ta-",
@@ -3072,16 +3060,16 @@
         "word": "/api/v1/word/to-give/"
     },
     {
-        "added": "2014-09-22T03:12:09.289075",
+        "added": "2014-09-22T03:12:11.563226",
         "annotation": null,
-        "entry": "tai-",
-        "id": 183141,
+        "entry": "ta-",
+        "id": 184234,
         "language": "/api/v1/language/migum/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/183141/",
+        "resource_uri": "/api/v1/lexicon/184234/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to watch (itr)",
-        "word": "/api/v1/word/to-watch/"
+        "source_gloss": "to take",
+        "word": "/api/v1/word/to-take/"
     },
     {
         "added": "2014-09-22T03:12:09.343905",
@@ -3094,6 +3082,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to see",
         "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2014-09-22T03:12:09.289075",
+        "annotation": null,
+        "entry": "tai-",
+        "id": 183141,
+        "language": "/api/v1/language/migum/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183141/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to watch (itr)",
+        "word": "/api/v1/word/to-watch/"
     },
     {
         "added": "2014-09-22T03:12:10.231267",

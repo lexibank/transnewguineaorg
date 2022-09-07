@@ -96,18 +96,6 @@
         "word": "/api/v1/word/firewood/"
     },
     {
-        "added": "2014-11-05T21:55:37.657697",
-        "annotation": "",
-        "entry": "*bri",
-        "id": 196609,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/196609/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2015-04-30T22:44:09.462086",
         "annotation": "",
         "entry": "*bri",
@@ -116,6 +104,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212261/",
         "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2014-11-05T21:55:37.657697",
+        "annotation": "",
+        "entry": "*bri",
+        "id": 196609,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196609/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
     },
@@ -144,18 +144,6 @@
         "word": "/api/v1/word/you/"
     },
     {
-        "added": "2015-04-30T22:42:30.050139",
-        "annotation": "",
-        "entry": "*deida",
-        "id": 212212,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212212/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2014-11-05T21:55:37.711205",
         "annotation": "",
         "entry": "*deida",
@@ -168,16 +156,16 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2014-11-05T21:55:37.918968",
+        "added": "2015-04-30T22:42:30.050139",
         "annotation": "",
-        "entry": "*dia-dau",
-        "id": 196654,
+        "entry": "*deida",
+        "id": 212212,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/196654/",
-        "source": "/api/v1/source/clouse-1993/",
+        "resource_uri": "/api/v1/lexicon/212212/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
-        "word": "/api/v1/word/to-stand/"
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2015-05-02T06:45:38.563156",
@@ -188,6 +176,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212493/",
         "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2014-11-05T21:55:37.918968",
+        "annotation": "",
+        "entry": "*dia-dau",
+        "id": 196654,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196654/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
         "word": "/api/v1/word/to-stand/"
     },
@@ -216,61 +216,13 @@
         "word": "/api/v1/word/cassowary/"
     },
     {
-        "added": "2014-11-05T21:55:37.726653",
+        "added": "2015-04-30T21:15:05.820260",
         "annotation": "",
         "entry": "*didi",
-        "id": 196623,
+        "id": 212175,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/196623/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/three/"
-    },
-    {
-        "added": "2015-04-30T21:18:38.491449",
-        "annotation": "",
-        "entry": "*didi",
-        "id": 212177,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212177/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/three/"
-    },
-    {
-        "added": "2015-04-30T22:34:40.368974",
-        "annotation": "",
-        "entry": "*didi",
-        "id": 212187,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212187/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/three/"
-    },
-    {
-        "added": "2015-04-30T21:22:03.776914",
-        "annotation": "",
-        "entry": "*didi",
-        "id": 212182,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212182/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/three/"
-    },
-    {
-        "added": "2015-04-30T21:10:54.150725",
-        "annotation": "",
-        "entry": "*didi",
-        "id": 212173,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212173/",
+        "resource_uri": "/api/v1/lexicon/212175/",
         "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/three/"
@@ -288,6 +240,42 @@
         "word": "/api/v1/word/three/"
     },
     {
+        "added": "2015-04-30T21:18:38.491449",
+        "annotation": "",
+        "entry": "*didi",
+        "id": 212177,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212177/",
+        "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2014-11-05T21:55:37.726653",
+        "annotation": "",
+        "entry": "*didi",
+        "id": 196623,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196623/",
+        "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2015-04-30T21:10:54.150725",
+        "annotation": "",
+        "entry": "*didi",
+        "id": 212173,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212173/",
+        "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2015-04-30T21:12:37.030985",
         "annotation": "",
         "entry": "*didi",
@@ -300,28 +288,28 @@
         "word": "/api/v1/word/three/"
     },
     {
-        "added": "2015-04-30T21:15:05.820260",
+        "added": "2015-04-30T21:22:03.776914",
         "annotation": "",
         "entry": "*didi",
-        "id": 212175,
+        "id": 212182,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212175/",
+        "resource_uri": "/api/v1/lexicon/212182/",
         "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/three/"
     },
     {
-        "added": "2015-04-30T22:42:30.211792",
+        "added": "2015-04-30T22:34:40.368974",
         "annotation": "",
-        "entry": "*-die",
-        "id": 212231,
+        "entry": "*didi",
+        "id": 212187,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212231/",
+        "resource_uri": "/api/v1/lexicon/212187/",
         "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
-        "word": "/api/v1/word/adj-suffix/"
+        "word": "/api/v1/word/three/"
     },
     {
         "added": "2015-01-01T20:51:37.997289",
@@ -336,16 +324,16 @@
         "word": "/api/v1/word/adj-suffix/"
     },
     {
-        "added": "2015-04-30T23:59:52.975906",
+        "added": "2015-04-30T22:42:30.211792",
         "annotation": "",
-        "entry": "*du",
-        "id": 212357,
+        "entry": "*-die",
+        "id": 212231,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212357/",
+        "resource_uri": "/api/v1/lexicon/212231/",
         "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
-        "word": "/api/v1/word/bird/"
+        "word": "/api/v1/word/adj-suffix/"
     },
     {
         "added": "2014-11-05T21:55:37.770743",
@@ -356,6 +344,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/196632/",
         "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2015-04-30T23:59:52.975906",
+        "annotation": "",
+        "entry": "*du",
+        "id": 212357,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212357/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
     },
@@ -396,18 +396,6 @@
         "word": "/api/v1/word/to-vomit/"
     },
     {
-        "added": "2015-01-01T20:51:38.093763",
-        "annotation": "",
-        "entry": "*keCV",
-        "id": 199314,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/199314/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ant/"
-    },
-    {
         "added": "2015-05-02T07:15:19.875639",
         "annotation": "",
         "entry": "*keCV",
@@ -416,6 +404,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212534/",
         "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ant/"
+    },
+    {
+        "added": "2015-01-01T20:51:38.093763",
+        "annotation": "",
+        "entry": "*keCV",
+        "id": 199314,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/199314/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
         "word": "/api/v1/word/ant/"
     },
@@ -444,18 +444,6 @@
         "word": "/api/v1/word/leech/"
     },
     {
-        "added": "2015-05-02T06:37:42.584059",
-        "annotation": "",
-        "entry": "*kiCi",
-        "id": 212481,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212481/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-scrape-off/"
-    },
-    {
         "added": "2014-11-05T21:55:37.909158",
         "annotation": "",
         "entry": "*kiCi",
@@ -464,6 +452,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/196652/",
         "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-scrape-off/"
+    },
+    {
+        "added": "2015-05-02T06:37:42.584059",
+        "annotation": "",
+        "entry": "*kiCi",
+        "id": 212481,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212481/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/to-scrape-off/"
     },
@@ -504,18 +504,6 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2014-11-05T21:55:37.673458",
-        "annotation": "",
-        "entry": "*kri",
-        "id": 196612,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/196612/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2014-11-05T21:55:37.682503",
         "annotation": "",
         "entry": "*kri",
@@ -526,6 +514,18 @@
         "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
         "word": "/api/v1/word/fur/"
+    },
+    {
+        "added": "2014-11-05T21:55:37.673458",
+        "annotation": "",
+        "entry": "*kri",
+        "id": 196612,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196612/",
+        "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2015-04-30T23:46:08.967903",
@@ -660,18 +660,6 @@
         "word": "/api/v1/word/chin/"
     },
     {
-        "added": "2014-11-05T21:55:37.784914",
-        "annotation": "a fly",
-        "entry": "*kubadi",
-        "id": 196635,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/196635/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/insect-sp/"
-    },
-    {
         "added": "2015-05-01T00:11:54.132590",
         "annotation": "",
         "entry": "*kubadi",
@@ -684,16 +672,16 @@
         "word": "/api/v1/word/fly-sp/"
     },
     {
-        "added": "2015-04-30T23:48:47.471133",
-        "annotation": "",
-        "entry": "*kuCV",
-        "id": 212335,
+        "added": "2014-11-05T21:55:37.784914",
+        "annotation": "a fly",
+        "entry": "*kubadi",
+        "id": 196635,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212335/",
-        "source": "/api/v1/source/clouse-1997/",
+        "resource_uri": "/api/v1/lexicon/196635/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
-        "word": "/api/v1/word/tree/"
+        "word": "/api/v1/word/insect-sp/"
     },
     {
         "added": "2014-11-05T21:55:37.754709",
@@ -704,6 +692,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/196629/",
         "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2015-04-30T23:48:47.471133",
+        "annotation": "",
+        "entry": "*kuCV",
+        "id": 212335,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212335/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/tree/"
     },
@@ -732,18 +732,6 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2014-11-05T21:55:37.662604",
-        "annotation": "",
-        "entry": "*kudatiCV",
-        "id": 196610,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/196610/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2015-04-30T22:44:09.510803",
         "annotation": "",
         "entry": "*kudatiCV",
@@ -752,6 +740,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212267/",
         "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2014-11-05T21:55:37.662604",
+        "annotation": "",
+        "entry": "*kudatiCV",
+        "id": 196610,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196610/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
@@ -780,18 +780,6 @@
         "word": "/api/v1/word/thorn/"
     },
     {
-        "added": "2015-05-06T01:28:51.608125",
-        "annotation": "",
-        "entry": "*kudiCV",
-        "id": 213228,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/213228/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/scrotum/"
-    },
-    {
         "added": "2015-01-01T20:51:38.080610",
         "annotation": "",
         "entry": "*kudiCV",
@@ -804,16 +792,16 @@
         "word": "/api/v1/word/testicles/"
     },
     {
-        "added": "2014-11-05T21:55:37.894364",
+        "added": "2015-05-06T01:28:51.608125",
         "annotation": "",
-        "entry": "*kuedi-kuda",
-        "id": 196649,
+        "entry": "*kudiCV",
+        "id": 213228,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/196649/",
-        "source": "/api/v1/source/clouse-1993/",
+        "resource_uri": "/api/v1/lexicon/213228/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
-        "word": "/api/v1/word/to-hear/"
+        "word": "/api/v1/word/scrotum/"
     },
     {
         "added": "2015-05-01T06:36:15.622524",
@@ -824,6 +812,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212464/",
         "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2014-11-05T21:55:37.894364",
+        "annotation": "",
+        "entry": "*kuedi-kuda",
+        "id": 196649,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196649/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
         "word": "/api/v1/word/to-hear/"
     },
@@ -852,18 +852,6 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2015-04-30T22:44:09.405804",
-        "annotation": "",
-        "entry": "*kukadi",
-        "id": 212254,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212254/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/mouth/"
-    },
-    {
         "added": "2014-11-05T21:55:37.634643",
         "annotation": "",
         "entry": "*kukadi",
@@ -872,6 +860,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/196607/",
         "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2015-04-30T22:44:09.405804",
+        "annotation": "",
+        "entry": "*kukadi",
+        "id": 212254,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212254/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/mouth/"
     },
@@ -936,18 +936,6 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2014-11-05T21:55:37.706465",
-        "annotation": "",
-        "entry": "*kuria",
-        "id": 196619,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/196619/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/stomach/"
-    },
-    {
         "added": "2015-04-30T22:42:29.951223",
         "annotation": "",
         "entry": "*kuria",
@@ -956,6 +944,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212199/",
         "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stomach/"
+    },
+    {
+        "added": "2014-11-05T21:55:37.706465",
+        "annotation": "",
+        "entry": "*kuria",
+        "id": 196619,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196619/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
         "word": "/api/v1/word/stomach/"
     },
@@ -984,18 +984,6 @@
         "word": "/api/v1/word/rain/"
     },
     {
-        "added": "2014-11-05T21:55:37.765722",
-        "annotation": "",
-        "entry": "*kVCa",
-        "id": 196631,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/196631/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/black/"
-    },
-    {
         "added": "2015-04-30T23:57:31.264269",
         "annotation": "",
         "entry": "*kVCa",
@@ -1008,6 +996,30 @@
         "word": "/api/v1/word/black/"
     },
     {
+        "added": "2014-11-05T21:55:37.765722",
+        "annotation": "",
+        "entry": "*kVCa",
+        "id": 196631,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/196631/",
+        "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/black/"
+    },
+    {
+        "added": "2022-07-25T22:14:47.876902",
+        "annotation": "",
+        "entry": "*pade",
+        "id": 213223,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/213223/",
+        "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/faeces/"
+    },
+    {
         "added": "2015-01-01T20:51:38.063695",
         "annotation": "",
         "entry": "*pade",
@@ -1018,18 +1030,6 @@
         "source": "/api/v1/source/clouse-1993/",
         "source_gloss": "feces",
         "word": "/api/v1/word/faeces/"
-    },
-    {
-        "added": "2015-05-06T01:26:48.770280",
-        "annotation": "",
-        "entry": "*pade",
-        "id": 213223,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/213223/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/feaces/"
     },
     {
         "added": "2014-11-05T21:55:37.820695",
@@ -1080,18 +1080,6 @@
         "word": "/api/v1/word/arrow/"
     },
     {
-        "added": "2015-01-01T20:51:38.003642",
-        "annotation": "",
-        "entry": "*pra",
-        "id": 199304,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/199304/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/land/"
-    },
-    {
         "added": "2015-04-30T23:01:10.158846",
         "annotation": "",
         "entry": "*pra",
@@ -1100,6 +1088,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212300/",
         "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/land/"
+    },
+    {
+        "added": "2015-01-01T20:51:38.003642",
+        "annotation": "",
+        "entry": "*pra",
+        "id": 199304,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/199304/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
         "word": "/api/v1/word/land/"
     },
@@ -1116,30 +1116,6 @@
         "word": "/api/v1/word/land/"
     },
     {
-        "added": "2015-04-30T23:01:10.226552",
-        "annotation": "",
-        "entry": "*pri",
-        "id": 212301,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212301/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/land/"
-    },
-    {
-        "added": "2015-01-01T20:51:38.009475",
-        "annotation": "",
-        "entry": "*pri",
-        "id": 199305,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/199305/",
-        "source": "/api/v1/source/clouse-1993/",
-        "source_gloss": null,
-        "word": "/api/v1/word/land/"
-    },
-    {
         "added": "2014-11-05T21:55:37.811897",
         "annotation": "",
         "entry": "*pri",
@@ -1152,6 +1128,18 @@
         "word": "/api/v1/word/louse/"
     },
     {
+        "added": "2015-04-30T23:01:10.226552",
+        "annotation": "",
+        "entry": "*pri",
+        "id": 212301,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212301/",
+        "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/land/"
+    },
+    {
         "added": "2015-05-01T00:43:20.572714",
         "annotation": "",
         "entry": "*pri",
@@ -1162,6 +1150,18 @@
         "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2015-01-01T20:51:38.009475",
+        "annotation": "",
+        "entry": "*pri",
+        "id": 199305,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/199305/",
+        "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/land/"
     },
     {
         "added": "2014-11-05T21:55:37.923492",
@@ -1236,18 +1236,6 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2015-05-02T06:58:42.455454",
-        "annotation": "",
-        "entry": "*takadV",
-        "id": 212509,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212509/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-cough/"
-    },
-    {
         "added": "2015-01-01T20:51:38.020643",
         "annotation": "",
         "entry": "*takadV",
@@ -1260,28 +1248,16 @@
         "word": "/api/v1/word/to-cough/"
     },
     {
-        "added": "2015-05-02T06:31:29.360178",
+        "added": "2015-05-02T06:58:42.455454",
         "annotation": "",
-        "entry": "*tau",
-        "id": 212470,
+        "entry": "*takadV",
+        "id": 212509,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212470/",
+        "resource_uri": "/api/v1/lexicon/212509/",
         "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
-        "word": "/api/v1/word/to-suck/"
-    },
-    {
-        "added": "2015-05-01T06:00:50.240774",
-        "annotation": "",
-        "entry": "*tau",
-        "id": 212427,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212427/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/person/"
+        "word": "/api/v1/word/to-cough/"
     },
     {
         "added": "2014-11-05T21:55:37.824905",
@@ -1308,6 +1284,30 @@
         "word": "/api/v1/word/to-suck/"
     },
     {
+        "added": "2015-05-02T06:31:29.360178",
+        "annotation": "",
+        "entry": "*tau",
+        "id": 212470,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212470/",
+        "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-suck/"
+    },
+    {
+        "added": "2015-05-01T06:00:50.240774",
+        "annotation": "",
+        "entry": "*tau",
+        "id": 212427,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212427/",
+        "source": "/api/v1/source/clouse-1997/",
+        "source_gloss": null,
+        "word": "/api/v1/word/person/"
+    },
+    {
         "added": "2014-11-05T21:55:37.852403",
         "annotation": "",
         "entry": "*tau-bri",
@@ -1332,18 +1332,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2015-05-02T06:49:20.708348",
-        "annotation": "",
-        "entry": "*tiadado",
-        "id": 212497,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212497/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grab/"
-    },
-    {
         "added": "2015-01-01T20:51:38.015035",
         "annotation": "",
         "entry": "*tiadado",
@@ -1356,16 +1344,16 @@
         "word": "/api/v1/word/grab/"
     },
     {
-        "added": "2014-11-05T21:55:37.798234",
+        "added": "2015-05-02T06:49:20.708348",
         "annotation": "",
-        "entry": "*tiCa",
-        "id": 196638,
+        "entry": "*tiadado",
+        "id": 212497,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/196638/",
-        "source": "/api/v1/source/clouse-1993/",
+        "resource_uri": "/api/v1/lexicon/212497/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
-        "word": "/api/v1/word/tail/"
+        "word": "/api/v1/word/grab/"
     },
     {
         "added": "2015-05-01T00:36:07.298320",
@@ -1380,16 +1368,16 @@
         "word": "/api/v1/word/tail/"
     },
     {
-        "added": "2015-01-01T20:51:38.069362",
+        "added": "2014-11-05T21:55:37.798234",
         "annotation": "",
-        "entry": "*tiCi",
-        "id": 199310,
+        "entry": "*tiCa",
+        "id": 196638,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/199310/",
+        "resource_uri": "/api/v1/lexicon/196638/",
         "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
-        "word": "/api/v1/word/urine/"
+        "word": "/api/v1/word/tail/"
     },
     {
         "added": "2015-05-02T07:05:24.233208",
@@ -1404,16 +1392,16 @@
         "word": "/api/v1/word/urine/"
     },
     {
-        "added": "2015-05-01T00:14:25.074518",
+        "added": "2015-01-01T20:51:38.069362",
         "annotation": "",
-        "entry": "*tide",
-        "id": 212379,
+        "entry": "*tiCi",
+        "id": 199310,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212379/",
-        "source": "/api/v1/source/clouse-1997/",
+        "resource_uri": "/api/v1/lexicon/199310/",
+        "source": "/api/v1/source/clouse-1993/",
         "source_gloss": null,
-        "word": "/api/v1/word/mosquito/"
+        "word": "/api/v1/word/urine/"
     },
     {
         "added": "2014-11-05T21:55:37.789615",
@@ -1428,16 +1416,16 @@
         "word": "/api/v1/word/mosquito/"
     },
     {
-        "added": "2015-05-01T00:38:01.575599",
+        "added": "2015-05-01T00:14:25.074518",
         "annotation": "",
-        "entry": "*tie",
-        "id": 212396,
+        "entry": "*tide",
+        "id": 212379,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212396/",
+        "resource_uri": "/api/v1/lexicon/212379/",
         "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
-        "word": "/api/v1/word/fish/"
+        "word": "/api/v1/word/mosquito/"
     },
     {
         "added": "2014-11-05T21:55:37.802733",
@@ -1452,16 +1440,16 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2015-04-30T23:15:10.625175",
+        "added": "2015-05-01T00:38:01.575599",
         "annotation": "",
-        "entry": "*tio",
-        "id": 212323,
+        "entry": "*tie",
+        "id": 212396,
         "language": "/api/v1/language/proto-lakes-plain/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212323/",
+        "resource_uri": "/api/v1/lexicon/212396/",
         "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
-        "word": "/api/v1/word/sun/"
+        "word": "/api/v1/word/fish/"
     },
     {
         "added": "2014-11-05T21:55:37.745028",
@@ -1472,6 +1460,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/196627/",
         "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2015-04-30T23:15:10.625175",
+        "annotation": "",
+        "entry": "*tio",
+        "id": 212323,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212323/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/sun/"
     },
@@ -1500,18 +1500,6 @@
         "word": "/api/v1/word/penis/"
     },
     {
-        "added": "2015-04-30T22:42:29.905125",
-        "annotation": "",
-        "entry": "*touCV",
-        "id": 212193,
-        "language": "/api/v1/language/proto-lakes-plain/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212193/",
-        "source": "/api/v1/source/clouse-1997/",
-        "source_gloss": null,
-        "word": "/api/v1/word/breast/"
-    },
-    {
         "added": "2014-11-05T21:55:37.701659",
         "annotation": "",
         "entry": "*touCV",
@@ -1520,6 +1508,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/196618/",
         "source": "/api/v1/source/clouse-1993/",
+        "source_gloss": null,
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2015-04-30T22:42:29.905125",
+        "annotation": "",
+        "entry": "*touCV",
+        "id": 212193,
+        "language": "/api/v1/language/proto-lakes-plain/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212193/",
+        "source": "/api/v1/source/clouse-1997/",
         "source_gloss": null,
         "word": "/api/v1/word/breast/"
     },

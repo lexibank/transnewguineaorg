@@ -8,8 +8,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50129/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/female-sex-organ/"
+        "source_gloss": "female sex organ",
+        "word": "/api/v1/word/vagina/"
     },
     {
         "added": "2013-11-19T03:56:24.729099",
@@ -1212,16 +1212,16 @@
         "word": "/api/v1/word/afternoon/"
     },
     {
-        "added": "2013-11-19T03:55:55.936232",
-        "annotation": "under, underneath, below",
+        "added": "2013-11-19T03:56:29.855618",
+        "annotation": "soup",
         "entry": "suu",
-        "id": 48254,
+        "id": 54265,
         "language": "/api/v1/language/guhu-samane/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/48254/",
+        "resource_uri": "/api/v1/lexicon/54265/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/bottom/"
+        "word": "/api/v1/word/soup/"
     },
     {
         "added": "2013-11-19T03:56:10.579948",
@@ -1236,16 +1236,16 @@
         "word": "/api/v1/word/hair/"
     },
     {
-        "added": "2013-11-19T03:56:29.855618",
-        "annotation": "soup",
+        "added": "2013-11-19T03:55:55.936232",
+        "annotation": "under, underneath, below",
         "entry": "suu",
-        "id": 54265,
+        "id": 48254,
         "language": "/api/v1/language/guhu-samane/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/54265/",
+        "resource_uri": "/api/v1/lexicon/48254/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/soup/"
+        "word": "/api/v1/word/bottom/"
     },
     {
         "added": "2013-11-19T03:56:30.786811",

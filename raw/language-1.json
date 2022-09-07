@@ -264,18 +264,6 @@
         "word": "/api/v1/word/to-swim/"
     },
     {
-        "added": "2013-09-07T20:58:21.647477",
-        "annotation": "",
-        "entry": "ba",
-        "id": 32568,
-        "language": "/api/v1/language/kuman/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32568/",
-        "source": "/api/v1/source/salisbury-1956/",
-        "source_gloss": null,
-        "word": "/api/v1/word/moon/"
-    },
-    {
         "added": "2013-05-06T20:53:48.090200",
         "annotation": "",
         "entry": "ba",
@@ -284,6 +272,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/820/",
         "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2013-09-07T20:58:21.647477",
+        "annotation": "",
+        "entry": "ba",
+        "id": 32568,
+        "language": "/api/v1/language/kuman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32568/",
+        "source": "/api/v1/source/salisbury-1956/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
     },
@@ -308,8 +308,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/1143/",
         "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interior/"
+        "source_gloss": "interior",
+        "word": "/api/v1/word/in/"
     },
     {
         "added": "2013-09-07T20:58:21.655488",
@@ -1104,18 +1104,6 @@
         "word": "/api/v1/word/true/"
     },
     {
-        "added": "2013-09-07T20:58:22.236402",
-        "annotation": "",
-        "entry": "kama",
-        "id": 32602,
-        "language": "/api/v1/language/kuman/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32602/",
-        "source": "/api/v1/source/salisbury-1956/",
-        "source_gloss": null,
-        "word": "/api/v1/word/black/"
-    },
-    {
         "added": "2013-05-06T20:34:02.415776",
         "annotation": "",
         "entry": "kama",
@@ -1128,16 +1116,16 @@
         "word": "/api/v1/word/black/"
     },
     {
-        "added": "2013-05-06T20:49:09.437963",
+        "added": "2013-09-07T20:58:22.236402",
         "annotation": "",
-        "entry": "kambe",
-        "id": 763,
+        "entry": "kama",
+        "id": 32602,
         "language": "/api/v1/language/kuman/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/763/",
-        "source": "/api/v1/source/trefry-1969/",
+        "resource_uri": "/api/v1/lexicon/32602/",
+        "source": "/api/v1/source/salisbury-1956/",
         "source_gloss": null,
-        "word": "/api/v1/word/banana/"
+        "word": "/api/v1/word/black/"
     },
     {
         "added": "2013-09-07T20:58:21.975371",
@@ -1148,6 +1136,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/32589/",
         "source": "/api/v1/source/salisbury-1956/",
+        "source_gloss": null,
+        "word": "/api/v1/word/banana/"
+    },
+    {
+        "added": "2013-05-06T20:49:09.437963",
+        "annotation": "",
+        "entry": "kambe",
+        "id": 763,
+        "language": "/api/v1/language/kuman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/763/",
+        "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/banana/"
     },
@@ -1224,18 +1224,6 @@
         "word": "/api/v1/word/rain/"
     },
     {
-        "added": "2013-09-07T20:58:22.134023",
-        "annotation": "",
-        "entry": "kande",
-        "id": 32597,
-        "language": "/api/v1/language/kuman/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32597/",
-        "source": "/api/v1/source/salisbury-1956/",
-        "source_gloss": null,
-        "word": "/api/v1/word/big/"
-    },
-    {
         "added": "2013-05-06T20:34:02.413129",
         "annotation": "",
         "entry": "kande",
@@ -1244,6 +1232,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/659/",
         "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2013-09-07T20:58:22.134023",
+        "annotation": "",
+        "entry": "kande",
+        "id": 32597,
+        "language": "/api/v1/language/kuman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32597/",
+        "source": "/api/v1/source/salisbury-1956/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
     },
@@ -1512,18 +1512,6 @@
         "word": "/api/v1/word/to-be-sick/"
     },
     {
-        "added": "2013-09-07T20:58:22.226738",
-        "annotation": "",
-        "entry": "kinde",
-        "id": 32601,
-        "language": "/api/v1/language/kuman/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32601/",
-        "source": "/api/v1/source/salisbury-1956/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bad/"
-    },
-    {
         "added": "2013-05-06T20:49:09.433934",
         "annotation": "",
         "entry": "kinde",
@@ -1532,6 +1520,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/760/",
         "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bad/"
+    },
+    {
+        "added": "2013-09-07T20:58:22.226738",
+        "annotation": "",
+        "entry": "kinde",
+        "id": 32601,
+        "language": "/api/v1/language/kuman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32601/",
+        "source": "/api/v1/source/salisbury-1956/",
         "source_gloss": null,
         "word": "/api/v1/word/bad/"
     },
@@ -1692,18 +1692,6 @@
         "word": "/api/v1/word/dry/"
     },
     {
-        "added": "2013-05-06T20:34:56.915030",
-        "annotation": "",
-        "entry": "kuk\u026c \u0325",
-        "id": 721,
-        "language": "/api/v1/language/kuman/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/721/",
-        "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grass/"
-    },
-    {
         "added": "2013-05-06T20:49:09.400730",
         "annotation": "",
         "entry": "kuk\u026c \u0325",
@@ -1714,6 +1702,18 @@
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2013-05-06T20:34:56.915030",
+        "annotation": "",
+        "entry": "kuk\u026c \u0325",
+        "id": 721,
+        "language": "/api/v1/language/kuman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/721/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/grass/"
     },
     {
         "added": "2013-05-06T20:34:56.916128",
@@ -2388,18 +2388,6 @@
         "word": "/api/v1/word/bean/"
     },
     {
-        "added": "2013-05-06T20:34:56.914030",
-        "annotation": "",
-        "entry": "o\u014bgua",
-        "id": 720,
-        "language": "/api/v1/language/kuman/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/720/",
-        "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-go/"
-    },
-    {
         "added": "2013-05-06T20:34:02.422327",
         "annotation": "",
         "entry": "o\u014bgua",
@@ -2410,6 +2398,18 @@
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2013-05-06T20:34:56.914030",
+        "annotation": "",
+        "entry": "o\u014bgua",
+        "id": 720,
+        "language": "/api/v1/language/kuman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/720/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-go/"
     },
     {
         "added": "2013-05-06T20:34:56.895969",
@@ -2556,18 +2556,6 @@
         "word": "/api/v1/word/to-blow/"
     },
     {
-        "added": "2013-05-06T20:53:48.082160",
-        "annotation": "",
-        "entry": "pu\u0159ukua",
-        "id": 812,
-        "language": "/api/v1/language/kuman/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/812/",
-        "source": "/api/v1/source/trefry-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-know/"
-    },
-    {
         "added": "2013-05-06T20:53:48.076320",
         "annotation": "",
         "entry": "pu\u0159ukua",
@@ -2578,6 +2566,18 @@
         "source": "/api/v1/source/trefry-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2013-05-06T20:53:48.082160",
+        "annotation": "",
+        "entry": "pu\u0159ukua",
+        "id": 812,
+        "language": "/api/v1/language/kuman/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/812/",
+        "source": "/api/v1/source/trefry-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-know/"
     },
     {
         "added": "2013-05-06T20:49:09.412697",

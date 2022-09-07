@@ -800,8 +800,20 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14988/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat-drink/"
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.401890",
+        "annotation": "eat, drink, smoke (tobacco)",
+        "entry": "i-",
+        "id": 260775,
+        "language": "/api/v1/language/koitabu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260775/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2014-04-14T07:57:45.207728",
@@ -1136,8 +1148,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/15142/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/interrogative-particle/"
+        "source_gloss": "interrogative particle",
+        "word": "/api/v1/word/interrogative/"
     },
     {
         "added": "2013-05-27T07:04:14.756109",
@@ -1188,18 +1200,6 @@
         "word": "/api/v1/word/middle-tongue/"
     },
     {
-        "added": "2013-05-27T07:04:09.946674",
-        "annotation": "eye",
-        "entry": "ni",
-        "id": 15162,
-        "language": "/api/v1/language/koitabu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/15162/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2013-05-27T07:04:09.445330",
         "annotation": "to (dative), for (benefactive)",
         "entry": "ni",
@@ -1210,6 +1210,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/for-benefactive-clitic/"
+    },
+    {
+        "added": "2013-05-27T07:04:09.946674",
+        "annotation": "eye",
+        "entry": "ni",
+        "id": 15162,
+        "language": "/api/v1/language/koitabu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/15162/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2013-05-27T07:04:14.817655",

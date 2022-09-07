@@ -48,18 +48,6 @@
         "word": "/api/v1/word/house/"
     },
     {
-        "added": "2013-11-06T04:48:00.038768",
-        "annotation": "",
-        "entry": "bay",
-        "id": 37147,
-        "language": "/api/v1/language/western-pantar-mauta-tubal/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/37147/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2013-11-06T04:47:59.931496",
         "annotation": "",
         "entry": "bay",
@@ -70,6 +58,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2013-11-06T04:48:00.038768",
+        "annotation": "",
+        "entry": "bay",
+        "id": 37147,
+        "language": "/api/v1/language/western-pantar-mauta-tubal/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/37147/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-11-06T04:48:00.256481",

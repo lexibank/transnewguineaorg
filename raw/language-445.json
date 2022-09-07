@@ -84,18 +84,6 @@
         "word": "/api/v1/word/mouth/"
     },
     {
-        "added": "2013-11-29T19:34:52.713244",
-        "annotation": "",
-        "entry": "(a)gep\u00e1",
-        "id": 74651,
-        "language": "/api/v1/language/alekano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74651/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2013-11-29T19:34:46.217609",
         "annotation": "",
         "entry": "(a)gep\u00e1",
@@ -106,6 +94,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2013-11-29T19:34:52.713244",
+        "annotation": "",
+        "entry": "(a)gep\u00e1",
+        "id": 74651,
+        "language": "/api/v1/language/alekano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74651/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
     },
     {
         "added": "2015-07-19T02:50:33.944241",
@@ -828,18 +828,6 @@
         "word": "/api/v1/word/tomorrow/"
     },
     {
-        "added": "2013-11-29T19:34:52.520857",
-        "annotation": "",
-        "entry": "az\u00f3",
-        "id": 74616,
-        "language": "/api/v1/language/alekano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74616/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tomorrow/"
-    },
-    {
         "added": "2013-11-29T19:34:54.786118",
         "annotation": "",
         "entry": "az\u00f3",
@@ -850,6 +838,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/yesterday/"
+    },
+    {
+        "added": "2013-11-29T19:34:52.520857",
+        "annotation": "",
+        "entry": "az\u00f3",
+        "id": 74616,
+        "language": "/api/v1/language/alekano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74616/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tomorrow/"
     },
     {
         "added": "2013-07-30T12:54:24.866178",
@@ -2208,18 +2208,6 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2015-07-19T03:08:46.916352",
-        "annotation": "",
-        "entry": "iza",
-        "id": 234468,
-        "language": "/api/v1/language/alekano/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/234468/",
-        "source": "/api/v1/source/sil-1965d/",
-        "source_gloss": null,
-        "word": "/api/v1/word/pig/"
-    },
-    {
         "added": "2013-07-30T12:54:24.934932",
         "annotation": "",
         "entry": "iza",
@@ -2228,6 +2216,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/32408/",
         "source": "/api/v1/source/salisbury-1956/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2015-07-19T03:08:46.916352",
+        "annotation": "",
+        "entry": "iza",
+        "id": 234468,
+        "language": "/api/v1/language/alekano/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/234468/",
+        "source": "/api/v1/source/sil-1965d/",
         "source_gloss": null,
         "word": "/api/v1/word/pig/"
     },

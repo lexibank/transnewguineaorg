@@ -756,18 +756,6 @@
         "word": "/api/v1/word/bird/"
     },
     {
-        "added": "2013-06-05T19:47:20.698209",
-        "annotation": "",
-        "entry": "mi",
-        "id": 18881,
-        "language": "/api/v1/language/biami/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/18881/",
-        "source": "/api/v1/source/shaw-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/nose/"
-    },
-    {
         "added": "2013-06-10T21:11:29.048650",
         "annotation": null,
         "entry": "mi",
@@ -778,6 +766,18 @@
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2013-06-05T19:47:20.698209",
+        "annotation": "",
+        "entry": "mi",
+        "id": 18881,
+        "language": "/api/v1/language/biami/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/18881/",
+        "source": "/api/v1/source/shaw-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/nose/"
     },
     {
         "added": "2013-06-05T19:47:21.448554",

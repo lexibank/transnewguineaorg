@@ -1,15 +1,15 @@
 [
     {
-        "added": "2014-07-06T21:29:51.373176",
+        "added": "2014-07-06T21:29:51.592165",
         "annotation": null,
         "entry": "0\u0338-",
-        "id": 139423,
+        "id": 139522,
         "language": "/api/v1/language/brem/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/139423/",
+        "resource_uri": "/api/v1/lexicon/139522/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "they (verbal object)",
-        "word": "/api/v1/word/them/"
+        "source_gloss": "we (VO)",
+        "word": "/api/v1/word/us/"
     },
     {
         "added": "2014-07-06T21:29:50.985130",
@@ -24,6 +24,18 @@
         "word": "/api/v1/word/him-her-it/"
     },
     {
+        "added": "2014-07-06T21:29:51.373176",
+        "annotation": null,
+        "entry": "0\u0338-",
+        "id": 139423,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139423/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "they (verbal object)",
+        "word": "/api/v1/word/them/"
+    },
+    {
         "added": "2014-07-06T21:29:51.176902",
         "annotation": null,
         "entry": "0\u0338-",
@@ -34,18 +46,6 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "ye (VO)",
         "word": "/api/v1/word/you-pl-o2p/"
-    },
-    {
-        "added": "2014-07-06T21:29:51.592165",
-        "annotation": null,
-        "entry": "0\u0338-",
-        "id": 139522,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139522/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "we (VO)",
-        "word": "/api/v1/word/us/"
     },
     {
         "added": "2014-07-06T21:30:01.236351",
@@ -1116,18 +1116,6 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2014-07-06T21:29:53.692154",
-        "annotation": null,
-        "entry": "gaman",
-        "id": 140551,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/140551/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "liver",
-        "word": "/api/v1/word/liver/"
-    },
-    {
         "added": "2014-07-06T21:30:03.904250",
         "annotation": null,
         "entry": "gaman",
@@ -1138,6 +1126,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "near",
         "word": "/api/v1/word/near/"
+    },
+    {
+        "added": "2014-07-06T21:29:53.692154",
+        "annotation": null,
+        "entry": "gaman",
+        "id": 140551,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/140551/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "liver",
+        "word": "/api/v1/word/liver/"
     },
     {
         "added": "2014-07-06T21:30:08.725473",
@@ -1920,18 +1920,6 @@
         "word": "/api/v1/word/tanket/"
     },
     {
-        "added": "2014-07-06T21:30:01.066347",
-        "annotation": null,
-        "entry": "karas",
-        "id": 144103,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/144103/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "red",
-        "word": "/api/v1/word/red/"
-    },
-    {
         "added": "2014-07-06T21:30:02.227238",
         "annotation": null,
         "entry": "karas",
@@ -1942,6 +1930,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "ripe",
         "word": "/api/v1/word/ripe/"
+    },
+    {
+        "added": "2014-07-06T21:30:01.066347",
+        "annotation": null,
+        "entry": "karas",
+        "id": 144103,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/144103/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "red",
+        "word": "/api/v1/word/red/"
     },
     {
         "added": "2014-07-06T21:29:58.511071",
@@ -2160,18 +2160,6 @@
         "word": "/api/v1/word/meat/"
     },
     {
-        "added": "2014-07-06T21:30:06.659662",
-        "annotation": null,
-        "entry": "kiwik-",
-        "id": 146567,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146567/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(tear)",
-        "word": "/api/v1/word/tears/"
-    },
-    {
         "added": "2014-07-06T21:30:06.602793",
         "annotation": null,
         "entry": "kiwik-",
@@ -2182,6 +2170,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "split",
         "word": "/api/v1/word/to-split/"
+    },
+    {
+        "added": "2014-07-06T21:30:06.659662",
+        "annotation": null,
+        "entry": "kiwik-",
+        "id": 146567,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146567/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(tear)",
+        "word": "/api/v1/word/tears/"
     },
     {
         "added": "2014-07-06T21:30:02.126372",
@@ -2460,18 +2460,6 @@
         "word": "/api/v1/word/bean/"
     },
     {
-        "added": "2014-07-06T21:29:58.325524",
-        "annotation": null,
-        "entry": "makib",
-        "id": 142816,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/142816/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(ground)",
-        "word": "/api/v1/word/ground/"
-    },
-    {
         "added": "2014-07-06T21:29:58.207216",
         "annotation": null,
         "entry": "makib",
@@ -2482,6 +2470,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "garden(ground)",
         "word": "/api/v1/word/garden/"
+    },
+    {
+        "added": "2014-07-06T21:29:58.325524",
+        "annotation": null,
+        "entry": "makib",
+        "id": 142816,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/142816/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(ground)",
+        "word": "/api/v1/word/ground/"
     },
     {
         "added": "2014-07-06T21:29:58.327791",
@@ -2508,18 +2508,6 @@
         "word": "/api/v1/word/back/"
     },
     {
-        "added": "2014-07-06T21:29:56.557637",
-        "annotation": null,
-        "entry": "mam",
-        "id": 141963,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/141963/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "taro",
-        "word": "/api/v1/word/taro/"
-    },
-    {
         "added": "2014-07-06T21:29:56.500508",
         "annotation": null,
         "entry": "mam",
@@ -2530,6 +2518,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "sugarcane",
         "word": "/api/v1/word/sugar/"
+    },
+    {
+        "added": "2014-07-06T21:29:56.557637",
+        "annotation": null,
+        "entry": "mam",
+        "id": 141963,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/141963/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "taro",
+        "word": "/api/v1/word/taro/"
     },
     {
         "added": "2014-07-06T21:30:04.127990",
@@ -3252,18 +3252,6 @@
         "word": "/api/v1/word/he-she/"
     },
     {
-        "added": "2014-07-06T21:29:51.322542",
-        "annotation": null,
-        "entry": "o-no-",
-        "id": 139398,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139398/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "3.pl.poss",
-        "word": "/api/v1/word/their/"
-    },
-    {
         "added": "2014-07-06T21:29:50.930633",
         "annotation": null,
         "entry": "o-no-",
@@ -3274,6 +3262,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "3sg poss.",
         "word": "/api/v1/word/his/"
+    },
+    {
+        "added": "2014-07-06T21:29:51.322542",
+        "annotation": null,
+        "entry": "o-no-",
+        "id": 139398,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139398/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "3.pl.poss",
+        "word": "/api/v1/word/their/"
     },
     {
         "added": "2014-07-06T21:30:07.704480",
@@ -3720,18 +3720,6 @@
         "word": "/api/v1/word/moon/"
     },
     {
-        "added": "2014-07-06T21:30:07.168858",
-        "annotation": null,
-        "entry": "tun-",
-        "id": 146827,
-        "language": "/api/v1/language/brem/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146827/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(burn tr.)",
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2014-07-06T21:30:07.049028",
         "annotation": null,
         "entry": "tun-",
@@ -3744,16 +3732,16 @@
         "word": "/api/v1/word/to-roast/"
     },
     {
-        "added": "2014-07-06T21:29:53.637528",
+        "added": "2014-07-06T21:30:07.168858",
         "annotation": null,
-        "entry": "um",
-        "id": 140524,
+        "entry": "tun-",
+        "id": 146827,
         "language": "/api/v1/language/brem/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/140524/",
+        "resource_uri": "/api/v1/lexicon/146827/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "vein",
-        "word": "/api/v1/word/vein/"
+        "source_gloss": "(burn tr.)",
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2014-07-06T21:29:59.893051",
@@ -3766,6 +3754,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "bowstring",
         "word": "/api/v1/word/bowstring/"
+    },
+    {
+        "added": "2014-07-06T21:29:53.637528",
+        "annotation": null,
+        "entry": "um",
+        "id": 140524,
+        "language": "/api/v1/language/brem/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/140524/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "vein",
+        "word": "/api/v1/word/vein/"
     },
     {
         "added": "2014-07-06T21:30:04.966621",

@@ -324,18 +324,6 @@
         "word": "/api/v1/word/sugarcane/"
     },
     {
-        "added": "2018-05-24T02:44:39.123496",
-        "annotation": "",
-        "entry": "are-",
-        "id": 259342,
-        "language": "/api/v1/language/maria-maiagolo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259342/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "sleep",
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2018-05-24T02:44:39.215231",
         "annotation": "",
         "entry": "are-",
@@ -346,6 +334,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "lie on ground",
         "word": "/api/v1/word/to-lie-on-ground/"
+    },
+    {
+        "added": "2018-05-24T02:44:39.123496",
+        "annotation": "",
+        "entry": "are-",
+        "id": 259342,
+        "language": "/api/v1/language/maria-maiagolo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259342/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "sleep",
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2018-05-24T02:44:42.233898",
@@ -1824,18 +1824,6 @@
         "word": "/api/v1/word/bush/"
     },
     {
-        "added": "2018-05-24T02:44:40.563746",
-        "annotation": "",
-        "entry": "ne-",
-        "id": 259537,
-        "language": "/api/v1/language/maria-maiagolo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259537/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "go",
-        "word": "/api/v1/word/go/"
-    },
-    {
         "added": "2018-05-24T02:44:38.178067",
         "annotation": "",
         "entry": "ne-",
@@ -1846,6 +1834,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "walk",
         "word": "/api/v1/word/to-walk/"
+    },
+    {
+        "added": "2018-05-24T02:44:40.563746",
+        "annotation": "",
+        "entry": "ne-",
+        "id": 259537,
+        "language": "/api/v1/language/maria-maiagolo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259537/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "go",
+        "word": "/api/v1/word/go/"
     },
     {
         "added": "2018-05-24T02:44:39.393835",
@@ -2532,18 +2532,6 @@
         "word": "/api/v1/word/path/"
     },
     {
-        "added": "2018-05-24T02:44:45.314316",
-        "annotation": "",
-        "entry": "that + ro",
-        "id": 260227,
-        "language": "/api/v1/language/maria-maiagolo/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260227/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "there (distant)",
-        "word": "/api/v1/word/there-distant/"
-    },
-    {
         "added": "2018-05-24T02:44:45.252830",
         "annotation": "",
         "entry": "that + ro",
@@ -2554,6 +2542,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "there (lohap)",
         "word": "/api/v1/word/there-lohap/"
+    },
+    {
+        "added": "2018-05-24T02:44:45.314316",
+        "annotation": "",
+        "entry": "that + ro",
+        "id": 260227,
+        "language": "/api/v1/language/maria-maiagolo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260227/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "there (distant)",
+        "word": "/api/v1/word/there-distant/"
     },
     {
         "added": "2018-05-24T02:44:45.167639",

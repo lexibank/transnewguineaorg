@@ -228,7 +228,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 263_hole,hole,1667,HOLE
 264_house,house,1252,HOUSE
 265_tohurt,to hurt,2411,HURT (SOMEBODY)
-266_interior,interior,1606,INSIDE
 267_knife,knife,1352,KNIFE
 268_light,light,630,LIGHT (RADIATION)
 269_loose,loose,2506,LOOSE
@@ -277,7 +276,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 498_medialverbsuffixds,Medial Verb Suffix DS,,
 499_medialsequentialsuffixhavingfinishedthatandthen,"Medial Sequential Suffix (having finished that, and then)",,
 506_medialssverbsuffix,Medial SS Verb Suffix,,
-508_interrogativeparticlegenerallysuffixedtosubject,interrogative particle ((generally suffixed to subject)),,
 511_forbenefactivecliticisedorsuffixedtonoun,for (benefactive) ((cliticised or suffixed to noun)),,
 791_thigh,thigh,800,THIGH
 792_son,son,1620,SON
@@ -295,7 +293,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 806_navel,navel,1838,NAVEL
 807_trunkoftree,trunk (of tree),776,TRUNK OF TREE
 808_yesterdaytomorrow,"yesterday, tomorrow",,
-809_daybeforeyesterdaydayaftertomorrow,"day before yesterday, day after tomorrow",,
 810_predicativepossessivesuffix,predicative possessive suffix,,
 812_toscrapeoff,to scrape off,1767,SCRAPE
 813_todrill,to drill,1501,BORE
@@ -320,13 +317,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 842_topourout,to pour out,1487,POUR
 843_tobuysellbarter,"to buy, sell, barter",,
 845_siblingsamesexyounger,"sibling, same sex, younger",3038,SAME-SEX YOUNGER SIBLING
-846_toeatdrink,"to eat, drink",,
 847_noosetrapnet,"noose, trap, net",1075,TRAP (PITFALL)
 849_todomake,"to do, make",813,DO
 850_workn,work (n),984,WORK (LABOUR)
 851_tosneeze,to sneeze,1621,SNEEZE
 853_tochew,to chew,321,CHEW
-855_forbenefactivecliticisedorsuffixedtonoun,"for, benefactive (cliticised or suffixed to noun)",,
 856_or,or,1014,OR
 857_siblingsamesexolder,"sibling, same sex, older",3037,SAME-SEX OLDER SIBLING
 858_clothclothes,"cloth, clothes",1895,CLOTHES
@@ -605,7 +600,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1629_faceforehead,"face, forehead",,
 1631_fatherinlaw,father-in-law,1055,FATHER-IN-LAW
 1633_feast,feast,,
-1634_femalesexorgan,female sex organ,2260,FEMALE (OF PERSON)
 1637_firefly,firefly,206,FIREFLY
 1639_flame,flame,889,FLAME
 1640_flysp,fly sp.,1504,FLY (INSECT)
@@ -682,7 +676,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1770_torch,torch,1919,TORCH
 1773_treebase,tree base,,
 1774_twodaysagoorhence,two days ago or hence,,
-1775_upperpartoftree,upper part (of tree),,
 1776_urchin,urchin,,
 1779_waist,waist,1681,WAIST
 1781_walkingstick,walking stick,1296,WALKING STICK
@@ -950,7 +943,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2192_teeth,teeth,1380,TOOTH
 2193_meatgame,meat (game),,
 2194_muscle,muscle,1004,MUSCLE
-2195_feaces,feaces,,
 2196_scrotum,scrotum,797,TESTICLES
 2197_lowerback,lower back,,
 2198_ash,ash,646,ASH
@@ -1020,7 +1012,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2264_beunwilling,be unwilling,,
 2265_tosuckatbreast,to suck at breast,,
 2266_nipple,nipple,796,NIPPLE
-2267_tocall,to call,1084,CALL
 2268_backbone,backbone,805,SPINE
 2269_youngman,young man,76,YOUNG MAN
 2270_mouse,mouse,1491,MOUSE
@@ -1129,7 +1120,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2477_belt,belt,772,BELT
 2478_crossbelt,crossbelt,,
 2479_breastornament,breast ornament,,
-2480_buttock,buttock,834,BUTTOCKS
 2481_cap,cap,1288,CAP
 2482_cicatrix,cicatrix,497,SCAR
 2483_earornament,ear ornament,,

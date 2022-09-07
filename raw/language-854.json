@@ -300,18 +300,6 @@
         "word": "/api/v1/word/fur/"
     },
     {
-        "added": "2018-05-24T02:44:31.061805",
-        "annotation": "",
-        "entry": "\u02c8aura",
-        "id": 258258,
-        "language": "/api/v1/language/maria-uderi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258258/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "wind",
-        "word": "/api/v1/word/wind/"
-    },
-    {
         "added": "2018-05-24T02:44:28.219629",
         "annotation": "",
         "entry": "\u02c8aura",
@@ -322,6 +310,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "blood",
         "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2018-05-24T02:44:31.061805",
+        "annotation": "",
+        "entry": "\u02c8aura",
+        "id": 258258,
+        "language": "/api/v1/language/maria-uderi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258258/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "wind",
+        "word": "/api/v1/word/wind/"
     },
     {
         "added": "2018-05-24T02:44:31.163431",
@@ -1440,18 +1440,6 @@
         "word": "/api/v1/word/ground/"
     },
     {
-        "added": "2018-05-24T02:44:30.181213",
-        "annotation": "",
-        "entry": "\u02c8oru",
-        "id": 258145,
-        "language": "/api/v1/language/maria-uderi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258145/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "river",
-        "word": "/api/v1/word/river/"
-    },
-    {
         "added": "2018-05-24T02:44:30.078772",
         "annotation": "",
         "entry": "\u02c8oru",
@@ -1462,6 +1450,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2018-05-24T02:44:30.181213",
+        "annotation": "",
+        "entry": "\u02c8oru",
+        "id": 258145,
+        "language": "/api/v1/language/maria-uderi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258145/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "river",
+        "word": "/api/v1/word/river/"
     },
     {
         "added": "2018-05-24T02:44:34.247340",
@@ -1476,18 +1476,6 @@
         "word": "/api/v1/word/fish/"
     },
     {
-        "added": "2018-05-24T02:44:23.021674",
-        "annotation": "",
-        "entry": "\u02c8oue",
-        "id": 257268,
-        "language": "/api/v1/language/maria-uderi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257268/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "woman",
-        "word": "/api/v1/word/woman/"
-    },
-    {
         "added": "2018-05-24T02:44:23.712529",
         "annotation": "",
         "entry": "\u02c8oue",
@@ -1498,6 +1486,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "wife",
         "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2018-05-24T02:44:23.021674",
+        "annotation": "",
+        "entry": "\u02c8oue",
+        "id": 257268,
+        "language": "/api/v1/language/maria-uderi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257268/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "woman",
+        "word": "/api/v1/word/woman/"
     },
     {
         "added": "2018-05-24T02:44:35.044787",
@@ -1776,18 +1776,6 @@
         "word": "/api/v1/word/we-incl/"
     },
     {
-        "added": "2018-05-24T02:44:29.968971",
-        "annotation": "",
-        "entry": "\u02c8uruha",
-        "id": 258119,
-        "language": "/api/v1/language/maria-uderi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258119/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "evening",
-        "word": "/api/v1/word/evening/"
-    },
-    {
         "added": "2018-05-24T02:44:29.750148",
         "annotation": "",
         "entry": "\u02c8uruha",
@@ -1798,6 +1786,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "night",
         "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2018-05-24T02:44:29.968971",
+        "annotation": "",
+        "entry": "\u02c8uruha",
+        "id": 258119,
+        "language": "/api/v1/language/maria-uderi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258119/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "evening",
+        "word": "/api/v1/word/evening/"
     },
     {
         "added": "2018-05-24T02:44:29.867553",

@@ -792,18 +792,6 @@
         "word": "/api/v1/word/chin/"
     },
     {
-        "added": "2013-11-29T19:34:52.746292",
-        "annotation": "",
-        "entry": "(a)v\u00e9(n\u00e1)",
-        "id": 74659,
-        "language": "/api/v1/language/inoke-yate/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74659/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2013-11-29T19:34:44.875022",
         "annotation": "",
         "entry": "(a)v\u00e9(n\u00e1)",
@@ -814,6 +802,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/horn/"
+    },
+    {
+        "added": "2013-11-29T19:34:52.746292",
+        "annotation": "",
+        "entry": "(a)v\u00e9(n\u00e1)",
+        "id": 74659,
+        "language": "/api/v1/language/inoke-yate/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74659/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
     },
     {
         "added": "2013-11-29T19:34:54.611497",

@@ -72,18 +72,6 @@
         "word": "/api/v1/word/to-sleep/"
     },
     {
-        "added": "2014-09-22T03:11:53.211386",
-        "annotation": null,
-        "entry": "aita",
-        "id": 175592,
-        "language": "/api/v1/language/ogea/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/175592/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "woman",
-        "word": "/api/v1/word/woman/"
-    },
-    {
         "added": "2014-09-22T03:11:58.898701",
         "annotation": null,
         "entry": "aita",
@@ -94,6 +82,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "female",
         "word": "/api/v1/word/female/"
+    },
+    {
+        "added": "2014-09-22T03:11:53.211386",
+        "annotation": null,
+        "entry": "aita",
+        "id": 175592,
+        "language": "/api/v1/language/ogea/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/175592/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "woman",
+        "word": "/api/v1/word/woman/"
     },
     {
         "added": "2014-09-22T03:11:53.466501",
@@ -1056,18 +1056,6 @@
         "word": "/api/v1/word/slow/"
     },
     {
-        "added": "2014-09-22T03:12:09.804544",
-        "annotation": null,
-        "entry": "four\u025b-",
-        "id": 183392,
-        "language": "/api/v1/language/ogea/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183392/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to break (across)",
-        "word": "/api/v1/word/to-break/"
-    },
-    {
         "added": "2014-09-22T03:12:09.907940",
         "annotation": null,
         "entry": "four\u025b-",
@@ -1078,6 +1066,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "to split",
         "word": "/api/v1/word/to-split/"
+    },
+    {
+        "added": "2014-09-22T03:12:09.804544",
+        "annotation": null,
+        "entry": "four\u025b-",
+        "id": 183392,
+        "language": "/api/v1/language/ogea/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183392/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to break (across)",
+        "word": "/api/v1/word/to-break/"
     },
     {
         "added": "2014-09-22T03:12:08.827615",
@@ -1452,18 +1452,6 @@
         "word": "/api/v1/word/sea/"
     },
     {
-        "added": "2014-09-22T03:11:56.351692",
-        "annotation": null,
-        "entry": "hewe",
-        "id": 176997,
-        "language": "/api/v1/language/ogea/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176997/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "buttocks",
-        "word": "/api/v1/word/buttocks/"
-    },
-    {
         "added": "2014-09-22T03:11:57.963502",
         "annotation": null,
         "entry": "hewe",
@@ -1474,6 +1462,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "excrement",
         "word": "/api/v1/word/faeces/"
+    },
+    {
+        "added": "2014-09-22T03:11:56.351692",
+        "annotation": null,
+        "entry": "hewe",
+        "id": 176997,
+        "language": "/api/v1/language/ogea/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176997/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "buttocks",
+        "word": "/api/v1/word/buttocks/"
     },
     {
         "added": "2014-09-22T03:11:54.000493",
@@ -2316,18 +2316,6 @@
         "word": "/api/v1/word/chin/"
     },
     {
-        "added": "2014-09-22T03:11:54.406982",
-        "annotation": null,
-        "entry": "-m\u025b",
-        "id": 176188,
-        "language": "/api/v1/language/ogea/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/176188/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "3sg gen",
-        "word": "/api/v1/word/his/"
-    },
-    {
         "added": "2014-09-22T03:11:52.852858",
         "annotation": null,
         "entry": "-m\u025b",
@@ -2338,6 +2326,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "PossessiveMarker",
         "word": "/api/v1/word/possessive-marker/"
+    },
+    {
+        "added": "2014-09-22T03:11:54.406982",
+        "annotation": null,
+        "entry": "-m\u025b",
+        "id": 176188,
+        "language": "/api/v1/language/ogea/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/176188/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "3sg gen",
+        "word": "/api/v1/word/his/"
     },
     {
         "added": "2014-09-22T03:12:02.857551",
@@ -2424,18 +2424,6 @@
         "word": "/api/v1/word/short-piece-wood/"
     },
     {
-        "added": "2014-09-22T03:11:58.422072",
-        "annotation": null,
-        "entry": "m\u028cla",
-        "id": 178018,
-        "language": "/api/v1/language/ogea/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/178018/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "tail (of bird)",
-        "word": "/api/v1/word/tail/"
-    },
-    {
         "added": "2014-09-22T03:11:58.779950",
         "annotation": null,
         "entry": "m\u028cla",
@@ -2445,6 +2433,18 @@
         "resource_uri": "/api/v1/lexicon/178196/",
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "tail (of dog)",
+        "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2014-09-22T03:11:58.422072",
+        "annotation": null,
+        "entry": "m\u028cla",
+        "id": 178018,
+        "language": "/api/v1/language/ogea/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/178018/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "tail (of bird)",
         "word": "/api/v1/word/tail/"
     },
     {
@@ -3360,18 +3360,6 @@
         "word": "/api/v1/word/to-burn/"
     },
     {
-        "added": "2014-09-22T03:11:58.488240",
-        "annotation": null,
-        "entry": "p\u028ctu",
-        "id": 178051,
-        "language": "/api/v1/language/ogea/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/178051/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "egg",
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2014-09-22T03:12:01.008688",
         "annotation": null,
         "entry": "p\u028ctu",
@@ -3382,6 +3370,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "fruit",
         "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2014-09-22T03:11:58.488240",
+        "annotation": null,
+        "entry": "p\u028ctu",
+        "id": 178051,
+        "language": "/api/v1/language/ogea/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/178051/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2014-09-22T03:12:09.377839",
@@ -3492,18 +3492,6 @@
         "word": "/api/v1/word/pot/"
     },
     {
-        "added": "2014-09-22T03:12:10.198696",
-        "annotation": null,
-        "entry": "tau-",
-        "id": 183584,
-        "language": "/api/v1/language/ogea/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/183584/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "to bury",
-        "word": "/api/v1/word/to-bury/"
-    },
-    {
         "added": "2014-09-22T03:12:10.251439",
         "annotation": null,
         "entry": "tau-",
@@ -3514,6 +3502,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "plant",
         "word": "/api/v1/word/to-plant/"
+    },
+    {
+        "added": "2014-09-22T03:12:10.198696",
+        "annotation": null,
+        "entry": "tau-",
+        "id": 183584,
+        "language": "/api/v1/language/ogea/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/183584/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "to bury",
+        "word": "/api/v1/word/to-bury/"
     },
     {
         "added": "2014-09-22T03:12:08.769713",
@@ -4104,18 +4104,6 @@
         "word": "/api/v1/word/axe/"
     },
     {
-        "added": "2014-09-22T03:12:03.217002",
-        "annotation": null,
-        "entry": "y\u028cge",
-        "id": 180364,
-        "language": "/api/v1/language/ogea/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/180364/",
-        "source": "/api/v1/source/zgraggen-1980-raicoast/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-09-22T03:12:03.160414",
         "annotation": null,
         "entry": "y\u028cge",
@@ -4126,6 +4114,18 @@
         "source": "/api/v1/source/zgraggen-1980-raicoast/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2014-09-22T03:12:03.217002",
+        "annotation": null,
+        "entry": "y\u028cge",
+        "id": 180364,
+        "language": "/api/v1/language/ogea/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/180364/",
+        "source": "/api/v1/source/zgraggen-1980-raicoast/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
     },
     {
         "added": "2014-09-22T03:11:58.021882",

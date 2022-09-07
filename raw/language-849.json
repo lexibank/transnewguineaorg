@@ -480,18 +480,6 @@
         "word": "/api/v1/word/arise/"
     },
     {
-        "added": "2018-05-24T02:44:38.154758",
-        "annotation": "",
-        "entry": "di-",
-        "id": 259243,
-        "language": "/api/v1/language/doromu-bareika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259243/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "walk",
-        "word": "/api/v1/word/to-walk/"
-    },
-    {
         "added": "2018-05-24T02:44:40.542249",
         "annotation": "",
         "entry": "di-",
@@ -502,6 +490,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "go",
         "word": "/api/v1/word/go/"
+    },
+    {
+        "added": "2018-05-24T02:44:38.154758",
+        "annotation": "",
+        "entry": "di-",
+        "id": 259243,
+        "language": "/api/v1/language/doromu-bareika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259243/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "walk",
+        "word": "/api/v1/word/to-walk/"
     },
     {
         "added": "2018-05-24T02:44:35.613172",
@@ -948,18 +948,6 @@
         "word": "/api/v1/word/they/"
     },
     {
-        "added": "2018-05-24T02:44:37.571514",
-        "annotation": "",
-        "entry": "iri-",
-        "id": 259160,
-        "language": "/api/v1/language/doromu-bareika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259160/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "drink",
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2018-05-24T02:44:37.481389",
         "annotation": "",
         "entry": "iri-",
@@ -970,6 +958,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "eat",
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2018-05-24T02:44:37.571514",
+        "annotation": "",
+        "entry": "iri-",
+        "id": 259160,
+        "language": "/api/v1/language/doromu-bareika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259160/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2018-05-24T02:44:31.323594",
@@ -1296,18 +1296,6 @@
         "word": "/api/v1/word/fence/"
     },
     {
-        "added": "2018-05-24T02:44:30.031440",
-        "annotation": "",
-        "entry": "\u02c8kou",
-        "id": 258126,
-        "language": "/api/v1/language/doromu-bareika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258126/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "water",
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2018-05-24T02:44:30.131883",
         "annotation": "",
         "entry": "\u02c8kou",
@@ -1318,6 +1306,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "river",
         "word": "/api/v1/word/river/"
+    },
+    {
+        "added": "2018-05-24T02:44:30.031440",
+        "annotation": "",
+        "entry": "\u02c8kou",
+        "id": 258126,
+        "language": "/api/v1/language/doromu-bareika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258126/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2018-05-24T02:44:43.418758",
@@ -1980,18 +1980,6 @@
         "word": "/api/v1/word/three/"
     },
     {
-        "added": "2018-05-24T02:44:22.956552",
-        "annotation": "",
-        "entry": "\u02c8rema",
-        "id": 257261,
-        "language": "/api/v1/language/doromu-bareika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/257261/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "woman",
-        "word": "/api/v1/word/woman/"
-    },
-    {
         "added": "2018-05-24T02:44:23.662758",
         "annotation": "",
         "entry": "\u02c8rema",
@@ -2002,6 +1990,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "wife",
         "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2018-05-24T02:44:22.956552",
+        "annotation": "",
+        "entry": "\u02c8rema",
+        "id": 257261,
+        "language": "/api/v1/language/doromu-bareika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/257261/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "woman",
+        "word": "/api/v1/word/woman/"
     },
     {
         "added": "2018-05-24T02:44:23.387547",
@@ -2364,18 +2364,6 @@
         "word": "/api/v1/word/to-draw-water/"
     },
     {
-        "added": "2018-05-24T02:44:41.371845",
-        "annotation": "",
-        "entry": "u-",
-        "id": 259655,
-        "language": "/api/v1/language/doromu-bareika/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259655/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "shoot",
-        "word": "/api/v1/word/to-shoot/"
-    },
-    {
         "added": "2018-05-24T02:44:38.762264",
         "annotation": "",
         "entry": "u-",
@@ -2386,6 +2374,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "hit (with hand)",
         "word": "/api/v1/word/to-hit/"
+    },
+    {
+        "added": "2018-05-24T02:44:41.371845",
+        "annotation": "",
+        "entry": "u-",
+        "id": 259655,
+        "language": "/api/v1/language/doromu-bareika/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259655/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "shoot",
+        "word": "/api/v1/word/to-shoot/"
     },
     {
         "added": "2018-05-24T02:44:46.479083",

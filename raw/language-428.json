@@ -12,18 +12,6 @@
         "word": "/api/v1/word/to-rain/"
     },
     {
-        "added": "2013-06-19T22:08:49.250620",
-        "annotation": "",
-        "entry": "amiga",
-        "id": 28186,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28186/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ashes/"
-    },
-    {
         "added": "2013-11-19T03:55:52.331482",
         "annotation": "ashes",
         "entry": "amiga",
@@ -32,6 +20,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/47596/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2013-06-19T22:08:49.250620",
+        "annotation": "",
+        "entry": "amiga",
+        "id": 28186,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28186/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/ashes/"
     },
@@ -48,18 +48,6 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2014-07-30T23:28:29.811461",
-        "annotation": null,
-        "entry": "bende",
-        "id": 155354,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/155354/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "nose",
-        "word": "/api/v1/word/nose/"
-    },
-    {
         "added": "2013-11-19T03:56:20.888357",
         "annotation": "nose",
         "entry": "bende",
@@ -72,16 +60,16 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2013-11-19T03:55:54.543080",
-        "annotation": "bird",
-        "entry": "di",
-        "id": 48001,
+        "added": "2014-07-30T23:28:29.811461",
+        "annotation": null,
+        "entry": "bende",
+        "id": 155354,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/48001/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
+        "resource_uri": "/api/v1/lexicon/155354/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
     },
     {
         "added": "2014-07-30T23:28:36.469108",
@@ -93,6 +81,18 @@
         "resource_uri": "/api/v1/lexicon/157443/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2013-11-19T03:55:54.543080",
+        "annotation": "bird",
+        "entry": "di",
+        "id": 48001,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48001/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/bird/"
     },
     {
@@ -168,15 +168,15 @@
         "word": "/api/v1/word/man/"
     },
     {
-        "added": "2013-11-19T03:55:56.989271",
-        "annotation": "breast",
+        "added": "2014-07-30T23:28:40.389183",
+        "annotation": null,
         "entry": "emi",
-        "id": 48439,
+        "id": 158664,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/48439/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/158664/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "breast",
         "word": "/api/v1/word/breast/"
     },
     {
@@ -192,28 +192,16 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2014-07-30T23:28:40.389183",
-        "annotation": null,
+        "added": "2013-11-19T03:55:56.989271",
+        "annotation": "breast",
         "entry": "emi",
-        "id": 158664,
+        "id": 48439,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/158664/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "breast",
+        "resource_uri": "/api/v1/lexicon/48439/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
         "word": "/api/v1/word/breast/"
-    },
-    {
-        "added": "2014-07-30T23:28:33.876502",
-        "annotation": null,
-        "entry": "e\u0180ohu",
-        "id": 156637,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/156637/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "woman",
-        "word": "/api/v1/word/woman/"
     },
     {
         "added": "2013-06-19T22:08:49.111906",
@@ -225,6 +213,18 @@
         "resource_uri": "/api/v1/lexicon/28175/",
         "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
+        "word": "/api/v1/word/woman/"
+    },
+    {
+        "added": "2014-07-30T23:28:33.876502",
+        "annotation": null,
+        "entry": "e\u0180ohu",
+        "id": 156637,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/156637/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "woman",
         "word": "/api/v1/word/woman/"
     },
     {
@@ -288,18 +288,6 @@
         "word": "/api/v1/word/rain/"
     },
     {
-        "added": "2013-11-19T03:56:14.188236",
-        "annotation": "leaf",
-        "entry": "gigi",
-        "id": 51501,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/51501/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/leaf/"
-    },
-    {
         "added": "2013-06-19T22:10:23.242768",
         "annotation": "",
         "entry": "gigi",
@@ -312,16 +300,16 @@
         "word": "/api/v1/word/leaf/"
     },
     {
-        "added": "2013-11-19T03:56:28.577741",
-        "annotation": "skin",
-        "entry": "hamo",
-        "id": 54026,
+        "added": "2013-11-19T03:56:14.188236",
+        "annotation": "leaf",
+        "entry": "gigi",
+        "id": 51501,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/54026/",
+        "resource_uri": "/api/v1/lexicon/51501/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/skin/"
+        "word": "/api/v1/word/leaf/"
     },
     {
         "added": "2013-06-19T22:08:49.052637",
@@ -332,6 +320,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28171/",
         "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2013-11-19T03:56:28.577741",
+        "annotation": "skin",
+        "entry": "hamo",
+        "id": 54026,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/54026/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
     },
@@ -360,18 +360,6 @@
         "word": "/api/v1/word/moon/"
     },
     {
-        "added": "2013-11-19T03:55:53.861633",
-        "annotation": "belly",
-        "entry": "hini",
-        "id": 47875,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/47875/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/belly/"
-    },
-    {
         "added": "2013-06-19T22:08:49.041231",
         "annotation": "",
         "entry": "hini",
@@ -380,6 +368,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28170/",
         "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2013-11-19T03:55:53.861633",
+        "annotation": "belly",
+        "entry": "hini",
+        "id": 47875,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/47875/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/belly/"
     },
@@ -492,18 +492,6 @@
         "word": "/api/v1/word/hand/"
     },
     {
-        "added": "2013-11-19T03:56:02.352835",
-        "annotation": "dog",
-        "entry": "in\u00f5",
-        "id": 49381,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49381/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2013-06-19T22:08:49.131850",
         "annotation": "",
         "entry": "in\u00f5",
@@ -516,16 +504,16 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2013-06-19T22:08:49.241306",
-        "annotation": "",
-        "entry": "iposi",
-        "id": 28185,
+        "added": "2013-11-19T03:56:02.352835",
+        "annotation": "dog",
+        "entry": "in\u00f5",
+        "id": 49381,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/28185/",
-        "source": "/api/v1/source/wilson-1969/",
+        "resource_uri": "/api/v1/lexicon/49381/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/smoke/"
+        "word": "/api/v1/word/dog/"
     },
     {
         "added": "2013-11-19T03:56:29.489621",
@@ -536,6 +524,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/54197/",
         "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2013-06-19T22:08:49.241306",
+        "annotation": "",
+        "entry": "iposi",
+        "id": 28185,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28185/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/smoke/"
     },
@@ -564,6 +564,18 @@
         "word": "/api/v1/word/small/"
     },
     {
+        "added": "2013-06-19T22:08:49.359548",
+        "annotation": "",
+        "entry": "izi",
+        "id": 28193,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28193/",
+        "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sun/"
+    },
+    {
         "added": "2014-07-30T23:28:41.337101",
         "annotation": null,
         "entry": "izi",
@@ -585,18 +597,6 @@
         "resource_uri": "/api/v1/lexicon/157190/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "sun",
-        "word": "/api/v1/word/sun/"
-    },
-    {
-        "added": "2013-06-19T22:08:49.359548",
-        "annotation": "",
-        "entry": "izi",
-        "id": 28193,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28193/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
         "word": "/api/v1/word/sun/"
     },
     {
@@ -636,14 +636,14 @@
         "word": "/api/v1/word/tree-base/"
     },
     {
-        "added": "2013-06-19T22:08:49.162991",
-        "annotation": "",
+        "added": "2013-11-19T03:56:31.530325",
+        "annotation": "stone",
         "entry": "kalu",
-        "id": 28179,
+        "id": 54577,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/28179/",
-        "source": "/api/v1/source/wilson-1969/",
+        "resource_uri": "/api/v1/lexicon/54577/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
     },
@@ -660,14 +660,26 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2013-11-19T03:56:31.530325",
-        "annotation": "stone",
+        "added": "2013-06-19T22:08:49.162991",
+        "annotation": "",
         "entry": "kalu",
-        "id": 54577,
+        "id": 28179,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/54577/",
-        "source": "/api/v1/source/smallhorn-2011/",
+        "resource_uri": "/api/v1/lexicon/28179/",
+        "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2013-06-19T22:08:49.172860",
+        "annotation": "",
+        "entry": "koro",
+        "id": 28180,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28180/",
+        "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
     },
@@ -681,18 +693,6 @@
         "resource_uri": "/api/v1/lexicon/157473/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "stone",
-        "word": "/api/v1/word/stone/"
-    },
-    {
-        "added": "2013-06-19T22:08:49.172860",
-        "annotation": "",
-        "entry": "koro",
-        "id": 28180,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28180/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
         "word": "/api/v1/word/stone/"
     },
     {
@@ -792,6 +792,18 @@
         "word": "/api/v1/word/knee/"
     },
     {
+        "added": "2014-07-30T23:28:30.433647",
+        "annotation": null,
+        "entry": "pe",
+        "id": 155551,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/155551/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "mouth",
+        "word": "/api/v1/word/mouth/"
+    },
+    {
         "added": "2013-11-19T03:56:19.021954",
         "annotation": "mouth",
         "entry": "pe",
@@ -816,16 +828,16 @@
         "word": "/api/v1/word/mouth/"
     },
     {
-        "added": "2014-07-30T23:28:30.433647",
-        "annotation": null,
-        "entry": "pe",
-        "id": 155551,
+        "added": "2013-06-19T22:08:49.202458",
+        "annotation": "",
+        "entry": "peni",
+        "id": 28181,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/155551/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "mouth",
-        "word": "/api/v1/word/mouth/"
+        "resource_uri": "/api/v1/lexicon/28181/",
+        "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/big/"
     },
     {
         "added": "2013-11-19T03:55:54.359964",
@@ -840,16 +852,16 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2013-06-19T22:08:49.202458",
-        "annotation": "",
-        "entry": "peni",
-        "id": 28181,
+        "added": "2014-07-30T23:28:36.347176",
+        "annotation": null,
+        "entry": "ti",
+        "id": 157405,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/28181/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/big/"
+        "resource_uri": "/api/v1/lexicon/157405/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
     },
     {
         "added": "2013-11-19T03:56:35.077425",
@@ -861,18 +873,6 @@
         "resource_uri": "/api/v1/lexicon/55237/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
-        "added": "2014-07-30T23:28:36.347176",
-        "annotation": null,
-        "entry": "ti",
-        "id": 157405,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/157405/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "tooth",
         "word": "/api/v1/word/tooth/"
     },
     {
@@ -888,15 +888,15 @@
         "word": "/api/v1/word/tooth/"
     },
     {
-        "added": "2014-07-30T23:28:34.896383",
-        "annotation": null,
+        "added": "2013-06-19T22:08:49.020681",
+        "annotation": "",
         "entry": "tihi",
-        "id": 156950,
+        "id": 28168,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/156950/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "eye",
+        "resource_uri": "/api/v1/lexicon/28168/",
+        "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
         "word": "/api/v1/word/eye/"
     },
     {
@@ -912,15 +912,15 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2013-06-19T22:08:49.020681",
-        "annotation": "",
+        "added": "2014-07-30T23:28:34.896383",
+        "annotation": null,
         "entry": "tihi",
-        "id": 28168,
+        "id": 156950,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/28168/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/156950/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "eye",
         "word": "/api/v1/word/eye/"
     },
     {
@@ -948,18 +948,6 @@
         "word": "/api/v1/word/neck/"
     },
     {
-        "added": "2013-11-19T03:56:11.482463",
-        "annotation": "head",
-        "entry": "uha",
-        "id": 51020,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/51020/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/head/"
-    },
-    {
         "added": "2013-06-19T22:08:48.964847",
         "annotation": "",
         "entry": "uha",
@@ -968,6 +956,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/28165/",
         "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2013-11-19T03:56:11.482463",
+        "annotation": "head",
+        "entry": "uha",
+        "id": 51020,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/51020/",
+        "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/head/"
     },
@@ -1008,18 +1008,6 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2013-06-19T22:08:49.349352",
-        "annotation": "foot",
-        "entry": "utu",
-        "id": 28192,
-        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/28192/",
-        "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": "foot",
-        "word": "/api/v1/word/foot/"
-    },
-    {
         "added": "2013-11-19T03:56:14.902157",
         "annotation": "foot",
         "entry": "utu",
@@ -1032,16 +1020,16 @@
         "word": "/api/v1/word/foot/"
     },
     {
-        "added": "2013-06-19T22:08:49.231449",
-        "annotation": "",
-        "entry": "zi",
-        "id": 28184,
+        "added": "2013-06-19T22:08:49.349352",
+        "annotation": "foot",
+        "entry": "utu",
+        "id": 28192,
         "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/28184/",
+        "resource_uri": "/api/v1/lexicon/28192/",
         "source": "/api/v1/source/wilson-1969/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fire/"
+        "source_gloss": "foot",
+        "word": "/api/v1/word/foot/"
     },
     {
         "added": "2013-06-19T22:10:23.221941",
@@ -1054,6 +1042,18 @@
         "source": "/api/v1/source/wilson-1969/",
         "source_gloss": null,
         "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2013-06-19T22:08:49.231449",
+        "annotation": "",
+        "entry": "zi",
+        "id": 28184,
+        "language": "/api/v1/language/orokaiva-jegarata-kakendetta/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/28184/",
+        "source": "/api/v1/source/wilson-1969/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2014-07-30T23:28:35.614899",

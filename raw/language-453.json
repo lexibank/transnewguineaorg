@@ -116,7 +116,7 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50762/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
+        "source_gloss": "grandfather, grandchild",
         "word": "/api/v1/word/grandfather/"
     },
     {
@@ -260,8 +260,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50144/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/female-sex-organ/"
+        "source_gloss": "female sex organ",
+        "word": "/api/v1/word/vagina/"
     },
     {
         "added": "2013-11-19T03:56:02.988585",
@@ -564,18 +564,6 @@
         "word": "/api/v1/word/bamboo/"
     },
     {
-        "added": "2013-11-19T03:56:07.337712",
-        "annotation": "embers of a fire",
-        "entry": "awa[raka]",
-        "id": 50276,
-        "language": "/api/v1/language/korafe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/50276/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fire/"
-    },
-    {
         "added": "2013-11-19T03:55:57.767596",
         "annotation": "embers of a fire",
         "entry": "awa[raka]",
@@ -586,6 +574,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2013-11-19T03:56:07.337712",
+        "annotation": "embers of a fire",
+        "entry": "awa[raka]",
+        "id": 50276,
+        "language": "/api/v1/language/korafe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/50276/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2013-11-19T03:56:18.499685",
@@ -648,18 +648,6 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2013-11-19T03:56:29.023279",
-        "annotation": "to sleep",
-        "entry": "a'\u03b2ari",
-        "id": 54112,
-        "language": "/api/v1/language/korafe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/54112/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2013-11-19T03:55:57.772859",
         "annotation": "fire to burn; fire to be ignited; food to be cooked",
         "entry": "a'\u03b2ari",
@@ -670,6 +658,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2013-11-19T03:56:29.023279",
+        "annotation": "to sleep",
+        "entry": "a'\u03b2ari",
+        "id": 54112,
+        "language": "/api/v1/language/korafe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/54112/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2013-11-19T03:56:39.451125",
@@ -1848,18 +1848,6 @@
         "word": "/api/v1/word/uncle/"
     },
     {
-        "added": "2013-11-19T03:56:14.085309",
-        "annotation": "cloth; lavalava, women's clothing or skirts",
-        "entry": "'\u1ebdbo",
-        "id": 51482,
-        "language": "/api/v1/language/korafe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/51482/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/lavalava-sarong/"
-    },
-    {
         "added": "2013-11-19T03:56:17.287585",
         "annotation": "person, one village group",
         "entry": "'\u1ebdbo",
@@ -1870,6 +1858,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2013-11-19T03:56:14.085309",
+        "annotation": "cloth; lavalava, women's clothing or skirts",
+        "entry": "'\u1ebdbo",
+        "id": 51482,
+        "language": "/api/v1/language/korafe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/51482/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/lavalava-sarong/"
     },
     {
         "added": "2013-11-19T03:56:25.089232",
@@ -2400,7 +2400,7 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2013-11-19T03:56:36.495173",
+        "added": "2022-07-25T22:17:24.889436",
         "annotation": "top of tree, growing part of coconut; end of canoe that one seizes to lift it up",
         "entry": "g\u00f5'bu",
         "id": 55499,
@@ -2409,7 +2409,7 @@
         "resource_uri": "/api/v1/lexicon/55499/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/upper-part-of-tree/"
+        "word": "/api/v1/word/tree-top/"
     },
     {
         "added": "2013-11-19T03:56:15.782232",
@@ -4944,18 +4944,6 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2013-11-19T03:56:02.530979",
-        "annotation": "dog",
-        "entry": "sino",
-        "id": 49415,
-        "language": "/api/v1/language/korafe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49415/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2013-11-19T03:56:02.865886",
         "annotation": "drum",
         "entry": "sino",
@@ -4966,6 +4954,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/drum/"
+    },
+    {
+        "added": "2013-11-19T03:56:02.530979",
+        "annotation": "dog",
+        "entry": "sino",
+        "id": 49415,
+        "language": "/api/v1/language/korafe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/49415/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/dog/"
     },
     {
         "added": "2013-11-19T03:56:02.536217",
@@ -5040,18 +5040,6 @@
         "word": "/api/v1/word/ant/"
     },
     {
-        "added": "2013-11-19T03:56:23.794595",
-        "annotation": "ground sheltered by overhang of roof",
-        "entry": "'sisi",
-        "id": 53156,
-        "language": "/api/v1/language/korafe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53156/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/rafter/"
-    },
-    {
         "added": "2013-11-19T03:56:10.225760",
         "annotation": "grasshopper; locust",
         "entry": "'sisi",
@@ -5062,6 +5050,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/grasshopper/"
+    },
+    {
+        "added": "2013-11-19T03:56:23.794595",
+        "annotation": "ground sheltered by overhang of roof",
+        "entry": "'sisi",
+        "id": 53156,
+        "language": "/api/v1/language/korafe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53156/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rafter/"
     },
     {
         "added": "2013-11-19T03:56:05.246216",

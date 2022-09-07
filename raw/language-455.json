@@ -8,8 +8,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50135/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/female-sex-organ/"
+        "source_gloss": "female sex organ",
+        "word": "/api/v1/word/vagina/"
     },
     {
         "added": "2013-11-19T03:55:52.306182",
@@ -96,7 +96,7 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
-        "added": "2013-11-19T03:56:10.089384",
+        "added": "2022-07-25T22:54:30.983154",
         "annotation": "grandfather",
         "entry": "apie",
         "id": 50769,
@@ -104,8 +104,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50769/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandfather/"
     },
     {
         "added": "2013-11-19T03:56:38.244031",
@@ -120,18 +120,6 @@
         "word": "/api/v1/word/wife/"
     },
     {
-        "added": "2013-11-19T03:56:36.855337",
-        "annotation": "rope",
-        "entry": "asi",
-        "id": 55566,
-        "language": "/api/v1/language/binandere-ambasi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/55566/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/rope/"
-    },
-    {
         "added": "2013-11-19T03:56:31.948262",
         "annotation": "string bag",
         "entry": "asi",
@@ -142,6 +130,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/string-bag/"
+    },
+    {
+        "added": "2013-11-19T03:56:36.855337",
+        "annotation": "rope",
+        "entry": "asi",
+        "id": 55566,
+        "language": "/api/v1/language/binandere-ambasi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/55566/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rope/"
     },
     {
         "added": "2013-11-19T03:56:06.223221",
@@ -492,18 +492,6 @@
         "word": "/api/v1/word/betelnut/"
     },
     {
-        "added": "2013-11-19T03:56:27.930088",
-        "annotation": "sister (of woman)",
-        "entry": "dao",
-        "id": 53905,
-        "language": "/api/v1/language/binandere-ambasi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53905/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sister/"
-    },
-    {
         "added": "2013-11-19T03:56:19.342123",
         "annotation": "name",
         "entry": "dao",
@@ -514,6 +502,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2013-11-19T03:56:27.930088",
+        "annotation": "sister (of woman)",
+        "entry": "dao",
+        "id": 53905,
+        "language": "/api/v1/language/binandere-ambasi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53905/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sister/"
     },
     {
         "added": "2013-11-19T03:56:11.995727",
@@ -924,18 +924,6 @@
         "word": "/api/v1/word/butterfly/"
     },
     {
-        "added": "2013-11-19T03:55:55.227442",
-        "annotation": "black palm",
-        "entry": "goroba",
-        "id": 48124,
-        "language": "/api/v1/language/binandere-ambasi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48124/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/black-palm/"
-    },
-    {
         "added": "2013-11-19T03:56:32.142203",
         "annotation": "strong",
         "entry": "goroba",
@@ -946,6 +934,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/strong/"
+    },
+    {
+        "added": "2013-11-19T03:55:55.227442",
+        "annotation": "black palm",
+        "entry": "goroba",
+        "id": 48124,
+        "language": "/api/v1/language/binandere-ambasi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48124/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/black-palm/"
     },
     {
         "added": "2013-11-19T03:55:52.733348",
@@ -1656,18 +1656,6 @@
         "word": "/api/v1/word/big/"
     },
     {
-        "added": "2013-11-19T03:56:35.502269",
-        "annotation": "wood",
-        "entry": "ni",
-        "id": 55315,
-        "language": "/api/v1/language/binandere-ambasi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/55315/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tree/"
-    },
-    {
         "added": "2013-11-19T03:55:54.508017",
         "annotation": "bird",
         "entry": "ni",
@@ -1678,6 +1666,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2013-11-19T03:56:35.502269",
+        "annotation": "wood",
+        "entry": "ni",
+        "id": 55315,
+        "language": "/api/v1/language/binandere-ambasi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/55315/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
     },
     {
         "added": "2013-11-19T03:56:07.269509",
@@ -1944,18 +1944,6 @@
         "word": "/api/v1/word/sibling-opposite-sex/"
     },
     {
-        "added": "2013-11-19T03:56:02.823827",
-        "annotation": "drum",
-        "entry": "sino",
-        "id": 49464,
-        "language": "/api/v1/language/binandere-ambasi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49464/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/drum/"
-    },
-    {
         "added": "2013-11-19T03:56:02.321071",
         "annotation": "dog",
         "entry": "sino",
@@ -1966,6 +1954,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2013-11-19T03:56:02.823827",
+        "annotation": "drum",
+        "entry": "sino",
+        "id": 49464,
+        "language": "/api/v1/language/binandere-ambasi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/49464/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/drum/"
     },
     {
         "added": "2013-11-19T03:56:02.315855",
@@ -2268,18 +2268,6 @@
         "word": "/api/v1/word/bone/"
     },
     {
-        "added": "2013-11-19T03:56:24.037435",
-        "annotation": "rain",
-        "entry": "wa",
-        "id": 53201,
-        "language": "/api/v1/language/binandere-ambasi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53201/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-rain/"
-    },
-    {
         "added": "2013-11-19T03:55:58.219046",
         "annotation": "boat (canoe)",
         "entry": "wa",
@@ -2290,6 +2278,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/canoe/"
+    },
+    {
+        "added": "2013-11-19T03:56:24.037435",
+        "annotation": "rain",
+        "entry": "wa",
+        "id": 53201,
+        "language": "/api/v1/language/binandere-ambasi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53201/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-rain/"
     },
     {
         "added": "2013-11-19T03:56:12.572740",

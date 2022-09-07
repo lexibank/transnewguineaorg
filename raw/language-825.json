@@ -1020,18 +1020,6 @@
         "word": "/api/v1/word/to-cut/"
     },
     {
-        "added": "2014-07-30T23:28:42.750569",
-        "annotation": null,
-        "entry": "map",
-        "id": 159414,
-        "language": "/api/v1/language/komba/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/159414/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "rain",
-        "word": "/api/v1/word/rain/"
-    },
-    {
         "added": "2014-04-10T20:22:30.561368",
         "annotation": "rain",
         "entry": "map",
@@ -1040,6 +1028,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/90857/",
         "source": "/api/v1/source/mcelhanon-1967/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2014-07-30T23:28:42.750569",
+        "annotation": null,
+        "entry": "map",
+        "id": 159414,
+        "language": "/api/v1/language/komba/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/159414/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
     },
@@ -1608,18 +1608,6 @@
         "word": "/api/v1/word/to-wash/"
     },
     {
-        "added": "2014-04-10T20:22:31.681319",
-        "annotation": "sand",
-        "entry": "sak",
-        "id": 91277,
-        "language": "/api/v1/language/komba/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/91277/",
-        "source": "/api/v1/source/mcelhanon-1967/",
-        "source_gloss": "sand",
-        "word": "/api/v1/word/sand/"
-    },
-    {
         "added": "2014-07-30T23:28:29.410468",
         "annotation": null,
         "entry": "sak",
@@ -1628,6 +1616,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/155234/",
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "sand",
+        "word": "/api/v1/word/sand/"
+    },
+    {
+        "added": "2014-04-10T20:22:31.681319",
+        "annotation": "sand",
+        "entry": "sak",
+        "id": 91277,
+        "language": "/api/v1/language/komba/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/91277/",
+        "source": "/api/v1/source/mcelhanon-1967/",
         "source_gloss": "sand",
         "word": "/api/v1/word/sand/"
     },
@@ -1776,18 +1776,6 @@
         "word": "/api/v1/word/to-tie/"
     },
     {
-        "added": "2014-07-30T23:28:46.071445",
-        "annotation": null,
-        "entry": "si",
-        "id": 160461,
-        "language": "/api/v1/language/komba/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/160461/",
-        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
-        "source_gloss": "to-burn",
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2014-07-30T23:28:34.829157",
         "annotation": null,
         "entry": "si",
@@ -1798,6 +1786,18 @@
         "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
         "source_gloss": "eye",
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2014-07-30T23:28:46.071445",
+        "annotation": null,
+        "entry": "si",
+        "id": 160461,
+        "language": "/api/v1/language/komba/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/160461/",
+        "source": "/api/v1/source/mcelhanon_and_voorhoeve1970/",
+        "source_gloss": "to-burn",
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2014-04-10T20:22:32.464896",

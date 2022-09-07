@@ -600,18 +600,6 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2015-03-05T00:40:57.585327",
-        "annotation": "",
-        "entry": "k\u02b0inum",
-        "id": 202658,
-        "language": "/api/v1/language/setaman-seltamin/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/202658/",
-        "source": "/api/v1/source/van-cott-and-spencer-2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/person/"
-    },
-    {
         "added": "2015-03-05T00:26:10.227267",
         "annotation": "",
         "entry": "k\u02b0inum",
@@ -622,6 +610,18 @@
         "source": "/api/v1/source/van-cott-and-spencer-2010/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2015-03-05T00:40:57.585327",
+        "annotation": "",
+        "entry": "k\u02b0inum",
+        "id": 202658,
+        "language": "/api/v1/language/setaman-seltamin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/202658/",
+        "source": "/api/v1/source/van-cott-and-spencer-2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/person/"
     },
     {
         "added": "2015-03-05T00:26:10.215046",
@@ -1035,13 +1035,25 @@
         "added": "2015-03-05T00:51:14.758030",
         "annotation": "",
         "entry": "\u0251msin",
+        "id": 260768,
+        "language": "/api/v1/language/setaman-seltamin/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260768/",
+        "source": "/api/v1/source/van-cott-and-spencer-2010/",
+        "source_gloss": "day after tomorrow, day before yesterday",
+        "word": "/api/v1/word/day-before-yesterday/"
+    },
+    {
+        "added": "2015-03-05T00:51:14.758030",
+        "annotation": "",
+        "entry": "\u0251msin",
         "id": 202732,
         "language": "/api/v1/language/setaman-seltamin/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/202732/",
         "source": "/api/v1/source/van-cott-and-spencer-2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/day-before-yesterday-day-after-tomorrow/"
+        "source_gloss": "day after tomorrow, day before yesterday",
+        "word": "/api/v1/word/day-after-tomorrow/"
     },
     {
         "added": "2015-03-05T00:51:14.763811",

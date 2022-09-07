@@ -276,18 +276,6 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2015-10-26T12:54:20.774976",
-        "annotation": "",
-        "entry": "em-",
-        "id": 256132,
-        "language": "/api/v1/language/asmat-central-keenakap-namen/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256132/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/to-stand/"
-    },
-    {
         "added": "2015-10-26T12:54:08.735070",
         "annotation": "",
         "entry": "em-",
@@ -298,6 +286,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/to-do-make/"
+    },
+    {
+        "added": "2015-10-26T12:54:20.774976",
+        "annotation": "",
+        "entry": "em-",
+        "id": 256132,
+        "language": "/api/v1/language/asmat-central-keenakap-namen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256132/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-stand/"
     },
     {
         "added": "2015-10-26T12:54:06.442848",
@@ -576,18 +576,6 @@
         "word": "/api/v1/word/grass/"
     },
     {
-        "added": "2015-10-26T12:54:21.933201",
-        "annotation": "",
-        "entry": "imi",
-        "id": 256508,
-        "language": "/api/v1/language/asmat-central-keenakap-namen/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256508/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/top/"
-    },
-    {
         "added": "2015-10-26T12:54:12.916584",
         "annotation": "",
         "entry": "imi",
@@ -598,6 +586,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/full/"
+    },
+    {
+        "added": "2015-10-26T12:54:21.933201",
+        "annotation": "",
+        "entry": "imi",
+        "id": 256508,
+        "language": "/api/v1/language/asmat-central-keenakap-namen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256508/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/top/"
     },
     {
         "added": "2015-10-26T12:54:19.850599",
@@ -1704,18 +1704,6 @@
         "word": "/api/v1/word/you-pl/"
     },
     {
-        "added": "2015-10-26T12:54:12.038002",
-        "annotation": "",
-        "entry": "tare",
-        "id": 253736,
-        "language": "/api/v1/language/asmat-central-keenakap-namen/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253736/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/flying-fox/"
-    },
-    {
         "added": "2015-10-26T12:54:17.591845",
         "annotation": "",
         "entry": "tare",
@@ -1726,6 +1714,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/old/"
+    },
+    {
+        "added": "2015-10-26T12:54:12.038002",
+        "annotation": "",
+        "entry": "tare",
+        "id": 253736,
+        "language": "/api/v1/language/asmat-central-keenakap-namen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253736/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/flying-fox/"
     },
     {
         "added": "2015-10-26T12:54:17.735813",
@@ -1860,6 +1860,18 @@
         "word": "/api/v1/word/leech/"
     },
     {
+        "added": "2015-10-26T12:54:21.697032",
+        "annotation": "",
+        "entry": "to",
+        "id": 256432,
+        "language": "/api/v1/language/asmat-central-keenakap-namen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256432/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/tomorrow/"
+    },
+    {
         "added": "2015-10-26T12:54:14.932578",
         "annotation": "",
         "entry": "to",
@@ -1882,18 +1894,6 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/nest/"
-    },
-    {
-        "added": "2015-10-26T12:54:21.697032",
-        "annotation": "",
-        "entry": "to",
-        "id": 256432,
-        "language": "/api/v1/language/asmat-central-keenakap-namen/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256432/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/tomorrow/"
     },
     {
         "added": "2015-10-26T12:54:16.714573",
@@ -2264,8 +2264,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/252590/",
         "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "to call",
-        "word": "/api/v1/word/call/"
+        "source_gloss": "to call out",
+        "word": "/api/v1/word/to-call-out/"
     },
     {
         "added": "2015-10-26T12:54:07.904869",
@@ -2424,18 +2424,6 @@
         "word": "/api/v1/word/ashes/"
     },
     {
-        "added": "2015-10-26T12:54:13.543472",
-        "annotation": "",
-        "entry": "yu",
-        "id": 253976,
-        "language": "/api/v1/language/asmat-central-keenakap-namen/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253976/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "goura pigeon",
-        "word": "/api/v1/word/crown-pigeon/"
-    },
-    {
         "added": "2015-10-26T12:54:18.717524",
         "annotation": "",
         "entry": "yu",
@@ -2446,6 +2434,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/river/"
+    },
+    {
+        "added": "2015-10-26T12:54:13.543472",
+        "annotation": "",
+        "entry": "yu",
+        "id": 253976,
+        "language": "/api/v1/language/asmat-central-keenakap-namen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253976/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "goura pigeon",
+        "word": "/api/v1/word/crown-pigeon/"
     },
     {
         "added": "2015-10-26T12:54:11.250704",

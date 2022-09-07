@@ -288,18 +288,6 @@
         "word": "/api/v1/word/to-die/"
     },
     {
-        "added": "2014-02-25T04:17:14.126804",
-        "annotation": null,
-        "entry": "fu",
-        "id": 79149,
-        "language": "/api/v1/language/hua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/79149/",
-        "source": "/api/v1/source/xiao-1990/",
-        "source_gloss": null,
-        "word": "/api/v1/word/pig/"
-    },
-    {
         "added": "2014-02-25T04:17:14.124374",
         "annotation": null,
         "entry": "fu",
@@ -310,6 +298,18 @@
         "source": "/api/v1/source/xiao-1990/",
         "source_gloss": null,
         "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2014-02-25T04:17:14.126804",
+        "annotation": null,
+        "entry": "fu",
+        "id": 79149,
+        "language": "/api/v1/language/hua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/79149/",
+        "source": "/api/v1/source/xiao-1990/",
+        "source_gloss": null,
+        "word": "/api/v1/word/pig/"
     },
     {
         "added": "2014-02-25T04:17:14.136423",
@@ -968,8 +968,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/79193/",
         "source": "/api/v1/source/xiao-1990/",
-        "source_gloss": null,
-        "word": "/api/v1/word/for-benefactive/"
+        "source_gloss": "for (benefactive, cliticise or suffixed to noun)",
+        "word": "/api/v1/word/for-benefactive-clitic/"
     },
     {
         "added": "2014-02-25T04:17:14.167674",
@@ -996,18 +996,6 @@
         "word": "/api/v1/word/ghost/"
     },
     {
-        "added": "2014-02-25T04:17:14.243727",
-        "annotation": null,
-        "entry": "  -ve",
-        "id": 79197,
-        "language": "/api/v1/language/hua/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/79197/",
-        "source": "/api/v1/source/xiao-1990/",
-        "source_gloss": null,
-        "word": "/api/v1/word/topic/"
-    },
-    {
         "added": "2014-02-25T04:17:14.255763",
         "annotation": null,
         "entry": "  -ve",
@@ -1018,6 +1006,18 @@
         "source": "/api/v1/source/xiao-1990/",
         "source_gloss": null,
         "word": "/api/v1/word/interrogative/"
+    },
+    {
+        "added": "2014-02-25T04:17:14.243727",
+        "annotation": null,
+        "entry": "  -ve",
+        "id": 79197,
+        "language": "/api/v1/language/hua/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/79197/",
+        "source": "/api/v1/source/xiao-1990/",
+        "source_gloss": null,
+        "word": "/api/v1/word/topic/"
     },
     {
         "added": "2014-02-25T04:17:14.246132",

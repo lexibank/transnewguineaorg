@@ -1068,18 +1068,6 @@
         "word": "/api/v1/word/wing/"
     },
     {
-        "added": "2015-03-19T07:04:58.051679",
-        "annotation": null,
-        "entry": "*ma\u014bgam",
-        "id": 207614,
-        "language": "/api/v1/language/proto-croisilles/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/207614/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "mouth",
-        "word": "/api/v1/word/mouth/"
-    },
-    {
         "added": "2015-03-19T07:04:56.580582",
         "annotation": null,
         "entry": "*ma\u014bgam",
@@ -1090,6 +1078,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "chin",
         "word": "/api/v1/word/chin/"
+    },
+    {
+        "added": "2015-03-19T07:04:58.051679",
+        "annotation": null,
+        "entry": "*ma\u014bgam",
+        "id": 207614,
+        "language": "/api/v1/language/proto-croisilles/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207614/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "mouth",
+        "word": "/api/v1/word/mouth/"
     },
     {
         "added": "2015-03-19T07:05:02.508842",
@@ -1752,18 +1752,6 @@
         "word": "/api/v1/word/wallaby/"
     },
     {
-        "added": "2015-03-19T07:05:03.218513",
-        "annotation": null,
-        "entry": "*si-",
-        "id": 209208,
-        "language": "/api/v1/language/proto-croisilles/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/209208/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "give-1",
-        "word": "/api/v1/word/to-give/"
-    },
-    {
         "added": "2015-03-19T07:05:03.089084",
         "annotation": null,
         "entry": "*si-",
@@ -1774,6 +1762,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "we",
         "word": "/api/v1/word/we/"
+    },
+    {
+        "added": "2015-03-19T07:05:03.218513",
+        "annotation": null,
+        "entry": "*si-",
+        "id": 209208,
+        "language": "/api/v1/language/proto-croisilles/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209208/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "give-1",
+        "word": "/api/v1/word/to-give/"
     },
     {
         "added": "2015-03-19T07:04:59.252928",

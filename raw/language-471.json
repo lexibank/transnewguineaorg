@@ -8,8 +8,8 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50139/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/female-sex-organ/"
+        "source_gloss": "female sex organ",
+        "word": "/api/v1/word/vagina/"
     },
     {
         "added": "2013-11-19T03:56:01.953901",
@@ -183,13 +183,37 @@
         "added": "2013-11-19T03:56:10.110418",
         "annotation": "grandchild, nephew",
         "entry": "ahije",
+        "id": 260764,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260764/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/nephew/"
+    },
+    {
+        "added": "2013-11-19T03:56:10.110418",
+        "annotation": "grandchild, nephew",
+        "entry": "ahije",
+        "id": 260765,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260765/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/father-in-law/"
+    },
+    {
+        "added": "2013-11-19T03:56:10.110418",
+        "annotation": "grandchild, nephew",
+        "entry": "ahije",
         "id": 50773,
         "language": "/api/v1/language/orokaiva-sose/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/50773/",
         "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/grandfather-grandchild/"
+        "source_gloss": "grandfather, grandchild",
+        "word": "/api/v1/word/grandfather/"
     },
     {
         "added": "2013-11-19T03:56:08.717762",
@@ -204,18 +228,6 @@
         "word": "/api/v1/word/forest/"
     },
     {
-        "added": "2014-02-20T23:40:45.640664",
-        "annotation": "",
-        "entry": "ahuma",
-        "id": 78800,
-        "language": "/api/v1/language/orokaiva-sose/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/78800/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ankle/"
-    },
-    {
         "added": "2013-11-19T03:55:51.796797",
         "annotation": "elbow, ankle",
         "entry": "ahuma",
@@ -226,6 +238,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/elbow/"
+    },
+    {
+        "added": "2014-02-20T23:40:45.640664",
+        "annotation": "",
+        "entry": "ahuma",
+        "id": 78800,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/78800/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ankle/"
     },
     {
         "added": "2013-11-19T03:56:18.294336",
@@ -480,18 +504,6 @@
         "word": "/api/v1/word/seed/"
     },
     {
-        "added": "2013-11-19T03:55:56.327567",
-        "annotation": "boy",
-        "entry": "be",
-        "id": 48321,
-        "language": "/api/v1/language/orokaiva-sose/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48321/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/boy/"
-    },
-    {
         "added": "2013-11-19T03:56:36.032842",
         "annotation": "true, really, very",
         "entry": "be",
@@ -502,6 +514,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/right-correct/"
+    },
+    {
+        "added": "2013-11-19T03:55:56.327567",
+        "annotation": "boy",
+        "entry": "be",
+        "id": 48321,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48321/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/boy/"
     },
     {
         "added": "2013-11-19T03:56:08.551995",
@@ -984,18 +1008,6 @@
         "word": "/api/v1/word/light/"
     },
     {
-        "added": "2013-11-19T03:55:59.971993",
-        "annotation": "fighting club (disc)",
-        "entry": "emi",
-        "id": 48965,
-        "language": "/api/v1/language/orokaiva-sose/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/48965/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/club/"
-    },
-    {
         "added": "2013-11-19T03:55:57.004925",
         "annotation": "breast",
         "entry": "emi",
@@ -1006,6 +1018,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2013-11-19T03:55:59.971993",
+        "annotation": "fighting club (disc)",
+        "entry": "emi",
+        "id": 48965,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/48965/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/club/"
     },
     {
         "added": "2013-11-19T03:56:24.642253",
@@ -1968,18 +1992,6 @@
         "word": "/api/v1/word/greens/"
     },
     {
-        "added": "2013-11-19T03:56:02.844828",
-        "annotation": "drum",
-        "entry": "ino",
-        "id": 49468,
-        "language": "/api/v1/language/orokaiva-sose/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49468/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/drum/"
-    },
-    {
         "added": "2013-11-19T03:56:02.379005",
         "annotation": "dog",
         "entry": "ino",
@@ -1990,6 +2002,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2013-11-19T03:56:02.844828",
+        "annotation": "drum",
+        "entry": "ino",
+        "id": 49468,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/49468/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/drum/"
     },
     {
         "added": "2013-11-19T03:56:18.733768",
@@ -2916,18 +2940,6 @@
         "word": "/api/v1/word/brother-law/"
     },
     {
-        "added": "2013-11-19T03:56:23.725505",
-        "annotation": "boat, car, truck",
-        "entry": "\u014ba",
-        "id": 53144,
-        "language": "/api/v1/language/orokaiva-sose/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53144/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/raft/"
-    },
-    {
         "added": "2013-11-19T03:56:19.931170",
         "annotation": "nest",
         "entry": "\u014ba",
@@ -2938,6 +2950,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/nest/"
+    },
+    {
+        "added": "2013-11-19T03:56:23.725505",
+        "annotation": "boat, car, truck",
+        "entry": "\u014ba",
+        "id": 53144,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53144/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/raft/"
     },
     {
         "added": "2013-11-19T03:56:17.412131",
@@ -3072,18 +3096,6 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2013-11-19T03:56:11.361607",
-        "annotation": "hair on head",
-        "entry": "ohoru",
-        "id": 50999,
-        "language": "/api/v1/language/orokaiva-sose/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/50999/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/head/"
-    },
-    {
         "added": "2013-11-19T03:55:59.242122",
         "annotation": "chicken",
         "entry": "ohoru",
@@ -3094,6 +3106,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/chicken/"
+    },
+    {
+        "added": "2013-11-19T03:56:11.361607",
+        "annotation": "hair on head",
+        "entry": "ohoru",
+        "id": 50999,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/50999/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/head/"
     },
     {
         "added": "2013-11-19T03:56:22.721795",
@@ -4368,18 +4392,6 @@
         "word": "/api/v1/word/wrap/"
     },
     {
-        "added": "2013-11-19T03:56:10.743868",
-        "annotation": "feather, fur",
-        "entry": "tu",
-        "id": 50884,
-        "language": "/api/v1/language/orokaiva-sose/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/50884/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
-    },
-    {
         "added": "2013-11-19T03:55:55.972181",
         "annotation": "below, bottom",
         "entry": "tu",
@@ -4390,6 +4402,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/bottom/"
+    },
+    {
+        "added": "2013-11-19T03:56:10.743868",
+        "annotation": "feather, fur",
+        "entry": "tu",
+        "id": 50884,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/50884/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2013-11-19T03:56:34.415292",
@@ -4632,7 +4656,7 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2013-11-19T03:56:36.464140",
+        "added": "2022-07-25T22:18:12.568462",
         "annotation": "upstream",
         "entry": "[umo] k\u00f5bu",
         "id": 55493,
@@ -4641,7 +4665,7 @@
         "resource_uri": "/api/v1/lexicon/55493/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/upper-part-of-tree/"
+        "word": "/api/v1/word/tree-top/"
     },
     {
         "added": "2013-11-19T03:56:03.459072",
@@ -4704,18 +4728,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2013-11-19T03:56:14.918140",
-        "annotation": "leg, foot",
-        "entry": "utu",
-        "id": 51631,
-        "language": "/api/v1/language/orokaiva-sose/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/51631/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/leg-foot/"
-    },
-    {
         "added": "2013-11-19T03:56:28.804439",
         "annotation": "sky",
         "entry": "utu",
@@ -4726,6 +4738,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/sky/"
+    },
+    {
+        "added": "2013-11-19T03:56:14.918140",
+        "annotation": "leg, foot",
+        "entry": "utu",
+        "id": 51631,
+        "language": "/api/v1/language/orokaiva-sose/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/51631/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/leg-foot/"
     },
     {
         "added": "2014-03-29T23:45:58.901822",

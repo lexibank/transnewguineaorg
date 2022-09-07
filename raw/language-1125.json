@@ -84,18 +84,6 @@
         "word": "/api/v1/word/to-talk/"
     },
     {
-        "added": "2015-05-02T07:59:09.727947",
-        "annotation": "yesterday/tomorrow",
-        "entry": "*amoli",
-        "id": 212547,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212547/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tomorrow/"
-    },
-    {
         "added": "2015-05-02T07:59:09.678020",
         "annotation": "yesterday/tomorrow",
         "entry": "*amoli",
@@ -118,6 +106,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
         "word": "/api/v1/word/yesterday-tomorrow/"
+    },
+    {
+        "added": "2015-05-02T07:59:09.727947",
+        "annotation": "yesterday/tomorrow",
+        "entry": "*amoli",
+        "id": 212547,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212547/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tomorrow/"
     },
     {
         "added": "2015-05-02T09:43:43.035261",
@@ -1428,18 +1428,6 @@
         "word": "/api/v1/word/to-fill/"
     },
     {
-        "added": "2015-05-03T08:15:17.946578",
-        "annotation": "",
-        "entry": "*maka",
-        "id": 212777,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212777/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tooth/"
-    },
-    {
         "added": "2015-05-03T05:21:38.091948",
         "annotation": "",
         "entry": "*maka",
@@ -1450,6 +1438,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2015-05-03T08:15:17.946578",
+        "annotation": "",
+        "entry": "*maka",
+        "id": 212777,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212777/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tooth/"
     },
     {
         "added": "2015-03-19T07:05:01.038161",
@@ -1788,18 +1788,6 @@
         "word": "/api/v1/word/nose/"
     },
     {
-        "added": "2015-05-03T05:21:38.063962",
-        "annotation": "",
-        "entry": "*mu\u014ba",
-        "id": 212628,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212628/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": null,
-        "word": "/api/v1/word/male/"
-    },
-    {
         "added": "2015-05-02T20:55:03.735374",
         "annotation": "",
         "entry": "*mu\u014ba",
@@ -1822,6 +1810,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "take",
         "word": "/api/v1/word/to-take/"
+    },
+    {
+        "added": "2015-05-03T05:21:38.063962",
+        "annotation": "",
+        "entry": "*mu\u014ba",
+        "id": 212628,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212628/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": null,
+        "word": "/api/v1/word/male/"
     },
     {
         "added": "2015-05-03T06:51:44.530573",
@@ -1920,16 +1920,16 @@
         "word": "/api/v1/word/bowstring/"
     },
     {
-        "added": "2015-05-03T18:31:38.687423",
+        "added": "2015-05-03T18:31:38.647308",
         "annotation": "",
         "entry": "*na",
-        "id": 212782,
+        "id": 212781,
         "language": "/api/v1/language/proto-south-adelbert/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212782/",
+        "resource_uri": "/api/v1/lexicon/212781/",
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
-        "word": "/api/v1/word/your-pl/"
+        "word": "/api/v1/word/your-sg/"
     },
     {
         "added": "2015-05-03T18:28:49.491034",
@@ -1944,16 +1944,16 @@
         "word": "/api/v1/word/you/"
     },
     {
-        "added": "2015-05-03T18:31:38.647308",
+        "added": "2015-05-03T18:31:38.687423",
         "annotation": "",
         "entry": "*na",
-        "id": 212781,
+        "id": 212782,
         "language": "/api/v1/language/proto-south-adelbert/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/212781/",
+        "resource_uri": "/api/v1/lexicon/212782/",
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
-        "word": "/api/v1/word/your-sg/"
+        "word": "/api/v1/word/your-pl/"
     },
     {
         "added": "2015-04-30T20:55:52.306457",
@@ -2064,18 +2064,6 @@
         "word": "/api/v1/word/to-fall/"
     },
     {
-        "added": "2015-05-03T05:52:45.793862",
-        "annotation": "",
-        "entry": "*-\u014b",
-        "id": 212635,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212635/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": null,
-        "word": "/api/v1/word/we/"
-    },
-    {
         "added": "2015-05-03T06:29:00.628465",
         "annotation": "",
         "entry": "*-\u014b",
@@ -2086,6 +2074,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "ye",
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2015-05-03T05:52:45.793862",
+        "annotation": "",
+        "entry": "*-\u014b",
+        "id": 212635,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212635/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": null,
+        "word": "/api/v1/word/we/"
     },
     {
         "added": "2015-05-02T20:55:03.899329",
@@ -2664,18 +2664,6 @@
         "word": "/api/v1/word/stomach/"
     },
     {
-        "added": "2015-05-03T18:52:29.315120",
-        "annotation": "",
-        "entry": "*si(k,p)i",
-        "id": 212787,
-        "language": "/api/v1/language/proto-south-adelbert/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/212787/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": null,
-        "word": "/api/v1/word/guts/"
-    },
-    {
         "added": "2015-05-03T08:15:17.918751",
         "annotation": "",
         "entry": "*si(k,p)i",
@@ -2683,6 +2671,18 @@
         "language": "/api/v1/language/proto-south-adelbert/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/212775/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": null,
+        "word": "/api/v1/word/guts/"
+    },
+    {
+        "added": "2015-05-03T18:52:29.315120",
+        "annotation": "",
+        "entry": "*si(k,p)i",
+        "id": 212787,
+        "language": "/api/v1/language/proto-south-adelbert/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/212787/",
         "source": "/api/v1/source/ross2014/",
         "source_gloss": null,
         "word": "/api/v1/word/guts/"

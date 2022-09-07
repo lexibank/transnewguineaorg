@@ -852,18 +852,6 @@
         "word": "/api/v1/word/night/"
     },
     {
-        "added": "2014-03-10T22:36:51.951173",
-        "annotation": "yesterday, tomorrow",
-        "entry": "*n(e,i)ri",
-        "id": 14457,
-        "language": "/api/v1/language/proto-baraic/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14457/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/yesterday/"
-    },
-    {
         "added": "2014-03-10T22:36:51.986348",
         "annotation": "yesterday, tomorrow",
         "entry": "*n(e,i)ri",
@@ -874,6 +862,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/tomorrow/"
+    },
+    {
+        "added": "2014-03-10T22:36:51.951173",
+        "annotation": "yesterday, tomorrow",
+        "entry": "*n(e,i)ri",
+        "id": 14457,
+        "language": "/api/v1/language/proto-baraic/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14457/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yesterday/"
     },
     {
         "added": "2013-05-27T07:03:59.139553",
@@ -891,13 +891,25 @@
         "added": "2013-05-27T07:03:59.214704",
         "annotation": "",
         "entry": "*nitu-",
+        "id": 260770,
+        "language": "/api/v1/language/proto-baraic/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260770/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "day after tomorrow, day before yesterday",
+        "word": "/api/v1/word/day-before-yesterday/"
+    },
+    {
+        "added": "2013-05-27T07:03:59.214704",
+        "annotation": "",
+        "entry": "*nitu-",
         "id": 14466,
         "language": "/api/v1/language/proto-baraic/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/14466/",
         "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/day-before-yesterday-day-after-tomorrow/"
+        "source_gloss": "day after tomorrow, day before yesterday",
+        "word": "/api/v1/word/day-after-tomorrow/"
     },
     {
         "added": "2013-05-27T07:03:59.308452",

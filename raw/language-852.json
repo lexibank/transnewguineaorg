@@ -1140,18 +1140,6 @@
         "word": "/api/v1/word/smoke/"
     },
     {
-        "added": "2018-05-24T02:44:37.600429",
-        "annotation": "",
-        "entry": "iri-",
-        "id": 259164,
-        "language": "/api/v1/language/maria-maranomu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259164/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "drink",
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2018-05-24T02:44:37.509683",
         "annotation": "",
         "entry": "iri-",
@@ -1162,6 +1150,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "eat",
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2018-05-24T02:44:37.600429",
+        "annotation": "",
+        "entry": "iri-",
+        "id": 259164,
+        "language": "/api/v1/language/maria-maranomu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259164/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2018-05-24T02:44:43.323620",
@@ -1656,18 +1656,6 @@
         "word": "/api/v1/word/to-be-hungry/"
     },
     {
-        "added": "2018-05-24T02:44:38.207372",
-        "annotation": "",
-        "entry": "ne-",
-        "id": 259250,
-        "language": "/api/v1/language/maria-maranomu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259250/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "walk",
-        "word": "/api/v1/word/to-walk/"
-    },
-    {
         "added": "2018-05-24T02:44:40.592827",
         "annotation": "",
         "entry": "ne-",
@@ -1678,6 +1666,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "go",
         "word": "/api/v1/word/go/"
+    },
+    {
+        "added": "2018-05-24T02:44:38.207372",
+        "annotation": "",
+        "entry": "ne-",
+        "id": 259250,
+        "language": "/api/v1/language/maria-maranomu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259250/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "walk",
+        "word": "/api/v1/word/to-walk/"
     },
     {
         "added": "2018-05-24T02:44:39.408401",
@@ -2052,18 +2052,6 @@
         "word": "/api/v1/word/afraid/"
     },
     {
-        "added": "2018-05-24T02:44:30.164056",
-        "annotation": "",
-        "entry": "\u02c8\u0294oru",
-        "id": 258143,
-        "language": "/api/v1/language/maria-maranomu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/258143/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "river",
-        "word": "/api/v1/word/river/"
-    },
-    {
         "added": "2018-05-24T02:44:30.062868",
         "annotation": "",
         "entry": "\u02c8\u0294oru",
@@ -2074,6 +2062,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2018-05-24T02:44:30.164056",
+        "annotation": "",
+        "entry": "\u02c8\u0294oru",
+        "id": 258143,
+        "language": "/api/v1/language/maria-maranomu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/258143/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "river",
+        "word": "/api/v1/word/river/"
     },
     {
         "added": "2018-05-24T02:44:40.312706",
@@ -2280,18 +2280,6 @@
         "word": "/api/v1/word/path/"
     },
     {
-        "added": "2018-05-24T02:44:45.266316",
-        "annotation": "",
-        "entry": "that + du",
-        "id": 260219,
-        "language": "/api/v1/language/maria-maranomu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260219/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "there (lohap)",
-        "word": "/api/v1/word/there-lohap/"
-    },
-    {
         "added": "2018-05-24T02:44:45.321766",
         "annotation": "",
         "entry": "that + du",
@@ -2304,13 +2292,13 @@
         "word": "/api/v1/word/there-distant/"
     },
     {
-        "added": "2018-05-24T02:44:45.271828",
+        "added": "2018-05-24T02:44:45.266316",
         "annotation": "",
-        "entry": "that + ro",
-        "id": 260220,
+        "entry": "that + du",
+        "id": 260219,
         "language": "/api/v1/language/maria-maranomu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/260220/",
+        "resource_uri": "/api/v1/lexicon/260219/",
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "there (lohap)",
         "word": "/api/v1/word/there-lohap/"
@@ -2326,6 +2314,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "there (distant)",
         "word": "/api/v1/word/there-distant/"
+    },
+    {
+        "added": "2018-05-24T02:44:45.271828",
+        "annotation": "",
+        "entry": "that + ro",
+        "id": 260220,
+        "language": "/api/v1/language/maria-maranomu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260220/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "there (lohap)",
+        "word": "/api/v1/word/there-lohap/"
     },
     {
         "added": "2018-05-24T02:44:45.182751",
@@ -2700,18 +2700,6 @@
         "word": "/api/v1/word/near/"
     },
     {
-        "added": "2018-05-24T02:44:40.962253",
-        "annotation": "",
-        "entry": "vahi-",
-        "id": 259594,
-        "language": "/api/v1/language/maria-maranomu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/259594/",
-        "source": "/api/v1/source/dutton1970/",
-        "source_gloss": "put down (on ground)",
-        "word": "/api/v1/word/to-put/"
-    },
-    {
         "added": "2018-05-24T02:44:43.111492",
         "annotation": "",
         "entry": "vahi-",
@@ -2722,6 +2710,18 @@
         "source": "/api/v1/source/dutton1970/",
         "source_gloss": "bury",
         "word": "/api/v1/word/to-bury/"
+    },
+    {
+        "added": "2018-05-24T02:44:40.962253",
+        "annotation": "",
+        "entry": "vahi-",
+        "id": 259594,
+        "language": "/api/v1/language/maria-maranomu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/259594/",
+        "source": "/api/v1/source/dutton1970/",
+        "source_gloss": "put down (on ground)",
+        "word": "/api/v1/word/to-put/"
     },
     {
         "added": "2018-05-24T02:44:41.998546",

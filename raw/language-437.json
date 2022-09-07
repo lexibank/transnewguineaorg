@@ -156,18 +156,6 @@
         "word": "/api/v1/word/breast/"
     },
     {
-        "added": "2013-11-29T19:34:52.069025",
-        "annotation": "",
-        "entry": "\u00e1(mo)",
-        "id": 74534,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74534/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/they/"
-    },
-    {
         "added": "2013-11-29T19:34:44.305993",
         "annotation": "he",
         "entry": "\u00e1(mo)",
@@ -178,6 +166,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2013-11-29T19:34:52.069025",
+        "annotation": "",
+        "entry": "\u00e1(mo)",
+        "id": 74534,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74534/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/they/"
     },
     {
         "added": "2013-11-29T19:34:51.981698",
@@ -372,18 +372,6 @@
         "word": "/api/v1/word/sister/"
     },
     {
-        "added": "2019-03-15T09:53:28.133579",
-        "annotation": "",
-        "entry": "\u00e1tuw\u00e1",
-        "id": 72216,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72216/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bark/"
-    },
-    {
         "added": "2013-11-29T19:34:50.348292",
         "annotation": "",
         "entry": "\u00e1tuw\u00e1",
@@ -396,16 +384,16 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-07-23T00:33:51.379062",
+        "added": "2019-03-15T09:53:28.133579",
         "annotation": "",
-        "entry": "auma",
-        "id": 32157,
+        "entry": "\u00e1tuw\u00e1",
+        "id": 72216,
         "language": "/api/v1/language/siane/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/32157/",
-        "source": "/api/v1/source/sil-survey-1987/",
+        "resource_uri": "/api/v1/lexicon/72216/",
+        "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
-        "word": "/api/v1/word/bone/"
+        "word": "/api/v1/word/bark/"
     },
     {
         "added": "2013-09-07T20:47:14.782869",
@@ -416,6 +404,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/32507/",
         "source": "/api/v1/source/salisbury-1956/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2013-07-23T00:33:51.379062",
+        "annotation": "",
+        "entry": "auma",
+        "id": 32157,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32157/",
+        "source": "/api/v1/source/sil-survey-1987/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
     },
@@ -588,18 +588,6 @@
         "word": "/api/v1/word/man/"
     },
     {
-        "added": "2013-11-29T19:34:45.625648",
-        "annotation": "know",
-        "entry": "\u00e9y(aiy\u00ea)",
-        "id": 73369,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73369/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-know/"
-    },
-    {
         "added": "2013-11-29T19:34:49.758634",
         "annotation": "see",
         "entry": "\u00e9y(aiy\u00ea)",
@@ -610,6 +598,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2013-11-29T19:34:45.625648",
+        "annotation": "know",
+        "entry": "\u00e9y(aiy\u00ea)",
+        "id": 73369,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73369/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-know/"
     },
     {
         "added": "2013-11-29T19:34:43.611185",
@@ -1008,18 +1008,6 @@
         "word": "/api/v1/word/to-stand/"
     },
     {
-        "added": "2013-07-23T00:43:27.844330",
-        "annotation": "",
-        "entry": "hepe",
-        "id": 32190,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32190/",
-        "source": "/api/v1/source/sil-survey-1987/",
-        "source_gloss": null,
-        "word": "/api/v1/word/cold/"
-    },
-    {
         "added": "2013-07-23T00:37:09.556824",
         "annotation": "",
         "entry": "hepe",
@@ -1030,6 +1018,18 @@
         "source": "/api/v1/source/sil-survey-1987/",
         "source_gloss": null,
         "word": "/api/v1/word/wind/"
+    },
+    {
+        "added": "2013-07-23T00:43:27.844330",
+        "annotation": "",
+        "entry": "hepe",
+        "id": 32190,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32190/",
+        "source": "/api/v1/source/sil-survey-1987/",
+        "source_gloss": null,
+        "word": "/api/v1/word/cold/"
     },
     {
         "added": "2013-07-23T00:30:02.877702",
@@ -1308,18 +1308,6 @@
         "word": "/api/v1/word/ear/"
     },
     {
-        "added": "2013-07-23T00:26:55.402600",
-        "annotation": "",
-        "entry": "kanu",
-        "id": 32126,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32126/",
-        "source": "/api/v1/source/sil-survey-1987/",
-        "source_gloss": null,
-        "word": "/api/v1/word/road/"
-    },
-    {
         "added": "2013-09-07T20:47:15.132799",
         "annotation": "",
         "entry": "kanu",
@@ -1328,6 +1316,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/32520/",
         "source": "/api/v1/source/salisbury-1956/",
+        "source_gloss": null,
+        "word": "/api/v1/word/road/"
+    },
+    {
+        "added": "2013-07-23T00:26:55.402600",
+        "annotation": "",
+        "entry": "kanu",
+        "id": 32126,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32126/",
+        "source": "/api/v1/source/sil-survey-1987/",
         "source_gloss": null,
         "word": "/api/v1/word/road/"
     },
@@ -1956,18 +1956,6 @@
         "word": "/api/v1/word/one/"
     },
     {
-        "added": "2013-07-23T00:43:27.749778",
-        "annotation": "",
-        "entry": "laha",
-        "id": 32185,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32185/",
-        "source": "/api/v1/source/sil-survey-1987/",
-        "source_gloss": null,
-        "word": "/api/v1/word/red/"
-    },
-    {
         "added": "2013-07-23T00:37:09.327217",
         "annotation": "",
         "entry": "laha",
@@ -1978,6 +1966,18 @@
         "source": "/api/v1/source/sil-survey-1987/",
         "source_gloss": null,
         "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2013-07-23T00:43:27.749778",
+        "annotation": "",
+        "entry": "laha",
+        "id": 32185,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32185/",
+        "source": "/api/v1/source/sil-survey-1987/",
+        "source_gloss": null,
+        "word": "/api/v1/word/red/"
     },
     {
         "added": "2013-07-23T00:26:55.576390",
@@ -2316,18 +2316,6 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2013-11-29T19:34:40.403129",
-        "annotation": "burn",
-        "entry": "l(\u00edye)",
-        "id": 72434,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72434/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-burn/"
-    },
-    {
         "added": "2013-11-29T19:34:49.656720",
         "annotation": "say ",
         "entry": "l(\u00edye)",
@@ -2338,6 +2326,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-say/"
+    },
+    {
+        "added": "2013-11-29T19:34:40.403129",
+        "annotation": "burn",
+        "entry": "l(\u00edye)",
+        "id": 72434,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72434/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-burn/"
     },
     {
         "added": "2013-11-29T19:34:49.219046",
@@ -3060,18 +3060,6 @@
         "word": "/api/v1/word/dry/"
     },
     {
-        "added": "2013-07-23T00:30:03.342724",
-        "annotation": "",
-        "entry": "no",
-        "id": 32142,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32142/",
-        "source": "/api/v1/source/sil-survey-1987/",
-        "source_gloss": null,
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2013-09-07T20:47:15.096904",
         "annotation": "",
         "entry": "no",
@@ -3080,6 +3068,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/32517/",
         "source": "/api/v1/source/salisbury-1956/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2013-07-23T00:30:03.342724",
+        "annotation": "",
+        "entry": "no",
+        "id": 32142,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32142/",
+        "source": "/api/v1/source/sil-survey-1987/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
     },
@@ -3132,18 +3132,6 @@
         "word": "/api/v1/word/girl/"
     },
     {
-        "added": "2013-07-23T00:48:26.244474",
-        "annotation": "",
-        "entry": "no naiye",
-        "id": 32206,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32206/",
-        "source": "/api/v1/source/sil-survey-1987/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2013-07-23T00:30:03.792158",
         "annotation": "",
         "entry": "no naiye",
@@ -3154,6 +3142,18 @@
         "source": "/api/v1/source/sil-survey-1987/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-07-23T00:48:26.244474",
+        "annotation": "",
+        "entry": "no naiye",
+        "id": 32206,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32206/",
+        "source": "/api/v1/source/sil-survey-1987/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-09-07T20:47:15.399477",
@@ -4020,18 +4020,6 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2013-09-07T20:47:15.142626",
-        "annotation": "",
-        "entry": "ya",
-        "id": 32521,
-        "language": "/api/v1/language/siane/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/32521/",
-        "source": "/api/v1/source/salisbury-1956/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tree/"
-    },
-    {
         "added": "2013-09-07T20:47:14.976212",
         "annotation": "",
         "entry": "ya",
@@ -4042,6 +4030,18 @@
         "source": "/api/v1/source/salisbury-1956/",
         "source_gloss": null,
         "word": "/api/v1/word/bush/"
+    },
+    {
+        "added": "2013-09-07T20:47:15.142626",
+        "annotation": "",
+        "entry": "ya",
+        "id": 32521,
+        "language": "/api/v1/language/siane/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/32521/",
+        "source": "/api/v1/source/salisbury-1956/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
     },
     {
         "added": "2013-11-29T19:34:52.824471",

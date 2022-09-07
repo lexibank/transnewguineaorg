@@ -588,18 +588,6 @@
         "word": "/api/v1/word/cassowary/"
     },
     {
-        "added": "2013-11-29T19:34:49.814859",
-        "annotation": "",
-        "entry": "auma",
-        "id": 74130,
-        "language": "/api/v1/language/awiyaana/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/74130/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/seed/"
-    },
-    {
         "added": "2013-11-29T19:34:42.035195",
         "annotation": "",
         "entry": "auma",
@@ -610,6 +598,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2013-11-29T19:34:49.814859",
+        "annotation": "",
+        "entry": "auma",
+        "id": 74130,
+        "language": "/api/v1/language/awiyaana/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/74130/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/seed/"
     },
     {
         "added": "2013-11-29T19:34:46.589966",
@@ -888,18 +888,6 @@
         "word": "/api/v1/word/afternoon/"
     },
     {
-        "added": "2013-11-29T19:34:44.467517",
-        "annotation": "hear",
-        "entry": "enisa",
-        "id": 73167,
-        "language": "/api/v1/language/awiyaana/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/73167/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-hear/"
-    },
-    {
         "added": "2013-11-29T19:34:45.582288",
         "annotation": "know",
         "entry": "enisa",
@@ -910,6 +898,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-know/"
+    },
+    {
+        "added": "2013-11-29T19:34:44.467517",
+        "annotation": "hear",
+        "entry": "enisa",
+        "id": 73167,
+        "language": "/api/v1/language/awiyaana/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/73167/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-hear/"
     },
     {
         "added": "2013-11-29T19:34:43.384819",
@@ -1416,18 +1416,6 @@
         "word": "/api/v1/word/red/"
     },
     {
-        "added": "2013-11-29T19:34:41.558720",
-        "annotation": "drink",
-        "entry": "nare",
-        "id": 72635,
-        "language": "/api/v1/language/awiyaana/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/72635/",
-        "source": "/api/v1/source/scott1978/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2013-11-29T19:34:41.943286",
         "annotation": "eat",
         "entry": "nare",
@@ -1438,6 +1426,18 @@
         "source": "/api/v1/source/scott1978/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-11-29T19:34:41.558720",
+        "annotation": "drink",
+        "entry": "nare",
+        "id": 72635,
+        "language": "/api/v1/language/awiyaana/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/72635/",
+        "source": "/api/v1/source/scott1978/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-11-29T19:34:54.043245",

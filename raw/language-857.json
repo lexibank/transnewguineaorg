@@ -1212,18 +1212,6 @@
         "word": "/api/v1/word/bush/"
     },
     {
-        "added": "2015-03-19T07:05:01.277511",
-        "annotation": null,
-        "entry": "*ne-",
-        "id": 208569,
-        "language": "/api/v1/language/proto-maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/208569/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "eye",
-        "word": "/api/v1/word/eye/"
-    },
-    {
         "added": "2015-03-19T07:04:59.821846",
         "annotation": null,
         "entry": "*ne-",
@@ -1236,16 +1224,16 @@
         "word": "/api/v1/word/go/"
     },
     {
-        "added": "2015-03-19T07:05:02.559559",
+        "added": "2015-03-19T07:05:01.277511",
         "annotation": null,
-        "entry": "*nede",
-        "id": 208976,
+        "entry": "*ne-",
+        "id": 208569,
         "language": "/api/v1/language/proto-maria/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/208976/",
+        "resource_uri": "/api/v1/lexicon/208569/",
         "source": "/api/v1/source/ross2014/",
-        "source_gloss": "hear",
-        "word": "/api/v1/word/to-hear/"
+        "source_gloss": "eye",
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2015-03-19T07:05:01.941941",
@@ -1258,6 +1246,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "understand",
         "word": "/api/v1/word/to-understand/"
+    },
+    {
+        "added": "2015-03-19T07:05:02.559559",
+        "annotation": null,
+        "entry": "*nede",
+        "id": 208976,
+        "language": "/api/v1/language/proto-maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208976/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "hear",
+        "word": "/api/v1/word/to-hear/"
     },
     {
         "added": "2014-05-21T21:10:23.057703",
@@ -1488,18 +1488,6 @@
         "word": "/api/v1/word/afraid/"
     },
     {
-        "added": "2015-03-19T07:04:58.426661",
-        "annotation": null,
-        "entry": "*\u0294oru",
-        "id": 207705,
-        "language": "/api/v1/language/proto-maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/207705/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "water",
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2015-03-19T07:04:58.186967",
         "annotation": null,
         "entry": "*\u0294oru",
@@ -1510,6 +1498,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "river",
         "word": "/api/v1/word/river/"
+    },
+    {
+        "added": "2015-03-19T07:04:58.426661",
+        "annotation": null,
+        "entry": "*\u0294oru",
+        "id": 207705,
+        "language": "/api/v1/language/proto-maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/207705/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2015-03-19T07:05:02.335456",
@@ -1716,18 +1716,6 @@
         "word": "/api/v1/word/pig/"
     },
     {
-        "added": "2015-03-19T07:05:03.862976",
-        "annotation": null,
-        "entry": "*tou-",
-        "id": 209372,
-        "language": "/api/v1/language/proto-maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/209372/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "wet",
-        "word": "/api/v1/word/wet/"
-    },
-    {
         "added": "2015-03-19T07:05:00.090266",
         "annotation": null,
         "entry": "*tou-",
@@ -1738,6 +1726,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "rain",
         "word": "/api/v1/word/rain/"
+    },
+    {
+        "added": "2015-03-19T07:05:03.862976",
+        "annotation": null,
+        "entry": "*tou-",
+        "id": 209372,
+        "language": "/api/v1/language/proto-maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/209372/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "wet",
+        "word": "/api/v1/word/wet/"
     },
     {
         "added": "2015-03-19T07:05:04.836157",
@@ -1824,18 +1824,6 @@
         "word": "/api/v1/word/back/"
     },
     {
-        "added": "2015-03-19T07:04:59.784646",
-        "annotation": null,
-        "entry": "*ue\u0294a",
-        "id": 208076,
-        "language": "/api/v1/language/proto-maria/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/208076/",
-        "source": "/api/v1/source/ross2014/",
-        "source_gloss": "hair (body)",
-        "word": "/api/v1/word/hair-body/"
-    },
-    {
         "added": "2015-03-19T07:05:03.403434",
         "annotation": null,
         "entry": "*ue\u0294a",
@@ -1846,6 +1834,18 @@
         "source": "/api/v1/source/ross2014/",
         "source_gloss": "fur",
         "word": "/api/v1/word/fur/"
+    },
+    {
+        "added": "2015-03-19T07:04:59.784646",
+        "annotation": null,
+        "entry": "*ue\u0294a",
+        "id": 208076,
+        "language": "/api/v1/language/proto-maria/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/208076/",
+        "source": "/api/v1/source/ross2014/",
+        "source_gloss": "hair (body)",
+        "word": "/api/v1/word/hair-body/"
     },
     {
         "added": "2015-03-19T07:05:02.133702",

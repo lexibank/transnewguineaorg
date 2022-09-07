@@ -1380,18 +1380,6 @@
         "word": "/api/v1/word/road/"
     },
     {
-        "added": "2019-03-19T04:16:31.515083",
-        "annotation": null,
-        "entry": "'\u03b1d\u03b1",
-        "id": 260694,
-        "language": "/api/v1/language/nedebang/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260694/",
-        "source": "/api/v1/source/stokhof-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fat/"
-    },
-    {
         "added": "2013-11-10T04:28:00.991701",
         "annotation": "",
         "entry": "'\u03b1d\u03b1",
@@ -1402,6 +1390,18 @@
         "source": "/api/v1/source/stokhof-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2019-03-19T04:16:31.515083",
+        "annotation": null,
+        "entry": "'\u03b1d\u03b1",
+        "id": 260694,
+        "language": "/api/v1/language/nedebang/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260694/",
+        "source": "/api/v1/source/stokhof-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2013-11-10T04:28:00.324182",
