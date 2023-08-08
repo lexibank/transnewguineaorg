@@ -24,6 +24,18 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2023-07-06T07:21:44.406888",
+        "annotation": null,
+        "entry": "arzoes",
+        "id": 260831,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260831/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
+    },
+    {
         "added": "2013-06-12T21:16:43.370952",
         "annotation": "you (sg.)",
         "entry": "au",
@@ -60,6 +72,18 @@
         "word": "/api/v1/word/good/"
     },
     {
+        "added": "2023-07-06T07:21:44.378733",
+        "annotation": null,
+        "entry": "fak  ",
+        "id": 260824,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260824/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
         "added": "2013-06-12T21:16:41.480518",
         "annotation": "",
         "entry": "for",
@@ -70,6 +94,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.526836",
+        "annotation": null,
+        "entry": "joser",
+        "id": 260844,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260844/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
     },
     {
         "added": "2013-06-12T21:16:43.557917",
@@ -106,6 +142,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2023-07-06T07:21:44.382325",
+        "annotation": null,
+        "entry": "lim",
+        "id": 260825,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260825/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
     },
     {
         "added": "2013-06-12T21:16:41.406451",
@@ -168,6 +216,18 @@
         "word": "/api/v1/word/name/"
     },
     {
+        "added": "2023-07-06T07:21:44.374454",
+        "annotation": null,
+        "entry": "'ngo-kor",
+        "id": 260823,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260823/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2013-06-12T21:16:43.172224",
         "annotation": "",
         "entry": "nia",
@@ -178,6 +238,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.529536",
+        "annotation": null,
+        "entry": "noeroe  ",
+        "id": 260845,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260845/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
     },
     {
         "added": "2013-06-12T21:16:42.176008",
@@ -216,6 +288,66 @@
         "word": "/api/v1/word/dog/"
     },
     {
+        "added": "2023-07-06T07:21:44.396769",
+        "annotation": null,
+        "entry": "on\u00e9-m\u00e9-ngo-kor",
+        "id": 260828,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260828/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2023-07-06T07:21:44.393492",
+        "annotation": null,
+        "entry": "on\u00e9-m\u00e9-noeroe",
+        "id": 260827,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260827/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:21:44.403587",
+        "annotation": null,
+        "entry": "on\u00e9-m\u00e9-rim",
+        "id": 260830,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260830/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2023-07-06T07:21:44.400445",
+        "annotation": null,
+        "entry": "onen-fak ",
+        "id": 260829,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260829/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:21:44.385595",
+        "annotation": null,
+        "entry": "onim",
+        "id": 260826,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260826/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
         "added": "2013-06-12T21:16:42.795596",
         "annotation": "",
         "entry": "or",
@@ -226,6 +358,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2023-07-06T07:21:44.410779",
+        "annotation": null,
+        "entry": "otin",
+        "id": 260832,
+        "language": "/api/v1/language/roon/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260832/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "100",
+        "word": "/api/v1/word/one-hundred/"
     },
     {
         "added": "2013-06-12T21:16:41.045531",

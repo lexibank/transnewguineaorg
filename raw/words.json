@@ -2696,6 +2696,22 @@
         "word": "forest"
     },
     {
+        "concepticon_gloss": "FORTY",
+        "concepticon_id": "1716",
+        "id": 2529,
+        "resource_uri": "/api/v1/word/forty/",
+        "slug": "forty",
+        "word": "forty"
+    },
+    {
+        "concepticon_gloss": "FORTY FIVE",
+        "concepticon_id": "3491",
+        "id": 2530,
+        "resource_uri": "/api/v1/word/forty-five/",
+        "slug": "forty-five",
+        "word": "forty-five"
+    },
+    {
         "concepticon_gloss": "FOUR",
         "concepticon_id": "1500",
         "id": 129,
@@ -7056,6 +7072,22 @@
         "word": "thirteen"
     },
     {
+        "concepticon_gloss": "THIRTY",
+        "concepticon_id": "1715",
+        "id": 2527,
+        "resource_uri": "/api/v1/word/thirty/",
+        "slug": "thirty",
+        "word": "thirty"
+    },
+    {
+        "concepticon_gloss": "THIRTY FIVE",
+        "concepticon_id": "3484",
+        "id": 2528,
+        "resource_uri": "/api/v1/word/thirty-five/",
+        "slug": "thirty-five",
+        "word": "thirty-five"
+    },
+    {
         "concepticon_gloss": "THIS",
         "concepticon_id": "1214",
         "id": 67,
@@ -8966,6 +8998,14 @@
         "resource_uri": "/api/v1/word/twenty/",
         "slug": "twenty",
         "word": "twenty"
+    },
+    {
+        "concepticon_gloss": "TWENTY FIVE",
+        "concepticon_id": "1738",
+        "id": 2526,
+        "resource_uri": "/api/v1/word/twenty-five/",
+        "slug": "twenty-five",
+        "word": "twenty-five"
     },
     {
         "concepticon_gloss": "TWO",

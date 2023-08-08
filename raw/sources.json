@@ -165,6 +165,17 @@
         "year": "1968"
     },
     {
+        "added": "2023-07-06T07:05:45.296773",
+        "author": "Fabritius",
+        "bibtex": "@article{109606,\r\n  author     = {Fabritius, G. J.},\r\n  journal    = {Tijdschrift voor Indische Taal-, Land- en Volkenkunde},\r\n  pages      = {209-215},\r\n  title      = {Anteekeningen omtrent Nieuw-Guinea},\r\n  volume     = {IV},\r\n  year       = {1855},\r\n  bestfn     = {papua\\fabritius_anteekeningen-nieuw-guinea1855_o.pdf},\r\n  besttxt    = {ptxt\\papua\\fabritius_anteekeningen-nieuw-guinea1855.txt},\r\n  cfn        = {papua\\fabritius_anteekeningen-nieuw-guinea1855.pdf},\r\n  delivered  = {papua\\fabritius_anteekeningen-nieuw-guinea1855.pdf},\r\n  fn         = {papua\\fabritius_anteekeningen-nieuw-guinea1855.pdf, papua\\fabritius_anteekeningen-nieuw-guinea1855_o.pdf},\r\n  hhtype     = {overview;wordlist},\r\n  inlg       = {Dutch [nld]},\r\n  lgcode     = {Aropin = Waropen [wrp], Tandia [tni], Dasener [dsn], Jower = Yaur [jau], Wandamin en Windesi = Wandamen [wad], Arfak aan den westelijken ingang der Geelvinksbaai = Mansim [NOCODE_Mansim], Omar = Umar = Yeretuar [gop], Irisam [ire], Amberbaki = Mpur [akc], Karon = Abun Tat [kgr], Pomi = Pom [pmo], Seroei [seu], Moor [mhz], Bergvolken ten westen van de eilanden Amsterdam en Middelburg = Moi (Indonesia) [mxn], Ron = Roon [rnn], Beak en Mefoor [bhw], Ansoes [and], Salawati = Ma'ya [slz], Eene stam aan een der takken aan de Ambermo [NOCODE_Ambermo]},\r\n  macro_area = {Papunesia},\r\n  src        = {hh}\r\n}",
+        "comment": "",
+        "id": 214,
+        "reference": "Fabritius, G. J. 1855. Anteekeningen omtrent Nieuw-Guinea. Tijdschrift voor Indische Taal-, Land- en Volkenkunde IV. 209-215.",
+        "resource_uri": "/api/v1/source/fabritius-1855/",
+        "slug": "fabritius-1855",
+        "year": "1855"
+    },
+    {
         "added": "2014-01-20T22:37:46.761901",
         "author": "Fataluku Language Project",
         "bibtex": "@techreport{Fataluku,\r\n     title = {{Fataluku Language Project}},\r\n     author = {{Fataluku Language Project}},\r\n     url = {http://www.fataluku.com},\r\n}",
@@ -605,17 +616,6 @@
         "year": ""
     },
     {
-        "added": "2015-06-06T22:34:17.091495",
-        "author": "SIL",
-        "bibtex": "@techreport{sil-nd,\n     title = {{Summer Institute of Linguistics Language Survey of Taulil}},\n     author = {{Summer Institute of Linguistics}},\n     institution = {Summer Institute of Linguistics},\n}\n",
-        "comment": "",
-        "id": 158,
-        "reference": "Summer Institute of Linguistics Language Survey of Taulil, No Date.",
-        "resource_uri": "/api/v1/source/sil-nd/",
-        "slug": "sil-nd",
-        "year": ""
-    },
-    {
         "added": "2013-07-08T19:39:12.550621",
         "author": "SIL",
         "bibtex": "@techreport{sil-survey-nd,\n     title = {{Summer Institute of Linguistics Language Survey of Kambaira}},\n     author = {{Summer Institute of Linguistics}},\n     institution = {Summer Institute of Linguistics},\n}\n",
@@ -627,15 +627,15 @@
         "year": ""
     },
     {
-        "added": "2015-09-24T08:26:44.334244",
+        "added": "2015-06-06T22:34:17.091495",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1962c,\n     title = {{Summer Institute of Linguistics Language Survey of Burui}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1962},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-nd,\n     title = {{Summer Institute of Linguistics Language Survey of Taulil}},\n     author = {{Summer Institute of Linguistics}},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 194,
-        "reference": "Summer Institute of Linguistics Language Survey of Burui, 1962.",
-        "resource_uri": "/api/v1/source/sil-1962c/",
-        "slug": "sil-1962c",
-        "year": "1962"
+        "id": 158,
+        "reference": "Summer Institute of Linguistics Language Survey of Taulil, No Date.",
+        "resource_uri": "/api/v1/source/sil-nd/",
+        "slug": "sil-nd",
+        "year": ""
     },
     {
         "added": "2015-07-16T22:37:41.874103",
@@ -657,6 +657,17 @@
         "reference": "Summer Institute of Linguistics Language Survey of Kol, 1962.",
         "resource_uri": "/api/v1/source/sil-1962/",
         "slug": "sil-1962",
+        "year": "1962"
+    },
+    {
+        "added": "2015-09-24T08:26:44.334244",
+        "author": "SIL",
+        "bibtex": "@techreport{sil-1962c,\n     title = {{Summer Institute of Linguistics Language Survey of Burui}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1962},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "comment": "",
+        "id": 194,
+        "reference": "Summer Institute of Linguistics Language Survey of Burui, 1962.",
+        "resource_uri": "/api/v1/source/sil-1962c/",
+        "slug": "sil-1962c",
         "year": "1962"
     },
     {
@@ -693,14 +704,14 @@
         "year": "1963"
     },
     {
-        "added": "2015-06-20T04:12:09.782830",
+        "added": "2015-05-19T00:12:55.731156",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1965c,\n     title = {{Summer Institute of Linguistics Language Survey of Daga}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1965},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1965b,\n     title = {{Summer Institute of Linguistics Language Survey of Yaweyuha}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1965},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 163,
-        "reference": "Summer Institute of Linguistics Language Survey of Daga, 1965.",
-        "resource_uri": "/api/v1/source/sil-1965c/",
-        "slug": "sil-1965c",
+        "id": 150,
+        "reference": "Summer Institute of Linguistics Language Survey of Yaweyuha, 1965.",
+        "resource_uri": "/api/v1/source/sil-1965b/",
+        "slug": "sil-1965b",
         "year": "1965"
     },
     {
@@ -726,14 +737,14 @@
         "year": "1965"
     },
     {
-        "added": "2015-05-19T00:12:55.731156",
+        "added": "2015-06-20T04:12:09.782830",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1965b,\n     title = {{Summer Institute of Linguistics Language Survey of Yaweyuha}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1965},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1965c,\n     title = {{Summer Institute of Linguistics Language Survey of Daga}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1965},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 150,
-        "reference": "Summer Institute of Linguistics Language Survey of Yaweyuha, 1965.",
-        "resource_uri": "/api/v1/source/sil-1965b/",
-        "slug": "sil-1965b",
+        "id": 163,
+        "reference": "Summer Institute of Linguistics Language Survey of Daga, 1965.",
+        "resource_uri": "/api/v1/source/sil-1965c/",
+        "slug": "sil-1965c",
         "year": "1965"
     },
     {
@@ -748,14 +759,14 @@
         "year": "1966"
     },
     {
-        "added": "2015-05-18T01:25:40.811625",
+        "added": "2015-09-15T04:05:25.338955",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1967,\n     title = {{Summer Institute of Linguistics Language Survey of Maiwa}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1967},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1967b,\n     title = {{Summer Institute of Linguistics Language Survey of Bisis}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1967},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 148,
-        "reference": "Summer Institute of Linguistics Language Survey of Maiwa, 1967.",
-        "resource_uri": "/api/v1/source/sil-1967/",
-        "slug": "sil-1967",
+        "id": 182,
+        "reference": "Summer Institute of Linguistics Language Survey of Bisis, 1967.",
+        "resource_uri": "/api/v1/source/sil-1967b/",
+        "slug": "sil-1967b",
         "year": "1967"
     },
     {
@@ -770,14 +781,14 @@
         "year": "1967"
     },
     {
-        "added": "2015-09-15T04:05:25.338955",
+        "added": "2015-05-18T01:25:40.811625",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1967b,\n     title = {{Summer Institute of Linguistics Language Survey of Bisis}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1967},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1967,\n     title = {{Summer Institute of Linguistics Language Survey of Maiwa}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1967},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 182,
-        "reference": "Summer Institute of Linguistics Language Survey of Bisis, 1967.",
-        "resource_uri": "/api/v1/source/sil-1967b/",
-        "slug": "sil-1967b",
+        "id": 148,
+        "reference": "Summer Institute of Linguistics Language Survey of Maiwa, 1967.",
+        "resource_uri": "/api/v1/source/sil-1967/",
+        "slug": "sil-1967",
         "year": "1967"
     },
     {
@@ -803,6 +814,17 @@
         "year": "1970"
     },
     {
+        "added": "2015-10-17T08:15:40.774700",
+        "author": "SIL",
+        "bibtex": "@techreport{sil-1971b,\n     title = {{Summer Institute of Linguistics Language Survey of Qaqet}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1971},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "comment": "",
+        "id": 205,
+        "reference": "Summer Institute of Linguistics Language Survey of Qaqet, 1971.",
+        "resource_uri": "/api/v1/source/sil-1971b/",
+        "slug": "sil-1971b",
+        "year": "1971"
+    },
+    {
         "added": "2015-06-06T20:43:25.320340",
         "author": "SIL",
         "bibtex": "@techreport{sil-1971,\n     title = {{Summer Institute of Linguistics Language Survey of Ura}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1971},\n     institution = {Summer Institute of Linguistics},\n}\n",
@@ -814,15 +836,15 @@
         "year": "1971"
     },
     {
-        "added": "2015-10-17T08:15:40.774700",
+        "added": "2016-01-12T15:08:18.883770",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1971b,\n     title = {{Summer Institute of Linguistics Language Survey of Qaqet}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1971},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1972-burui,\r\n     title = {{Summer Institute of Linguistics Language Survey of Burui}},\r\n     author = {{Summer Institute of Linguistics}},\r\n     year = {1962},\r\n     institution = {Summer Institute of Linguistics},\r\n}",
         "comment": "",
-        "id": 205,
-        "reference": "Summer Institute of Linguistics Language Survey of Qaqet, 1971.",
-        "resource_uri": "/api/v1/source/sil-1971b/",
-        "slug": "sil-1971b",
-        "year": "1971"
+        "id": 211,
+        "reference": "Summer Institute of Linguistics Language Survey of Burui, 1972.",
+        "resource_uri": "/api/v1/source/sil-1972-burui/",
+        "slug": "sil-1972-burui",
+        "year": "1972"
     },
     {
         "added": "2015-06-28T00:35:56.998549",
@@ -836,15 +858,15 @@
         "year": "1972"
     },
     {
-        "added": "2016-01-12T15:08:18.883770",
+        "added": "2013-07-08T19:38:39.947356",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1972-burui,\r\n     title = {{Summer Institute of Linguistics Language Survey of Burui}},\r\n     author = {{Summer Institute of Linguistics}},\r\n     year = {1962},\r\n     institution = {Summer Institute of Linguistics},\r\n}",
+        "bibtex": "@techreport{sil-survey-1973,\n     title = {{Summer Institute of Linguistics Language Survey of Bauwake and Morawa}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1973},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 211,
-        "reference": "Summer Institute of Linguistics Language Survey of Burui, 1972.",
-        "resource_uri": "/api/v1/source/sil-1972-burui/",
-        "slug": "sil-1972-burui",
-        "year": "1972"
+        "id": 40,
+        "reference": "Summer Institute of Linguistics Language Survey of Bauwake and Morawa, 1973",
+        "resource_uri": "/api/v1/source/sil-survey-1973/",
+        "slug": "sil-survey-1973",
+        "year": "1973"
     },
     {
         "added": "2015-05-21T02:11:42.242761",
@@ -880,15 +902,15 @@
         "year": "1973"
     },
     {
-        "added": "2013-07-08T19:38:39.947356",
+        "added": "2015-06-20T05:25:23.271813",
         "author": "SIL",
-        "bibtex": "@techreport{sil-survey-1973,\n     title = {{Summer Institute of Linguistics Language Survey of Bauwake and Morawa}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1973},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1974b,\n     title = {{Summer Institute of Linguistics Language Survey of Ama}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1974},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 40,
-        "reference": "Summer Institute of Linguistics Language Survey of Bauwake and Morawa, 1973",
-        "resource_uri": "/api/v1/source/sil-survey-1973/",
-        "slug": "sil-survey-1973",
-        "year": "1973"
+        "id": 164,
+        "reference": "Summer Institute of Linguistics Language Survey of Ama, 1974.",
+        "resource_uri": "/api/v1/source/sil-1974b/",
+        "slug": "sil-1974b",
+        "year": "1974"
     },
     {
         "added": "2013-07-08T19:39:36.289013",
@@ -902,25 +924,14 @@
         "year": "1974"
     },
     {
-        "added": "2015-06-20T05:25:23.271813",
+        "added": "2015-09-17T05:30:10.964231",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1974b,\n     title = {{Summer Institute of Linguistics Language Survey of Ama}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1974},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1975k,\n     title = {{Summer Institute of Linguistics Language Survey of Ap Ma}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1975},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 164,
-        "reference": "Summer Institute of Linguistics Language Survey of Ama, 1974.",
-        "resource_uri": "/api/v1/source/sil-1974b/",
-        "slug": "sil-1974b",
-        "year": "1974"
-    },
-    {
-        "added": "2015-09-17T02:57:43.529154",
-        "author": "SIL",
-        "bibtex": "@techreport{sil-1975j,\n     title = {{Summer Institute of Linguistics Language Survey of Angoram}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1975},\n     institution = {Summer Institute of Linguistics},\n}\n",
-        "comment": "",
-        "id": 185,
-        "reference": "Summer Institute of Linguistics Language Survey of Angoram, 1975.",
-        "resource_uri": "/api/v1/source/sil-1975j/",
-        "slug": "sil-1975j",
+        "id": 186,
+        "reference": "Summer Institute of Linguistics Language Survey of Ap Ma, 1975.",
+        "resource_uri": "/api/v1/source/sil-1975k/",
+        "slug": "sil-1975k",
         "year": "1975"
     },
     {
@@ -1034,14 +1045,14 @@
         "year": "1975"
     },
     {
-        "added": "2015-09-17T05:30:10.964231",
+        "added": "2015-09-17T02:57:43.529154",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1975k,\n     title = {{Summer Institute of Linguistics Language Survey of Ap Ma}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1975},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1975j,\n     title = {{Summer Institute of Linguistics Language Survey of Angoram}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1975},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 186,
-        "reference": "Summer Institute of Linguistics Language Survey of Ap Ma, 1975.",
-        "resource_uri": "/api/v1/source/sil-1975k/",
-        "slug": "sil-1975k",
+        "id": 185,
+        "reference": "Summer Institute of Linguistics Language Survey of Angoram, 1975.",
+        "resource_uri": "/api/v1/source/sil-1975j/",
+        "slug": "sil-1975j",
         "year": "1975"
     },
     {
@@ -1067,17 +1078,6 @@
         "year": "1975"
     },
     {
-        "added": "2015-07-22T20:22:11.974256",
-        "author": "SIL",
-        "bibtex": "@techreport{sil-1976b,\n     title = {{Summer Institute of Linguistics Language Survey of Alekano (Notofana dialect)}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1976},\n     institution = {Summer Institute of Linguistics},\n}\n",
-        "comment": "",
-        "id": 176,
-        "reference": "Summer Institute of Linguistics Language Survey of Alekano (Notofana dialect), 1976. ",
-        "resource_uri": "/api/v1/source/sil-1976b/",
-        "slug": "sil-1976b",
-        "year": "1976"
-    },
-    {
         "added": "2015-09-25T03:05:36.201475",
         "author": "SIL",
         "bibtex": "@techreport{sil-1976c,\n     title = {{Summer Institute of Linguistics Language Survey of Biwat}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1976},\n     institution = {Summer Institute of Linguistics},\n}\n",
@@ -1100,6 +1100,17 @@
         "year": "1976"
     },
     {
+        "added": "2015-07-22T20:22:11.974256",
+        "author": "SIL",
+        "bibtex": "@techreport{sil-1976b,\n     title = {{Summer Institute of Linguistics Language Survey of Alekano (Notofana dialect)}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1976},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "comment": "",
+        "id": 176,
+        "reference": "Summer Institute of Linguistics Language Survey of Alekano (Notofana dialect), 1976. ",
+        "resource_uri": "/api/v1/source/sil-1976b/",
+        "slug": "sil-1976b",
+        "year": "1976"
+    },
+    {
         "added": "2015-05-04T02:16:11.254163",
         "author": "SIL",
         "bibtex": "@techreport{sil-1976,\n     title = {{Summer Institute of Linguistics Language Survey of Awa}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1976},\n     institution = {Summer Institute of Linguistics},\n}\n",
@@ -1111,14 +1122,14 @@
         "year": "1976"
     },
     {
-        "added": "2015-09-23T12:22:41.403508",
+        "added": "2015-09-17T11:41:29.387514",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1977b,\n     title = {{Summer Institute of Linguistics Language Survey of Ambakich (Agurant)}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1977},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1977,\n     title = {{Summer Institute of Linguistics Language Survey of Ambakich}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1977},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 191,
-        "reference": "Summer Institute of Linguistics Language Survey of Ambakich (Agurant), 1977.",
-        "resource_uri": "/api/v1/source/sil-1977b/",
-        "slug": "sil-1977b",
+        "id": 187,
+        "reference": "Summer Institute of Linguistics Language Survey of Ambakich, 1977.",
+        "resource_uri": "/api/v1/source/sil-1977/",
+        "slug": "sil-1977",
         "year": "1977"
     },
     {
@@ -1144,14 +1155,14 @@
         "year": "1977"
     },
     {
-        "added": "2015-09-17T11:41:29.387514",
+        "added": "2015-09-23T12:22:41.403508",
         "author": "SIL",
-        "bibtex": "@techreport{sil-1977,\n     title = {{Summer Institute of Linguistics Language Survey of Ambakich}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1977},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "bibtex": "@techreport{sil-1977b,\n     title = {{Summer Institute of Linguistics Language Survey of Ambakich (Agurant)}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1977},\n     institution = {Summer Institute of Linguistics},\n}\n",
         "comment": "",
-        "id": 187,
-        "reference": "Summer Institute of Linguistics Language Survey of Ambakich, 1977.",
-        "resource_uri": "/api/v1/source/sil-1977/",
-        "slug": "sil-1977",
+        "id": 191,
+        "reference": "Summer Institute of Linguistics Language Survey of Ambakich (Agurant), 1977.",
+        "resource_uri": "/api/v1/source/sil-1977b/",
+        "slug": "sil-1977b",
         "year": "1977"
     },
     {
@@ -1210,28 +1221,6 @@
         "year": "1983"
     },
     {
-        "added": "2015-06-05T23:12:24.943572",
-        "author": "SIL",
-        "bibtex": "@techreport{sil-1985b,\n     title = {{Summer Institute of Linguistics Language Survey of Qaqet}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1985},\n     institution = {Summer Institute of Linguistics},\n}\n",
-        "comment": "",
-        "id": 156,
-        "reference": "Summer Institute of Linguistics Language Survey of Qaqet, 1985.",
-        "resource_uri": "/api/v1/source/sil-1985b/",
-        "slug": "sil-1985b",
-        "year": "1985"
-    },
-    {
-        "added": "2015-06-28T03:22:53.384006",
-        "author": "SIL",
-        "bibtex": "@techreport{sil-1985c,\n     title = {{Summer Institute of Linguistics Language Survey of Mali (Arambum)}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1985},\n     institution = {Summer Institute of Linguistics},\n}\n",
-        "comment": "",
-        "id": 167,
-        "reference": "Summer Institute of Linguistics Language Survey of Mali (Arambum), 1985.",
-        "resource_uri": "/api/v1/source/sil-1985c/",
-        "slug": "sil-1985c",
-        "year": "1985"
-    },
-    {
         "added": "2015-05-06T02:55:21.439506",
         "author": "SIL",
         "bibtex": "@techreport{sil-1985,\n     title = {{Summer Institute of Linguistics Language Survey of Binahari}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1985},\n     institution = {Summer Institute of Linguistics},\n}\n",
@@ -1243,6 +1232,17 @@
         "year": "1985"
     },
     {
+        "added": "2015-06-05T23:12:24.943572",
+        "author": "SIL",
+        "bibtex": "@techreport{sil-1985b,\n     title = {{Summer Institute of Linguistics Language Survey of Qaqet}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1985},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "comment": "",
+        "id": 156,
+        "reference": "Summer Institute of Linguistics Language Survey of Qaqet, 1985.",
+        "resource_uri": "/api/v1/source/sil-1985b/",
+        "slug": "sil-1985b",
+        "year": "1985"
+    },
+    {
         "added": "2015-06-29T23:16:36.461041",
         "author": "SIL",
         "bibtex": "@techreport{sil-1985d,\n     title = {{Summer Institute of Linguistics Language Survey of Mali (Makunga)}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1985},\n     institution = {Summer Institute of Linguistics},\n}\n",
@@ -1251,6 +1251,17 @@
         "reference": "Summer Institute of Linguistics Language Survey of Mali (Makunga), 1985.",
         "resource_uri": "/api/v1/source/sil-1985d/",
         "slug": "sil-1985d",
+        "year": "1985"
+    },
+    {
+        "added": "2015-06-28T03:22:53.384006",
+        "author": "SIL",
+        "bibtex": "@techreport{sil-1985c,\n     title = {{Summer Institute of Linguistics Language Survey of Mali (Arambum)}},\n     author = {{Summer Institute of Linguistics}},\n     year = {1985},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "comment": "",
+        "id": 167,
+        "reference": "Summer Institute of Linguistics Language Survey of Mali (Arambum), 1985.",
+        "resource_uri": "/api/v1/source/sil-1985c/",
+        "slug": "sil-1985c",
         "year": "1985"
     },
     {
@@ -1309,6 +1320,17 @@
         "year": "1992"
     },
     {
+        "added": "2015-06-05T22:43:58.521666",
+        "author": "SIL",
+        "bibtex": "@techreport{sil-2000b,\n     title = {{Summer Institute of Linguistics Language Survey of Seta}},\n     author = {{Summer Institute of Linguistics}},\n     year = {2000},\n     institution = {Summer Institute of Linguistics},\n}\n",
+        "comment": "",
+        "id": 155,
+        "reference": "Summer Institute of Linguistics Language Survey of Seta, 2000.",
+        "resource_uri": "/api/v1/source/sil-2000b/",
+        "slug": "sil-2000b",
+        "year": "2000"
+    },
+    {
         "added": "2015-05-22T01:58:47.609252",
         "author": "SIL",
         "bibtex": "@techreport{sil-2000,\n     title = {{Summer Institute of Linguistics Language Survey of Yagaria (Hira dialect)}},\n     author = {{Summer Institute of Linguistics}},\n     year = {2000},\n     institution = {Summer Institute of Linguistics},\n}\n",
@@ -1328,17 +1350,6 @@
         "reference": "Summer Institute of Linguistics Language Survey of Yagaria (Hira dialect), 2000.",
         "resource_uri": "/api/v1/source/sil-2000c/",
         "slug": "sil-2000c",
-        "year": "2000"
-    },
-    {
-        "added": "2015-06-05T22:43:58.521666",
-        "author": "SIL",
-        "bibtex": "@techreport{sil-2000b,\n     title = {{Summer Institute of Linguistics Language Survey of Seta}},\n     author = {{Summer Institute of Linguistics}},\n     year = {2000},\n     institution = {Summer Institute of Linguistics},\n}\n",
-        "comment": "",
-        "id": 155,
-        "reference": "Summer Institute of Linguistics Language Survey of Seta, 2000.",
-        "resource_uri": "/api/v1/source/sil-2000b/",
-        "slug": "sil-2000b",
         "year": "2000"
     },
     {
@@ -1485,17 +1496,6 @@
         "year": "1987"
     },
     {
-        "added": "2013-06-15T08:27:07.279013",
-        "author": "Voorhoeve",
-        "bibtex": "@incollection{Voorhoeve1970,\r\naddress = {Canberra},\r\nauthor = {Voorhoeve, C. L.},\r\nbooktitle = {Papers in New Guinea Linguistics No. 10},\r\neditor = {Voorhoeve, C. L. and McElhanon, K. A. and Blowers, Bruce L. and Blowers, Ruth},\r\npages = {1--18},\r\npublisher = {Pacific Linguistics},\r\ntitle = {The Languages of the Lake Murray Area},\r\nyear = {1970}\r\n}\r\n",
-        "comment": "",
-        "id": 32,
-        "reference": "Voorhoeve, CL. 1970. The Languages of the Lake Murray Area. In Papers in New Guinea Linguistics No. 10. Canberra: Pacific Linguistics.",
-        "resource_uri": "/api/v1/source/voorhoeve-1970/",
-        "slug": "voorhoeve-1970",
-        "year": "1970"
-    },
-    {
         "added": "2014-02-23T04:30:54.489349",
         "author": "Voorhoeve",
         "bibtex": "@incollection{134151,\r\n  address    = {Canberra},\r\n  author     = {C. L. Voorhoeve},\r\n  booktitle  = {Pacific Linguistic Studies in Honour of Arthur Capell},\r\n  editor     = {Stephen A. Wurm and Donald C. Laycock},\r\n  pages      = {1245-1270},\r\n  publisher  = {Research School of Pacific and Asian Studies, Australian National University},\r\n  series     = {Pacific Linguistics: Series C},\r\n  title      = {Some Notes on the Suki-Gogodala Subgroup of the Central and South New Guinea Phylum},\r\n  volume     = {13},\r\n  year       = {1970},\r\n  fn         = {papua\\wurm-laycock_honour-capell1970_o.pdf, australia\\wurm-laycock_honour-capell1970.pdf, papua\\voorhoeve_suki-gogodala1970.pdf},\r\n  hhtype     = {overview;comparative},\r\n  inlg       = {English [eng]},\r\n  lgcode     = {Gogodala [ggw], Suki [sui]},\r\n  macro_area = {Papunesia},\r\n  src        = {hh}\r\n}",
@@ -1504,6 +1504,17 @@
         "reference": "Voorhoeve, C.L., 1970. Some notes on the Suki-Gogodala subgroup of the Cental and South New Guinea phylum. In S. A. Wurm & D. C. Laycock, eds. Pacific Linguistic Studies in honour of Arthur Capell. Canberra: Pacific Linguistics.",
         "resource_uri": "/api/v1/source/voorhoeve-1970-b/",
         "slug": "voorhoeve-1970-b",
+        "year": "1970"
+    },
+    {
+        "added": "2013-06-15T08:27:07.279013",
+        "author": "Voorhoeve",
+        "bibtex": "@incollection{Voorhoeve1970,\r\naddress = {Canberra},\r\nauthor = {Voorhoeve, C. L.},\r\nbooktitle = {Papers in New Guinea Linguistics No. 10},\r\neditor = {Voorhoeve, C. L. and McElhanon, K. A. and Blowers, Bruce L. and Blowers, Ruth},\r\npages = {1--18},\r\npublisher = {Pacific Linguistics},\r\ntitle = {The Languages of the Lake Murray Area},\r\nyear = {1970}\r\n}\r\n",
+        "comment": "",
+        "id": 32,
+        "reference": "Voorhoeve, CL. 1970. The Languages of the Lake Murray Area. In Papers in New Guinea Linguistics No. 10. Canberra: Pacific Linguistics.",
+        "resource_uri": "/api/v1/source/voorhoeve-1970/",
+        "slug": "voorhoeve-1970",
         "year": "1970"
     },
     {
@@ -1639,17 +1650,6 @@
         "year": "1980"
     },
     {
-        "added": "2013-03-27T21:44:28.284624",
-        "author": "Z'graggen",
-        "bibtex": "@book{Z'graggen1980a,\r\naddress = {Canberra},\r\nauthor = {Z'graggen, J A},\r\npublisher = {Pacific Linguistics},\r\ntitle = {A comparative word list of the Rai Coast Languages, Madang Province, Papua New Guinea},\r\nyear = {1980}\r\n}\r\n",
-        "comment": "",
-        "id": 3,
-        "reference": "Z'graggen, JA. 1980. A comparative word list of the Rai Coast Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics.",
-        "resource_uri": "/api/v1/source/zgraggen-1980-raicoast/",
-        "slug": "zgraggen-1980-raicoast",
-        "year": "1980"
-    },
-    {
         "added": "2014-10-12T01:23:08.715653",
         "author": "Z'graggen",
         "bibtex": "@book{Zgraggen1980b,\r\n address = {Canberra},\r\n author = {Z'graggen, J A},\r\n publisher = {{Pacific Linguistics}},\r\n title = {A Comparative Word List of the {{Southern Adelbert Range Languages}}, {{Madang Province}}, {{Papua New Guinea}}},\r\n year = {1980}\r\n}",
@@ -1658,6 +1658,17 @@
         "reference": "Z'graggen, J. A. 1980. A comparative word list of the Southern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics.",
         "resource_uri": "/api/v1/source/zgraggen-1980-sadelbert/",
         "slug": "zgraggen-1980-sadelbert",
+        "year": "1980"
+    },
+    {
+        "added": "2013-03-27T21:44:28.284624",
+        "author": "Z'graggen",
+        "bibtex": "@book{Z'graggen1980a,\r\naddress = {Canberra},\r\nauthor = {Z'graggen, J A},\r\npublisher = {Pacific Linguistics},\r\ntitle = {A comparative word list of the Rai Coast Languages, Madang Province, Papua New Guinea},\r\nyear = {1980}\r\n}\r\n",
+        "comment": "",
+        "id": 3,
+        "reference": "Z'graggen, JA. 1980. A comparative word list of the Rai Coast Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics.",
+        "resource_uri": "/api/v1/source/zgraggen-1980-raicoast/",
+        "slug": "zgraggen-1980-raicoast",
         "year": "1980"
     }
 ]

@@ -144,6 +144,18 @@
         "word": "/api/v1/word/good/"
     },
     {
+        "added": "2023-07-06T07:21:38.170192",
+        "annotation": null,
+        "entry": "doei",
+        "id": 260813,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260813/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2013-06-12T21:09:14.637880",
         "annotation": "",
         "entry": "en\u0259f",
@@ -154,6 +166,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2023-07-06T07:21:38.185381",
+        "annotation": null,
+        "entry": "fiak",
+        "id": 260815,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260815/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2023-07-06T07:21:38.206823",
+        "annotation": null,
+        "entry": "fiek",
+        "id": 260818,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260818/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
     },
     {
         "added": "2013-06-12T21:09:14.821696",
@@ -228,6 +264,18 @@
         "word": "/api/v1/word/skin/"
     },
     {
+        "added": "2023-07-06T07:21:38.176225",
+        "annotation": null,
+        "entry": "kior",
+        "id": 260814,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260814/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2013-06-12T21:09:14.699427",
         "annotation": "",
         "entry": "knam",
@@ -262,6 +310,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2023-07-06T07:21:38.192582",
+        "annotation": null,
+        "entry": "lim",
+        "id": 260816,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260816/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
     },
     {
         "added": "2013-06-12T22:24:33.903123",
@@ -300,18 +360,6 @@
         "word": "/api/v1/word/to-see/"
     },
     {
-        "added": "2013-06-12T21:09:13.896562",
-        "annotation": "",
-        "entry": "man",
-        "id": 24272,
-        "language": "/api/v1/language/biak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/24272/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bird/"
-    },
-    {
         "added": "2013-06-12T21:09:14.486005",
         "annotation": "",
         "entry": "man",
@@ -322,6 +370,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2013-06-12T21:09:13.896562",
+        "annotation": "",
+        "entry": "man",
+        "id": 24272,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24272/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2013-06-12T21:09:14.252504",
@@ -372,6 +432,18 @@
         "word": "/api/v1/word/tooth/"
     },
     {
+        "added": "2023-07-06T07:21:38.199076",
+        "annotation": null,
+        "entry": "onim",
+        "id": 260817,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260817/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
         "added": "2013-06-12T21:09:14.662919",
         "annotation": "",
         "entry": "or",
@@ -394,6 +466,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:21:28.538777",
+        "annotation": null,
+        "entry": "otin",
+        "id": 260807,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260807/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "100",
+        "word": "/api/v1/word/one-hundred/"
     },
     {
         "added": "2013-06-12T21:09:13.879843",
@@ -516,6 +600,66 @@
         "word": "/api/v1/word/pig/"
     },
     {
+        "added": "2023-07-06T07:21:44.414193",
+        "annotation": null,
+        "entry": "sai",
+        "id": 260833,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260833/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:21:38.247373",
+        "annotation": null,
+        "entry": "samfor",
+        "id": 260821,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260821/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2023-07-06T07:21:28.531531",
+        "annotation": null,
+        "entry": "samfor-di-soeroe",
+        "id": 260805,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260805/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
+    },
+    {
+        "added": "2023-07-06T07:21:28.535706",
+        "annotation": null,
+        "entry": "samfor-do-kior",
+        "id": 260806,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260806/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "30",
+        "word": "/api/v1/word/thirty/"
+    },
+    {
+        "added": "2023-07-06T07:21:38.261204",
+        "annotation": null,
+        "entry": "samfor-mai-ozer",
+        "id": 260822,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260822/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
         "added": "2013-06-12T21:09:14.352745",
         "annotation": "",
         "entry": "saprop",
@@ -526,6 +670,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2023-07-06T07:21:38.220657",
+        "annotation": null,
+        "entry": "siew",
+        "id": 260820,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260820/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
     },
     {
         "added": "2013-06-12T21:09:14.502789",
@@ -576,16 +732,16 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2013-06-12T21:09:14.457150",
-        "annotation": "leg",
-        "entry": "we",
-        "id": 24289,
+        "added": "2023-07-06T07:21:38.214058",
+        "annotation": null,
+        "entry": "war",
+        "id": 260819,
         "language": "/api/v1/language/biak/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/24289/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": "leg",
-        "word": "/api/v1/word/leg/"
+        "resource_uri": "/api/v1/lexicon/260819/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
     },
     {
         "added": "2013-06-12T22:24:33.513861",
@@ -598,6 +754,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fingernail/"
+    },
+    {
+        "added": "2013-06-12T21:09:14.457150",
+        "annotation": "leg",
+        "entry": "we",
+        "id": 24289,
+        "language": "/api/v1/language/biak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24289/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": "leg",
+        "word": "/api/v1/word/leg/"
     },
     {
         "added": "2013-06-12T22:24:33.737753",

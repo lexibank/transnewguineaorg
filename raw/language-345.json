@@ -12,6 +12,66 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2023-07-06T07:22:02.354800",
+        "annotation": null,
+        "entry": "ali",
+        "id": 260852,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260852/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2023-07-06T07:22:02.389064",
+        "annotation": null,
+        "entry": "an\u00e9-ali",
+        "id": 260858,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260858/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.498164",
+        "annotation": null,
+        "entry": "an\u00e9-feh-temon-mafoek",
+        "id": 260837,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260837/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "25",
+        "word": "/api/v1/word/twenty-five/"
+    },
+    {
+        "added": "2023-07-06T07:22:02.385222",
+        "annotation": null,
+        "entry": "an\u00e9-m\u00e9l\u00e9",
+        "id": 260857,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260857/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:22:02.393050",
+        "annotation": null,
+        "entry": "an\u00e9-tolo",
+        "id": 260859,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260859/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
         "added": "2013-06-10T19:18:35.827985",
         "annotation": "",
         "entry": "baik",
@@ -70,6 +130,126 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2023-07-06T07:22:02.367702",
+        "annotation": null,
+        "entry": "fak",
+        "id": 260854,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260854/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2023-07-06T07:22:02.396976",
+        "annotation": null,
+        "entry": "feh",
+        "id": 260860,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260860/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.515191",
+        "annotation": null,
+        "entry": "feh-fak",
+        "id": 260840,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260840/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "40",
+        "word": "/api/v1/word/forty/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.521192",
+        "annotation": null,
+        "entry": "feh-mafoek",
+        "id": 260842,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260842/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "50",
+        "word": "/api/v1/word/fifty/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.518243",
+        "annotation": null,
+        "entry": "feh-maftani",
+        "id": 260841,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260841/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "45",
+        "word": "/api/v1/word/forty-five/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.524089",
+        "annotation": null,
+        "entry": "feh-nefehigi",
+        "id": 260843,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260843/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "100",
+        "word": "/api/v1/word/one-hundred/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.509257",
+        "annotation": null,
+        "entry": "feh-talo",
+        "id": 260838,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260838/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "30",
+        "word": "/api/v1/word/thirty/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.491799",
+        "annotation": null,
+        "entry": "fe-temon ali",
+        "id": 260835,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260835/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "12",
+        "word": "/api/v1/word/twelve/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.486859",
+        "annotation": null,
+        "entry": "fe-temon m\u00e9l\u00e9",
+        "id": 260834,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260834/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.512421",
+        "annotation": null,
+        "entry": "fe-tolo-maf-t\u00e9n\u00e9",
+        "id": 260839,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260839/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "35",
+        "word": "/api/v1/word/thirty-five/"
     },
     {
         "added": "2013-06-10T19:18:35.836636",
@@ -168,6 +348,30 @@
         "word": "/api/v1/word/night/"
     },
     {
+        "added": "2023-07-06T07:22:02.375434",
+        "annotation": null,
+        "entry": "mafoek",
+        "id": 260855,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260855/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-07-06T07:22:02.380433",
+        "annotation": null,
+        "entry": "maf-t\u00e9n\u00e9",
+        "id": 260856,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260856/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
         "added": "2013-06-10T19:18:35.940173",
         "annotation": "",
         "entry": "mam",
@@ -189,6 +393,18 @@
         "resource_uri": "/api/v1/lexicon/20127/",
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:22:02.349673",
+        "annotation": null,
+        "entry": "m\u00e9l\u00e9",
+        "id": 260851,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260851/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
         "word": "/api/v1/word/one/"
     },
     {
@@ -226,6 +442,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2023-07-06T07:21:51.495029",
+        "annotation": null,
+        "entry": "n\u00e9merbagi",
+        "id": 260836,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260836/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
     },
     {
         "added": "2013-06-10T19:18:35.949698",
@@ -418,6 +646,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2023-07-06T07:22:02.362576",
+        "annotation": null,
+        "entry": "tolo",
+        "id": 260853,
+        "language": "/api/v1/language/moi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260853/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
     },
     {
         "added": "2013-06-10T19:18:35.692309",

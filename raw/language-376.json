@@ -12,18 +12,6 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2013-06-12T21:13:56.896258",
-        "annotation": "",
-        "entry": "ai",
-        "id": 24350,
-        "language": "/api/v1/language/wandamen/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/24350/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tree/"
-    },
-    {
         "added": "2013-06-12T21:13:56.687701",
         "annotation": "leg",
         "entry": "ai",
@@ -34,6 +22,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": "leg",
         "word": "/api/v1/word/leg/"
+    },
+    {
+        "added": "2013-06-12T21:13:56.896258",
+        "annotation": "",
+        "entry": "ai",
+        "id": 24350,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/24350/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tree/"
     },
     {
         "added": "2013-06-12T21:13:56.944477",
@@ -70,6 +70,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.686179",
+        "annotation": null,
+        "entry": "at",
+        "id": 260999,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260999/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
     },
     {
         "added": "2013-06-12T21:13:56.596118",
@@ -240,6 +252,18 @@
         "word": "/api/v1/word/you-pl/"
     },
     {
+        "added": "2023-07-06T07:23:08.678939",
+        "annotation": null,
+        "entry": "mondo",
+        "id": 260997,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260997/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2013-06-12T21:13:56.909425",
         "annotation": "",
         "entry": "muandu",
@@ -348,6 +372,90 @@
         "word": "/api/v1/word/blood/"
     },
     {
+        "added": "2023-07-06T07:23:08.688947",
+        "annotation": null,
+        "entry": "rim",
+        "id": 261000,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261000/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.703240",
+        "annotation": null,
+        "entry": "rim-ma-at",
+        "id": 261004,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261004/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.696067",
+        "annotation": null,
+        "entry": "rim-ma-mondo",
+        "id": 261002,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261002/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.692826",
+        "annotation": null,
+        "entry": "rim-ma-siri",
+        "id": 261001,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261001/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.707415",
+        "annotation": null,
+        "entry": "rim-ma-soerat",
+        "id": 261005,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261005/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.711693",
+        "annotation": null,
+        "entry": "rim-ma-soerat-siri",
+        "id": 261006,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261006/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.699392",
+        "annotation": null,
+        "entry": "rim-ma-toro",
+        "id": 261003,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261003/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
         "added": "2013-06-12T21:13:56.843687",
         "annotation": "",
         "entry": "rovuki",
@@ -444,6 +552,30 @@
         "word": "/api/v1/word/bone/"
     },
     {
+        "added": "2023-07-06T07:23:08.715926",
+        "annotation": null,
+        "entry": "sinoto pis-\u00e9",
+        "id": 261007,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261007/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.675453",
+        "annotation": null,
+        "entry": "siri",
+        "id": 260996,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260996/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
         "added": "2013-06-12T21:13:56.753276",
         "annotation": "",
         "entry": "siri",
@@ -466,6 +598,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.682889",
+        "annotation": null,
+        "entry": "toro",
+        "id": 260998,
+        "language": "/api/v1/language/wandamen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260998/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
     },
     {
         "added": "2013-06-12T21:13:56.146872",

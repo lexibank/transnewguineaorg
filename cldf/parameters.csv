@@ -245,7 +245,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 281_skirt,skirt,1600,SKIRT
 282_soft,soft,1856,SOFT
 283_slow,slow,701,SLOW
-285_tostay,to stay,,
+285_tostay,to stay,987,REMAIN
 286_tostop,to stop,2115,CEASE OR FINISH
 289_sweetpotato,sweet potato,159,SWEET POTATO
 290_totalk,to talk,2708,TALK
@@ -272,7 +272,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 333_sagogrub,sago grub,2802,SAGO GRUB
 334_sagopalm,sago palm,2372,SAGO PALM
 335_sagorefuse,sago refuse,,
-339_spineofleaf,spine of leaf,,
+339_spineofleaf,spine of leaf,2803,LEAF SPINE
 498_medialverbsuffixds,Medial Verb Suffix DS,,
 499_medialsequentialsuffixhavingfinishedthatandthen,"Medial Sequential Suffix (having finished that, and then)",,
 506_medialssverbsuffix,Medial SS Verb Suffix,,
@@ -289,10 +289,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 801_penis,penis,1222,PENIS
 802_lizard,lizard,632,LIZARD
 804_purposiveverbsuffix,purposive verb suffix,,
-805_tocallout,to call out,,
+805_tocallout,to call out,715,SHOUT
 806_navel,navel,1838,NAVEL
 807_trunkoftree,trunk (of tree),776,TRUNK OF TREE
-808_yesterdaytomorrow,"yesterday, tomorrow",,
+808_yesterdaytomorrow,"yesterday, tomorrow",2801,TOMORROW OR YESTERDAY
 810_predicativepossessivesuffix,predicative possessive suffix,,
 812_toscrapeoff,to scrape off,1767,SCRAPE
 813_todrill,to drill,1501,BORE
@@ -420,12 +420,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 972_rainbow,rainbow,1733,RAINBOW
 973_chest,chest,1592,CHEST
 974_hard,hard,1884,HARD
-975_pigeon,pigeon,1853,DOVE
+975_pigeon,pigeon,,
 976_lightning,lightning,1654,LIGHTNING
 977_sour,sour,1906,SOUR
 978_sweet,sweet,717,SWEET
 979_nothing,nothing,687,NOTHING
-980_bushhen,bush hen,,
+980_bushhen,bush hen,1514,HEN
 981_cheek,cheek,1730,CHEEK
 983_stomach,stomach,819,STOMACH
 984_grandfather,grandfather,1383,GRANDFATHER
@@ -491,7 +491,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1241_naked,naked,590,NAKED
 1242_dark,dark,706,DARK
 1243_noontime,noontime,2490,NOON
-1244_overthere,over there,,
+1244_overthere,over there,3411,OVER THERE
 1245_palmmidrib,palm midrib,,
 1246_palmsp,palm sp.,1181,PALM TREE
 1247_pandanusfruit,pandanus fruit,,
@@ -542,13 +542,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1299_nine,nine,1483,NINE
 1300_twenty,twenty,1710,TWENTY
 1301_onehundred,one hundred,1634,HUNDRED
-1302_twohundred,two hundred,,
+1302_twohundred,two hundred,2676,TWO HUNDRED
 1303_thousand,thousand,1843,THOUSAND
 1305_nail,nail,502,NAIL (TOOL)
 1306_iseethesnake,i see the snake,,
 1307_thesnakeseesme,the snake sees me,,
 1551_abdomen,abdomen,1251,BELLY
-1552_anattolipsticktree,anatto (lipstick tree),,
+1552_anattolipsticktree,anatto (lipstick tree),349,ACHIOTE
 1553_ankle,ankle,803,ANKLE
 1555_armhand,"arm, hand",2121,ARM OR HAND
 1557_aunt,aunt,1272,AUNT
@@ -556,7 +556,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1559_bananaseed,banana seed,,
 1560_basket,basket,1539,BASKET
 1562_birdofparadise,bird of paradise,2673,BIRD OF PARADISE
-1563_bit,bit,,
+1563_bit,bit,2924,A LITTLE
 1565_bivalve,bivalve,2785,BIVALVIA (MUSSELS OR OYSTERS)
 1566_blackcreature,black (creature),,
 1567_blackpalm,black palm,3030,LONTAR PALM
@@ -576,15 +576,15 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1590_cease,cease,1928,CEASE
 1591_centipede,centipede,1974,CENTIPEDE
 1592_centre,centre,491,CENTER
-1595_chinjaw,"chin, jaw",798,JAW
+1595_chinjaw,"chin, jaw",,
 1596_citrusfruitsp,citrus fruit sp.,1126,CITRUS FRUIT
 1597_club,club,1763,CLUB
 1598_coconutmat,coconut mat,,
 1600_coral,coral,3179,CORAL ROCK
 1601_corner,corner,192,CORNER
 1602_cousin,cousin,1643,COUSIN
-1603_cowife,co-wife,,
-1604_cowrie,cowrie,,
+1603_cowife,co-wife,3636,CO-WIFE
+1604_cowrie,cowrie,3663,COWRIE SHELL
 1605_crackingsound,cracking sound,1811,SOUND OR NOISE
 1610_daylight,daylight,1225,DAY (NOT NIGHT)
 1611_desire,desire,2117,DESIRE
@@ -635,12 +635,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1694_nest,nest,539,NEST
 1695_nipapalm,nipa palm,,
 1696_noise,noise,1182,NOISE
-1697_odour,odour,,
+1697_odour,odour,3704,ODOR (SMELL)
 1699_paddle,paddle,234,PADDLE
 1702_palmroof,palm roof,,
 1704_pandanusmat,pandanus mat,,
 1705_pandanusnet,pandanus (net),,
-1706_topant,to pant,,
+1706_topant,to pant,3614,PANT
 1707_part,part,779,PART
 1708_parrot,parrot,882,PARROT
 1709_pepper,pepper,1385,PEPPER
@@ -658,8 +658,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1730_sandfly,sandfly,95,SANDFLY
 1731_sawfish,sawfish,,
 1736_shadowshadeshadow,"shadow (shade, shadow)",2275,SHADOW
-1738_sheath,sheath,,
-1739_shellhull,"shell, hull",,
+1738_sheath,sheath,3424,SHEATH
+1739_shellhull,"shell, hull",598,SHELL
 1740_shootingstar,shooting star,2288,METEROID (SHOOTING OR SHINING STAR)
 1742_siblingoppositesex,"sibling, opposite sex",,
 1743_siblings,siblings,1640,SIBLING
@@ -748,7 +748,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1963_tosharpen,to sharpen,251,SHARPEN (SOMETHING)
 1964_knot,knot,760,KNOT
 1965_tojump,to jump,1829,JUMP
-1966_shootplant,"shoot, plant",,
+1966_shootplant,"shoot, plant",3358,SPROUT (SHOOT)
 1967_firelight,firelight,,
 1968_vulva,vulva,1837,VULVA
 1969_shortpieceofwood,short-piece-of-wood,,
@@ -825,15 +825,15 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2055_plate,plate,480,PLATE
 2056_pan,pan,31,PAN
 2057_courage,courage,3049,COURAGE
-2058_tohusk,to husk,,
+2058_tohusk,to husk,275,PEEL
 2059_mepronouno1s,me (pronoun o:1s),2301,ME
 2060_uspronouno1p,us (pronoun o:1p),2310,US (OBLIQUE CASE OF WE)
 2061_thought,thought,2975,THOUGHT
 2068_himheritpronouno3s,"him, her, it (pronoun o:3s)",,
 2069_tolieonground,to lie on ground,1411,LIE (REST)
-2070_underneath,underneath,,
+2070_underneath,underneath,1485,BELOW OR UNDER
 2071_ontop,on top,57,ATOP
-2072_singsing,singsing,,
+2072_singsing,singsing,131,FESTIVAL
 2073_ripebanana,ripe banana,,
 2074_negationmarker,negation-marker,1240,NOT
 2075_possessivemarker,possessive-marker,,
@@ -846,7 +846,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2083_youplpronouno2p,you pl. (pronoun o:2p),2312,YOU (OBLIQUE CASE OF YOU)
 2085_ustwopronouno1pdual,"us two (pronoun o:1p, dual)",,
 2086_thempronouno3pdual,"them (pronoun o:3p, dual)",,
-2087_axeiron,axe (iron),,
+2087_axeiron,axe (iron),677,AXE
 2088_yourtwoplpronounp2pdual,"your (two) pl (pronoun p:2p, dual)",,
 2089_ourtwopronounp1pdual,"our (two) (pronoun p:1p, dual)",,
 2090_theirpronounp3pdual,"their (pronoun p:3p, dual)",,
@@ -855,7 +855,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2093_arrowpronged,arrow (pronged),,
 2094_arrowhooked,arrow (hooked),,
 2095_arrowbarredarrowwithcrossbar,arrow (barred) (Arrow with cross bar),,
-2100_blossom,blossom,,
+2100_blossom,blossom,3287,BLOOM
 2101_deathadder,death adder,2654,VIPER
 2102_orphan,orphan,1149,ORPHAN
 2103_seat,seat,1476,CHAIR
@@ -863,7 +863,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2106_theirspronounp3p,theirs (pronoun p:3p),,
 2107_testicles,testicles,797,TESTICLES
 2108_grandparent,grandparent,2399,GRANDPARENT
-2109_witchcraft,witchcraft,,
+2109_witchcraft,witchcraft,392,MAGIC
 2110_blue,blue,837,BLUE
 2111_alangalang,alangalang,,
 2112_blowonfire,blow (on fire),176,BLOW (WITH MOUTH)
@@ -879,7 +879,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2124_mirror,mirror,1171,MIRROR
 2125_statue,statue,1002,STATUE
 2126_musicalinstrument,musical instrument,,
-2127_died,died,,
+2127_died,died,2101,BE DEAD OR DIE
 2128_festival,festival,131,FESTIVAL
 2129_writedraw,"write, draw",1672,WRITE
 2130_boat,boat,1844,BOAT
@@ -912,8 +912,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2159_cassurinatree,cassurina tree,,
 2160_collarbone,collar bone,1994,COLLARBONE
 2161_crumbs,crumbs,,
-2162_cuthair,cut (hair),,
-2163_dirtywater,dirty (water),,
+2162_cuthair,cut (hair),2155,CUT (WITH SCISSORS)
+2163_dirtywater,dirty (water),1230,DIRTY
 2164_husbandandwife,husband and wife,,
 2165_eagle,eagle,1905,EAGLE
 2166_huskofnut,husk (of nut),2363,CHAFF (HUSK)
@@ -925,13 +925,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2172_selfreflexive,"self, reflexive",1993,SELF
 2173_inlaw,in-law,,
 2174_appetiser,appetiser,,
-2175_breakbone,break (bone),,
+2175_breakbone,break (bone),680,BREAK (DESTROY OR GET DESTROYED)
 2176_emphaticpronounmarker,emphatic pronoun marker,,
 2177_greedyselfish,"greedy, selfish",2018,GREEDY
 2178_pancreas,pancreas,3252,PANCREAS
 2179_floor,floor,1632,FLOOR
 2180_point,point,,
-2181_sorcery,sorcery,,
+2181_sorcery,sorcery,392,MAGIC
 2182_spark,spark,518,SPARK
 2183_sagothatch,Sago thatch,2616,SAGO THATCH
 2184_fishtrap,Fishtrap,389,FISH TRAP
@@ -941,13 +941,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2189_2sg2ndpersonsingular,2SG (2nd person singular),1215,THOU
 2190_search,search,1468,LOOK FOR
 2192_teeth,teeth,1380,TOOTH
-2193_meatgame,meat (game),,
+2193_meatgame,meat (game),634,MEAT
 2194_muscle,muscle,1004,MUSCLE
 2196_scrotum,scrotum,797,TESTICLES
-2197_lowerback,lower back,,
+2197_lowerback,lower back,3613,LOWER BACK
 2198_ash,ash,646,ASH
 2199_slick,slick,,
-2200_staff,staff,,
+2200_staff,staff,1296,WALKING STICK
 2201_midday,midday,12,MIDDAY
 2202_tomow,to mow,190,MOW
 2203_smelly,smelly,42,STINKING
@@ -961,8 +961,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2211_infront,in front,1883,IN FRONT OF
 2212_oldpeople,old (people),725,OLD PERSON
 2213_young,young,1207,YOUNG
-2214_shortthings,short (things),,
-2215_shortpeople,short (people),,
+2214_shortthings,short (things),1645,SHORT
+2215_shortpeople,short (people),2484,SMALL (NOT TALL)
 2216_awaken,awaken,825,AWAKE
 2217_why,why?,1270,WHY
 2218_tolay,to lay,2071,LAY (VERB)
@@ -972,7 +972,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2223_sweat,sweat,125,SWEAT (SUBSTANCE)
 2224_toe,toe,1389,TOE
 2225_ironwood,ironwood,,
-2226_goods,goods,,
+2226_goods,goods,3406,MERCHANDISE
 2227_copulate,copulate,549,COPULATE
 2228_copula,copula,1579,BE
 2229_matoa,matoa,,
@@ -980,10 +980,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2232_toshiver,to shiver,52,SHIVER
 2233_stairs,stairs,34,STAIRS
 2234_fault,fault,134,FAULT
-2235_umbilicalcord,umbilical cord,,
+2235_umbilicalcord,umbilical cord,2663,UMBILICAL CORD
 2236_avenge,avenge,495,REVENGE
 2237_deadperson,dead person,,
-2238_sleepy,sleepy,,
+2238_sleepy,sleepy,3620,SLEEPY
 2239_wall,wall,933,WALL (OF HOUSE)
 2240_crownpigeon,crown-pigeon,,
 2241_malicious,malicious,,
@@ -993,16 +993,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2245_suckle,suckle,2472,"SUCKLE (BREASTFEED, NURSE)"
 2246_excreta,excreta,47,EXCRETA
 2247_dumb,dumb,1492,DUMB
-2248_tothrowaway,to throw away,,
+2248_tothrowaway,to throw away,3696,THROW AWAY
 2249_totwist,to twist,430,TWIST
-2250_newborn,newborn,,
+2250_newborn,newborn,1289,BABY
 2251_togivebirth,to give birth,1195,GIVE BIRTH
 2252_widowed,widowed,,
-2253_tofetch,to fetch,,
+2253_tofetch,to fetch,3551,FETCH
 2254_farm,farm,201,FARM
 2255_hesheitthatthose,"he, she, it, that, those",,
-2256_badworthless,bad (worthless),,
-2257_firegoesout,(fire) goes out,,
+2256_badworthless,bad (worthless),1292,BAD
+2257_firegoesout,(fire) goes out,127,EXTINGUISH
 2258_togetup,to get up,1512,RISE (ONESELF)
 2259_bile,bile,1780,BILE
 2260_togather,to gather,7,GATHER
@@ -1010,7 +1010,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2262_marsupial,marsupial,,
 2263_lowbeneath,"low, beneath",1485,BELOW OR UNDER
 2264_beunwilling,be unwilling,,
-2265_tosuckatbreast,to suck at breast,,
+2265_tosuckatbreast,to suck at breast,2472,"SUCKLE (BREASTFEED, NURSE)"
 2266_nipple,nipple,796,NIPPLE
 2268_backbone,backbone,805,SPINE
 2269_youngman,young man,76,YOUNG MAN
@@ -1026,16 +1026,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2279_tolove,to love,923,LOVE
 2280_adamsapple,Adam's apple,802,ADAM'S APPLE
 2282_scabies,scabies,3172,SCABIES
-2283_toseek,to seek,,
-2284_slippery,slippery,,
+2283_toseek,to seek,1468,LOOK FOR
+2284_slippery,slippery,3702,SLIPPERY
 2285_uncooked,uncooked,1959,RAW
 2286_leafdecoration,leaf decoration,,
 2287_roofinggrass,roofing grass,,
 2288_bushknife,bush knife,,
-2289_faraway,far away,,
+2289_faraway,far away,1406,FAR
 2290_grandchild,grandchild,1617,GRANDCHILD
 2291_stale,stale,,
-2292_opening,opening,,
+2292_opening,opening,1667,HOLE
 2293_tobake,to bake,183,BAKE
 2294_guard,guard,1940,GUARD
 2295_sleepingmat,sleeping mat,,
@@ -1063,54 +1063,54 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2400_tofart,to fart,1159,FART
 2401_erect,erect,,
 2402_fireplace,fireplace,185,FIREPLACE
-2403_firetongs,fire tongs,,
+2403_firetongs,fire tongs,272,TONGS
 2404_tofish,to fish,2638,FISHING
 2405_fishweir,fish weir,,
 2406_skinny,skinny,1400,THIN (SLIM)
-2407_sunlight,sunlight,,
+2407_sunlight,sunlight,3276,SUNSHINE
 2408_tostraighten,to straighten,,
 2409_shield,shield,1064,SHIELD
 2410_coconutshell,coconut shell,,
 2411_treesap,tree sap,,
 2412_secretly,secretly,,
-2413_seasidewest,sea side (west),,
+2413_seasidewest,sea side (west),1817,WEST
 2414_fishscale,fish scale,266,SCALE
 2415_bushfowl,bush fowl,,
 2416_camp,camp,1105,CAMP
 2417_ceremonialhouse,ceremonial house,,
 2418_container,container,1465,BOX
-2419_contents,contents,,
+2419_contents,contents,3967,CONTENT
 2420_crab,crab,2348,CRAB
 2421_crust,crust,,
 2422_tocross,to cross,1367,CROSS
-2423_movement,movement,,
+2423_movement,movement,3695,MOVEMENT
 2424_snot,snot,208,NASAL MUCUS (SNOT)
 2425_murder,murder,845,MURDER
 2426_nipafruit,nipa fruit,,
 2427_hip,hip,1745,HIP
 2428_tocutdown,to cut down,355,CUT DOWN
-2429_tocutthrough,to cut through,,
+2429_tocutthrough,to cut through,1432,CUT
 2430_dead,dead,1625,DEAD
 2431_distribution,distribution,,
 2432_drymeat,dry meat,,
 2433_edge,edge,863,EDGE
-2434_gall,gall,,
+2434_gall,gall,3372,GALL BLADDER
 2435_wave,wave,978,WAVE
 2436_tusk,tusk,3280,TUSK
-2437_totremble,to tremble,,
+2437_totremble,to tremble,52,SHIVER
 2438_tighthard,"tight, hard",,
 2439_arrowshaft,arrow shaft,,
 2440_mangrove,mangrove,350,MANGROVE
 2441_owner,owner,1036,OWNER
 2442_loins,loins,187,LOIN
-2443_livelybusy,"lively, busy",,
+2443_livelybusy,"lively, busy",2755,BUSY
 2444_groin,groin,,
 2445_hightide,high tide,613,HIGH TIDE
 2446_jobstearsseeds,Job's tears seeds,3281,JOB'S TEARS
 2447_tojoin,to join,1743,JOIN
 2448_joint,joint,999,JOINT
 2449_knotinwood,knot in wood,,
-2450_knowledge,knowledge,,
+2450_knowledge,knowledge,3874,KNOWLEDGE
 2451_tomakethatch,to make thatch,,
 2452_midrib,midrib,,
 2453_togiveanorder,to give an order,,
@@ -1134,27 +1134,27 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2492_pubicnut,pubic nut,,
 2493_pubicshell,pubic shell,,
 2494_testicle,testicle,797,TESTICLES
-2495_axetomahawk,axe (tomahawk),,
+2495_axetomahawk,axe (tomahawk),677,AXE
 2496_whiskers,whiskers,1165,MOUSTACHE
 2497_notknow,not know,,
-2498_childf,child (f),,
-2499_childm,child (m),,
-2500_pandanusedible,pandanus (edible),,
+2498_childf,child (f),1646,GIRL
+2499_childm,child (m),1366,BOY
+2500_pandanusedible,pandanus (edible),469,PANDANUS
 2501_todrawwater,to draw water,1911,DRAW (WATER)
-2502_thatdistant,that (distant),,
-2503_theredistant,there (distant),,
-2504_thisclose,this (close),,
-2505_thisfurther,this (further),,
-2506_thislohap,this (lohap),,
-2507_therelohap,there (lohap),,
+2502_thatdistant,that (distant),78,THAT
+2503_theredistant,there (distant),1937,THERE
+2504_thisclose,this (close),1214,THIS
+2505_thisfurther,this (further),1214,THIS
+2506_thislohap,this (lohap),1214,THIS
+2507_therelohap,there (lohap),1937,THERE
 2508_yammaho,yam (maho),,
 2509_yamtaitu,yam (taitu),,
-2510_tofallfromstanding,to fall (from standing),,
+2510_tofallfromstanding,to fall (from standing),1280,FALL
 2511_tolookfor,to look for,1468,LOOK FOR
 2512_tobreakwood,to break wood,,
 2513_womansclothespulpul,woman's clothes (pulpul),,
 2514_totow,to tow,,
-2515_youngboy,young boy,,
+2515_youngboy,young boy,1366,BOY
 2516_comequick,come quick!,,
 2517_giveme,give me!,,
 2518_giveyou,give you,,

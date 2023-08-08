@@ -1,0 +1,26 @@
+[
+    {
+        "added": "2023-07-06T07:20:58.890994",
+        "annotation": null,
+        "entry": "bisa",
+        "id": 260783,
+        "language": "/api/v1/language/ambermo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260783/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2023-07-06T07:20:00.013364",
+        "annotation": null,
+        "entry": "tenama",
+        "id": 260782,
+        "language": "/api/v1/language/ambermo/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260782/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    }
+]

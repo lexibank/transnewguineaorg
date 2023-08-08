@@ -288,6 +288,18 @@
         "word": "/api/v1/word/name/"
     },
     {
+        "added": "2023-07-06T07:23:08.523955",
+        "annotation": null,
+        "entry": "nongo kenaw",
+        "id": 260959,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260959/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
+    },
+    {
         "added": "2013-06-12T22:23:57.223602",
         "annotation": "",
         "entry": "orawai",
@@ -384,6 +396,66 @@
         "word": "/api/v1/word/stone/"
     },
     {
+        "added": "2023-07-06T07:23:08.499329",
+        "annotation": null,
+        "entry": "rimo",
+        "id": 260953,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260953/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.515861",
+        "annotation": null,
+        "entry": "rimo-woako",
+        "id": 260957,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260957/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.511562",
+        "annotation": null,
+        "entry": "rimo-woro",
+        "id": 260956,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260956/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.507532",
+        "annotation": null,
+        "entry": "rimo-woroe-o",
+        "id": 260955,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260955/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.503400",
+        "annotation": null,
+        "entry": "rimo-wosio",
+        "id": 260954,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260954/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
         "added": "2013-06-12T22:23:56.580987",
         "annotation": "",
         "entry": "ro",
@@ -406,6 +478,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.520478",
+        "annotation": null,
+        "entry": "sagoero",
+        "id": 260958,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260958/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
     },
     {
         "added": "2013-06-12T22:23:57.031600",
@@ -456,18 +540,6 @@
         "word": "/api/v1/word/dog/"
     },
     {
-        "added": "2013-06-12T22:23:57.316901",
-        "annotation": "",
-        "entry": "wai",
-        "id": 25252,
-        "language": "/api/v1/language/waropen/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/25252/",
-        "source": "/api/v1/source/voorhoeve-1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/water/"
-    },
-    {
         "added": "2013-06-12T22:23:57.435600",
         "annotation": "",
         "entry": "wai",
@@ -480,6 +552,18 @@
         "word": "/api/v1/word/stone/"
     },
     {
+        "added": "2013-06-12T22:23:57.316901",
+        "annotation": "",
+        "entry": "wai",
+        "id": 25252,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/25252/",
+        "source": "/api/v1/source/voorhoeve-1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
         "added": "2013-06-12T22:23:56.637806",
         "annotation": "",
         "entry": "waraisina",
@@ -490,6 +574,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.495044",
+        "annotation": null,
+        "entry": "woako",
+        "id": 260952,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260952/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.490694",
+        "annotation": null,
+        "entry": "woro",
+        "id": 260951,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260951/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.486300",
+        "annotation": null,
+        "entry": "woroe-o",
+        "id": 260950,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260950/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
     },
     {
         "added": "2013-06-12T22:23:57.292636",
@@ -513,6 +633,18 @@
         "resource_uri": "/api/v1/lexicon/25240/",
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.481389",
+        "annotation": null,
+        "entry": "wosio",
+        "id": 260949,
+        "language": "/api/v1/language/waropen/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260949/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
         "word": "/api/v1/word/one/"
     },
     {
