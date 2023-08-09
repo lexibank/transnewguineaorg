@@ -3,6 +3,8 @@ def test_valid(cldf_dataset, cldf_logger):
 
 
 def test_forms(cldf_dataset):
+    assert len(list(cldf_dataset["FormTable"])) == 146213 
+
     # check one specific form to make sure columns, values are correct.
     # 49995,karoto,120_father,aɸa
     f = [f for f in cldf_dataset["FormTable"] if f["Local_ID"] == "49995"]
@@ -13,6 +15,8 @@ def test_forms(cldf_dataset):
 
 
 def test_languages(cldf_dataset):
+    assert len(list(cldf_dataset["LanguageTable"])) == 1014
+
     # ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
     # abaga,Abaga,abag1245,,abg,,
     f = [f for f in cldf_dataset["LanguageTable"] if f["ID"] == "abaga"]
@@ -23,6 +27,8 @@ def test_languages(cldf_dataset):
 
 
 def test_parameters(cldf_dataset):
+    assert len(list(cldf_dataset["ParameterTable"])) == 1166
+
     # ID,Name,Concepticon_ID,Concepticon_Gloss
     # 796_tocough,to cough,879,COUGH
     f = [f for f in cldf_dataset["ParameterTable"] if f["ID"] == "796_tocough"]
