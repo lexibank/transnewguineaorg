@@ -1,5 +1,17 @@
 [
     {
+        "added": "2023-07-06T07:23:08.568440",
+        "annotation": null,
+        "entry": "am\u00e9ri mai",
+        "id": 260970,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260970/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
         "added": "2013-06-12T21:25:37.058302",
         "annotation": "",
         "entry": "arusi",
@@ -10,6 +22,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.540526",
+        "annotation": null,
+        "entry": "attesi",
+        "id": 260963,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260963/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
     },
     {
         "added": "2013-06-12T21:25:36.970820",
@@ -24,6 +48,78 @@
         "word": "/api/v1/word/stone/"
     },
     {
+        "added": "2023-07-06T07:23:08.560774",
+        "annotation": null,
+        "entry": "marasa-attesi",
+        "id": 260968,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260968/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.552906",
+        "annotation": null,
+        "entry": "marasa-roesi",
+        "id": 260966,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260966/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.544832",
+        "annotation": null,
+        "entry": "marasi",
+        "id": 260964,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260964/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.548826",
+        "annotation": null,
+        "entry": "marasimj\u00e9",
+        "id": 260965,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260965/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.556810",
+        "annotation": null,
+        "entry": "marato-roesi",
+        "id": 260967,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260967/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.564563",
+        "annotation": null,
+        "entry": "marosiw\u00e9",
+        "id": 260969,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260969/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
         "added": "2013-06-12T21:25:36.890073",
         "annotation": "",
         "entry": "mihehi",
@@ -34,6 +130,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.527992",
+        "annotation": null,
+        "entry": "nai",
+        "id": 260960,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260960/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.572685",
+        "annotation": null,
+        "entry": "oetin",
+        "id": 260971,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260971/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.532143",
+        "annotation": null,
+        "entry": "roesi",
+        "id": 260961,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260961/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
     },
     {
         "added": "2013-06-12T21:25:36.561485",
@@ -70,6 +202,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.536053",
+        "annotation": null,
+        "entry": "toeroesi",
+        "id": 260962,
+        "language": "/api/v1/language/tandia/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260962/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
     },
     {
         "added": "2013-06-12T21:25:36.657135",

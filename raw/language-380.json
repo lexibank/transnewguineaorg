@@ -12,6 +12,90 @@
         "word": "/api/v1/word/pig/"
     },
     {
+        "added": "2023-07-06T07:23:08.641253",
+        "annotation": null,
+        "entry": "brai-a-r\u00e9",
+        "id": 260988,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260988/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.657024",
+        "annotation": null,
+        "entry": "brai-a-r\u00e9-a",
+        "id": 260992,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260992/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.645315",
+        "annotation": null,
+        "entry": "brai-a-r\u00e9-b\u00e9",
+        "id": 260989,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260989/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.649225",
+        "annotation": null,
+        "entry": "brai-a-r\u00e9-doe",
+        "id": 260990,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260990/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.663946",
+        "annotation": null,
+        "entry": "brai-a-r\u00e9-doe",
+        "id": 260993,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260993/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.668073",
+        "annotation": null,
+        "entry": "brai-a-r\u00e9-doe-r\u00e9b\u00e9",
+        "id": 260994,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260994/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.653158",
+        "annotation": null,
+        "entry": "brai-a-r\u00e9-oe",
+        "id": 260991,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260991/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
         "added": "2013-06-12T21:28:00.958771",
         "annotation": "",
         "entry": "hoje",
@@ -22,6 +106,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.671860",
+        "annotation": null,
+        "entry": "jo-me-ni-a-ibr\u00e9ri",
+        "id": 260995,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260995/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
     },
     {
         "added": "2013-06-12T21:28:02.314803",
@@ -48,6 +144,18 @@
         "word": "/api/v1/word/egg/"
     },
     {
+        "added": "2023-07-06T07:23:08.637017",
+        "annotation": null,
+        "entry": "r\u00e9-a",
+        "id": 260987,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260987/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
         "added": "2013-06-12T21:28:01.497634",
         "annotation": "",
         "entry": "rebe",
@@ -60,6 +168,30 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2023-07-06T07:23:08.626223",
+        "annotation": null,
+        "entry": "r\u00e9-b\u00e9",
+        "id": 260984,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260984/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.630358",
+        "annotation": null,
+        "entry": "r\u00e9-doe",
+        "id": 260985,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260985/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2013-06-12T21:28:02.299988",
         "annotation": "",
         "entry": "redu",
@@ -70,6 +202,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.633669",
+        "annotation": null,
+        "entry": "r\u00e9-oe",
+        "id": 260986,
+        "language": "/api/v1/language/yaur/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260986/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
     },
     {
         "added": "2013-06-12T21:28:02.127361",

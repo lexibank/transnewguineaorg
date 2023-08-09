@@ -1,5 +1,29 @@
 [
     {
+        "added": "2023-07-06T07:23:13.042239",
+        "annotation": null,
+        "entry": "",
+        "id": 261011,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261011/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
+        "added": "2023-07-06T07:22:56.012494",
+        "annotation": null,
+        "entry": "aka",
+        "id": 260942,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260942/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
         "added": "2013-06-13T17:49:53.685230",
         "annotation": "",
         "entry": "akore",
@@ -10,6 +34,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2023-07-06T07:22:56.033152",
+        "annotation": null,
+        "entry": "boeki-roesi",
+        "id": 260948,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260948/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
     },
     {
         "added": "2013-06-13T17:49:53.892569",
@@ -24,6 +60,30 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2023-07-06T07:22:56.000888",
+        "annotation": null,
+        "entry": "k\u00e9teh",
+        "id": 260939,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260939/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:22:56.008816",
+        "annotation": null,
+        "entry": "korisi",
+        "id": 260941,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260941/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2013-06-13T17:49:53.903527",
         "annotation": "",
         "entry": "niadi",
@@ -36,6 +96,78 @@
         "word": "/api/v1/word/pig/"
     },
     {
+        "added": "2023-07-06T07:22:56.016219",
+        "annotation": null,
+        "entry": "rima",
+        "id": 260943,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260943/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-07-06T07:22:56.030208",
+        "annotation": null,
+        "entry": "rima-aka",
+        "id": 260947,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260947/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:22:56.020068",
+        "annotation": null,
+        "entry": "rima-k\u00e9teh",
+        "id": 260944,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260944/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2023-07-06T07:22:56.027240",
+        "annotation": null,
+        "entry": "rima-koroesi",
+        "id": 260946,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260946/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2023-07-06T07:22:56.023801",
+        "annotation": null,
+        "entry": "rima-roesi",
+        "id": 260945,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260945/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:22:56.005144",
+        "annotation": null,
+        "entry": "roesi",
+        "id": 260940,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260940/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2013-06-13T17:49:54.042055",
         "annotation": "",
         "entry": "ruhi",
@@ -46,5 +178,17 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.535999",
+        "annotation": null,
+        "entry": "samkoe-kokara",
+        "id": 260900,
+        "language": "/api/v1/language/yeresiam/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260900/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
     }
 ]

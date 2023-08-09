@@ -1,5 +1,17 @@
 [
     {
+        "added": "2023-07-06T07:22:11.193717",
+        "annotation": null,
+        "entry": "",
+        "id": 260863,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260863/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
         "added": "2013-06-13T16:47:08.549000",
         "annotation": "",
         "entry": "adia",
@@ -156,6 +168,78 @@
         "word": "/api/v1/word/good/"
     },
     {
+        "added": "2023-07-06T07:22:33.649673",
+        "annotation": null,
+        "entry": "bo-ah",
+        "id": 260881,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260881/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2023-07-06T07:22:11.185360",
+        "annotation": null,
+        "entry": "boa-kori",
+        "id": 260861,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260861/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:22:33.640619",
+        "annotation": null,
+        "entry": "bo-iri",
+        "id": 260878,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260878/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:22:33.655753",
+        "annotation": null,
+        "entry": "boiri-kori",
+        "id": 260883,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260883/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2023-07-06T07:22:33.659196",
+        "annotation": null,
+        "entry": "bor-kori",
+        "id": 260884,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260884/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:22:33.643526",
+        "annotation": null,
+        "entry": "bo-roe",
+        "id": 260879,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260879/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2013-06-13T16:47:09.051064",
         "annotation": "",
         "entry": "boru",
@@ -178,6 +262,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:22:33.663264",
+        "annotation": null,
+        "entry": "botol-kori",
+        "id": 260885,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260885/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2023-07-06T07:22:33.646725",
+        "annotation": null,
+        "entry": "botoro",
+        "id": 260880,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260880/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
     },
     {
         "added": "2013-06-13T16:47:08.499921",
@@ -384,6 +492,18 @@
         "word": "/api/v1/word/to-give/"
     },
     {
+        "added": "2023-07-06T07:22:11.197422",
+        "annotation": null,
+        "entry": "piar\u00e9",
+        "id": 260864,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260864/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
+    },
+    {
         "added": "2013-06-13T16:47:08.368127",
         "annotation": "",
         "entry": "rama",
@@ -432,6 +552,18 @@
         "word": "/api/v1/word/blood/"
     },
     {
+        "added": "2023-07-06T07:22:33.652708",
+        "annotation": null,
+        "entry": "rim",
+        "id": 260882,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260882/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
         "added": "2013-06-15T22:49:12.746598",
         "annotation": null,
         "entry": "rure",
@@ -442,6 +574,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2023-07-06T07:22:11.189937",
+        "annotation": null,
+        "entry": "soerat",
+        "id": 260862,
+        "language": "/api/v1/language/serui-laut/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260862/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
     },
     {
         "added": "2013-06-13T16:47:08.801252",

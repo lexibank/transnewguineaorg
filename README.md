@@ -24,20 +24,20 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/lexibank/transnewguineaorg/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/transnewguineaorg/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
-![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
+![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1,012
+- **Varieties:** 1,014
 - **Concepts:** 1,166
-- **Lexemes:** 145,993
-- **Sources:** 148
-- **Synonymy:** 1.15
+- **Lexemes:** 146,213
+- **Sources:** 149
+- **Synonymy:** 1.16
 - **Invalid lexemes:** 0
-- **Tokens:** 705,999
+- **Tokens:** 707,524
 - **Segments:** 410 (0 BIPA errors, 0 CLTS sound class errors, 409 CLTS modified)
-- **Inventory size (avg):** 27.23
+- **Inventory size (avg):** 27.25
 
 # Contributors
 

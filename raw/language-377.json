@@ -24,6 +24,30 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2023-07-06T07:23:08.622101",
+        "annotation": null,
+        "entry": "arisa",
+        "id": 260983,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260983/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.593055",
+        "annotation": null,
+        "entry": "ati",
+        "id": 260975,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260975/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
         "added": "2013-06-12T21:19:53.597471",
         "annotation": "you (sg.)",
         "entry": "au",
@@ -94,6 +118,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.577327",
+        "annotation": null,
+        "entry": "joser",
+        "id": 260972,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260972/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
     },
     {
         "added": "2013-06-12T21:19:53.369969",
@@ -288,6 +324,66 @@
         "word": "/api/v1/word/blood/"
     },
     {
+        "added": "2023-07-06T07:23:08.597009",
+        "annotation": null,
+        "entry": "rimbi",
+        "id": 260976,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260976/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.603649",
+        "annotation": null,
+        "entry": "rimbi-noeroe",
+        "id": 260978,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260978/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.600544",
+        "annotation": null,
+        "entry": "rimbi-oser",
+        "id": 260977,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260977/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.609710",
+        "annotation": null,
+        "entry": "rimbi-pati",
+        "id": 260980,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260980/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.606570",
+        "annotation": null,
+        "entry": "rimbi-tori",
+        "id": 260979,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260979/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
         "added": "2013-06-12T21:19:53.110682",
         "annotation": "",
         "entry": "rob",
@@ -360,6 +456,30 @@
         "word": "/api/v1/word/water/"
     },
     {
+        "added": "2023-07-06T07:23:08.613896",
+        "annotation": null,
+        "entry": "samfor",
+        "id": 260981,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260981/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.618202",
+        "annotation": null,
+        "entry": "samfor-ma-joser",
+        "id": 260982,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260982/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
         "added": "2013-06-12T21:19:53.347183",
         "annotation": "",
         "entry": "siar",
@@ -396,6 +516,18 @@
         "word": "/api/v1/word/name/"
     },
     {
+        "added": "2023-07-06T07:23:08.581675",
+        "annotation": null,
+        "entry": "soeroe",
+        "id": 260973,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260973/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2013-06-12T21:19:52.920638",
         "annotation": "",
         "entry": "sop",
@@ -430,6 +562,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2023-07-06T07:23:08.588307",
+        "annotation": null,
+        "entry": "toroe",
+        "id": 260974,
+        "language": "/api/v1/language/dusner/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260974/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
     },
     {
         "added": "2013-06-12T21:19:53.058644",

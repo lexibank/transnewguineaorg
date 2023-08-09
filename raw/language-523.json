@@ -1,5 +1,17 @@
 [
     {
+        "added": "2023-07-06T07:22:49.586001",
+        "annotation": null,
+        "entry": "",
+        "id": 260911,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260911/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
         "added": "2013-11-01T05:52:36.744097",
         "annotation": "",
         "entry": "ambuot",
@@ -70,6 +82,18 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.556996",
+        "annotation": null,
+        "entry": "boat",
+        "id": 260904,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260904/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
     },
     {
         "added": "2013-11-01T05:52:36.686154",
@@ -156,6 +180,18 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2023-07-06T07:22:49.567529",
+        "annotation": null,
+        "entry": "\u00e9b\u00e9-toe",
+        "id": 260906,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260906/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
         "added": "2013-11-01T05:52:36.792139",
         "annotation": "",
         "entry": "\u00e8buam",
@@ -240,6 +276,42 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2023-07-06T07:22:49.572426",
+        "annotation": null,
+        "entry": "imb\u00e9-kir",
+        "id": 260907,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260907/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.576648",
+        "annotation": null,
+        "entry": "imb\u00e9-noer",
+        "id": 260908,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260908/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.579824",
+        "annotation": null,
+        "entry": "imb\u00e9-wat",
+        "id": 260909,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260909/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
         "added": "2013-11-01T05:52:36.825197",
         "annotation": "",
         "entry": "in",
@@ -262,6 +334,18 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.547047",
+        "annotation": null,
+        "entry": "kir",
+        "id": 260902,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260902/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
     },
     {
         "added": "2013-11-01T05:52:36.948225",
@@ -298,6 +382,18 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.562664",
+        "annotation": null,
+        "entry": "mer",
+        "id": 260905,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260905/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
     },
     {
         "added": "2013-11-01T05:52:36.973567",
@@ -348,6 +444,18 @@
         "word": "/api/v1/word/you-pl/"
     },
     {
+        "added": "2023-07-06T07:22:49.552041",
+        "annotation": null,
+        "entry": "noer",
+        "id": 260903,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260903/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2013-11-01T05:52:36.569653",
         "annotation": "",
         "entry": "ny\u00e8m",
@@ -358,6 +466,18 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/black/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.582945",
+        "annotation": null,
+        "entry": "ong-ir",
+        "id": 260910,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260910/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
     },
     {
         "added": "2013-11-01T05:52:36.991743",
@@ -408,6 +528,18 @@
         "word": "/api/v1/word/ashes/"
     },
     {
+        "added": "2023-07-06T07:22:49.542066",
+        "annotation": null,
+        "entry": "toe",
+        "id": 260901,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260901/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
         "added": "2013-11-01T05:52:36.879605",
         "annotation": "",
         "entry": "tu",
@@ -430,6 +562,18 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.589156",
+        "annotation": null,
+        "entry": "wong-ik-kir",
+        "id": 260912,
+        "language": "/api/v1/language/mpur-kebar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260912/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
     },
     {
         "added": "2013-11-01T05:52:36.915524",

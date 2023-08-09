@@ -1,5 +1,17 @@
 [
     {
+        "added": "2023-07-06T07:22:42.324159",
+        "annotation": null,
+        "entry": "",
+        "id": 260892,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260892/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
+    },
+    {
         "added": "2013-10-30T05:32:36.914218",
         "annotation": "",
         "entry": "ai",
@@ -60,6 +72,18 @@
         "word": "/api/v1/word/ashes/"
     },
     {
+        "added": "2023-07-06T07:22:49.601341",
+        "annotation": null,
+        "entry": "at",
+        "id": 260916,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260916/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
         "added": "2013-10-30T05:32:36.782719",
         "annotation": "",
         "entry": "ati:",
@@ -96,6 +120,18 @@
         "word": "/api/v1/word/sun/"
     },
     {
+        "added": "2023-07-06T07:22:49.592298",
+        "annotation": null,
+        "entry": "dik",
+        "id": 260913,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260913/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
         "added": "2013-10-30T05:32:36.475366",
         "annotation": "",
         "entry": "eru:",
@@ -118,6 +154,18 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2023-07-06T07:22:42.308960",
+        "annotation": null,
+        "entry": "fiet",
+        "id": 260887,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260887/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
     },
     {
         "added": "2013-10-30T05:32:36.871076",
@@ -144,6 +192,18 @@
         "word": "/api/v1/word/black/"
     },
     {
+        "added": "2023-07-06T07:22:49.598414",
+        "annotation": null,
+        "entry": "gri",
+        "id": 260915,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260915/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2013-10-30T05:32:36.894238",
         "annotation": "",
         "entry": "jasi\u00e8m",
@@ -154,6 +214,30 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2023-07-06T07:22:42.304043",
+        "annotation": null,
+        "entry": "mak",
+        "id": 260886,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260886/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2023-07-06T07:22:42.315677",
+        "annotation": null,
+        "entry": "masiwo",
+        "id": 260889,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260889/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
     },
     {
         "added": "2013-10-30T05:32:36.687714",
@@ -178,6 +262,42 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2023-07-06T07:22:42.318557",
+        "annotation": null,
+        "entry": "m\u00e9soe",
+        "id": 260890,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260890/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2023-07-06T07:22:42.321568",
+        "annotation": null,
+        "entry": "m\u00e9soenbik",
+        "id": 260891,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260891/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.604699",
+        "annotation": null,
+        "entry": "mik",
+        "id": 260917,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260917/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
     },
     {
         "added": "2013-10-30T05:32:36.668229",
@@ -226,6 +346,18 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": "you (sg.)",
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2023-07-06T07:22:42.312811",
+        "annotation": null,
+        "entry": "ongo",
+        "id": 260888,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260888/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
     },
     {
         "added": "2013-10-30T05:32:36.738824",
@@ -442,6 +574,18 @@
         "source": "/api/v1/source/miedema-welling-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2023-07-06T07:22:49.595389",
+        "annotation": null,
+        "entry": "w\u00e9",
+        "id": 260914,
+        "language": "/api/v1/language/abun-senopi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260914/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
     },
     {
         "added": "2013-10-30T05:32:36.730364",

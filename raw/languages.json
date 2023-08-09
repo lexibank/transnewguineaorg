@@ -520,6 +520,19 @@
         "slug": "ambakich-yaut"
     },
     {
+        "added": "2023-07-06T06:50:34.741318",
+        "classification": "Unclassified",
+        "dialect": null,
+        "fullname": "Ambermo",
+        "glottocode": "ambe1246",
+        "id": 1696,
+        "information": "",
+        "isocode": null,
+        "language": "Ambermo",
+        "resource_uri": "/api/v1/language/ambermo/",
+        "slug": "ambermo"
+    },
+    {
         "added": "2015-08-24T19:40:00.858989",
         "classification": "Sepik, Ndu",
         "dialect": null,
@@ -6849,6 +6862,19 @@
         "language": "Manikion",
         "resource_uri": "/api/v1/language/manikion/",
         "slug": "manikion"
+    },
+    {
+        "added": "2023-07-06T06:52:02.982705",
+        "classification": "Hatam-Mansim, Mansim",
+        "dialect": null,
+        "fullname": "Mansim",
+        "glottocode": "mans1260",
+        "id": 1697,
+        "information": "",
+        "isocode": null,
+        "language": "Mansim",
+        "resource_uri": "/api/v1/language/mansim/",
+        "slug": "mansim"
     },
     {
         "added": "2014-04-08T02:05:59.931965",

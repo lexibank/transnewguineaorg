@@ -120,6 +120,18 @@
         "word": "/api/v1/word/tooth/"
     },
     {
+        "added": "2023-07-06T07:21:28.555644",
+        "annotation": null,
+        "entry": "di",
+        "id": 260812,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260812/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
         "added": "2013-06-10T20:06:46.345555",
         "annotation": "",
         "entry": "di",
@@ -204,6 +216,18 @@
         "word": "/api/v1/word/to-see/"
     },
     {
+        "added": "2023-07-06T07:21:19.540507",
+        "annotation": null,
+        "entry": "hoera",
+        "id": 260800,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260800/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
         "added": "2013-06-10T20:06:46.246961",
         "annotation": "",
         "entry": "ina",
@@ -214,6 +238,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2023-07-06T07:21:19.535534",
+        "annotation": null,
+        "entry": "india ato",
+        "id": 260799,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260799/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
+        "added": "2023-07-06T07:21:19.528679",
+        "annotation": null,
+        "entry": "india toro",
+        "id": 260798,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260798/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2023-07-06T07:21:19.523307",
+        "annotation": null,
+        "entry": "itoe",
+        "id": 260797,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260797/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
     },
     {
         "added": "2013-06-10T20:06:46.396797",
@@ -252,6 +312,18 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2023-07-06T07:21:28.541699",
+        "annotation": null,
+        "entry": "koiri",
+        "id": 260808,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260808/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
         "added": "2013-06-10T20:06:46.671936",
         "annotation": "",
         "entry": "ko-iri",
@@ -262,6 +334,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:21:28.545123",
+        "annotation": null,
+        "entry": "korisi",
+        "id": 260809,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260809/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
     },
     {
         "added": "2013-06-10T20:06:46.883640",
@@ -298,6 +382,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/black/"
+    },
+    {
+        "added": "2023-07-06T07:21:28.552355",
+        "annotation": null,
+        "entry": "moano",
+        "id": 260811,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260811/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
     },
     {
         "added": "2013-06-10T20:06:46.716614",
@@ -346,6 +442,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2023-07-06T07:21:19.550363",
+        "annotation": null,
+        "entry": "otin",
+        "id": 260802,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260802/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "100",
+        "word": "/api/v1/word/one-hundred/"
+    },
+    {
+        "added": "2023-07-06T07:21:19.545575",
+        "annotation": null,
+        "entry": "piare",
+        "id": 260801,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260801/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
     },
     {
         "added": "2013-06-10T20:06:46.260841",
@@ -406,6 +526,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2023-07-06T07:21:28.549168",
+        "annotation": null,
+        "entry": "todoe",
+        "id": 260810,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260810/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
     },
     {
         "added": "2013-06-10T20:06:46.533198",
@@ -478,6 +610,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2023-07-06T07:21:19.515630",
+        "annotation": null,
+        "entry": "wona",
+        "id": 260796,
+        "language": "/api/v1/language/ansus/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260796/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
     },
     {
         "added": "2013-06-10T20:06:46.492400",

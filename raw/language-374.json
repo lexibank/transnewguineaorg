@@ -12,6 +12,30 @@
         "word": "/api/v1/word/pig/"
     },
     {
+        "added": "2023-07-06T07:21:05.577850",
+        "annotation": null,
+        "entry": "fat",
+        "id": 260785,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260785/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "4",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.591219",
+        "annotation": null,
+        "entry": "fiet",
+        "id": 260788,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260788/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "7",
+        "word": "/api/v1/word/seven/"
+    },
+    {
         "added": "2013-06-12T20:30:30.505875",
         "annotation": "",
         "entry": "kapat",
@@ -34,6 +58,54 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.603336",
+        "annotation": null,
+        "entry": "lafa",
+        "id": 260791,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260791/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "10",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.607991",
+        "annotation": null,
+        "entry": "lafa-ma-kotim",
+        "id": 260792,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260792/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "11",
+        "word": "/api/v1/word/eleven/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.612243",
+        "annotation": null,
+        "entry": "lafa-ma-roe",
+        "id": 260793,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260793/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "12",
+        "word": "/api/v1/word/twelve/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.616212",
+        "annotation": null,
+        "entry": "lafa-row",
+        "id": 260794,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260794/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "20",
+        "word": "/api/v1/word/twenty/"
     },
     {
         "added": "2013-06-12T20:30:29.435104",
@@ -60,6 +132,66 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2023-07-06T07:21:05.586425",
+        "annotation": null,
+        "entry": "onim",
+        "id": 260787,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260787/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "6",
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.620203",
+        "annotation": null,
+        "entry": "otin",
+        "id": 260795,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260795/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "100",
+        "word": "/api/v1/word/one-hundred/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.582001",
+        "annotation": null,
+        "entry": "rim",
+        "id": 260786,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260786/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "5",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-07-06T07:21:19.559614",
+        "annotation": null,
+        "entry": "roe",
+        "id": 260804,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260804/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "2",
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2023-07-06T07:21:19.554986",
+        "annotation": null,
+        "entry": "sa",
+        "id": 260803,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260803/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "1",
+        "word": "/api/v1/word/one/"
+    },
+    {
         "added": "2013-06-12T20:30:30.153687",
         "annotation": "",
         "entry": "sa",
@@ -72,6 +204,18 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2023-07-06T07:21:05.599259",
+        "annotation": null,
+        "entry": "si",
+        "id": 260790,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260790/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "9",
+        "word": "/api/v1/word/nine/"
+    },
+    {
         "added": "2013-06-12T20:30:29.255210",
         "annotation": "",
         "entry": "tolo",
@@ -82,6 +226,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.571656",
+        "annotation": null,
+        "entry": "tor",
+        "id": 260784,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260784/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "3",
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2023-07-06T07:21:05.595350",
+        "annotation": null,
+        "entry": "war",
+        "id": 260789,
+        "language": "/api/v1/language/maya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260789/",
+        "source": "/api/v1/source/fabritius-1855/",
+        "source_gloss": "8",
+        "word": "/api/v1/word/eight/"
     },
     {
         "added": "2013-06-12T20:30:31.127805",
