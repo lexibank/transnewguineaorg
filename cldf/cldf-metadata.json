@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-2-g5005192",
+            "dc:created": "v3.0-6-g5553167",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.3"
+            "dc:description": "3.11.4"
         },
         {
             "dc:title": "python-packages",
