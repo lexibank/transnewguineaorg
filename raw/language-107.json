@@ -12,6 +12,30 @@
         "word": "/api/v1/word/to-swim/"
     },
     {
+        "added": "2023-12-07T22:11:14.839272",
+        "annotation": "",
+        "entry": "adu",
+        "id": 261086,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261086/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/husband/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.310628",
+        "annotation": "",
+        "entry": "adu",
+        "id": 261095,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261095/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/man/"
+    },
+    {
         "added": "2013-05-20T03:40:56.629107",
         "annotation": "",
         "entry": "ahena",
@@ -22,6 +46,102 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/liver/"
+    },
+    {
+        "added": "2023-12-07T22:11:00.370838",
+        "annotation": "",
+        "entry": "aiena",
+        "id": 261016,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261016/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/areca-nut/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.195650",
+        "annotation": "",
+        "entry": "ai-i",
+        "id": 261119,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261119/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/sago-palm/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.265412",
+        "annotation": "",
+        "entry": "ai-ime",
+        "id": 261123,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261123/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": null,
+        "word": "/api/v1/word/sea/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.277262",
+        "annotation": "",
+        "entry": "ai-ine",
+        "id": 261153,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261153/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.536644",
+        "annotation": "",
+        "entry": "ainoha",
+        "id": 261138,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261138/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-spit/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.128465",
+        "annotation": "",
+        "entry": "aiparu",
+        "id": 261111,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261111/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2023-12-07T22:11:00.403317",
+        "annotation": "",
+        "entry": "aisi",
+        "id": 261022,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261022/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/banana/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.826476",
+        "annotation": "",
+        "entry": "aivara",
+        "id": 261041,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261041/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/cloud/"
     },
     {
         "added": "2013-05-20T03:40:56.640145",
@@ -72,6 +192,54 @@
         "word": "/api/v1/word/breast/"
     },
     {
+        "added": "2023-12-07T22:11:19.320426",
+        "annotation": "",
+        "entry": "ami",
+        "id": 261097,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261097/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/milk/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.361394",
+        "annotation": "",
+        "entry": "ami-humu",
+        "id": 261107,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261107/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/nipple/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.342880",
+        "annotation": "",
+        "entry": "anana",
+        "id": 261102,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261102/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.296061",
+        "annotation": "",
+        "entry": "anana",
+        "id": 261092,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261092/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/lips/"
+    },
+    {
         "added": "2013-05-20T03:40:56.617095",
         "annotation": "",
         "entry": "anara",
@@ -81,6 +249,18 @@
         "resource_uri": "/api/v1/lexicon/6166/",
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/tongue/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.259197",
+        "annotation": "",
+        "entry": "anara",
+        "id": 261149,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261149/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
         "word": "/api/v1/word/tongue/"
     },
     {
@@ -94,6 +274,66 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.305915",
+        "annotation": "",
+        "entry": "anodi",
+        "id": 261094,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261094/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.749569",
+        "annotation": "",
+        "entry": "araha",
+        "id": 261029,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261029/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/boat/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.730366",
+        "annotation": "",
+        "entry": "arepo",
+        "id": 261066,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261066/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Fly (noun)",
+        "word": "/api/v1/word/fly-sp/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.794996",
+        "annotation": "",
+        "entry": "arepo",
+        "id": 261036,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261036/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/centipede/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.333343",
+        "annotation": "",
+        "entry": "aro",
+        "id": 261126,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261126/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/shark/"
     },
     {
         "added": "2013-05-20T03:40:56.611394",
@@ -120,6 +360,18 @@
         "word": "/api/v1/word/thou/"
     },
     {
+        "added": "2023-12-07T22:11:14.810798",
+        "annotation": "",
+        "entry": "aro",
+        "id": 261080,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261080/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/head/"
+    },
+    {
         "added": "2013-05-20T03:40:56.527258",
         "annotation": "",
         "entry": "aru",
@@ -144,6 +396,42 @@
         "word": "/api/v1/word/person/"
     },
     {
+        "added": "2023-12-07T22:11:04.756260",
+        "annotation": "",
+        "entry": "aru-ere",
+        "id": 261030,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261030/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.299905",
+        "annotation": "",
+        "entry": "a-u",
+        "id": 261160,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261160/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/woman/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.289303",
+        "annotation": "",
+        "entry": "a-u",
+        "id": 261156,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261156/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/wife/"
+    },
+    {
         "added": "2013-05-20T03:40:56.588760",
         "annotation": "",
         "entry": "a\u0294u",
@@ -154,6 +442,30 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/woman/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.112838",
+        "annotation": "",
+        "entry": "auehe",
+        "id": 261062,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261062/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.365445",
+        "annotation": "",
+        "entry": "auesa",
+        "id": 261108,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261108/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "No",
+        "word": "/api/v1/word/no-not/"
     },
     {
         "added": "2013-05-20T03:40:56.609306",
@@ -180,6 +492,66 @@
         "word": "/api/v1/word/to-kill/"
     },
     {
+        "added": "2023-12-07T22:11:24.465644",
+        "annotation": "",
+        "entry": "au-ue",
+        "id": 261133,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261133/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.179855",
+        "annotation": "",
+        "entry": "au-ue",
+        "id": 261117,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261117/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/root/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.082128",
+        "annotation": "",
+        "entry": "avi baudia",
+        "id": 261059,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261059/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.035718",
+        "annotation": "",
+        "entry": "bahaha",
+        "id": 261047,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261047/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-die/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.788519",
+        "annotation": "",
+        "entry": "baibai",
+        "id": 261035,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261035/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/butterfly/"
+    },
+    {
         "added": "2013-05-20T03:40:56.655843",
         "annotation": "",
         "entry": "baieve",
@@ -190,6 +562,102 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/long/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.353884",
+        "annotation": "",
+        "entry": "be-e",
+        "id": 261105,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261105/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/near/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.394349",
+        "annotation": "",
+        "entry": "bera-a",
+        "id": 261129,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261129/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.201610",
+        "annotation": "",
+        "entry": "bia",
+        "id": 261120,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261120/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/salt/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.747906",
+        "annotation": "",
+        "entry": "biai",
+        "id": 261069,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261069/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Fowl",
+        "word": "/api/v1/word/chicken/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.543491",
+        "annotation": "",
+        "entry": "bihoa",
+        "id": 261140,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261140/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.157564",
+        "annotation": "",
+        "entry": "bi-iro",
+        "id": 261114,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261114/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/red/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.357507",
+        "annotation": "",
+        "entry": "bodi",
+        "id": 261106,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261106/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.294982",
+        "annotation": "(north-west)",
+        "entry": "davara",
+        "id": 261158,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261158/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/wind/"
     },
     {
         "added": "2013-05-20T03:40:56.673405",
@@ -204,6 +672,18 @@
         "word": "/api/v1/word/to-lie-down/"
     },
     {
+        "added": "2023-12-07T22:11:24.379401",
+        "annotation": "",
+        "entry": "dia",
+        "id": 261128,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261128/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-sit/"
+    },
+    {
         "added": "2013-05-20T03:40:56.672472",
         "annotation": "",
         "entry": "diai enu",
@@ -214,6 +694,66 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.832333",
+        "annotation": "",
+        "entry": "diaigena",
+        "id": 261042,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261042/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/club/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.434200",
+        "annotation": "",
+        "entry": "di-e",
+        "id": 261131,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261131/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.270201",
+        "annotation": "",
+        "entry": "dohu",
+        "id": 261152,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261152/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/village/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.830150",
+        "annotation": "",
+        "entry": "doro",
+        "id": 261084,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261084/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/hot/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.834602",
+        "annotation": "",
+        "entry": "ea",
+        "id": 261085,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261085/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/house/"
     },
     {
         "added": "2013-05-20T03:40:56.687693",
@@ -228,6 +768,42 @@
         "word": "/api/v1/word/that/"
     },
     {
+        "added": "2023-12-07T22:11:27.228307",
+        "annotation": "",
+        "entry": "ede",
+        "id": 261141,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261141/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.019050",
+        "annotation": "",
+        "entry": "e-e",
+        "id": 261043,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261043/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/coconut/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.528128",
+        "annotation": "",
+        "entry": "emedamuena",
+        "id": 261136,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261136/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-speak/"
+    },
+    {
         "added": "2013-05-20T03:40:56.669635",
         "annotation": "",
         "entry": "eme lamu\u0294e",
@@ -238,6 +814,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-speak/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.027974",
+        "annotation": "",
+        "entry": "enape",
+        "id": 261045,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261045/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/crocodile/"
     },
     {
         "added": "2013-05-20T03:40:56.683004",
@@ -252,18 +840,6 @@
         "word": "/api/v1/word/what/"
     },
     {
-        "added": "2013-05-20T03:40:56.637372",
-        "annotation": "",
-        "entry": "ere",
-        "id": 6188,
-        "language": "/api/v1/language/kaki-ae/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/6188/",
-        "source": "/api/v1/source/brown-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/stone/"
-    },
-    {
         "added": "2013-05-20T03:40:56.613306",
         "annotation": "",
         "entry": "ere",
@@ -274,6 +850,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2013-05-20T03:40:56.637372",
+        "annotation": "",
+        "entry": "ere",
+        "id": 6188,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/6188/",
+        "source": "/api/v1/source/brown-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/stone/"
     },
     {
         "added": "2013-05-20T03:40:56.674344",
@@ -288,6 +876,18 @@
         "word": "/api/v1/word/to-see/"
     },
     {
+        "added": "2023-12-07T22:11:09.042718",
+        "annotation": "",
+        "entry": "evera",
+        "id": 261049,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261049/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/dog/"
+    },
+    {
         "added": "2013-05-20T03:40:56.647397",
         "annotation": "",
         "entry": "evera",
@@ -298,6 +898,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.338760",
+        "annotation": "",
+        "entry": "evera naura",
+        "id": 261101,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261101/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/mother/"
     },
     {
         "added": "2013-05-20T03:40:56.700779",
@@ -312,6 +924,18 @@
         "word": "/api/v1/word/sand/"
     },
     {
+        "added": "2023-12-07T22:11:04.820625",
+        "annotation": "",
+        "entry": "faha",
+        "id": 261040,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261040/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/claw/"
+    },
+    {
         "added": "2013-05-20T03:40:56.696176",
         "annotation": "(of bird)",
         "entry": "faha",
@@ -322,6 +946,78 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/claw/"
+    },
+    {
+        "added": "2023-12-07T22:11:00.393740",
+        "annotation": "",
+        "entry": "fahigena",
+        "id": 261020,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261020/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/bad/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.215447",
+        "annotation": "",
+        "entry": "fai",
+        "id": 261121,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261121/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/sand/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.825427",
+        "annotation": "",
+        "entry": "falaua",
+        "id": 261083,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261083/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/hook/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.760075",
+        "annotation": "",
+        "entry": "faura",
+        "id": 261071,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261071/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/garden/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.736272",
+        "annotation": "",
+        "entry": "feda",
+        "id": 261067,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261067/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/foot/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.283651",
+        "annotation": "",
+        "entry": "fede",
+        "id": 261090,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261090/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/log/"
     },
     {
         "added": "2013-05-20T03:40:56.622682",
@@ -348,6 +1044,66 @@
         "word": "/api/v1/word/knee/"
     },
     {
+        "added": "2023-12-07T22:11:04.808956",
+        "annotation": "",
+        "entry": "foa",
+        "id": 261038,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261038/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/charcoal/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.189877",
+        "annotation": "",
+        "entry": "foa",
+        "id": 261118,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261118/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/rope/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.522499",
+        "annotation": "",
+        "entry": "fomamu",
+        "id": 261135,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261135/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/soft/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.263313",
+        "annotation": "",
+        "entry": "fou",
+        "id": 261150,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261150/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.324601",
+        "annotation": "",
+        "entry": "fuie",
+        "id": 261098,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261098/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/moon/"
+    },
+    {
         "added": "2013-05-20T03:40:56.663392",
         "annotation": "",
         "entry": "fu\u0294iha",
@@ -370,6 +1126,30 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.765554",
+        "annotation": "",
+        "entry": "hadiumoru",
+        "id": 261072,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261072/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/ghost/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.742273",
+        "annotation": "",
+        "entry": "hahu-bera",
+        "id": 261068,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261068/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/forest/"
     },
     {
         "added": "2013-05-20T03:40:56.635547",
@@ -396,6 +1176,18 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
+        "added": "2023-12-07T22:11:14.715195",
+        "annotation": "",
+        "entry": "haivai-ime",
+        "id": 261064,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261064/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/flesh/"
+    },
+    {
         "added": "2013-05-20T03:40:56.694238",
         "annotation": "",
         "entry": "haivai\u0294ime",
@@ -406,6 +1198,90 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/meat/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.318236",
+        "annotation": "",
+        "entry": "harihu",
+        "id": 261125,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261125/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/shadow/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.137784",
+        "annotation": "",
+        "entry": "haua",
+        "id": 261113,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261113/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/rat/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.770540",
+        "annotation": "",
+        "entry": "haufave",
+        "id": 261073,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261073/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.252313",
+        "annotation": "",
+        "entry": "hauraia",
+        "id": 261147,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261147/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/thigh/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.769422",
+        "annotation": "",
+        "entry": "hau waina",
+        "id": 261032,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261032/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/branch/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.267461",
+        "annotation": "",
+        "entry": "havadu",
+        "id": 261087,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261087/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/kangaroo/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.235293",
+        "annotation": "",
+        "entry": "hawani",
+        "id": 261143,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261143/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/sweet-potato/"
     },
     {
         "added": "2013-05-20T03:40:56.621782",
@@ -456,6 +1332,18 @@
         "word": "/api/v1/word/all/"
     },
     {
+        "added": "2023-12-07T22:11:24.532335",
+        "annotation": "",
+        "entry": "hoama",
+        "id": 261137,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261137/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/spear-n/"
+    },
+    {
         "added": "2013-05-20T03:40:56.628201",
         "annotation": "",
         "entry": "hohire",
@@ -466,6 +1354,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/heart/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.801446",
+        "annotation": "",
+        "entry": "hohiri",
+        "id": 261037,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261037/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/chest/"
     },
     {
         "added": "2013-05-20T03:40:56.616135",
@@ -480,6 +1380,66 @@
         "word": "/api/v1/word/tooth/"
     },
     {
+        "added": "2023-12-07T22:11:09.096310",
+        "annotation": "",
+        "entry": "iai-ore",
+        "id": 261060,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261060/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/feather/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.315871",
+        "annotation": "",
+        "entry": "ieka",
+        "id": 261096,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261096/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/mat/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.334312",
+        "annotation": "",
+        "entry": "i-i miha",
+        "id": 261100,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261100/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/mosquito/"
+    },
+    {
+        "added": "2023-12-07T22:11:00.410851",
+        "annotation": "",
+        "entry": "inaiame",
+        "id": 261023,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261023/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-buy-sell-barter/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.070827",
+        "annotation": "",
+        "entry": "ini",
+        "id": 261056,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261056/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/eye/"
+    },
+    {
         "added": "2013-05-20T03:40:56.671524",
         "annotation": "",
         "entry": "ini\u0294e",
@@ -490,6 +1450,42 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2024-01-03T02:05:06.005197",
+        "annotation": "",
+        "entry": "ini-naive",
+        "id": 261167,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261167/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yes/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.074393",
+        "annotation": "",
+        "entry": "inodoho",
+        "id": 261057,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261057/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/face/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.292225",
+        "annotation": "",
+        "entry": "iriai",
+        "id": 261124,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261124/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-see/"
     },
     {
         "added": "2013-05-20T03:40:56.680041",
@@ -516,6 +1512,66 @@
         "word": "/api/v1/word/blood/"
     },
     {
+        "added": "2023-12-07T22:11:04.742916",
+        "annotation": "",
+        "entry": "ivare",
+        "id": 261028,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261028/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.329467",
+        "annotation": "",
+        "entry": "ivisa",
+        "id": 261099,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261099/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/morning/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.120429",
+        "annotation": "",
+        "entry": "kai-ia",
+        "id": 261110,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261110/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/paddle/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.291714",
+        "annotation": "",
+        "entry": "ka-u",
+        "id": 261157,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261157/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/wind/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.170059",
+        "annotation": "",
+        "entry": "kedea",
+        "id": 261116,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261116/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Road",
+        "word": "/api/v1/word/road/"
+    },
+    {
         "added": "2013-05-20T03:40:56.638293",
         "annotation": "",
         "entry": "kekene",
@@ -540,6 +1596,18 @@
         "word": "/api/v1/word/path/"
     },
     {
+        "added": "2023-12-07T22:11:09.032195",
+        "annotation": "",
+        "entry": "kevea",
+        "id": 261046,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261046/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Darkness",
+        "word": "/api/v1/word/dark/"
+    },
+    {
         "added": "2013-05-20T03:40:56.695174",
         "annotation": "",
         "entry": "keya",
@@ -550,6 +1618,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/horn/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.804167",
+        "annotation": "",
+        "entry": "koko",
+        "id": 261079,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261079/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/hard/"
     },
     {
         "added": "2013-05-20T03:40:56.634646",
@@ -588,6 +1668,66 @@
         "word": "/api/v1/word/to-die/"
     },
     {
+        "added": "2023-12-07T22:11:09.039653",
+        "annotation": "",
+        "entry": "maha",
+        "id": 261048,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261048/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Digging stick",
+        "word": "/api/v1/word/dibble-stick/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.164778",
+        "annotation": "",
+        "entry": "mai",
+        "id": 261115,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261115/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/river/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.291030",
+        "annotation": "",
+        "entry": "mai-ine",
+        "id": 261091,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261091/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/lime/"
+    },
+    {
+        "added": "2023-12-07T22:11:00.388136",
+        "annotation": "",
+        "entry": "mai-ira",
+        "id": 261019,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261019/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.024027",
+        "annotation": "",
+        "entry": "mane",
+        "id": 261044,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261044/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
         "added": "2013-05-20T03:40:56.677158",
         "annotation": "(fr. E. or W.)",
         "entry": "mane",
@@ -600,6 +1740,30 @@
         "word": "/api/v1/word/to-come/"
     },
     {
+        "added": "2023-12-07T22:11:27.302315",
+        "annotation": "",
+        "entry": "mapori",
+        "id": 261161,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261161/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/yam/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.297590",
+        "annotation": "(south-east)",
+        "entry": "mauda",
+        "id": 261159,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261159/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/wind/"
+    },
+    {
         "added": "2013-05-20T03:40:56.668531",
         "annotation": "",
         "entry": "me\u0294e",
@@ -610,6 +1774,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sit/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.286585",
+        "annotation": "",
+        "entry": "mehamane",
+        "id": 261155,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261155/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": null,
+        "word": "/api/v1/word/white/"
     },
     {
         "added": "2013-05-20T03:40:56.657752",
@@ -684,6 +1860,42 @@
         "word": "/api/v1/word/fat/"
     },
     {
+        "added": "2023-12-07T22:11:24.505339",
+        "annotation": "",
+        "entry": "memere",
+        "id": 261134,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261134/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/snake/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.820471",
+        "annotation": "",
+        "entry": "mena",
+        "id": 261082,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261082/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/hill/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.412734",
+        "annotation": "",
+        "entry": "meneau",
+        "id": 261130,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261130/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/sky/"
+    },
+    {
         "added": "2013-05-20T03:40:56.632816",
         "annotation": "",
         "entry": "mene-uru",
@@ -720,6 +1932,30 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2023-12-07T22:11:04.726165",
+        "annotation": "",
+        "entry": "mini",
+        "id": 261025,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261025/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.063668",
+        "annotation": "",
+        "entry": "mini numu",
+        "id": 261054,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261054/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/egg/"
+    },
+    {
         "added": "2013-05-20T03:40:56.650181",
         "annotation": "",
         "entry": "mini onomo",
@@ -744,6 +1980,18 @@
         "word": "/api/v1/word/egg/"
     },
     {
+        "added": "2023-12-07T22:11:04.814942",
+        "annotation": "",
+        "entry": "moana",
+        "id": 261039,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261039/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/child/"
+    },
+    {
         "added": "2013-05-20T03:40:56.675281",
         "annotation": "",
         "entry": "mo\u0294e ha",
@@ -753,6 +2001,18 @@
         "resource_uri": "/api/v1/lexicon/6227/",
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.815536",
+        "annotation": "",
+        "entry": "moehea",
+        "id": 261081,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261081/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
         "word": "/api/v1/word/to-hear/"
     },
     {
@@ -768,6 +2028,30 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2023-12-07T22:11:09.047452",
+        "annotation": "",
+        "entry": "mungake",
+        "id": 261050,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261050/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Drink",
+        "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.232051",
+        "annotation": "",
+        "entry": "nade",
+        "id": 261142,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261142/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/sun/"
+    },
+    {
         "added": "2013-05-20T03:40:56.681911",
         "annotation": "",
         "entry": "naiforo",
@@ -780,6 +2064,18 @@
         "word": "/api/v1/word/who/"
     },
     {
+        "added": "2023-12-07T22:11:14.780174",
+        "annotation": "",
+        "entry": "namaia",
+        "id": 261075,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261075/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/good/"
+    },
+    {
         "added": "2013-05-20T03:40:56.654903",
         "annotation": "",
         "entry": "namaiya",
@@ -790,6 +2086,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.731126",
+        "annotation": "",
+        "entry": "nana-ena",
+        "id": 261026,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261026/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-bite/"
     },
     {
         "added": "2013-05-20T03:40:56.679081",
@@ -816,6 +2124,30 @@
         "word": "/api/v1/word/fish/"
     },
     {
+        "added": "2023-12-07T22:11:09.117585",
+        "annotation": "",
+        "entry": "nani",
+        "id": 261063,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261063/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2024-01-03T02:05:29.943486",
+        "annotation": "",
+        "entry": "nano",
+        "id": 261168,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261168/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": null,
+        "word": "/api/v1/word/yellow/"
+    },
+    {
         "added": "2013-05-20T03:40:56.590347",
         "annotation": "",
         "entry": "nao",
@@ -838,6 +2170,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/dry/"
+    },
+    {
+        "added": "2023-12-07T22:10:51.928344",
+        "annotation": "",
+        "entry": "nau",
+        "id": 261015,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261015/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/adze/"
     },
     {
         "added": "2013-05-20T03:40:56.670596",
@@ -864,6 +2208,66 @@
         "word": "/api/v1/word/this/"
     },
     {
+        "added": "2023-12-07T22:11:19.347148",
+        "annotation": "",
+        "entry": "neilo",
+        "id": 261103,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261103/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.785153",
+        "annotation": "",
+        "entry": "ningenu",
+        "id": 261076,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261076/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/great/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.242641",
+        "annotation": "",
+        "entry": "ningenu",
+        "id": 261145,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261145/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/taste/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.238742",
+        "annotation": "",
+        "entry": "noa",
+        "id": 261144,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261144/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/taro/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.371761",
+        "annotation": "",
+        "entry": "no-i",
+        "id": 261109,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261109/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/nose/"
+    },
+    {
         "added": "2013-05-20T03:40:56.614266",
         "annotation": "",
         "entry": "no\u0294i",
@@ -874,6 +2278,54 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/nose/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.059555",
+        "annotation": "",
+        "entry": "nove",
+        "id": 261053,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261053/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2023-12-07T22:11:00.383627",
+        "annotation": "",
+        "entry": "oade",
+        "id": 261018,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261018/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/arrow/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.306068",
+        "annotation": "",
+        "entry": "oaki",
+        "id": 261162,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261162/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.361167",
+        "annotation": "",
+        "entry": "oa-u",
+        "id": 261127,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261127/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/shield/"
     },
     {
         "added": "2013-05-20T03:40:56.664341",
@@ -888,6 +2340,18 @@
         "word": "/api/v1/word/new/"
     },
     {
+        "added": "2023-12-07T22:11:27.255812",
+        "annotation": "",
+        "entry": "ohara-fumainga",
+        "id": 261148,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261148/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/thin/"
+    },
+    {
         "added": "2013-05-20T03:40:56.698044",
         "annotation": "",
         "entry": "oharo pu\u0294ane",
@@ -898,6 +2362,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/seed/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.051292",
+        "annotation": "",
+        "entry": "o-i",
+        "id": 261051,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261051/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/ear/"
     },
     {
         "added": "2013-05-20T03:40:56.615223",
@@ -922,6 +2398,54 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.775748",
+        "annotation": "",
+        "entry": "one",
+        "id": 261033,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261033/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-bring/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.246129",
+        "annotation": "",
+        "entry": "one",
+        "id": 261146,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261146/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/thick/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.775298",
+        "annotation": "",
+        "entry": "onea",
+        "id": 261074,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261074/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-go/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.266723",
+        "annotation": "",
+        "entry": "oporo",
+        "id": 261151,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261151/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/tree/"
     },
     {
         "added": "2013-05-20T03:40:56.645461",
@@ -960,6 +2484,42 @@
         "word": "/api/v1/word/tree/"
     },
     {
+        "added": "2023-12-07T22:11:14.724258",
+        "annotation": "",
+        "entry": "opura fuai",
+        "id": 261065,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261065/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/flower/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.754298",
+        "annotation": "",
+        "entry": "opuro-fuai",
+        "id": 261070,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261070/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.278963",
+        "annotation": "",
+        "entry": "opurore",
+        "id": 261089,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261089/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/leaf/"
+    },
+    {
         "added": "2013-05-20T03:40:56.693299",
         "annotation": "",
         "entry": "opurore",
@@ -996,6 +2556,18 @@
         "word": "/api/v1/word/to-know/"
     },
     {
+        "added": "2023-12-07T22:11:24.247411",
+        "annotation": "",
+        "entry": "ori havehave",
+        "id": 261122,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261122/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-scratch/"
+    },
+    {
         "added": "2013-05-20T03:40:56.661507",
         "annotation": "warm",
         "entry": "oro\u0294oro",
@@ -1018,6 +2590,18 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.440064",
+        "annotation": "",
+        "entry": "pakau",
+        "id": 261132,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261132/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/small/"
     },
     {
         "added": "2013-05-20T03:40:56.653961",
@@ -1056,6 +2640,18 @@
         "word": "/api/v1/word/neck/"
     },
     {
+        "added": "2023-12-07T22:11:00.398512",
+        "annotation": "",
+        "entry": "pokoa",
+        "id": 261021,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261021/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/bamboo/"
+    },
+    {
         "added": "2013-05-20T03:40:56.684892",
         "annotation": "",
         "entry": "saruta",
@@ -1066,6 +2662,54 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2023-12-07T22:11:00.416243",
+        "annotation": "",
+        "entry": "sede",
+        "id": 261024,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261024/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.762728",
+        "annotation": "",
+        "entry": "side",
+        "id": 261031,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261031/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/bow/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.274219",
+        "annotation": "",
+        "entry": "sire",
+        "id": 261088,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261088/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-know/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.055457",
+        "annotation": "",
+        "entry": "tau audu",
+        "id": 261052,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261052/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Earth (ground)",
+        "word": "/api/v1/word/earth/"
     },
     {
         "added": "2013-05-20T03:40:56.636454",
@@ -1080,6 +2724,18 @@
         "word": "/api/v1/word/ground/"
     },
     {
+        "added": "2023-12-07T22:11:19.301019",
+        "annotation": "",
+        "entry": "ueka",
+        "id": 261093,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261093/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-live/"
+    },
+    {
         "added": "2013-05-20T03:40:56.667524",
         "annotation": "",
         "entry": "u\u0294eke",
@@ -1090,6 +2746,30 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.282244",
+        "annotation": "",
+        "entry": "ufonge",
+        "id": 261154,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261154/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Weep",
+        "word": "/api/v1/word/to-cry/"
+    },
+    {
+        "added": "2023-12-07T22:11:04.782350",
+        "annotation": "",
+        "entry": "ukahauma",
+        "id": 261034,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261034/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-bury/"
     },
     {
         "added": "2013-05-20T03:40:56.627302",
@@ -1116,6 +2796,78 @@
         "word": "/api/v1/word/ashes/"
     },
     {
+        "added": "2023-12-07T22:11:04.736455",
+        "annotation": "",
+        "entry": "unabemai",
+        "id": 261027,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261027/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/black/"
+    },
+    {
+        "added": "2023-12-07T22:11:24.540002",
+        "annotation": "",
+        "entry": "ungien",
+        "id": 261139,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261139/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.309255",
+        "annotation": "",
+        "entry": "ungka",
+        "id": 261163,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261163/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.312463",
+        "annotation": "",
+        "entry": "ungkapoa",
+        "id": 261164,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261164/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.316034",
+        "annotation": "",
+        "entry": "ungka ungka",
+        "id": 261165,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261165/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2023-12-07T22:11:19.350640",
+        "annotation": "",
+        "entry": "ung-o",
+        "id": 261104,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261104/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/navel/"
+    },
+    {
         "added": "2013-05-20T03:40:56.639244",
         "annotation": "",
         "entry": "u\u0294o",
@@ -1140,6 +2892,18 @@
         "word": "/api/v1/word/to-fly/"
     },
     {
+        "added": "2023-12-07T22:11:24.133563",
+        "annotation": "",
+        "entry": "upa",
+        "id": 261112,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261112/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/rain/"
+    },
+    {
         "added": "2013-05-20T03:40:56.633727",
         "annotation": "rain",
         "entry": "upa",
@@ -1152,6 +2916,18 @@
         "word": "/api/v1/word/rain/"
     },
     {
+        "added": "2023-12-07T22:11:09.078071",
+        "annotation": "",
+        "entry": "upinge",
+        "id": 261058,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261058/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Far off",
+        "word": "/api/v1/word/far-away/"
+    },
+    {
         "added": "2013-05-20T03:40:56.619827",
         "annotation": "arm",
         "entry": "upu",
@@ -1162,6 +2938,78 @@
         "source": "/api/v1/source/brown-1973/",
         "source_gloss": "arm",
         "word": "/api/v1/word/arm/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.798930",
+        "annotation": "",
+        "entry": "upu",
+        "id": 261078,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261078/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/hand/"
+    },
+    {
+        "added": "2023-12-07T22:11:00.377005",
+        "annotation": "",
+        "entry": "upu",
+        "id": 261017,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261017/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/arm/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.108110",
+        "annotation": "",
+        "entry": "upu-ae",
+        "id": 261061,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261061/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/finger/"
+    },
+    {
+        "added": "2023-12-07T22:11:27.319776",
+        "annotation": "",
+        "entry": "upu okau",
+        "id": 261166,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261166/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2023-12-07T22:11:09.067402",
+        "annotation": "",
+        "entry": "upu-oko",
+        "id": 261055,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261055/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "",
+        "word": "/api/v1/word/elbow/"
+    },
+    {
+        "added": "2023-12-07T22:11:14.793619",
+        "annotation": "",
+        "entry": "u-uba",
+        "id": 261077,
+        "language": "/api/v1/language/kaki-ae/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261077/",
+        "source": "/api/v1/source/strong-1911/",
+        "source_gloss": "Hair (of head)",
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2013-05-20T03:40:56.612357",

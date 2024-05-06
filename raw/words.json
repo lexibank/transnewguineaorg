@@ -104,6 +104,14 @@
         "word": "a dream"
     },
     {
+        "concepticon_gloss": "ADZE",
+        "concepticon_id": "290",
+        "id": 2531,
+        "resource_uri": "/api/v1/word/adze/",
+        "slug": "adze",
+        "word": "adze"
+    },
+    {
         "concepticon_gloss": null,
         "concepticon_id": null,
         "id": 2049,
@@ -2960,6 +2968,14 @@
         "word": "grass skirt"
     },
     {
+        "concepticon_gloss": "BIG",
+        "concepticon_id": "1202",
+        "id": 2532,
+        "resource_uri": "/api/v1/word/great/",
+        "slug": "great",
+        "word": "great"
+    },
+    {
         "concepticon_gloss": "GREEDY",
         "concepticon_id": "2018",
         "id": 2177,
@@ -3270,6 +3286,14 @@
         "resource_uri": "/api/v1/word/honey-beehive/",
         "slug": "honey-beehive",
         "word": "honey, beehive"
+    },
+    {
+        "concepticon_gloss": "HOOK",
+        "concepticon_id": "1071",
+        "id": 2533,
+        "resource_uri": "/api/v1/word/hook/",
+        "slug": "hook",
+        "word": "hook"
     },
     {
         "concepticon_gloss": "HORN (ANATOMY)",
@@ -3934,6 +3958,14 @@
         "resource_uri": "/api/v1/word/locative-noun-suffix-at-to-from/",
         "slug": "locative-noun-suffix-at-to-from",
         "word": "Locative noun suffix (at, to, from)"
+    },
+    {
+        "concepticon_gloss": "WOOD",
+        "concepticon_id": "1803",
+        "id": 2534,
+        "resource_uri": "/api/v1/word/log/",
+        "slug": "log",
+        "word": "log"
     },
     {
         "concepticon_gloss": "LOINCLOTH",
@@ -5944,6 +5976,14 @@
         "word": "shallow"
     },
     {
+        "concepticon_gloss": "SHARK",
+        "concepticon_id": "1110",
+        "id": 2535,
+        "resource_uri": "/api/v1/word/shark/",
+        "slug": "shark",
+        "word": "shark"
+    },
+    {
         "concepticon_gloss": "SHARP",
         "concepticon_id": "1396",
         "id": 167,
@@ -6830,6 +6870,14 @@
         "resource_uri": "/api/v1/word/taro/",
         "slug": "taro",
         "word": "taro"
+    },
+    {
+        "concepticon_gloss": "TASTE (SOMETHING)",
+        "concepticon_id": "21",
+        "id": 2536,
+        "resource_uri": "/api/v1/word/taste/",
+        "slug": "taste",
+        "word": "taste"
     },
     {
         "concepticon_gloss": "TEAR (OF EYE)",

@@ -108,6 +108,18 @@
         "word": "/api/v1/word/fire/"
     },
     {
+        "added": "2024-04-12T02:48:19.225661",
+        "annotation": null,
+        "entry": "akut",
+        "id": 261182,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261182/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "fire",
+        "word": "/api/v1/word/fire/"
+    },
+    {
         "added": "2014-07-06T21:30:08.721445",
         "annotation": null,
         "entry": "alal bay-",
@@ -168,6 +180,18 @@
         "word": "/api/v1/word/tongue/"
     },
     {
+        "added": "2024-04-12T02:48:19.244244",
+        "annotation": null,
+        "entry": "anek",
+        "id": 261207,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261207/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
+    },
+    {
         "added": "2014-07-06T21:29:52.171402",
         "annotation": null,
         "entry": "anekmer",
@@ -189,6 +213,18 @@
         "resource_uri": "/api/v1/lexicon/140238/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(leg)",
+        "word": "/api/v1/word/leg/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.258417",
+        "annotation": null,
+        "entry": "a\u014bin",
+        "id": 261222,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261222/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "leg",
         "word": "/api/v1/word/leg/"
     },
     {
@@ -288,6 +324,18 @@
         "word": "/api/v1/word/sky/"
     },
     {
+        "added": "2024-04-12T02:48:19.265822",
+        "annotation": null,
+        "entry": "aven",
+        "id": 261232,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261232/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "arm",
+        "word": "/api/v1/word/arm/"
+    },
+    {
         "added": "2014-07-06T21:30:04.189416",
         "annotation": null,
         "entry": "awo",
@@ -336,18 +384,6 @@
         "word": "/api/v1/word/arm/"
     },
     {
-        "added": "2014-07-06T21:29:50.175085",
-        "annotation": null,
-        "entry": "ba",
-        "id": 138831,
-        "language": "/api/v1/language/gavak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/138831/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "older s.s. sibling",
-        "word": "/api/v1/word/sibling-same-sex-older/"
-    },
-    {
         "added": "2014-07-06T21:30:01.229225",
         "annotation": null,
         "entry": "ba",
@@ -358,6 +394,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "cooked",
         "word": "/api/v1/word/cooked/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.175085",
+        "annotation": null,
+        "entry": "ba",
+        "id": 138831,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/138831/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "older s.s. sibling",
+        "word": "/api/v1/word/sibling-same-sex-older/"
     },
     {
         "added": "2014-07-06T21:30:03.151911",
@@ -708,6 +756,18 @@
         "word": "/api/v1/word/fish-spear/"
     },
     {
+        "added": "2024-04-12T02:48:19.269450",
+        "annotation": null,
+        "entry": "daromer",
+        "id": 261237,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261237/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "heart",
+        "word": "/api/v1/word/heart/"
+    },
+    {
         "added": "2014-07-06T21:29:51.656672",
         "annotation": null,
         "entry": "datom",
@@ -716,6 +776,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/139554/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.251556",
+        "annotation": null,
+        "entry": "daut",
+        "id": 261212,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261212/",
+        "source": "/api/v1/source/pick-2019/",
         "source_gloss": "head",
         "word": "/api/v1/word/head/"
     },
@@ -1068,6 +1140,18 @@
         "word": "/api/v1/word/to-smell/"
     },
     {
+        "added": "2024-04-12T02:48:19.285687",
+        "annotation": null,
+        "entry": "go\u014bkel",
+        "id": 261259,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261259/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "moon",
+        "word": "/api/v1/word/moon/"
+    },
+    {
         "added": "2014-07-06T21:29:58.445505",
         "annotation": null,
         "entry": "go\u014bk\u025bl",
@@ -1126,6 +1210,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "ash",
         "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.290032",
+        "annotation": null,
+        "entry": "gule\u014bge",
+        "id": 261264,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261264/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "black",
+        "word": "/api/v1/word/black/"
     },
     {
         "added": "2014-07-06T21:30:01.001575",
@@ -1222,6 +1318,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(penis)",
         "word": "/api/v1/word/penis/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.232363",
+        "annotation": null,
+        "entry": "igun",
+        "id": 261192,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261192/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
     },
     {
         "added": "2014-07-06T21:29:55.287735",
@@ -1596,6 +1704,18 @@
         "word": "/api/v1/word/to-see/"
     },
     {
+        "added": "2024-04-12T02:48:19.262414",
+        "annotation": null,
+        "entry": "kakat",
+        "id": 261227,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261227/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "blood",
+        "word": "/api/v1/word/blood/"
+    },
+    {
         "added": "2014-07-06T21:29:56.381694",
         "annotation": null,
         "entry": "kaker",
@@ -1848,6 +1968,18 @@
         "word": "/api/v1/word/mosquito/"
     },
     {
+        "added": "2024-04-12T02:48:19.241407",
+        "annotation": null,
+        "entry": "kaven",
+        "id": 261202,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261202/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "house",
+        "word": "/api/v1/word/house/"
+    },
+    {
         "added": "2014-07-06T21:30:07.099897",
         "annotation": null,
         "entry": "kawi-",
@@ -1882,6 +2014,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(mouth)",
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.278062",
+        "annotation": null,
+        "entry": "kegin",
+        "id": 261248,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261248/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "sun",
+        "word": "/api/v1/word/sun/"
     },
     {
         "added": "2014-07-06T21:29:59.174201",
@@ -2316,6 +2460,18 @@
         "word": "/api/v1/word/red/"
     },
     {
+        "added": "2024-04-12T02:48:19.293055",
+        "annotation": null,
+        "entry": "lapdi\u014bge",
+        "id": 261269,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261269/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "white",
+        "word": "/api/v1/word/white/"
+    },
+    {
         "added": "2014-07-06T21:30:01.119817",
         "annotation": null,
         "entry": "lapti\u014bge",
@@ -2362,6 +2518,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "G-string",
         "word": "/api/v1/word/g-string/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.235462",
+        "annotation": null,
+        "entry": "liwe\u014b",
+        "id": 261197,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261197/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2014-07-06T21:29:54.482392",
@@ -2590,6 +2758,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "lightning",
         "word": "/api/v1/word/lightning/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.254897",
+        "annotation": null,
+        "entry": "mek",
+        "id": 261217,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261217/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "eye",
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2014-07-06T21:29:53.003596",
@@ -2868,6 +3048,18 @@
         "word": "/api/v1/word/vein/"
     },
     {
+        "added": "2024-04-12T02:48:19.215429",
+        "annotation": null,
+        "entry": "mur",
+        "id": 261172,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261172/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "man",
+        "word": "/api/v1/word/man/"
+    },
+    {
         "added": "2014-07-06T21:29:57.839526",
         "annotation": null,
         "entry": "muriman",
@@ -2892,18 +3084,6 @@
         "word": "/api/v1/word/man/"
     },
     {
-        "added": "2014-07-06T21:29:50.782698",
-        "annotation": null,
-        "entry": "na-",
-        "id": 139131,
-        "language": "/api/v1/language/gavak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/139131/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "thou (VO)",
-        "word": "/api/v1/word/you-o2s/"
-    },
-    {
         "added": "2014-07-06T21:30:07.275613",
         "annotation": null,
         "entry": "na-",
@@ -2914,6 +3094,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "eat",
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2014-07-06T21:29:50.782698",
+        "annotation": null,
+        "entry": "na-",
+        "id": 139131,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/139131/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "thou (VO)",
+        "word": "/api/v1/word/you-o2s/"
     },
     {
         "added": "2014-07-06T21:30:04.497133",
@@ -3108,6 +3300,18 @@
         "word": "/api/v1/word/drum/"
     },
     {
+        "added": "2024-04-12T02:48:19.229619",
+        "annotation": null,
+        "entry": "\u014bam",
+        "id": 261187,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261187/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "tree",
+        "word": "/api/v1/word/tree/"
+    },
+    {
         "added": "2014-07-06T21:29:57.066225",
         "annotation": null,
         "entry": "\u014bam",
@@ -3168,18 +3372,6 @@
         "word": "/api/v1/word/to-bite/"
     },
     {
-        "added": "2014-07-06T21:30:07.329099",
-        "annotation": null,
-        "entry": "\u014bgari-",
-        "id": 146908,
-        "language": "/api/v1/language/gavak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/146908/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "(fight, hit)",
-        "word": "/api/v1/word/to-fight/"
-    },
-    {
         "added": "2014-07-06T21:30:07.397482",
         "annotation": null,
         "entry": "\u014bgari-",
@@ -3190,6 +3382,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(kill)",
         "word": "/api/v1/word/to-kill/"
+    },
+    {
+        "added": "2014-07-06T21:30:07.329099",
+        "annotation": null,
+        "entry": "\u014bgari-",
+        "id": 146908,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/146908/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "(fight, hit)",
+        "word": "/api/v1/word/to-fight/"
     },
     {
         "added": "2014-07-06T21:29:53.293894",
@@ -3672,6 +3876,18 @@
         "word": "/api/v1/word/shoulder/"
     },
     {
+        "added": "2024-04-12T02:48:19.273488",
+        "annotation": null,
+        "entry": "tep",
+        "id": 261242,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261242/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
         "added": "2014-07-06T21:29:59.413626",
         "annotation": null,
         "entry": "te:p",
@@ -4020,18 +4236,6 @@
         "word": "/api/v1/word/to-think/"
     },
     {
-        "added": "2014-07-06T21:29:57.122673",
-        "annotation": null,
-        "entry": "uno-",
-        "id": 142237,
-        "language": "/api/v1/language/gavak/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/142237/",
-        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
-        "source_gloss": "fill up (water)",
-        "word": "/api/v1/word/to-fill/"
-    },
-    {
         "added": "2014-07-06T21:30:07.219267",
         "annotation": null,
         "entry": "uno-",
@@ -4039,6 +4243,18 @@
         "language": "/api/v1/language/gavak/",
         "loan": false,
         "resource_uri": "/api/v1/lexicon/146852/",
+        "source": "/api/v1/source/zgraggen-1980-nadelbert/",
+        "source_gloss": "fill up (water)",
+        "word": "/api/v1/word/to-fill/"
+    },
+    {
+        "added": "2014-07-06T21:29:57.122673",
+        "annotation": null,
+        "entry": "uno-",
+        "id": 142237,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/142237/",
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "fill up (water)",
         "word": "/api/v1/word/to-fill/"
@@ -4128,6 +4344,18 @@
         "word": "/api/v1/word/to-swell/"
     },
     {
+        "added": "2024-04-12T02:48:19.277394",
+        "annotation": null,
+        "entry": "urume",
+        "id": 261247,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261247/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "sun",
+        "word": "/api/v1/word/sun/"
+    },
+    {
         "added": "2014-07-06T21:30:05.673215",
         "annotation": null,
         "entry": "-usu-",
@@ -4186,6 +4414,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(tear)",
         "word": "/api/v1/word/tears/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.222135",
+        "annotation": null,
+        "entry": "vin",
+        "id": 261177,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261177/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2014-07-06T21:30:00.423313",
@@ -4390,6 +4630,18 @@
         "source": "/api/v1/source/zgraggen-1980-nadelbert/",
         "source_gloss": "(wash)",
         "word": "/api/v1/word/to-wash/"
+    },
+    {
+        "added": "2024-04-12T02:48:19.282406",
+        "annotation": null,
+        "entry": "yek",
+        "id": 261254,
+        "language": "/api/v1/language/gavak/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261254/",
+        "source": "/api/v1/source/pick-2019/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2014-07-06T21:29:59.358268",
