@@ -4043,6 +4043,71 @@
         "slug": "fuyug"
     },
     {
+        "added": "2024-06-24T18:45:57.772792",
+        "classification": "Trans-New Guinea, Southeast Papuan, Goilalan, Fuyug",
+        "dialect": "Kabana",
+        "fullname": "Fuyug (Kabana Dialect)",
+        "glottocode": "fuyu1242",
+        "id": 1703,
+        "information": "Named variety in Williamson 1912, probably just a clan name",
+        "isocode": "fuy",
+        "language": "Fuyug",
+        "resource_uri": "/api/v1/language/fuyug-kabana/",
+        "slug": "fuyug-kabana"
+    },
+    {
+        "added": "2024-06-24T18:43:38.334916",
+        "classification": "Trans-New Guinea, Southeast Papuan, Goilalan, Fuyug",
+        "dialect": "Kambisa",
+        "fullname": "Fuyug (Kambisa Dialect)",
+        "glottocode": "fuyu1242",
+        "id": 1701,
+        "information": "Named variety in Williamson 1912, probably just clan name",
+        "isocode": "fuy",
+        "language": "Fuyug",
+        "resource_uri": "/api/v1/language/fuyug-kambisa/",
+        "slug": "fuyug-kambisa"
+    },
+    {
+        "added": "2024-06-24T18:45:55.232470",
+        "classification": "Trans-New Guinea, Southeast Papuan, Goilalan, Fuyug",
+        "dialect": "Korona",
+        "fullname": "Fuyug (Korona Dialect)",
+        "glottocode": "fuyu1242",
+        "id": 1702,
+        "information": "Named variety in Williamson 1912, probably just a clan name",
+        "isocode": "fuy",
+        "language": "Fuyug",
+        "resource_uri": "/api/v1/language/fuyug-korona/",
+        "slug": "fuyug-korona"
+    },
+    {
+        "added": "2024-06-24T18:58:56.633634",
+        "classification": "Trans-New Guinea, Southeast Papuan, Goilalan, Fuyug",
+        "dialect": "Mafulu",
+        "fullname": "Fuyug (Mafulu Dialect)",
+        "glottocode": "fuyu1242",
+        "id": 1705,
+        "information": "Named variety in Williamson 1912, probably just a clan name",
+        "isocode": "fuy",
+        "language": "Fuyug",
+        "resource_uri": "/api/v1/language/fuyug-mafulu/",
+        "slug": "fuyug-mafulu"
+    },
+    {
+        "added": "2024-06-24T18:46:00.038458",
+        "classification": "Trans-New Guinea, Southeast Papuan, Goilalan, Fuyug",
+        "dialect": "Sikube",
+        "fullname": "Fuyug (Sikube Dialect)",
+        "glottocode": "fuyu1242",
+        "id": 1704,
+        "information": "Named variety in Williamson 1912, probably just a clan name",
+        "isocode": "fuy",
+        "language": "Fuyug",
+        "resource_uri": "/api/v1/language/fuyug-sikube/",
+        "slug": "fuyug-sikube"
+    },
+    {
         "added": "2013-11-29T19:25:27.114844",
         "classification": "Nuclear Trans New Guinea, Kainantu-Goroka, Kainantu, Gauwa, Gadsup-Agarabi",
         "dialect": "",
@@ -6186,6 +6251,19 @@
         "language": "Kuni-Boazi",
         "resource_uri": "/api/v1/language/kuini/",
         "slug": "kuini"
+    },
+    {
+        "added": "2024-06-26T21:20:28.939322",
+        "classification": "Kunimaipan",
+        "dialect": null,
+        "fullname": "Kunimaipa",
+        "glottocode": "kuni1267",
+        "id": 1706,
+        "information": "",
+        "isocode": "kup",
+        "language": "Kunimaipa",
+        "resource_uri": "/api/v1/language/kunimaipa/",
+        "slug": "kunimaipa"
     },
     {
         "added": "2014-07-25T00:02:22.912073",

@@ -5,6 +5,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 4_belly,belly,1251,BELLY
 5_big,big,1202,BIG
 6_bird,bird,937,BIRD
+7_black,black,163,BLACK
 8_blood,blood,946,BLOOD
 9_bone,bone,1394,BONE
 10_breast,breast,1402,BREAST
@@ -12,15 +13,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 12_cloud,cloud,1489,CLOUD
 13_coldweather,cold (weather),1287,COLD
 14_dog,dog,2009,DOG
+15_drybedry,dry (be dry),1398,DRY
 16_ear,ear,1247,EAR
 17_earthsoil,earth/soil,1228,EARTH (SOIL)
 18_egg,egg,744,EGG
 19_eye,eye,1248,EYE
 21_feather,feather,1201,FEATHER
 22_fire,fire,221,FIRE
+23_fish,fish,227,FISH
 25_full,full,1429,FULL
 26_good,good,1035,GOOD
 27_green,green,1425,GREEN
+28_hair,hair,1040,HAIR
 30_head,head,1256,HEAD
 31_heart,heart,1223,HEART
 32_horn,horn,1393,HORN (ANATOMY)
@@ -32,6 +36,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 38_louse,louse,1392,LOUSE
 39_man,man,1554,MAN
 40_many,many,1198,MANY
+41_meatflesh,meat (flesh),634,MEAT
 42_moon,moon,1313,MOON
 43_mountain,mountain,639,MOUNTAIN
 44_mouth,mouth,674,MOUTH
@@ -56,6 +61,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 63_stone,stone,857,STONE
 64_sun,sun,1343,SUN
 65_tail,tail,1220,TAIL
+66_that,that,78,THAT
+67_this,this,1214,THIS
 68_thou,thou,1215,THOU
 69_tobite,to bite,1403,BITE
 70_toburnintrans,to burn (intrans.),2102,BURN
@@ -92,16 +99,21 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 101_and,and,1577,AND
 102_animal,animal,619,ANIMAL
 103_at,at,1461,AT
+104_backbodypart,back (body part),1291,BACK
+105_baddeleteriousorunsuitable,bad (deleterious or unsuitable),1292,BAD
 106_because,because,1157,BECAUSE
 107_berry,berry,904,BERRY
 108_toblowwind,to blow (wind),175,BLOW (OF WIND)
 109_tobreathe,to breathe,1407,BREATHE
+110_child,child,1304,CHILD (YOUNG HUMAN)
 111_tocount,to count,1420,COUNT
 112_tocut,to cut,1432,CUT
 113_daynotnight,day (not night),1260,DAY (24 HOURS)
 114_todig,to dig,1418,DIG
+115_dirty,dirty,1230,DIRTY
 116_dullknife,dull (knife),1397,DULL
 117_dust,dust,2,DUST
+118_tofalldropratherthantopple,to fall (drop rather than topple),1280,FALL
 119_far,far,1406,FAR
 120_father,father,1217,FATHER
 121_tofear,to fear,1419,FEAR (BE AFRAID)
@@ -113,6 +125,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 127_flower,flower,239,FLOWER
 128_fog,fog,249,FOG
 129_four,four,1500,FOUR
+130_tofreeze,to freeze,1431,FREEZE
 131_grass,grass,606,GRASS
 132_guts,guts,1334,GUTS
 134_heavy,heavy,1210,HEAVY
@@ -122,6 +135,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 138_how,how,1239,HOW
 139_tohuntgame,to hunt (game),1435,HUNT
 140_husband,husband,1200,HUSBAND
+141_ice,ice,617,ICE
 142_if,if,1459,IF
 143_ininside,"in, inside",1606,INSIDE
 144_lake,lake,624,LAKE
@@ -131,6 +145,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 149_mother,mother,1216,MOTHER
 150_narrow,narrow,1267,NARROW
 151_near,near,1942,NEAR
+152_old,old,1229,OLD
 153_other,other,197,OTHER
 154_toplay,to play,1413,PLAY
 155_topull,to pull,1455,PULL
@@ -146,11 +161,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 165_seaocean,sea (ocean),1474,SEA
 166_tosew,to sew,1457,SEW
 167_sharpasknife,sharp (as knife),1396,SHARP
+168_short,short,1645,SHORT
 169_tosing,to sing,1261,SING
 170_sky,sky,1732,SKY
 171_tosmellsomething,to smell (something),1586,SMELL (PERCEIVE)
 172_smooth,smooth,1234,SMOOTH
 173_snake,snake,730,SNAKE
+174_snow,snow,784,SNOW
 175_some,some,1241,SOME
 176_tospit,to spit,1440,SPIT
 177_tosplit,to split,1437,SPLIT
@@ -160,6 +177,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 181_straight,straight,1404,STRAIGHT
 182_tosuck,to suck,1421,SUCK
 183_toswell,to swell,1573,SWELL
+184_there,there,1937,THERE
 185_theypronound3p,they (pronoun d:3p),817,THEY
 186_thick,thick,1244,THICK
 187_thin,thin,1400,THIN (SLIM)
@@ -177,6 +195,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 200_wind,wind,960,WIND
 201_wing,wing,1257,WING
 202_towipe,to wipe,1454,WIPE
+203_withaccompanying,with (accompanying),1340,WITH
 205_worm,worm,1219,WORM
 207_year,year,1226,YEAR
 210_towait,to wait,1590,WAIT (FOR)
@@ -186,6 +205,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 217_tospeak,to speak,1623,SPEAK
 219_afterwards,afterwards,2093,AFTERWARDS
 220_angry,angry,1826,ANGRY
+221_arrow,arrow,977,ARROW
 222_bag,bag,2468,BAG
 223_bamboo,bamboo,1927,BAMBOO
 224_banana,banana,868,BANANA
@@ -228,6 +248,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 263_hole,hole,1667,HOLE
 264_house,house,1252,HOUSE
 265_tohurt,to hurt,2411,HURT (SOMEBODY)
+266_interior,interior,1606,INSIDE
 267_knife,knife,1352,KNIFE
 268_light,light,630,LIGHT (RADIATION)
 269_loose,loose,2506,LOOSE
@@ -269,6 +290,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 329_lime,lime,982,LIME (FRUIT)
 330_crocodile,crocodile,1857,CROCODILE
 331_mosquito,mosquito,1509,MOSQUITO
+332_chicken,chicken,1318,CHICKEN
 333_sagogrub,sago grub,2802,SAGO GRUB
 334_sagopalm,sago palm,2372,SAGO PALM
 335_sagorefuse,sago refuse,,
@@ -276,6 +298,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 498_medialverbsuffixds,Medial Verb Suffix DS,,
 499_medialsequentialsuffixhavingfinishedthatandthen,"Medial Sequential Suffix (having finished that, and then)",,
 506_medialssverbsuffix,Medial SS Verb Suffix,,
+508_interrogativeparticlegenerallysuffixedtosubject,interrogative particle ((generally suffixed to subject)),,
 511_forbenefactivecliticisedorsuffixedtonoun,for (benefactive) ((cliticised or suffixed to noun)),,
 791_thigh,thigh,800,THIGH
 792_son,son,1620,SON
@@ -293,35 +316,42 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 806_navel,navel,1838,NAVEL
 807_trunkoftree,trunk (of tree),776,TRUNK OF TREE
 808_yesterdaytomorrow,"yesterday, tomorrow",2801,TOMORROW OR YESTERDAY
+809_daybeforeyesterdaydayaftertomorrow,"day before yesterday, day after tomorrow",,
 810_predicativepossessivesuffix,predicative possessive suffix,,
 812_toscrapeoff,to scrape off,1767,SCRAPE
 813_todrill,to drill,1501,BORE
 814_leech,leech,949,WATER LEECH
 817_topain,to pain,2561,HURT (SENSE PAIN)
 818_tochopcutdown,"to chop, cut down",155,CHOP
+820_locativenounsuffix,locative noun suffix,,
 822_plsuffixonkinshipnouns,PL suffix on kinship nouns,,
 823_breadfruit,breadfruit,2371,BREADFRUIT
 824_taro,taro,351,TARO
 825_body,body,1480,BODY
+826_yam,yam,410,YAM
 827_toenter,to enter,749,ENTER
 829_vagina,vagina,1836,VAGINA
 831_honeybee,(honey) bee,665,BEE
+832_youplpronound2p,you pl. (pronoun d:2p),1213,YOU
 833_ripe,ripe,178,RIPE
 834_acertainonesomeanother,"a (certain one), some, another",,
 835_spearn,spear (N),945,SPEAR
 836_tospear,to spear,473,SPEAR (SOMEBODY)
 837_anusbuttocks,"anus, buttocks",1935,ANUS
 838_torun,to run,1519,RUN
+839_top,top,1753,TOP
 840_immediateimperativepluralverbsuffix,(immediate) imperative plural verb suffix,,
 841_locativenounsuffixattofrom,"Locative noun suffix (at, to, from)",,
 842_topourout,to pour out,1487,POUR
 843_tobuysellbarter,"to buy, sell, barter",,
 845_siblingsamesexyounger,"sibling, same sex, younger",3038,SAME-SEX YOUNGER SIBLING
+846_toeatdrink,"to eat, drink",2787,CONSUME (DRINK OR EAT)
 847_noosetrapnet,"noose, trap, net",1075,TRAP (PITFALL)
 849_todomake,"to do, make",813,DO
 850_workn,work (n),984,WORK (LABOUR)
 851_tosneeze,to sneeze,1621,SNEEZE
 853_tochew,to chew,321,CHEW
+855_forbenefactivecliticisedorsuffixedtonoun,"for, benefactive (cliticised or suffixed to noun)",,
 856_or,or,1014,OR
 857_siblingsamesexolder,"sibling, same sex, older",3037,SAME-SEX OLDER SIBLING
 858_clothclothes,"cloth, clothes",1895,CLOTHES
@@ -361,6 +391,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 898_oldman,old man,406,OLD MAN
 899_flyingfox,flying fox,235,FLYING FOX
 900_frog,frog,503,FROG
+901_axestone,axe (stone),677,AXE
 902_vine,vine,343,VINE
 903_afternoon,afternoon,1807,AFTERNOON
 904_ten,ten,1515,TEN
@@ -392,6 +423,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 934_mud,mud,640,MUD
 935_mypronounp1s,my (pronoun p:1s),2090,MY
 936_nostril,nostril,1178,NOSTRIL
+937_ourpronounp1p,our (pronoun p:1p),780,OUR
+938_toputdown,to put down,,
 939_rattan,rattan,2497,RATTAN
 940_rib,rib,801,RIB
 942_sago,sago,2270,SAGO
@@ -415,7 +448,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 964_shallow,shallow,193,SHALLOW
 965_sagoswamp,sago swamp,,
 966_shrimp,shrimp,2349,SHRIMP
+968_thunder,thunder,1150,THUNDER
 969_totake,to take,1749,TAKE
+970_theirpronounp3p,their (pronoun p:3p),2400,THEIR
 971_these,these,3984,THESE (PLURAL OF THIS)
 972_rainbow,rainbow,1733,RAINBOW
 973_chest,chest,1592,CHEST
@@ -594,12 +629,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1617_discclub,disc club,,
 1618_dragonfly,dragon-fly,2352,DRAGONFLY
 1619_drawwatercarry,draw water / carry,1911,DRAW (WATER)
+1621_adream,a dream,2455,DREAMING OR DREAM
 1624_earthmud,earth/mud,2158,EARTH (WET SUBSTANCE)
 1626_empty,empty,1624,EMPTY
 1628_eyelashes,eyelashes,1540,EYELASH
 1629_faceforehead,"face, forehead",,
 1631_fatherinlaw,father-in-law,1055,FATHER-IN-LAW
 1633_feast,feast,,
+1634_femalesexorgan,female sex organ,2260,FEMALE (OF PERSON)
 1637_firefly,firefly,206,FIREFLY
 1639_flame,flame,889,FLAME
 1640_flysp,fly sp.,1504,FLY (INSECT)
@@ -638,6 +675,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1697_odour,odour,3704,ODOR (SMELL)
 1699_paddle,paddle,234,PADDLE
 1702_palmroof,palm roof,,
+1703_pandanus,pandanus,469,PANDANUS
 1704_pandanusmat,pandanus mat,,
 1705_pandanusnet,pandanus (net),,
 1706_topant,to pant,3614,PANT
@@ -676,6 +714,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1770_torch,torch,1919,TORCH
 1773_treebase,tree base,776,TRUNK OF TREE
 1774_twodaysagoorhence,two days ago or hence,,
+1775_upperpartoftree,upper part (of tree),,
 1776_urchin,urchin,,
 1779_waist,waist,1681,WAIST
 1781_walkingstick,walking stick,1296,WALKING STICK
@@ -706,8 +745,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1917_painfulsick,"painful, sick",2103,PAINFUL OR SICK
 1918_shyashamed,"shy, ashamed",487,SHY
 1919_thatchroof,"thatch, roof",2100,THATCH OR ROOF
+1920_hesheitpronound3s,"he, she, it (pronoun d:3s)",262,HE OR SHE OR IT
 1921_tohide,to hide,2486,HIDE
 1922_fifty,fifty,1717,FIFTY
+1924_tocrush,to crush,1520,CRUSH
 1925_again,again,204,AGAIN
 1926_beside,beside,1816,BESIDE
 1927_andi,and I,,
@@ -742,6 +783,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1956_crosscousin,cross cousin,3162,CROSS-COUSIN
 1957_outside,outside,762,OUTSIDE
 1958_tostink,to stink,1587,SMELL (STINK)
+1959_acough,a cough,879,COUGH
 1960_mustard,mustard,3181,MUSTARD
 1961_speech,speech,1115,SPEECH
 1962_towatch,to watch,1650,WATCH
@@ -774,6 +816,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1989_tanket,tanket,2046,APRON
 1990_blind,blind,1653,BLIND
 1991_tounderstand,to understand,1536,UNDERSTAND
+1992_tomakebow,to make bow,,
 1993_totell,to tell,1711,TELL
 1994_rain,rain,2108,RAINING OR RAIN
 1995_hand,hand,1277,HAND
@@ -817,6 +860,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2046_cliff,cliff,992,CLIFF
 2047_possum,possum,470,POSSUM
 2048_always,always,1676,ALWAYS
+2049_affixbodypart,affix: body-part,,
 2050_towards,towards,2754,TOWARDS
 2051_totear,to tear,1735,TEAR (SHRED)
 2052_siblingolder,sibling older,405,OLDER SIBLING
@@ -829,6 +873,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2059_mepronouno1s,me (pronoun o:1s),2301,ME
 2060_uspronouno1p,us (pronoun o:1p),2310,US (OBLIQUE CASE OF WE)
 2061_thought,thought,2975,THOUGHT
+2066_thempronouno3p,them (pronoun o:3p),,
 2068_himheritpronouno3s,"him, her, it (pronoun o:3s)",,
 2069_tolieonground,to lie on ground,1411,LIE (REST)
 2070_underneath,underneath,1485,BELOW OR UNDER
@@ -841,9 +886,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2077_dayaftertomorrow,day after tomorrow,1179,DAY AFTER TOMORROW
 2078_singaporetaroxanthosomasaggitifolium,singapore taro (Xanthosoma saggitifolium),351,TARO
 2079_weincldualpronound1pincldual,"we incl. dual (pronoun d:1p, incl, dual)",2637,WE TWO (INCLUSIVE)
+2080_weinclpluralpronound1pinclplural,"we incl. plural (pronoun d:1p, incl, plural)",1131,WE (INCLUSIVE)
 2081_tofasten,to fasten,1094,FASTEN
 2082_youpronouno2s,you (pronoun o:2s),2304,THEE (OBLIQUE CASE OF YOU)
 2083_youplpronouno2p,you pl. (pronoun o:2p),2312,YOU (OBLIQUE CASE OF YOU)
+2084_youpltwopronouno2pdual,"you pl. two (pronoun o:2p, dual)",2111,YOU TWO
 2085_ustwopronouno1pdual,"us two (pronoun o:1p, dual)",,
 2086_thempronouno3pdual,"them (pronoun o:3p, dual)",,
 2087_axeiron,axe (iron),677,AXE
@@ -940,9 +987,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2187_todry,to dry,1786,DRY UP
 2189_2sg2ndpersonsingular,2SG (2nd person singular),1215,THOU
 2190_search,search,1468,LOOK FOR
+2191_rooster,rooster,1511,ROOSTER
 2192_teeth,teeth,1380,TOOTH
 2193_meatgame,meat (game),634,MEAT
 2194_muscle,muscle,1004,MUSCLE
+2195_feaces,feaces,675,FAECES (EXCREMENT)
 2196_scrotum,scrotum,797,TESTICLES
 2197_lowerback,lower back,3613,LOWER BACK
 2198_ash,ash,646,ASH
@@ -967,6 +1016,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2217_why,why?,1270,WHY
 2218_tolay,to lay,2071,LAY (VERB)
 2219_topinch,to pinch,378,PINCH
+2220_aboil,a boil,793,BOIL (OF SKIN)
 2221_eyebrow,eyebrow,1173,EYEBROW
 2222_heel,heel,980,HEEL
 2223_sweat,sweat,125,SWEAT (SUBSTANCE)
@@ -1012,6 +1062,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2264_beunwilling,be unwilling,,
 2265_tosuckatbreast,to suck at breast,2472,"SUCKLE (BREASTFEED, NURSE)"
 2266_nipple,nipple,796,NIPPLE
+2267_tocall,to call,1084,CALL
 2268_backbone,backbone,805,SPINE
 2269_youngman,young man,76,YOUNG MAN
 2270_mouse,mouse,1491,MOUSE
@@ -1025,6 +1076,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2278_intestines,intestines,1991,INTESTINES
 2279_tolove,to love,923,LOVE
 2280_adamsapple,Adam's apple,802,ADAM'S APPLE
+2281_littletoe,little toe,,
 2282_scabies,scabies,3172,SCABIES
 2283_toseek,to seek,1468,LOOK FOR
 2284_slippery,slippery,3702,SLIPPERY
@@ -1120,6 +1172,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2477_belt,belt,772,BELT
 2478_crossbelt,crossbelt,,
 2479_breastornament,breast ornament,,
+2480_buttock,buttock,834,BUTTOCKS
 2481_cap,cap,1288,CAP
 2482_cicatrix,cicatrix,497,SCAR
 2483_earornament,ear ornament,,

@@ -1,5 +1,17 @@
 [
     {
+        "added": "2024-06-26T22:23:53.683860",
+        "annotation": "None",
+        "entry": "",
+        "id": 262077,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262077/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "four",
+        "word": "/api/v1/word/four/"
+    },
+    {
         "added": "2015-05-18T22:31:36.371309",
         "annotation": "",
         "entry": "agot\u028cu",
@@ -22,6 +34,42 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.616537",
+        "annotation": "None",
+        "entry": "ainakava",
+        "id": 261951,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261951/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "bring",
+        "word": "/api/v1/word/to-bring/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.629440",
+        "annotation": "None",
+        "entry": "ainioari",
+        "id": 261974,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261974/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "far off",
+        "word": "/api/v1/word/far-away/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.674803",
+        "annotation": "None",
+        "entry": "aivi",
+        "id": 262058,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262058/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "tongue",
+        "word": "/api/v1/word/tongue/"
     },
     {
         "added": "2015-05-18T18:24:21.322723",
@@ -60,6 +108,30 @@
         "word": "/api/v1/word/ten/"
     },
     {
+        "added": "2024-06-26T22:23:53.664154",
+        "annotation": "None",
+        "entry": "ala",
+        "id": 262038,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262038/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "shadow",
+        "word": "/api/v1/word/lance/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.617132",
+        "annotation": "None",
+        "entry": "alota",
+        "id": 261952,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261952/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "bury",
+        "word": "/api/v1/word/to-bury/"
+    },
+    {
         "added": "2015-05-18T18:57:50.919203",
         "annotation": "a\u0159upu",
         "entry": "al'upu",
@@ -84,6 +156,42 @@
         "word": "/api/v1/word/earth/"
     },
     {
+        "added": "2024-06-26T22:23:53.626310",
+        "annotation": "None",
+        "entry": "amati",
+        "id": 261968,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261968/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "earth (ground)",
+        "word": "/api/v1/word/earth/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.624165",
+        "annotation": "None",
+        "entry": "amatita",
+        "id": 261964,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261964/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "dig",
+        "word": "/api/v1/word/to-dig/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.655909",
+        "annotation": "None",
+        "entry": "amauli",
+        "id": 262021,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262021/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "near",
+        "word": "/api/v1/word/near/"
+    },
+    {
         "added": "2015-05-18T22:28:47.290915",
         "annotation": "",
         "entry": "a'mu",
@@ -106,6 +214,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/to-kill/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.611706",
+        "annotation": "None",
+        "entry": "aniami",
+        "id": 261943,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261943/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "belly",
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.655051",
+        "annotation": "None",
+        "entry": "apete",
+        "id": 262019,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262019/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2015-05-18T18:57:50.927256",
@@ -154,6 +286,114 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.630004",
+        "annotation": "None",
+        "entry": "ati",
+        "id": 261975,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261975/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "father",
+        "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.682886",
+        "annotation": "None",
+        "entry": "atoloivai-itima",
+        "id": 262075,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262075/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "three",
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.682381",
+        "annotation": "None",
+        "entry": "atolowai",
+        "id": 262074,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262074/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "two",
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.683365",
+        "annotation": "None",
+        "entry": "atolowai-atolowai",
+        "id": 262076,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262076/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "four",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.684361",
+        "annotation": "None",
+        "entry": "atolowaiatolowai-itima",
+        "id": 262078,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262078/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "five",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.654110",
+        "annotation": "None",
+        "entry": "(aumen)ini",
+        "id": 262017,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262017/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "mother",
+        "word": "/api/v1/word/mother/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.638796",
+        "annotation": "None",
+        "entry": "auwataute",
+        "id": 261992,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261992/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "hair (of head)",
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.639229",
+        "annotation": "None",
+        "entry": "auwuti",
+        "id": 261993,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261993/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "hair (of body)",
+        "word": "/api/v1/word/hair-body/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.640096",
+        "annotation": "None",
+        "entry": "avava",
+        "id": 261995,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261995/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "hard",
+        "word": "/api/v1/word/hard/"
     },
     {
         "added": "2015-05-18T18:20:26.731336",
@@ -214,6 +454,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.659784",
+        "annotation": "None",
+        "entry": "boratu",
+        "id": 262029,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262029/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "red",
+        "word": "/api/v1/word/red/"
     },
     {
         "added": "2015-05-18T18:24:21.258443",
@@ -444,6 +696,18 @@
         "word": "/api/v1/word/smoke/"
     },
     {
+        "added": "2024-06-26T22:23:53.675734",
+        "annotation": "None",
+        "entry": "enade",
+        "id": 262060,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262060/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "tree",
+        "word": "/api/v1/word/tree/"
+    },
+    {
         "added": "2015-05-18T18:24:21.225942",
         "annotation": "",
         "entry": "\u025bna:i",
@@ -456,6 +720,18 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
+        "added": "2024-06-26T22:23:53.618470",
+        "annotation": "None",
+        "entry": "(ena)imiti",
+        "id": 261954,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261954/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "charcoal",
+        "word": "/api/v1/word/charcoal/"
+    },
+    {
         "added": "2015-05-18T18:24:21.290590",
         "annotation": "",
         "entry": "e'na\u00b7m",
@@ -466,6 +742,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.632379",
+        "annotation": "None",
+        "entry": "\u0115nami",
+        "id": 261979,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261979/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "fire",
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.608900",
+        "annotation": "None",
+        "entry": "enamiro",
+        "id": 261937,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261937/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
     },
     {
         "added": "2015-05-18T22:31:36.296892",
@@ -490,6 +790,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/brother/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.679793",
+        "annotation": "None",
+        "entry": "epe",
+        "id": 262069,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262069/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "yellow",
+        "word": "/api/v1/word/yellow/"
     },
     {
         "added": "2015-05-18T18:52:21.195032",
@@ -540,6 +852,30 @@
         "word": "/api/v1/word/baby/"
     },
     {
+        "added": "2024-06-26T22:23:53.667311",
+        "annotation": "None",
+        "entry": "etaivi",
+        "id": 262043,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262043/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "smoke",
+        "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.666845",
+        "annotation": "None",
+        "entry": "eveeve",
+        "id": 262042,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262042/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "small",
+        "word": "/api/v1/word/small/"
+    },
+    {
         "added": "2015-05-18T22:31:36.363398",
         "annotation": "",
         "entry": "eveve",
@@ -550,6 +886,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/light/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.671260",
+        "annotation": "None",
+        "entry": "eviti",
+        "id": 262051,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262051/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "stone",
+        "word": "/api/v1/word/stone/"
     },
     {
         "added": "2015-05-18T18:24:21.266487",
@@ -576,6 +924,66 @@
         "word": "/api/v1/word/flying-fox/"
     },
     {
+        "added": "2024-06-26T22:23:53.639673",
+        "annotation": "None",
+        "entry": "galatopute",
+        "id": 261994,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261994/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "hand",
+        "word": "/api/v1/word/hand/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.632862",
+        "annotation": "None",
+        "entry": "gapila",
+        "id": 261980,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261980/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "fish",
+        "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.676179",
+        "annotation": "None",
+        "entry": "geade",
+        "id": 262061,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262061/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "village",
+        "word": "/api/v1/word/village/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.643897",
+        "annotation": "None",
+        "entry": "geade",
+        "id": 262000,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262000/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "house",
+        "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.648391",
+        "annotation": "None",
+        "entry": "g\u0115tapi",
+        "id": 262006,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262006/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "lip",
+        "word": "/api/v1/word/lips/"
+    },
+    {
         "added": "2015-05-18T18:24:21.242395",
         "annotation": "",
         "entry": "gida'i",
@@ -588,6 +996,42 @@
         "word": "/api/v1/word/to-lie-down/"
     },
     {
+        "added": "2024-06-26T22:23:53.617881",
+        "annotation": "None",
+        "entry": "gotaubi",
+        "id": 261953,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261953/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "butterfly",
+        "word": "/api/v1/word/butterfly/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.665884",
+        "annotation": "None",
+        "entry": "gotipe",
+        "id": 262040,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262040/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "skin",
+        "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.672733",
+        "annotation": "None",
+        "entry": "gupe",
+        "id": 262054,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262054/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "sweet potato",
+        "word": "/api/v1/word/sweet-potato/"
+    },
+    {
         "added": "2015-05-18T19:48:20.126637",
         "annotation": "",
         "entry": "gut b\u0254i du\u00b7kat\u0254",
@@ -598,6 +1042,90 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.656362",
+        "annotation": "None",
+        "entry": "guve'teletai",
+        "id": 262022,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262022/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "night",
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.623155",
+        "annotation": "None",
+        "entry": "guviti",
+        "id": 261962,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261962/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "darkness",
+        "word": "/api/v1/word/dark/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.633877",
+        "annotation": "None",
+        "entry": "iadaude",
+        "id": 261982,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261982/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "flower",
+        "word": "/api/v1/word/flower/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.650452",
+        "annotation": "None",
+        "entry": "iate",
+        "id": 262009,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262009/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.615369",
+        "annotation": "None",
+        "entry": "ietami",
+        "id": 261949,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261949/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "branch",
+        "word": "/api/v1/word/branch/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.636123",
+        "annotation": "None",
+        "entry": "ietaube",
+        "id": 261987,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261987/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "fruit",
+        "word": "/api/v1/word/fruit/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.610362",
+        "annotation": "None",
+        "entry": "ila",
+        "id": 261940,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261940/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "bamboo",
+        "word": "/api/v1/word/bamboo/"
     },
     {
         "added": "2015-05-18T22:28:47.317315",
@@ -636,6 +1164,30 @@
         "word": "/api/v1/word/to-laugh/"
     },
     {
+        "added": "2024-06-26T22:23:53.677605",
+        "annotation": "None",
+        "entry": "ilitu",
+        "id": 262064,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262064/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "white",
+        "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.614349",
+        "annotation": "None",
+        "entry": "ilive",
+        "id": 261947,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261947/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "blood",
+        "word": "/api/v1/word/blood/"
+    },
+    {
         "added": "2015-05-18T18:52:21.140600",
         "annotation": "",
         "entry": "il'iv\u00ed",
@@ -648,16 +1200,16 @@
         "word": "/api/v1/word/blood/"
     },
     {
-        "added": "2015-05-18T22:28:47.371199",
-        "annotation": "",
-        "entry": "inava",
-        "id": 218434,
+        "added": "2024-06-26T22:23:53.607974",
+        "annotation": "None",
+        "entry": "iluve",
+        "id": 261935,
         "language": "/api/v1/language/tauade/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/218434/",
-        "source": "/api/v1/source/sil-1980/",
-        "source_gloss": null,
-        "word": "/api/v1/word/vine/"
+        "resource_uri": "/api/v1/lexicon/261935/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "areca-nut",
+        "word": "/api/v1/word/areca-nut/"
     },
     {
         "added": "2015-05-18T18:31:06.688268",
@@ -672,6 +1224,18 @@
         "word": "/api/v1/word/root/"
     },
     {
+        "added": "2015-05-18T22:28:47.371199",
+        "annotation": "",
+        "entry": "inava",
+        "id": 218434,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/218434/",
+        "source": "/api/v1/source/sil-1980/",
+        "source_gloss": null,
+        "word": "/api/v1/word/vine/"
+    },
+    {
         "added": "2015-05-18T18:57:50.903176",
         "annotation": "",
         "entry": "i'ni",
@@ -682,6 +1246,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/mother/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.660222",
+        "annotation": "None",
+        "entry": "ipe",
+        "id": 262030,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262030/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "river",
+        "word": "/api/v1/word/river/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.676660",
+        "annotation": "None",
+        "entry": "i(pe)",
+        "id": 262062,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262062/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
     },
     {
         "added": "2015-05-18T18:31:06.672724",
@@ -744,6 +1332,30 @@
         "word": "/api/v1/word/red/"
     },
     {
+        "added": "2024-06-26T22:23:53.642990",
+        "annotation": "None",
+        "entry": "itavi",
+        "id": 261998,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261998/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "hill",
+        "word": "/api/v1/word/hill/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.658737",
+        "annotation": "None",
+        "entry": "iti",
+        "id": 262027,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262027/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
         "added": "2015-05-18T18:31:06.835900",
         "annotation": "",
         "entry": "it\u02b0panai",
@@ -768,6 +1380,18 @@
         "word": "/api/v1/word/woman/"
     },
     {
+        "added": "2024-06-26T22:23:53.678913",
+        "annotation": "None",
+        "entry": "iva",
+        "id": 262067,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262067/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "woman",
+        "word": "/api/v1/word/woman/"
+    },
+    {
         "added": "2015-05-18T18:57:50.878789",
         "annotation": "",
         "entry": "iva kavanipi",
@@ -778,6 +1402,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/old-woman/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.649359",
+        "annotation": "None",
+        "entry": "kaili",
+        "id": 262007,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262007/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "live",
+        "word": "/api/v1/word/to-live/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.673815",
+        "annotation": "None",
+        "entry": "kailili",
+        "id": 262056,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262056/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "to-day",
+        "word": "/api/v1/word/today/"
     },
     {
         "added": "2015-05-18T19:48:20.235087",
@@ -804,6 +1452,18 @@
         "word": "/api/v1/word/new/"
     },
     {
+        "added": "2024-06-26T22:23:53.608415",
+        "annotation": "None",
+        "entry": "kalab",
+        "id": 261936,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261936/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "arm",
+        "word": "/api/v1/word/arm/"
+    },
+    {
         "added": "2015-05-18T19:48:20.226945",
         "annotation": "",
         "entry": "kalakalavlai",
@@ -816,6 +1476,30 @@
         "word": "/api/v1/word/to-run/"
     },
     {
+        "added": "2024-06-26T22:23:53.638375",
+        "annotation": "None",
+        "entry": "kalowo",
+        "id": 261991,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261991/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "great",
+        "word": "/api/v1/word/great/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.619009",
+        "annotation": "None",
+        "entry": "kaluvi",
+        "id": 261955,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261955/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "chest",
+        "word": "/api/v1/word/chest/"
+    },
+    {
         "added": "2015-05-18T18:57:51.007312",
         "annotation": "",
         "entry": "kamara'va",
@@ -826,6 +1510,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/yam/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.613241",
+        "annotation": "None",
+        "entry": "kanaiva",
+        "id": 261945,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261945/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "bite",
+        "word": "/api/v1/word/to-bite/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.660687",
+        "annotation": "None",
+        "entry": "kani",
+        "id": 262031,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262031/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "road",
+        "word": "/api/v1/word/road/"
     },
     {
         "added": "2015-05-18T18:52:21.109910",
@@ -924,6 +1632,18 @@
         "word": "/api/v1/word/old/"
     },
     {
+        "added": "2024-06-26T22:23:53.678481",
+        "annotation": "None",
+        "entry": "kavi",
+        "id": 262066,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262066/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "wind",
+        "word": "/api/v1/word/wind/"
+    },
+    {
         "added": "2015-05-18T18:52:21.092990",
         "annotation": "",
         "entry": "ka'y\u0254pai",
@@ -936,6 +1656,18 @@
         "word": "/api/v1/word/shoulder/"
     },
     {
+        "added": "2024-06-26T22:23:53.607422",
+        "annotation": "None",
+        "entry": "kealeve",
+        "id": 261934,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261934/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "adze",
+        "word": "/api/v1/word/adze/"
+    },
+    {
         "added": "2015-05-18T18:57:50.967181",
         "annotation": "kenome",
         "entry": "kene",
@@ -946,6 +1678,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/rat/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.659343",
+        "annotation": "None",
+        "entry": "keni",
+        "id": 262028,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262028/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "rat",
+        "word": "/api/v1/word/rat/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.614865",
+        "annotation": "None",
+        "entry": "keniabi",
+        "id": 261948,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261948/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
     },
     {
         "added": "2015-05-18T18:52:21.132709",
@@ -969,6 +1725,18 @@
         "resource_uri": "/api/v1/lexicon/218101/",
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.625791",
+        "annotation": "None",
+        "entry": "kepapi",
+        "id": 261967,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261967/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "ear",
         "word": "/api/v1/word/ear/"
     },
     {
@@ -996,6 +1764,18 @@
         "word": "/api/v1/word/knee/"
     },
     {
+        "added": "2024-06-26T22:23:53.628881",
+        "annotation": "None",
+        "entry": "keuwi",
+        "id": 261973,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261973/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "face",
+        "word": "/api/v1/word/face/"
+    },
+    {
         "added": "2015-05-18T18:20:26.826295",
         "annotation": "kil'e",
         "entry": "kide",
@@ -1008,6 +1788,42 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2024-06-26T22:23:53.680921",
+        "annotation": "None",
+        "entry": "kila",
+        "id": 262071,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262071/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "yesterday",
+        "word": "/api/v1/word/yesterday/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.674354",
+        "annotation": "None",
+        "entry": "kila",
+        "id": 262057,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262057/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "to-morrow",
+        "word": "/api/v1/word/tomorrow/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.620181",
+        "annotation": "None",
+        "entry": "kila karabe",
+        "id": 261957,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261957/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "claw (of bird)",
+        "word": "/api/v1/word/claw/"
+    },
+    {
         "added": "2015-05-18T19:48:20.210596",
         "annotation": "",
         "entry": "kilalai",
@@ -1018,6 +1834,66 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/to-fly/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.612215",
+        "annotation": "None",
+        "entry": "kile",
+        "id": 261944,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261944/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.627401",
+        "annotation": "None",
+        "entry": "kile' mutube",
+        "id": 261970,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261970/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.631448",
+        "annotation": "None",
+        "entry": "kili' amute",
+        "id": 261977,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261977/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "feather",
+        "word": "/api/v1/word/feather/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.661149",
+        "annotation": "None",
+        "entry": "kilu' mute",
+        "id": 262032,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262032/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "root",
+        "word": "/api/v1/word/root/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.649949",
+        "annotation": "None",
+        "entry": "kimaule",
+        "id": 262008,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262008/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "liver",
+        "word": "/api/v1/word/liver/"
     },
     {
         "added": "2015-05-18T18:52:21.117389",
@@ -1068,6 +1944,18 @@
         "word": "/api/v1/word/nose/"
     },
     {
+        "added": "2024-06-26T22:23:53.657767",
+        "annotation": "None",
+        "entry": "kiti",
+        "id": 262025,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262025/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
+    },
+    {
         "added": "2015-05-18T22:31:36.339244",
         "annotation": "ki\u00b7sue",
         "entry": "kitsue",
@@ -1102,6 +1990,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/knife/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.609878",
+        "annotation": "None",
+        "entry": "k\u014d\u0101li",
+        "id": 261939,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261939/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "bad",
+        "word": "/api/v1/word/bad/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.681915",
+        "annotation": "None",
+        "entry": "koane",
+        "id": 262073,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262073/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "one",
+        "word": "/api/v1/word/one/"
     },
     {
         "added": "2015-05-18T18:57:50.943213",
@@ -1212,6 +2124,18 @@
         "word": "/api/v1/word/wet/"
     },
     {
+        "added": "2024-06-26T22:23:53.624667",
+        "annotation": "None",
+        "entry": "kovela",
+        "id": 261965,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261965/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "dog",
+        "word": "/api/v1/word/dog/"
+    },
+    {
         "added": "2015-05-18T18:20:26.834562",
         "annotation": "k\u0254vel'a",
         "entry": "k\u0254ve\u0159a",
@@ -1258,6 +2182,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/horn/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.677102",
+        "annotation": "None",
+        "entry": "kowaitai",
+        "id": 262063,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262063/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "weep",
+        "word": "/api/v1/word/to-cry/"
     },
     {
         "added": "2015-05-18T22:31:36.179283",
@@ -1440,6 +2376,138 @@
         "word": "/api/v1/word/yesterday/"
     },
     {
+        "added": "2024-06-26T22:23:53.673246",
+        "annotation": "None",
+        "entry": "ku(we)",
+        "id": 262055,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262055/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "taro",
+        "word": "/api/v1/word/taro/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.625242",
+        "annotation": "None",
+        "entry": "kwaiana",
+        "id": 261966,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261966/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "drink",
+        "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.637927",
+        "annotation": "None",
+        "entry": "ladi",
+        "id": 261990,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261990/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "good",
+        "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.623675",
+        "annotation": "None",
+        "entry": "lae-elu",
+        "id": 261963,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261963/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "die",
+        "word": "/api/v1/word/to-die/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.622589",
+        "annotation": "None",
+        "entry": "lai",
+        "id": 261961,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261961/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "come",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.653223",
+        "annotation": "None",
+        "entry": "laliate' govelai",
+        "id": 262015,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262015/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "morning",
+        "word": "/api/v1/word/morning/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.642511",
+        "annotation": "None",
+        "entry": "lanita",
+        "id": 261997,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261997/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "hear",
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.631915",
+        "annotation": "None",
+        "entry": "leleva",
+        "id": 261978,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261978/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "little finger",
+        "word": "/api/v1/word/little-finger/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.662074",
+        "annotation": "None",
+        "entry": "limanevi",
+        "id": 262034,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262034/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "salt",
+        "word": "/api/v1/word/salt/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.637483",
+        "annotation": "None",
+        "entry": "lo",
+        "id": 261989,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261989/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "go",
+        "word": "/api/v1/word/to-go/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.670808",
+        "annotation": "None",
+        "entry": "loia",
+        "id": 262050,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262050/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "stay",
+        "word": "/api/v1/word/to-stay/"
+    },
+    {
         "added": "2015-05-18T18:52:21.165248",
         "annotation": "",
         "entry": "l\u0254i'pai",
@@ -1450,6 +2518,42 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/wing/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.679361",
+        "annotation": "None",
+        "entry": "loita",
+        "id": 262068,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262068/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "yam",
+        "word": "/api/v1/word/yam/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.634771",
+        "annotation": "None",
+        "entry": "lomineti",
+        "id": 261984,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261984/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "foot",
+        "word": "/api/v1/word/foot/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.621956",
+        "annotation": "None",
+        "entry": "loola",
+        "id": 261960,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261960/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "cold",
+        "word": "/api/v1/word/cold/"
     },
     {
         "added": "2015-05-18T18:57:51.023089",
@@ -1500,6 +2604,54 @@
         "word": "/api/v1/word/boy/"
     },
     {
+        "added": "2024-06-26T22:23:53.619594",
+        "annotation": "None",
+        "entry": "lu",
+        "id": 261956,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261956/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "child",
+        "word": "/api/v1/word/child/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.669584",
+        "annotation": "None",
+        "entry": "lugila",
+        "id": 262048,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262048/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "stand",
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.669124",
+        "annotation": "None",
+        "entry": "luiteta",
+        "id": 262047,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262047/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "spit",
+        "word": "/api/v1/word/to-spit/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.613788",
+        "annotation": "None",
+        "entry": "lumatu",
+        "id": 261946,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261946/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "black",
+        "word": "/api/v1/word/black/"
+    },
+    {
         "added": "2015-05-18T22:28:47.326652",
         "annotation": "",
         "entry": "ma'it\u02b0i",
@@ -1510,6 +2662,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.663135",
+        "annotation": "None",
+        "entry": "malitana",
+        "id": 262036,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262036/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "scratch",
+        "word": "/api/v1/word/to-scratch/"
     },
     {
         "added": "2015-05-18T18:52:21.209781",
@@ -1524,6 +2688,18 @@
         "word": "/api/v1/word/forehead/"
     },
     {
+        "added": "2024-06-26T22:23:53.635202",
+        "annotation": "None",
+        "entry": "miavi",
+        "id": 261985,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261985/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "forehead",
+        "word": "/api/v1/word/forehead/"
+    },
+    {
         "added": "2015-05-18T18:31:06.852136",
         "annotation": "",
         "entry": "milut",
@@ -1534,6 +2710,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/meat/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.633391",
+        "annotation": "None",
+        "entry": "miluti",
+        "id": 261981,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261981/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "flesh",
+        "word": "/api/v1/word/flesh/"
     },
     {
         "added": "2015-05-18T22:28:47.420751",
@@ -1584,6 +2772,30 @@
         "word": "/api/v1/word/not/"
     },
     {
+        "added": "2024-06-26T22:23:53.657325",
+        "annotation": "None",
+        "entry": "muinu",
+        "id": 262024,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262024/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "no",
+        "word": "/api/v1/word/no-not/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.652354",
+        "annotation": "None",
+        "entry": "mulape",
+        "id": 262013,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262013/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "milk",
+        "word": "/api/v1/word/milk/"
+    },
+    {
         "added": "2015-05-18T19:48:20.202375",
         "annotation": "mutsi",
         "entry": "mut\u02b0i",
@@ -1620,6 +2832,30 @@
         "word": "/api/v1/word/i/"
     },
     {
+        "added": "2024-06-26T22:23:53.667776",
+        "annotation": "None",
+        "entry": "nai",
+        "id": 262044,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262044/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "snake",
+        "word": "/api/v1/word/snake/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.644889",
+        "annotation": "None",
+        "entry": "nai",
+        "id": 262002,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262002/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "iron",
+        "word": "/api/v1/word/iron-tool/"
+    },
+    {
         "added": "2015-05-18T18:31:06.786481",
         "annotation": "",
         "entry": "naini",
@@ -1632,6 +2868,18 @@
         "word": "/api/v1/word/to-give/"
     },
     {
+        "added": "2024-06-26T22:23:53.680460",
+        "annotation": "None",
+        "entry": "namoade",
+        "id": 262070,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262070/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "yes",
+        "word": "/api/v1/word/yes/"
+    },
+    {
         "added": "2015-05-18T20:03:12.272314",
         "annotation": "",
         "entry": "nanai",
@@ -1642,6 +2890,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/we-pl-excl/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.626816",
+        "annotation": "None",
+        "entry": "(na)nai",
+        "id": 261969,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261969/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "eat",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.665373",
+        "annotation": "None",
+        "entry": "(na)navi",
+        "id": 262039,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262039/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "sit",
+        "word": "/api/v1/word/to-sit/"
     },
     {
         "added": "2015-05-18T19:38:03.118520",
@@ -1668,6 +2940,66 @@
         "word": "/api/v1/word/we-two-excl/"
     },
     {
+        "added": "2024-06-26T22:23:53.663671",
+        "annotation": "None",
+        "entry": "na)nukava",
+        "id": 262037,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262037/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "sea",
+        "word": "/api/v1/word/sea/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.654574",
+        "annotation": "None",
+        "entry": "nautabe",
+        "id": 262018,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262018/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "mouth",
+        "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.641864",
+        "annotation": "None",
+        "entry": "(ni)adi",
+        "id": 261996,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261996/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.653691",
+        "annotation": "None",
+        "entry": "nipope",
+        "id": 262016,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262016/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "mosquito",
+        "word": "/api/v1/word/mosquito/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.675261",
+        "annotation": "None",
+        "entry": "noto(ab)",
+        "id": 262059,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262059/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
+    },
+    {
         "added": "2015-05-18T18:24:21.330742",
         "annotation": "",
         "entry": "n\u0254t\u0254vai",
@@ -1692,6 +3024,18 @@
         "word": "/api/v1/word/thou/"
     },
     {
+        "added": "2024-06-26T22:23:53.646837",
+        "annotation": "None",
+        "entry": "(nu)ali",
+        "id": 262003,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262003/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "know",
+        "word": "/api/v1/word/to-know/"
+    },
+    {
         "added": "2015-05-18T19:38:03.286268",
         "annotation": "",
         "entry": "nu evo",
@@ -1704,6 +3048,54 @@
         "word": "/api/v1/word/yes/"
     },
     {
+        "added": "2024-06-26T22:23:53.681434",
+        "annotation": "None",
+        "entry": "nui",
+        "id": 262072,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262072/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "thou",
+        "word": "/api/v1/word/thou/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.636653",
+        "annotation": "None",
+        "entry": "(nu)inie",
+        "id": 261988,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261988/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "give",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.630707",
+        "annotation": "None",
+        "entry": "(nu)kela",
+        "id": 261976,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261976/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "fear",
+        "word": "/api/v1/word/to-fear/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.643468",
+        "annotation": "None",
+        "entry": "nunali",
+        "id": 261999,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261999/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "hot",
+        "word": "/api/v1/word/hot/"
+    },
+    {
         "added": "2015-05-18T20:03:12.314459",
         "annotation": "",
         "entry": "nunei",
@@ -1714,6 +3106,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.662664",
+        "annotation": "None",
+        "entry": "nunu",
+        "id": 262035,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262035/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "sand",
+        "word": "/api/v1/word/sand/"
     },
     {
         "added": "2015-05-18T20:03:12.233500",
@@ -1738,6 +3142,42 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.656854",
+        "annotation": "None",
+        "entry": "\u014d\u0101lube",
+        "id": 262023,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262023/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "nipple",
+        "word": "/api/v1/word/nipple/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.652772",
+        "annotation": "None",
+        "entry": "\u014d\u0101ni",
+        "id": 262014,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262014/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "moon",
+        "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.655494",
+        "annotation": "None",
+        "entry": "oatobe",
+        "id": 262020,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262020/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "navel",
+        "word": "/api/v1/word/navel/"
     },
     {
         "added": "2015-05-18T18:24:21.306516",
@@ -1786,6 +3226,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.627890",
+        "annotation": "None",
+        "entry": "oma' kaluve",
+        "id": 261971,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261971/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "elbow",
+        "word": "/api/v1/word/elbow/"
     },
     {
         "added": "2015-05-18T19:38:03.350125",
@@ -1860,6 +3312,30 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2024-06-26T22:23:53.678049",
+        "annotation": "None",
+        "entry": "(omen)iva",
+        "id": 262065,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262065/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "wife",
+        "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.644412",
+        "annotation": "None",
+        "entry": "(omen)iva",
+        "id": 262001,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262001/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "husband",
+        "word": "/api/v1/word/husband/"
+    },
+    {
         "added": "2015-05-18T20:03:12.114314",
         "annotation": "",
         "entry": "'\u0254mo",
@@ -1920,6 +3396,18 @@
         "word": "/api/v1/word/they/"
     },
     {
+        "added": "2015-05-18T20:03:12.331356",
+        "annotation": "",
+        "entry": "\u0254t\u0254",
+        "id": 218214,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/218214/",
+        "source": "/api/v1/source/sil-1980/",
+        "source_gloss": null,
+        "word": "/api/v1/word/they/"
+    },
+    {
         "added": "2015-05-18T20:03:12.241916",
         "annotation": "",
         "entry": "\u0254t\u0254",
@@ -1932,16 +3420,16 @@
         "word": "/api/v1/word/they-dual/"
     },
     {
-        "added": "2015-05-18T20:03:12.331356",
-        "annotation": "",
-        "entry": "\u0254t\u0254",
-        "id": 218214,
+        "added": "2024-06-26T22:23:53.610798",
+        "annotation": "None",
+        "entry": "pelai",
+        "id": 261941,
         "language": "/api/v1/language/tauade/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/218214/",
-        "source": "/api/v1/source/sil-1980/",
-        "source_gloss": null,
-        "word": "/api/v1/word/they/"
+        "resource_uri": "/api/v1/lexicon/261941/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "banana",
+        "word": "/api/v1/word/banana/"
     },
     {
         "added": "2015-05-18T22:28:47.253684",
@@ -1968,6 +3456,18 @@
         "word": "/api/v1/word/seed/"
     },
     {
+        "added": "2024-06-26T22:23:53.609398",
+        "annotation": "None",
+        "entry": "pita",
+        "id": 261938,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261938/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
+    },
+    {
         "added": "2015-05-18T22:31:36.216034",
         "annotation": "",
         "entry": "p\u0254l'a't\u02b0u",
@@ -1978,6 +3478,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/white/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.658237",
+        "annotation": "None",
+        "entry": "polu",
+        "id": 262026,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262026/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "pig",
+        "word": "/api/v1/word/pig/"
     },
     {
         "added": "2015-05-18T18:31:06.664645",
@@ -1992,18 +3504,6 @@
         "word": "/api/v1/word/cloud/"
     },
     {
-        "added": "2015-05-18T18:31:06.703607",
-        "annotation": "p\u0254l'u",
-        "entry": "p\u0254\u0159u",
-        "id": 218115,
-        "language": "/api/v1/language/tauade/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/218115/",
-        "source": "/api/v1/source/sil-1980/",
-        "source_gloss": null,
-        "word": "/api/v1/word/meat/"
-    },
-    {
         "added": "2015-05-18T18:57:50.935233",
         "annotation": "p\u0254l'u",
         "entry": "p\u0254\u0159u",
@@ -2016,6 +3516,18 @@
         "word": "/api/v1/word/pig/"
     },
     {
+        "added": "2015-05-18T18:31:06.703607",
+        "annotation": "p\u0254l'u",
+        "entry": "p\u0254\u0159u",
+        "id": 218115,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/218115/",
+        "source": "/api/v1/source/sil-1980/",
+        "source_gloss": null,
+        "word": "/api/v1/word/meat/"
+    },
+    {
         "added": "2015-05-18T22:28:47.278296",
         "annotation": "",
         "entry": "pu'laiti",
@@ -2026,6 +3538,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/bean/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.661601",
+        "annotation": "None",
+        "entry": "pumave",
+        "id": 262033,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262033/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "rope",
+        "word": "/api/v1/word/rope/"
     },
     {
         "added": "2015-05-18T22:31:36.387637",
@@ -2064,6 +3588,90 @@
         "word": "/api/v1/word/claw/"
     },
     {
+        "added": "2024-06-26T22:23:53.635644",
+        "annotation": "None",
+        "entry": "sule",
+        "id": 261986,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261986/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "forest",
+        "word": "/api/v1/word/forest/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.628394",
+        "annotation": "None",
+        "entry": "tabe",
+        "id": 261972,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261972/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "eye",
+        "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.634340",
+        "annotation": "None",
+        "entry": "tainanu",
+        "id": 261983,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261983/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "fly, n",
+        "word": "/api/v1/word/fly-sp/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.616004",
+        "annotation": "None",
+        "entry": "talate",
+        "id": 261950,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261950/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "breast",
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.668215",
+        "annotation": "None",
+        "entry": "tamenu",
+        "id": 262045,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262045/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "soft",
+        "word": "/api/v1/word/soft/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.668684",
+        "annotation": "None",
+        "entry": "tananipa",
+        "id": 262046,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262046/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "speak",
+        "word": "/api/v1/word/to-speak/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.651390",
+        "annotation": "None",
+        "entry": "tatele",
+        "id": 262011,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262011/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "many",
+        "word": "/api/v1/word/many/"
+    },
+    {
         "added": "2015-05-18T18:20:26.770964",
         "annotation": "",
         "entry": "tavai",
@@ -2074,6 +3682,18 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.611232",
+        "annotation": "None",
+        "entry": "tavatava",
+        "id": 261942,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261942/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "barter",
+        "word": "/api/v1/word/to-buy-sell-barter/"
     },
     {
         "added": "2015-05-18T19:38:02.856308",
@@ -2110,6 +3730,30 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/sugarcane/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.671747",
+        "annotation": "None",
+        "entry": "tu(ami)",
+        "id": 262052,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262052/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "sugar-cane",
+        "word": "/api/v1/word/sugarcane/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.670034",
+        "annotation": "None",
+        "entry": "tui",
+        "id": 262049,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262049/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "star",
+        "word": "/api/v1/word/star/"
     },
     {
         "added": "2015-05-18T18:24:21.250416",
@@ -2172,6 +3816,54 @@
         "word": "/api/v1/word/to-catch/"
     },
     {
+        "added": "2024-06-26T22:23:53.620744",
+        "annotation": "None",
+        "entry": "ulua",
+        "id": 261958,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261958/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "cloud",
+        "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.651830",
+        "annotation": "None",
+        "entry": "unite",
+        "id": 262012,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262012/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "mat",
+        "word": "/api/v1/word/mat/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.666350",
+        "annotation": "None",
+        "entry": "utewu",
+        "id": 262041,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262041/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "sleep",
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.647396",
+        "annotation": "None",
+        "entry": "valupi",
+        "id": 262004,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262004/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "leaf",
+        "word": "/api/v1/word/leaf/"
+    },
+    {
         "added": "2015-05-18T18:31:06.583076",
         "annotation": "\u0180atava",
         "entry": "vatava",
@@ -2194,5 +3886,53 @@
         "source": "/api/v1/source/sil-1980/",
         "source_gloss": null,
         "word": "/api/v1/word/short/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.672263",
+        "annotation": "None",
+        "entry": "wati",
+        "id": 262053,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262053/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "sun",
+        "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.650881",
+        "annotation": "None",
+        "entry": "w\u014d\u0101le",
+        "id": 262010,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262010/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "man",
+        "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.647906",
+        "annotation": "None",
+        "entry": "wolupi",
+        "id": 262005,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262005/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "thigh",
+        "word": "/api/v1/word/thigh/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.621365",
+        "annotation": "None",
+        "entry": "yetikwi",
+        "id": 261959,
+        "language": "/api/v1/language/tauade/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261959/",
+        "source": "/api/v1/source/strong-1912b/",
+        "source_gloss": "club",
+        "word": "/api/v1/word/club/"
     }
 ]
