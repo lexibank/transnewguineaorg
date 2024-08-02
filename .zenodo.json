@@ -12,11 +12,19 @@
     ],
     "contributors": [
         {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
             "name": "Robert Forkel",
             "type": "Other"
         },
         {
             "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
             "type": "Other"
         }
     ],
