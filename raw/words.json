@@ -104,6 +104,14 @@
         "word": "a dream"
     },
     {
+        "concepticon_gloss": "ADZE",
+        "concepticon_id": "290",
+        "id": 2531,
+        "resource_uri": "/api/v1/word/adze/",
+        "slug": "adze",
+        "word": "adze"
+    },
+    {
         "concepticon_gloss": null,
         "concepticon_id": null,
         "id": 2049,
@@ -1096,6 +1104,14 @@
         "word": "buttocks"
     },
     {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2539,
+        "resource_uri": "/api/v1/word/by-and-bye/",
+        "slug": "by-and-bye",
+        "word": "by and bye"
+    },
+    {
         "concepticon_gloss": "GOURD",
         "concepticon_id": "411",
         "id": 1582,
@@ -1198,6 +1214,14 @@
         "resource_uri": "/api/v1/word/cassowary/",
         "slug": "cassowary",
         "word": "cassowary"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2537,
+        "resource_uri": "/api/v1/word/cassowary-plume/",
+        "slug": "cassowary-plume",
+        "word": "cassowary plume"
     },
     {
         "concepticon_gloss": null,
@@ -1310,6 +1334,14 @@
         "resource_uri": "/api/v1/word/chicken-wild/",
         "slug": "chicken-wild",
         "word": "chicken (wild)"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2540,
+        "resource_uri": "/api/v1/word/chief/",
+        "slug": "chief",
+        "word": "chief"
     },
     {
         "concepticon_gloss": "CHILD (YOUNG HUMAN)",
@@ -1894,6 +1926,14 @@
         "resource_uri": "/api/v1/word/disc-club/",
         "slug": "disc-club",
         "word": "disc club"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2541,
+        "resource_uri": "/api/v1/word/dish/",
+        "slug": "dish",
+        "word": "dish"
     },
     {
         "concepticon_gloss": null,
@@ -2960,6 +3000,14 @@
         "word": "grass skirt"
     },
     {
+        "concepticon_gloss": "BIG",
+        "concepticon_id": "1202",
+        "id": 2532,
+        "resource_uri": "/api/v1/word/great/",
+        "slug": "great",
+        "word": "great"
+    },
+    {
         "concepticon_gloss": "GREEDY",
         "concepticon_id": "2018",
         "id": 2177,
@@ -3272,6 +3320,14 @@
         "word": "honey, beehive"
     },
     {
+        "concepticon_gloss": "HOOK",
+        "concepticon_id": "1071",
+        "id": 2533,
+        "resource_uri": "/api/v1/word/hook/",
+        "slug": "hook",
+        "word": "hook"
+    },
+    {
         "concepticon_gloss": "HORN (ANATOMY)",
         "concepticon_id": "1393",
         "id": 32,
@@ -3358,6 +3414,14 @@
         "resource_uri": "/api/v1/word/human/",
         "slug": "human",
         "word": "human"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2542,
+        "resource_uri": "/api/v1/word/hunting-ground/",
+        "slug": "hunting-ground",
+        "word": "hunting ground"
     },
     {
         "concepticon_gloss": "HUSBAND",
@@ -3936,6 +4000,14 @@
         "word": "Locative noun suffix (at, to, from)"
     },
     {
+        "concepticon_gloss": "WOOD",
+        "concepticon_id": "1803",
+        "id": 2534,
+        "resource_uri": "/api/v1/word/log/",
+        "slug": "log",
+        "word": "log"
+    },
+    {
         "concepticon_gloss": "LOINCLOTH",
         "concepticon_id": "1965",
         "id": 1681,
@@ -4478,6 +4550,14 @@
         "resource_uri": "/api/v1/word/neck/",
         "slug": "neck",
         "word": "neck"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2538,
+        "resource_uri": "/api/v1/word/necklace/",
+        "slug": "necklace",
+        "word": "necklace"
     },
     {
         "concepticon_gloss": null,
@@ -5944,6 +6024,14 @@
         "word": "shallow"
     },
     {
+        "concepticon_gloss": "SHARK",
+        "concepticon_id": "1110",
+        "id": 2535,
+        "resource_uri": "/api/v1/word/shark/",
+        "slug": "shark",
+        "word": "shark"
+    },
+    {
         "concepticon_gloss": "SHARP",
         "concepticon_id": "1396",
         "id": 167,
@@ -6830,6 +6918,14 @@
         "resource_uri": "/api/v1/word/taro/",
         "slug": "taro",
         "word": "taro"
+    },
+    {
+        "concepticon_gloss": "TASTE (SOMETHING)",
+        "concepticon_id": "21",
+        "id": 2536,
+        "resource_uri": "/api/v1/word/taste/",
+        "slug": "taste",
+        "word": "taste"
     },
     {
         "concepticon_gloss": "TEAR (OF EYE)",
@@ -9582,6 +9678,14 @@
         "resource_uri": "/api/v1/word/wrap/",
         "slug": "wrap",
         "word": "wrap"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2543,
+        "resource_uri": "/api/v1/word/wrist/",
+        "slug": "wrist",
+        "word": "wrist"
     },
     {
         "concepticon_gloss": "WRITE",

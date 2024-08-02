@@ -127,7 +127,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 144_lake,lake,624,LAKE
 145_tolaugh,to laugh,1355,LAUGH
 146_lefthand,left (hand),2182,LEFT HAND
-148_tolive,to live,2309,LIVE
+148_tolive,to live,1422,BE ALIVE
 149_mother,mother,1216,MOTHER
 150_narrow,narrow,1267,NARROW
 151_near,near,1942,NEAR
@@ -258,7 +258,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 298_youpronound2s,you (pronoun d:2s),,
 299_shoulder,shoulder,1482,SHOULDER
 300_cassowary,cassowary,466,CASSOWARY
-301_stringbag,string bag,,
+301_stringbag,string bag,293,NETBAG
 322_male,male,1553,MALE
 323_female,female,2105,FEMALE PERSON
 324_canoe,canoe,1970,CANOE
@@ -396,7 +396,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 940_rib,rib,801,RIB
 942_sago,sago,2270,SAGO
 943_scar,scar,497,SCAR
-945_shinbone,shin bone,,
+945_shinbone,shin bone,186,SHIN
 946_sorewound,"sore, wound",51,SORE
 947_saliva,saliva,1503,SALIVA
 948_throat,throat,1346,THROAT
@@ -405,7 +405,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 951_language,language,1307,LANGUAGE
 952_lungs,lungs,688,LUNG
 954_tofelltree,to fell tree,463,FELL (A TREE)
-955_sagotree,sago tree,,
+955_sagotree,sago tree,2372,SAGO PALM
 956_sagoflour,sago flour,,
 959_tears,tears,1651,TEAR (OF EYE)
 960_thorn,thorn,124,THORN
@@ -416,7 +416,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 965_sagoswamp,sago swamp,,
 966_shrimp,shrimp,2349,SHRIMP
 969_totake,to take,1749,TAKE
-971_these,these,,
+971_these,these,3984,THESE (PLURAL OF THIS)
 972_rainbow,rainbow,1733,RAINBOW
 973_chest,chest,1592,CHEST
 974_hard,hard,1884,HARD
@@ -471,7 +471,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1213_drift,drift,,
 1215_embers,embers,67,EMBERS
 1216_fast,fast,1631,FAST
-1218_fern,fern,,
+1218_fern,fern,3802,FERN
 1222_fishspcatfish,"fish sp., catfish",,
 1224_flute,flute,777,FLUTE
 1225_friend,friend,1325,FRIEND
@@ -482,7 +482,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1232_god,God,1944,GOD
 1233_hairbody,hair (body),189,HAIR (BODY)
 1234_tohang,to hang,357,HANG UP
-1235_headache,headache,,
+1235_headache,headache,3625,HEADACHE
 1236_human,human,683,PERSON
 1237_mat,mat,195,MAT
 1238_monitorlizard,monitor lizard,3017,MONITOR LIZARD
@@ -585,7 +585,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1602_cousin,cousin,1643,COUSIN
 1603_cowife,co-wife,3636,CO-WIFE
 1604_cowrie,cowrie,3663,COWRIE SHELL
-1605_crackingsound,cracking sound,1811,SOUND OR NOISE
+1605_crackingsound,cracking sound,,
 1610_daylight,daylight,1225,DAY (NOT NIGHT)
 1611_desire,desire,2117,DESIRE
 1612_dew,dew,1977,DEW
@@ -609,7 +609,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1648_grandfathergrandchild,"grandfather, grandchild",,
 1649_grasshopper,grasshopper,607,GRASSHOPPER
 1652_greens,greens,,
-1654_headcovering,head covering,,
+1654_headcovering,head covering,2130,HEADGEAR
 1658_honeybeehive,"honey, beehive",88,BEEHIVE
 1659_hot,hot,1286,HOT
 1660_houseofmangreeting,"house of man, greeting",408,MEN'S HOUSE
@@ -619,7 +619,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1665_insectsp,insect sp.,620,INSECT
 1668_irontool,iron tool,,
 1670_kunai,kunai,1901,SHOVEL
-1671_lavalavasarong,lavalava (sarong),,
+1671_lavalavasarong,lavalava (sarong),2413,SARONG
 1672_leafwovenitem,leaf-woven item,,
 1673_lee,lee,,
 1675_legfoot,"leg, foot",2098,FOOT OR LEG
@@ -660,7 +660,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1736_shadowshadeshadow,"shadow (shade, shadow)",2275,SHADOW
 1738_sheath,sheath,3424,SHEATH
 1739_shellhull,"shell, hull",598,SHELL
-1740_shootingstar,shooting star,2288,METEROID (SHOOTING OR SHINING STAR)
+1740_shootingstar,shooting star,2288,METEOROID (SHOOTING OR SHINING STAR)
 1742_siblingoppositesex,"sibling, opposite sex",,
 1743_siblings,siblings,1640,SIBLING
 1750_slipoffoot,slip of foot,1324,SLIP
@@ -674,7 +674,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1765_thicket,thicket,,
 1767_threedaysagoorhence,three days ago or hence,2333,THREE DAYS BEFORE NOW
 1770_torch,torch,1919,TORCH
-1773_treebase,tree base,,
+1773_treebase,tree base,776,TRUNK OF TREE
 1774_twodaysagoorhence,two days ago or hence,,
 1776_urchin,urchin,,
 1779_waist,waist,1681,WAIST
@@ -751,7 +751,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1966_shootplant,"shoot, plant",3358,SPROUT (SHOOT)
 1967_firelight,firelight,,
 1968_vulva,vulva,1837,VULVA
-1969_shortpieceofwood,short-piece-of-wood,,
+1969_shortpieceofwood,short-piece-of-wood,3222,TWIG
 1970_eleven,eleven,1706,ELEVEN
 1971_twelve,twelve,1707,TWELVE
 1972_thirteen,thirteen,1708,THIRTEEN
@@ -762,7 +762,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1977_eighteen,eighteen,1713,EIGHTEEN
 1978_nineteen,nineteen,1714,NINETEEN
 1979_song,song,1096,SONG
-1980_treetop,tree top,,
+1980_treetop,tree top,3036,TREETOP
 1981_togooutside,to go outside,1107,GO OUT
 1982_palmofhand,palm (of hand),1183,PALM OF HAND
 1983_soleoffoot,sole (of foot),2666,SOLE (FOOT)
@@ -1030,15 +1030,15 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2284_slippery,slippery,3702,SLIPPERY
 2285_uncooked,uncooked,1959,RAW
 2286_leafdecoration,leaf decoration,,
-2287_roofinggrass,roofing grass,,
-2288_bushknife,bush knife,,
+2287_roofinggrass,roofing grass,279,THATCH
+2288_bushknife,bush knife,1352,KNIFE
 2289_faraway,far away,1406,FAR
 2290_grandchild,grandchild,1617,GRANDCHILD
 2291_stale,stale,,
 2292_opening,opening,1667,HOLE
 2293_tobake,to bake,183,BAKE
 2294_guard,guard,1940,GUARD
-2295_sleepingmat,sleeping mat,,
+2295_sleepingmat,sleeping mat,105,MATTRESS
 2296_torevenge,to revenge,495,REVENGE
 2297_flea,flea,232,FLEA
 2301_1ppaucal,1P Paucal,,
@@ -1071,7 +1071,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2408_tostraighten,to straighten,,
 2409_shield,shield,1064,SHIELD
 2410_coconutshell,coconut shell,,
-2411_treesap,tree sap,,
+2411_treesap,tree sap,345,SAP
 2412_secretly,secretly,,
 2413_seasidewest,sea side (west),1817,WEST
 2414_fishscale,fish scale,266,SCALE
@@ -1082,7 +1082,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2419_contents,contents,3967,CONTENT
 2420_crab,crab,2348,CRAB
 2421_crust,crust,,
-2422_tocross,to cross,1367,CROSS
+2422_tocross,to cross,574,TRANSIT
 2423_movement,movement,3695,MOVEMENT
 2424_snot,snot,208,NASAL MUCUS (SNOT)
 2425_murder,murder,845,MURDER
@@ -1113,7 +1113,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2450_knowledge,knowledge,3874,KNOWLEDGE
 2451_tomakethatch,to make thatch,,
 2452_midrib,midrib,,
-2453_togiveanorder,to give an order,,
+2453_togiveanorder,to give an order,1128,ORDER
 2454_corekernel,"core, kernel",1762,STONE (OF FRUIT)
 2455_another,another,197,OTHER
 2456_palmcabbage,palm cabbage,,

@@ -588,18 +588,6 @@
         "word": "/api/v1/word/brother/"
     },
     {
-        "added": "2013-06-27T23:33:21.919581",
-        "annotation": "",
-        "entry": "fa",
-        "id": 31157,
-        "language": "/api/v1/language/zimakani/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/31157/",
-        "source": "/api/v1/source/voorhoeve-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/house/"
-    },
-    {
         "added": "2016-11-11T09:21:58.552706",
         "annotation": "",
         "entry": "fa",
@@ -608,6 +596,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/257217/",
         "source": "/api/v1/source/murray-and-ray-1918/",
+        "source_gloss": null,
+        "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2013-06-27T23:33:21.919581",
+        "annotation": "",
+        "entry": "fa",
+        "id": 31157,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/31157/",
+        "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/house/"
     },
@@ -802,6 +802,18 @@
         "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/lime/"
+    },
+    {
+        "added": "2024-06-25T02:11:52.788889",
+        "annotation": "necklace (dogs teeth)",
+        "entry": "gursaki",
+        "id": 261452,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261452/",
+        "source": "/api/v1/source/murray-and-ray-1918/",
+        "source_gloss": null,
+        "word": "/api/v1/word/necklace/"
     },
     {
         "added": "2016-11-11T09:21:58.607230",
@@ -1680,18 +1692,6 @@
         "word": "/api/v1/word/charcoal/"
     },
     {
-        "added": "2013-10-18T01:40:13.383779",
-        "annotation": null,
-        "entry": "magu",
-        "id": 33433,
-        "language": "/api/v1/language/zimakani/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/33433/",
-        "source": "/api/v1/source/voorhoeve-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/this/"
-    },
-    {
         "added": "2013-10-18T01:40:13.408183",
         "annotation": null,
         "entry": "magu",
@@ -1704,16 +1704,16 @@
         "word": "/api/v1/word/these/"
     },
     {
-        "added": "2013-10-18T01:40:13.342577",
+        "added": "2013-10-18T01:40:13.383779",
         "annotation": null,
-        "entry": "maitagu",
-        "id": 33432,
+        "entry": "magu",
+        "id": 33433,
         "language": "/api/v1/language/zimakani/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/33432/",
+        "resource_uri": "/api/v1/lexicon/33433/",
         "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
-        "word": "/api/v1/word/there/"
+        "word": "/api/v1/word/this/"
     },
     {
         "added": "2013-06-27T22:59:46.960797",
@@ -1728,6 +1728,18 @@
         "word": "/api/v1/word/that/"
     },
     {
+        "added": "2013-10-18T01:40:13.342577",
+        "annotation": null,
+        "entry": "maitagu",
+        "id": 33432,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/33432/",
+        "source": "/api/v1/source/voorhoeve-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/there/"
+    },
+    {
         "added": "2016-11-11T09:21:58.485358",
         "annotation": "",
         "entry": "mangi",
@@ -1740,18 +1752,6 @@
         "word": "/api/v1/word/earth/"
     },
     {
-        "added": "2013-06-27T22:59:46.950924",
-        "annotation": "that further away",
-        "entry": "matagu",
-        "id": 31061,
-        "language": "/api/v1/language/zimakani/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/31061/",
-        "source": "/api/v1/source/voorhoeve-1970/",
-        "source_gloss": null,
-        "word": "/api/v1/word/that/"
-    },
-    {
         "added": "2013-10-18T01:40:13.338453",
         "annotation": null,
         "entry": "matagu",
@@ -1762,6 +1762,18 @@
         "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/there/"
+    },
+    {
+        "added": "2013-06-27T22:59:46.950924",
+        "annotation": "that further away",
+        "entry": "matagu",
+        "id": 31061,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/31061/",
+        "source": "/api/v1/source/voorhoeve-1970/",
+        "source_gloss": null,
+        "word": "/api/v1/word/that/"
     },
     {
         "added": "2013-06-27T22:51:48.908398",
@@ -3094,6 +3106,18 @@
         "source": "/api/v1/source/voorhoeve-1970/",
         "source_gloss": null,
         "word": "/api/v1/word/to-throw/"
+    },
+    {
+        "added": "2024-06-25T02:11:52.741110",
+        "annotation": "necklace (beads)",
+        "entry": "web",
+        "id": 261451,
+        "language": "/api/v1/language/zimakani/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261451/",
+        "source": "/api/v1/source/murray-and-ray-1918/",
+        "source_gloss": null,
+        "word": "/api/v1/word/necklace/"
     },
     {
         "added": "2016-11-11T09:21:58.592616",

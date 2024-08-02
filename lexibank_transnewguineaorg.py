@@ -27,6 +27,7 @@ SOURCES_URL = BASE_URL + "/api/v1/source/?limit=%(limit)d"
 class Dataset(BaseDataset):
     id = "transnewguineaorg"
     dir = Path(__file__).parent
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     @staticmethod
     def get_slug_from_uri(uri):

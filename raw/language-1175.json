@@ -228,6 +228,30 @@
         "word": "/api/v1/word/bean/"
     },
     {
+        "added": "2024-06-19T17:08:38.625083",
+        "annotation": "one hand",
+        "entry": "bodo fida",
+        "id": 261276,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261276/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2024-06-19T17:08:39.082594",
+        "annotation": "",
+        "entry": "bodo gegedo",
+        "id": 261281,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261281/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ten/"
+    },
+    {
         "added": "2015-06-30T22:04:03.451390",
         "annotation": "",
         "entry": "da",
@@ -300,18 +324,6 @@
         "word": "/api/v1/word/night/"
     },
     {
-        "added": "2015-06-30T05:04:20.350829",
-        "annotation": "",
-        "entry": "e'e",
-        "id": 233605,
-        "language": "/api/v1/language/fuyug/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/233605/",
-        "source": "/api/v1/source/sil-1975d/",
-        "source_gloss": null,
-        "word": "/api/v1/word/house/"
-    },
-    {
         "added": "2015-06-30T22:04:03.543025",
         "annotation": "",
         "entry": "e'e",
@@ -322,6 +334,18 @@
         "source": "/api/v1/source/sil-1975d/",
         "source_gloss": null,
         "word": "/api/v1/word/yes/"
+    },
+    {
+        "added": "2015-06-30T05:04:20.350829",
+        "annotation": "",
+        "entry": "e'e",
+        "id": 233605,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/233605/",
+        "source": "/api/v1/source/sil-1975d/",
+        "source_gloss": null,
+        "word": "/api/v1/word/house/"
     },
     {
         "added": "2015-06-30T04:42:42.151484",
@@ -396,6 +420,18 @@
         "word": "/api/v1/word/spear-n/"
     },
     {
+        "added": "2024-06-19T17:08:37.356396",
+        "annotation": "",
+        "entry": "fida",
+        "id": 261271,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261271/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/one/"
+    },
+    {
         "added": "2015-06-30T22:25:14.355504",
         "annotation": "",
         "entry": "fida",
@@ -442,6 +478,102 @@
         "source": "/api/v1/source/sil-1975d/",
         "source_gloss": null,
         "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2024-06-19T17:08:38.255756",
+        "annotation": "",
+        "entry": "gegedo",
+        "id": 261272,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261272/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2024-06-19T17:08:38.351952",
+        "annotation": "two and another",
+        "entry": "gegedo minda",
+        "id": 261273,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261273/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2024-06-19T17:08:38.454075",
+        "annotation": "2 + 2",
+        "entry": "gegedo ta gegedo",
+        "id": 261274,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261274/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2024-06-19T17:08:38.523882",
+        "annotation": "",
+        "entry": "gegedo ta gegedo minda",
+        "id": 261275,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261275/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2024-06-19T17:08:38.778869",
+        "annotation": "",
+        "entry": "gegedo ta gegedo ta gegedo",
+        "id": 261277,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261277/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/six/"
+    },
+    {
+        "added": "2024-06-19T17:08:38.876043",
+        "annotation": "",
+        "entry": "gegedo ta gegedo ta  gegedo minda",
+        "id": 261278,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261278/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/seven/"
+    },
+    {
+        "added": "2024-06-19T17:08:38.958984",
+        "annotation": "",
+        "entry": "gegedo ta gegedo ta gegedo ta gegedo",
+        "id": 261279,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261279/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eight/"
+    },
+    {
+        "added": "2024-06-19T17:08:39.035358",
+        "annotation": "",
+        "entry": "gegedo ta gegedo ta gegedo ta gegedo minda",
+        "id": 261280,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261280/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/nine/"
     },
     {
         "added": "2015-06-30T22:00:16.703859",
@@ -624,18 +756,6 @@
         "word": "/api/v1/word/knife/"
     },
     {
-        "added": "2015-06-30T04:42:42.507286",
-        "annotation": "",
-        "entry": "ho",
-        "id": 233541,
-        "language": "/api/v1/language/fuyug/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/233541/",
-        "source": "/api/v1/source/sil-1975d/",
-        "source_gloss": null,
-        "word": "/api/v1/word/ashes/"
-    },
-    {
         "added": "2015-06-30T04:34:53.622666",
         "annotation": "",
         "entry": "ho",
@@ -646,6 +766,18 @@
         "source": "/api/v1/source/sil-1975d/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2015-06-30T04:42:42.507286",
+        "annotation": "",
+        "entry": "ho",
+        "id": 233541,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/233541/",
+        "source": "/api/v1/source/sil-1975d/",
+        "source_gloss": null,
+        "word": "/api/v1/word/ashes/"
     },
     {
         "added": "2015-06-30T04:55:22.883740",
@@ -1176,18 +1308,6 @@
         "word": "/api/v1/word/to-give/"
     },
     {
-        "added": "2015-06-30T22:08:00.618278",
-        "annotation": "",
-        "entry": "huni nene",
-        "id": 233653,
-        "language": "/api/v1/language/fuyug/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/233653/",
-        "source": "/api/v1/source/sil-1975d/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2015-06-30T04:49:20.585520",
         "annotation": "",
         "entry": "huni nene",
@@ -1198,6 +1318,18 @@
         "source": "/api/v1/source/sil-1975d/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2015-06-30T22:08:00.618278",
+        "annotation": "",
+        "entry": "huni nene",
+        "id": 233653,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/233653/",
+        "source": "/api/v1/source/sil-1975d/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2015-06-30T22:08:00.610065",
@@ -1332,18 +1464,6 @@
         "word": "/api/v1/word/not/"
     },
     {
-        "added": "2015-06-30T22:25:14.371393",
-        "annotation": "",
-        "entry": "ifa",
-        "id": 233677,
-        "language": "/api/v1/language/fuyug/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/233677/",
-        "source": "/api/v1/source/sil-1975d/",
-        "source_gloss": null,
-        "word": "/api/v1/word/name/"
-    },
-    {
         "added": "2015-06-30T22:25:14.411223",
         "annotation": "",
         "entry": "ifa",
@@ -1354,6 +1474,18 @@
         "source": "/api/v1/source/sil-1975d/",
         "source_gloss": null,
         "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2015-06-30T22:25:14.371393",
+        "annotation": "",
+        "entry": "ifa",
+        "id": 233677,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/233677/",
+        "source": "/api/v1/source/sil-1975d/",
+        "source_gloss": null,
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2015-06-30T05:04:20.620720",
@@ -1812,18 +1944,6 @@
         "word": "/api/v1/word/bird/"
     },
     {
-        "added": "2015-06-30T22:08:00.776906",
-        "annotation": "",
-        "entry": "nu",
-        "id": 233665,
-        "language": "/api/v1/language/fuyug/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/233665/",
-        "source": "/api/v1/source/sil-1975d/",
-        "source_gloss": null,
-        "word": "/api/v1/word/thou/"
-    },
-    {
         "added": "2015-06-30T22:10:31.786751",
         "annotation": "",
         "entry": "nu",
@@ -1834,6 +1954,18 @@
         "source": "/api/v1/source/sil-1975d/",
         "source_gloss": null,
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2015-06-30T22:08:00.776906",
+        "annotation": "",
+        "entry": "nu",
+        "id": 233665,
+        "language": "/api/v1/language/fuyug/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/233665/",
+        "source": "/api/v1/source/sil-1975d/",
+        "source_gloss": null,
+        "word": "/api/v1/word/thou/"
     },
     {
         "added": "2015-05-18T01:20:55.462807",
