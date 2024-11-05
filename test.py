@@ -15,7 +15,7 @@ def test_forms(cldf_dataset):
 
 
 def test_languages(cldf_dataset):
-    assert len(list(cldf_dataset["LanguageTable"])) == 1040
+    assert len(list(cldf_dataset["LanguageTable"])) == 1023
 
     # ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
     # abaga,Abaga,abag1245,,abg,,
@@ -27,7 +27,7 @@ def test_languages(cldf_dataset):
 
 
 def test_parameters(cldf_dataset):
-    assert len(list(cldf_dataset["ParameterTable"])) == 1219
+    assert len(list(cldf_dataset["ParameterTable"])) == 1166
 
     # ID,Name,Concepticon_ID,Concepticon_Gloss
     # 796_tocough,to cough,879,COUGH
