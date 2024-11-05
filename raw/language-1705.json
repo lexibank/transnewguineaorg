@@ -612,18 +612,6 @@
         "word": "/api/v1/word/bamboo/"
     },
     {
-        "added": "2024-06-26T22:23:53.532699",
-        "annotation": "None",
-        "entry": "bodo(le)",
-        "id": 261792,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261792/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "hand",
-        "word": "/api/v1/word/hand/"
-    },
-    {
         "added": "2024-06-26T22:23:53.488472",
         "annotation": "None",
         "entry": "bodo(le)",
@@ -634,6 +622,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "branch",
         "word": "/api/v1/word/branch/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.532699",
+        "annotation": "None",
+        "entry": "bodo(le)",
+        "id": 261792,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261792/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "hand",
+        "word": "/api/v1/word/hand/"
     },
     {
         "added": "2024-06-26T22:23:53.472020",
@@ -684,9 +684,9 @@
         "word": "/api/v1/word/wrist/"
     },
     {
-        "added": "2024-06-26T22:23:53.511150",
+        "added": "2024-08-06T21:35:22.817896",
         "annotation": "\"arm's joint\"",
-        "entry": "bodol ' u' kodabe",
+        "entry": "bodol u kodabe",
         "id": 261750,
         "language": "/api/v1/language/fuyug-mafulu/",
         "loan": false,
@@ -840,18 +840,6 @@
         "word": "/api/v1/word/by-and-bye/"
     },
     {
-        "added": "2024-06-26T22:23:53.484502",
-        "annotation": "None",
-        "entry": "dube",
-        "id": 261698,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261698/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "black",
-        "word": "/api/v1/word/black/"
-    },
-    {
         "added": "2024-06-26T22:23:53.546247",
         "annotation": "None",
         "entry": "dube",
@@ -862,6 +850,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "liver",
         "word": "/api/v1/word/liver/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.484502",
+        "annotation": "None",
+        "entry": "dube",
+        "id": 261698,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261698/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "black",
+        "word": "/api/v1/word/black/"
     },
     {
         "added": "2024-06-26T22:23:53.606333",
@@ -876,18 +876,6 @@
         "word": "/api/v1/word/yes/"
     },
     {
-        "added": "2024-06-24T18:22:08.503048",
-        "annotation": "",
-        "entry": "e",
-        "id": 261315,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261315/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": null,
-        "word": "/api/v1/word/village/"
-    },
-    {
         "added": "2024-06-24T18:22:07.796937",
         "annotation": "",
         "entry": "e",
@@ -898,6 +886,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": null,
         "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2024-06-24T18:22:08.503048",
+        "annotation": "",
+        "entry": "e",
+        "id": 261315,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261315/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
+        "word": "/api/v1/word/village/"
     },
     {
         "added": "2024-06-26T22:23:53.537523",
@@ -984,18 +984,6 @@
         "word": "/api/v1/word/bamboo/"
     },
     {
-        "added": "2024-06-26T22:23:53.496014",
-        "annotation": "son",
-        "entry": "ese",
-        "id": 261720,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261720/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "child",
-        "word": "/api/v1/word/child/"
-    },
-    {
         "added": "2024-06-24T18:22:07.483427",
         "annotation": "",
         "entry": "ese",
@@ -1008,16 +996,16 @@
         "word": "/api/v1/word/son/"
     },
     {
-        "added": "2024-06-24T18:22:08.265100",
-        "annotation": "",
-        "entry": "eve",
-        "id": 261309,
+        "added": "2024-06-26T22:23:53.496014",
+        "annotation": "son",
+        "entry": "ese",
+        "id": 261720,
         "language": "/api/v1/language/fuyug-mafulu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/261309/",
+        "resource_uri": "/api/v1/lexicon/261720/",
         "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": null,
-        "word": "/api/v1/word/sun/"
+        "source_gloss": "child",
+        "word": "/api/v1/word/child/"
     },
     {
         "added": "2024-06-26T22:23:53.587518",
@@ -1029,6 +1017,18 @@
         "resource_uri": "/api/v1/lexicon/261899/",
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "sun",
+        "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2024-06-24T18:22:08.265100",
+        "annotation": "",
+        "entry": "eve",
+        "id": 261309,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261309/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
         "word": "/api/v1/word/sun/"
     },
     {
@@ -1140,18 +1140,6 @@
         "word": "/api/v1/word/bow/"
     },
     {
-        "added": "2024-06-26T22:23:53.497883",
-        "annotation": "None",
-        "entry": "fodo(le)",
-        "id": 261724,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261724/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "claw (of bird)",
-        "word": "/api/v1/word/claw/"
-    },
-    {
         "added": "2024-06-26T22:23:53.553296",
         "annotation": "None",
         "entry": "fodo(le)",
@@ -1162,6 +1150,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "nail (finger)",
         "word": "/api/v1/word/fingernail/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.497883",
+        "annotation": "None",
+        "entry": "fodo(le)",
+        "id": 261724,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261724/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "claw (of bird)",
+        "word": "/api/v1/word/claw/"
     },
     {
         "added": "2024-06-26T22:23:53.474009",
@@ -1284,18 +1284,6 @@
         "word": "/api/v1/word/belt/"
     },
     {
-        "added": "2024-06-26T22:23:53.481690",
-        "annotation": "None",
-        "entry": "ganinge",
-        "id": 261692,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261692/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "belt (waist string)",
-        "word": "/api/v1/word/belt/"
-    },
-    {
         "added": "2024-06-26T22:23:53.506295",
         "annotation": "None",
         "entry": "ganinge",
@@ -1306,6 +1294,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "dress (man's)",
         "word": "/api/v1/word/loincloth/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.481690",
+        "annotation": "None",
+        "entry": "ganinge",
+        "id": 261692,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261692/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "belt (waist string)",
+        "word": "/api/v1/word/belt/"
     },
     {
         "added": "2024-06-26T22:23:53.591079",
@@ -1728,18 +1728,6 @@
         "word": "/api/v1/word/to-fly/"
     },
     {
-        "added": "2024-06-26T22:23:53.590095",
-        "annotation": "None",
-        "entry": "kakava(ne)",
-        "id": 261904,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261904/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "thick",
-        "word": "/api/v1/word/thick/"
-    },
-    {
         "added": "2024-06-26T22:23:53.533739",
         "annotation": "None",
         "entry": "kakava(ne)",
@@ -1750,6 +1738,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "hard",
         "word": "/api/v1/word/hard/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.590095",
+        "annotation": "None",
+        "entry": "kakava(ne)",
+        "id": 261904,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261904/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "thick",
+        "word": "/api/v1/word/thick/"
     },
     {
         "added": "2024-06-26T22:23:53.556218",
@@ -2112,18 +2112,6 @@
         "word": "/api/v1/word/child/"
     },
     {
-        "added": "2024-06-26T22:23:53.523982",
-        "annotation": "None",
-        "entry": "mede",
-        "id": 261777,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261777/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "forehead",
-        "word": "/api/v1/word/forehead/"
-    },
-    {
         "added": "2024-06-26T22:23:53.512460",
         "annotation": "None",
         "entry": "mede",
@@ -2134,6 +2122,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "face",
         "word": "/api/v1/word/face/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.523982",
+        "annotation": "None",
+        "entry": "mede",
+        "id": 261777,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261777/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "forehead",
+        "word": "/api/v1/word/forehead/"
     },
     {
         "added": "2024-06-26T22:23:53.495550",
@@ -2232,18 +2232,6 @@
         "word": "/api/v1/word/body/"
     },
     {
-        "added": "2024-06-24T18:22:08.388248",
-        "annotation": "",
-        "entry": "munde",
-        "id": 261311,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261311/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": null,
-        "word": "/api/v1/word/taro/"
-    },
-    {
         "added": "2024-06-26T22:23:53.589061",
         "annotation": "None",
         "entry": "munde",
@@ -2256,16 +2244,16 @@
         "word": "/api/v1/word/taro/"
     },
     {
-        "added": "2024-06-26T22:23:53.483091",
-        "annotation": "None",
-        "entry": "nembe",
-        "id": 261695,
+        "added": "2024-06-24T18:22:08.388248",
+        "annotation": "",
+        "entry": "munde",
+        "id": 261311,
         "language": "/api/v1/language/fuyug-mafulu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/261695/",
+        "resource_uri": "/api/v1/lexicon/261311/",
         "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "bird",
-        "word": "/api/v1/word/bird/"
+        "source_gloss": null,
+        "word": "/api/v1/word/taro/"
     },
     {
         "added": "2024-06-24T18:22:07.456453",
@@ -2280,16 +2268,16 @@
         "word": "/api/v1/word/bird/"
     },
     {
-        "added": "2024-06-26T22:23:53.507704",
+        "added": "2024-06-26T22:23:53.483091",
         "annotation": "None",
-        "entry": "nene",
-        "id": 261744,
+        "entry": "nembe",
+        "id": 261695,
         "language": "/api/v1/language/fuyug-mafulu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/261744/",
+        "resource_uri": "/api/v1/lexicon/261695/",
         "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "drink",
-        "word": "/api/v1/word/to-drink/"
+        "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
     },
     {
         "added": "2024-06-26T22:23:53.509684",
@@ -2302,6 +2290,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "eat",
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.507704",
+        "annotation": "None",
+        "entry": "nene",
+        "id": 261744,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261744/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2024-06-26T22:23:53.577036",
@@ -2448,18 +2448,6 @@
         "word": "/api/v1/word/belly/"
     },
     {
-        "added": "2024-06-26T22:23:53.510197",
-        "annotation": "None",
-        "entry": "ombo(le)",
-        "id": 261749,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261749/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "egg",
-        "word": "/api/v1/word/egg/"
-    },
-    {
         "added": "2024-06-26T22:23:53.481180",
         "annotation": "None",
         "entry": "ombo(le)",
@@ -2470,6 +2458,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "belly",
         "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.510197",
+        "annotation": "None",
+        "entry": "ombo(le)",
+        "id": 261749,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261749/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2024-06-26T22:23:53.494114",
@@ -3228,18 +3228,6 @@
         "word": "/api/v1/word/nostril/"
     },
     {
-        "added": "2024-06-26T22:23:53.521253",
-        "annotation": "None",
-        "entry": "unu(me)",
-        "id": 261771,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261771/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "fog",
-        "word": "/api/v1/word/fog/"
-    },
-    {
         "added": "2024-06-26T22:23:53.498805",
         "annotation": "None",
         "entry": "unu(me)",
@@ -3250,6 +3238,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "cloud",
         "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.521253",
+        "annotation": "None",
+        "entry": "unu(me)",
+        "id": 261771,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261771/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "fog",
+        "word": "/api/v1/word/fog/"
     },
     {
         "added": "2024-06-26T22:23:53.503868",
@@ -3264,18 +3264,6 @@
         "word": "/api/v1/word/to-die/"
     },
     {
-        "added": "2024-06-24T18:22:08.442381",
-        "annotation": "",
-        "entry": "usese",
-        "id": 261313,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261313/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tongue/"
-    },
-    {
         "added": "2024-06-26T22:23:53.594592",
         "annotation": "None",
         "entry": "usese",
@@ -3285,6 +3273,18 @@
         "resource_uri": "/api/v1/lexicon/261913/",
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": "tongue",
+        "word": "/api/v1/word/tongue/"
+    },
+    {
+        "added": "2024-06-24T18:22:08.442381",
+        "annotation": "",
+        "entry": "usese",
+        "id": 261313,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261313/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": null,
         "word": "/api/v1/word/tongue/"
     },
     {
@@ -3468,18 +3468,6 @@
         "word": "/api/v1/word/flea/"
     },
     {
-        "added": "2024-06-26T22:23:53.542660",
-        "annotation": "None",
-        "entry": "yovali",
-        "id": 261811,
-        "language": "/api/v1/language/fuyug-mafulu/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/261811/",
-        "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "leg",
-        "word": "/api/v1/word/leg/"
-    },
-    {
         "added": "2024-06-26T22:23:53.522615",
         "annotation": "None",
         "entry": "yovali",
@@ -3492,16 +3480,16 @@
         "word": "/api/v1/word/foot/"
     },
     {
-        "added": "2024-06-26T22:23:53.584954",
+        "added": "2024-06-26T22:23:53.542660",
         "annotation": "None",
-        "entry": "yu",
-        "id": 261894,
+        "entry": "yovali",
+        "id": 261811,
         "language": "/api/v1/language/fuyug-mafulu/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/261894/",
+        "resource_uri": "/api/v1/lexicon/261811/",
         "source": "/api/v1/source/williamson-1912/",
-        "source_gloss": "stand",
-        "word": "/api/v1/word/to-stand/"
+        "source_gloss": "leg",
+        "word": "/api/v1/word/leg/"
     },
     {
         "added": "2024-06-24T18:22:08.530575",
@@ -3514,6 +3502,18 @@
         "source": "/api/v1/source/williamson-1912/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2024-06-26T22:23:53.584954",
+        "annotation": "None",
+        "entry": "yu",
+        "id": 261894,
+        "language": "/api/v1/language/fuyug-mafulu/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/261894/",
+        "source": "/api/v1/source/williamson-1912/",
+        "source_gloss": "stand",
+        "word": "/api/v1/word/to-stand/"
     },
     {
         "added": "2024-06-26T22:23:53.599669",

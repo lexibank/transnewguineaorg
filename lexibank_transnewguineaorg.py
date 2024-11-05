@@ -1,11 +1,10 @@
+import csv
 from datetime import datetime
 from os import remove
 from pathlib import Path
-
+from collections import defaultdict
 from cldfbench.datadir import get_url
-from pybtex.database import (
-    parse_string,
-)  # dependency of pycldf, so should be installed.
+from pybtex.database import parse_string
 from pybtex.utils import OrderedCaseInsensitiveDict
 from pylexibank import FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
@@ -17,9 +16,7 @@ LIMIT = 2000  # how many records to fetch at once
 BASE_URL = "http://transnewguinea.org"
 
 LANGUAGES_URL = BASE_URL + "/api/v1/language/?limit=%(limit)d"
-RECORDS_URL = (
-    BASE_URL + "/api/v1/lexicon/?limit=%(limit)d&language=%(language)d"
-)
+RECORDS_URL = BASE_URL + "/api/v1/lexicon/?limit=%(limit)d&language=%(language)d"
 WORDS_URL = BASE_URL + "/api/v1/word/?limit=%(limit)d"
 SOURCES_URL = BASE_URL + "/api/v1/source/?limit=%(limit)d"
 
@@ -27,6 +24,7 @@ SOURCES_URL = BASE_URL + "/api/v1/source/?limit=%(limit)d"
 class Dataset(BaseDataset):
     id = "transnewguineaorg"
     dir = Path(__file__).parent
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     @staticmethod
     def get_slug_from_uri(uri):
@@ -62,14 +60,20 @@ class Dataset(BaseDataset):
             o["slug"]: o
             for o in self.raw_dir.read_json(self.raw_dir / "languages.json")
         }
-        words = {
-            o["slug"]: o
-            for o in self.raw_dir.read_json(self.raw_dir / "words.json")
-        }
         sources = {
             o["slug"]: o
             for o in self.raw_dir.read_json(self.raw_dir / "sources.json")
         }
+
+        ignore_docs = defaultdict(list)  # Using list as the default factory
+
+        # Open the CSV file and read the data
+        with open('etc/ignore.csv', mode='r') as file:
+            reader = csv.reader(file)
+            next(reader, None)
+            for row in reader:
+                ignore_docs[row[0]].append(row[1])
+
         # handle sources
         # want to make sure that the bibtex key matches our source id.
         for source in sorted(sources):
@@ -77,9 +81,7 @@ class Dataset(BaseDataset):
             bib = parse_string(sources[source]["bibtex"], "bibtex")
             old_key = list(bib.entries.keys())[0]
             bib.entries[old_key].key = source
-            bib.entries = OrderedCaseInsensitiveDict(
-                [(source, bib.entries[old_key])]
-            )
+            bib.entries = OrderedCaseInsensitiveDict([(source, bib.entries[old_key])])
             args.writer.add_sources(bib)
 
         # handle languages
@@ -119,6 +121,7 @@ class Dataset(BaseDataset):
                 new_string = concept.english[3:]
                 concepts['-'.join([slug(x) for x in new_string.split()])] = idx
                 concepts[concept.english.replace("to ", "")] = idx
+
         concepts["mans-mother-law"] = concepts["man's mother in law"]
         concepts["brother-law"] = concepts["brother in law"]
         concepts["to-make-hole"] = concepts["make hole (in ground)"]
@@ -168,8 +171,6 @@ class Dataset(BaseDataset):
         concepts["we-pl-excl"] = concepts["we excl. plural (pronoun d:1p, excl, plural)"]
         #concepts["affix-body-part"] = concepts[""]
 
-
-
         itemfiles = [
             f for f in self.raw_dir.iterdir() if f.name.startswith("language-")
         ]
@@ -179,10 +180,16 @@ class Dataset(BaseDataset):
                 self.raw_dir.read_json(filename), key=lambda d: d["id"]
             ):
                 wordid = self.get_slug_from_uri(o['word'])
-                if wordid in concepts:
+                lang_id = self.get_slug_from_uri(o["language"])
+
+                # Ignore-list to avoid duplicates
+                if ignore_docs[lang_id] in ['zgraggenmadang', 'mcelhanonhuon', 'robinsonap']:
+                    pass
+
+                elif wordid in concepts:
                     args.writer.add_forms_from_value(
                         Local_ID=o["id"],
-                        Language_ID=self.get_slug_from_uri(o["language"]),
+                        Language_ID=lang_id,
                         Parameter_ID=concepts[wordid],
                         Value=o["entry"],
                         Source=self.get_slug_from_uri(o["source"]),

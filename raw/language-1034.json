@@ -14,7 +14,7 @@
     {
         "added": "2015-06-04T18:53:42.270791",
         "annotation": "",
-        "entry": "ak\u02bcane",
+        "entry": "ak'ane",
         "id": 227732,
         "language": "/api/v1/language/arandai-barau/",
         "loan": false,
@@ -696,18 +696,6 @@
         "word": "/api/v1/word/woman/"
     },
     {
-        "added": "2015-06-04T18:53:42.961295",
-        "annotation": "",
-        "entry": "kenamo",
-        "id": 227795,
-        "language": "/api/v1/language/arandai-barau/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/227795/",
-        "source": "/api/v1/source/voorhoeve-1985/",
-        "source_gloss": null,
-        "word": "/api/v1/word/mountain/"
-    },
-    {
         "added": "2015-06-04T18:53:42.953575",
         "annotation": "",
         "entry": "kenamo",
@@ -718,6 +706,18 @@
         "source": "/api/v1/source/voorhoeve-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/mosquito/"
+    },
+    {
+        "added": "2015-06-04T18:53:42.961295",
+        "annotation": "",
+        "entry": "kenamo",
+        "id": 227795,
+        "language": "/api/v1/language/arandai-barau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/227795/",
+        "source": "/api/v1/source/voorhoeve-1985/",
+        "source_gloss": null,
+        "word": "/api/v1/word/mountain/"
     },
     {
         "added": "2015-06-04T18:53:42.976081",
@@ -1044,18 +1044,6 @@
         "word": "/api/v1/word/head/"
     },
     {
-        "added": "2015-06-04T19:02:10.403348",
-        "annotation": "",
-        "entry": "nandue",
-        "id": 227828,
-        "language": "/api/v1/language/arandai-barau/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/227828/",
-        "source": "/api/v1/source/voorhoeve-1985/",
-        "source_gloss": null,
-        "word": "/api/v1/word/slowly/"
-    },
-    {
         "added": "2015-06-04T19:02:10.394510",
         "annotation": "",
         "entry": "nandue",
@@ -1066,6 +1054,18 @@
         "source": "/api/v1/source/voorhoeve-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/slow/"
+    },
+    {
+        "added": "2015-06-04T19:02:10.403348",
+        "annotation": "",
+        "entry": "nandue",
+        "id": 227828,
+        "language": "/api/v1/language/arandai-barau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/227828/",
+        "source": "/api/v1/source/voorhoeve-1985/",
+        "source_gloss": null,
+        "word": "/api/v1/word/slowly/"
     },
     {
         "added": "2015-06-04T18:53:43.124315",
@@ -1526,7 +1526,7 @@
     {
         "added": "2015-06-04T18:53:42.179820",
         "annotation": "",
-        "entry": "top\u02bcane",
+        "entry": "top'ane",
         "id": 227724,
         "language": "/api/v1/language/arandai-barau/",
         "loan": false,
