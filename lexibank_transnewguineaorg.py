@@ -65,15 +65,6 @@ class Dataset(BaseDataset):
             for o in self.raw_dir.read_json(self.raw_dir / "sources.json")
         }
 
-        ignore_docs = defaultdict(list)  # Using list as the default factory
-
-        # Open the CSV file and read the data
-        with open('etc/ignore.csv', mode='r') as file:
-            reader = csv.reader(file)
-            next(reader, None)
-            for row in reader:
-                ignore_docs[row[0]].append(row[1])
-
         # handle sources
         # want to make sure that the bibtex key matches our source id.
         for source in sorted(sources):
@@ -182,11 +173,7 @@ class Dataset(BaseDataset):
                 wordid = self.get_slug_from_uri(o['word'])
                 lang_id = self.get_slug_from_uri(o["language"])
 
-                # Ignore-list to avoid duplicates
-                if ignore_docs[lang_id] in ['zgraggenmadang', 'mcelhanonhuon', 'robinsonap']:
-                    pass
-
-                elif wordid in concepts:
+                if wordid in concepts:
                     args.writer.add_forms_from_value(
                         Local_ID=o["id"],
                         Language_ID=lang_id,
