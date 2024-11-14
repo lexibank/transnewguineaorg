@@ -26,26 +26,27 @@ Conceptlists in Concepticon:
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
 ![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1,017
-- **Concepts:** 1,166
-- **Lexemes:** 146,463
-- **Sources:** 151
+- **Varieties:** 1,023 (linked to 764 different Glottocodes)
+- **Concepts:** 1,166 (linked to 888 different Concepticon concept sets)
+- **Lexemes:** 147,246
+- **Sources:** 154
 - **Synonymy:** 1.16
 - **Invalid lexemes:** 0
-- **Tokens:** 705,910
-- **Segments:** 415 (4 BIPA errors, 4 CLTS sound class errors, 410 CLTS modified)
-- **Inventory size (avg):** 27.65
+- **Tokens:** 709,963
+- **Segments:** 400 (0 BIPA errors, 0 CLTS sound class errors, 399 CLTS modified)
+- **Inventory size (avg):** 27.56
 
 # Contributors
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Robert Forkel      | @xrotwang       | author                               | Other 
-Tiago Tresoldi     | @tresoldi       | profile                              | Other 
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author, Editor
+Robert Forkel      | @xrotwang       | code                                 | Other
+Tiago Tresoldi     | @tresoldi       | profile                              | Other
+Johann-Mattis List | @LinguList      | profile, code                        | Other
 
 
 

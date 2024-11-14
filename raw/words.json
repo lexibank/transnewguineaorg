@@ -1104,6 +1104,14 @@
         "word": "buttocks"
     },
     {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2539,
+        "resource_uri": "/api/v1/word/by-and-bye/",
+        "slug": "by-and-bye",
+        "word": "by and bye"
+    },
+    {
         "concepticon_gloss": "GOURD",
         "concepticon_id": "411",
         "id": 1582,
@@ -1206,6 +1214,14 @@
         "resource_uri": "/api/v1/word/cassowary/",
         "slug": "cassowary",
         "word": "cassowary"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2537,
+        "resource_uri": "/api/v1/word/cassowary-plume/",
+        "slug": "cassowary-plume",
+        "word": "cassowary plume"
     },
     {
         "concepticon_gloss": null,
@@ -1318,6 +1334,14 @@
         "resource_uri": "/api/v1/word/chicken-wild/",
         "slug": "chicken-wild",
         "word": "chicken (wild)"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2540,
+        "resource_uri": "/api/v1/word/chief/",
+        "slug": "chief",
+        "word": "chief"
     },
     {
         "concepticon_gloss": "CHILD (YOUNG HUMAN)",
@@ -1902,6 +1926,14 @@
         "resource_uri": "/api/v1/word/disc-club/",
         "slug": "disc-club",
         "word": "disc club"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2541,
+        "resource_uri": "/api/v1/word/dish/",
+        "slug": "dish",
+        "word": "dish"
     },
     {
         "concepticon_gloss": null,
@@ -3384,6 +3416,14 @@
         "word": "human"
     },
     {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2542,
+        "resource_uri": "/api/v1/word/hunting-ground/",
+        "slug": "hunting-ground",
+        "word": "hunting ground"
+    },
+    {
         "concepticon_gloss": "HUSBAND",
         "concepticon_id": "1200",
         "id": 140,
@@ -4510,6 +4550,14 @@
         "resource_uri": "/api/v1/word/neck/",
         "slug": "neck",
         "word": "neck"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2538,
+        "resource_uri": "/api/v1/word/necklace/",
+        "slug": "necklace",
+        "word": "necklace"
     },
     {
         "concepticon_gloss": null,
@@ -9630,6 +9678,14 @@
         "resource_uri": "/api/v1/word/wrap/",
         "slug": "wrap",
         "word": "wrap"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2543,
+        "resource_uri": "/api/v1/word/wrist/",
+        "slug": "wrist",
+        "word": "wrist"
     },
     {
         "concepticon_gloss": "WRITE",

@@ -3,7 +3,7 @@ def test_valid(cldf_dataset, cldf_logger):
 
 
 def test_forms(cldf_dataset):
-    assert len(list(cldf_dataset["FormTable"])) == 146463 
+    assert len(list(cldf_dataset["FormTable"])) == 147246
 
     # check one specific form to make sure columns, values are correct.
     # 49995,karoto,120_father,aɸa
@@ -15,7 +15,7 @@ def test_forms(cldf_dataset):
 
 
 def test_languages(cldf_dataset):
-    assert len(list(cldf_dataset["LanguageTable"])) == 1017
+    assert len(list(cldf_dataset["LanguageTable"])) == 1023
 
     # ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
     # abaga,Abaga,abag1245,,abg,,

@@ -2,7 +2,7 @@
     {
         "added": "2015-06-04T20:14:32.536940",
         "annotation": "",
-        "entry": "a\u01e5\u02bcare",
+        "entry": "a\u01e5'are",
         "id": 228113,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -14,7 +14,7 @@
     {
         "added": "2015-06-04T20:19:56.097069",
         "annotation": "",
-        "entry": "a\u01e5\u02bce",
+        "entry": "a\u01e5'e",
         "id": 228157,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -26,7 +26,7 @@
     {
         "added": "2015-06-04T19:52:37.785437",
         "annotation": "",
-        "entry": "\u02bcajo",
+        "entry": "'ajo",
         "id": 228043,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -36,21 +36,9 @@
         "word": "/api/v1/word/mother/"
     },
     {
-        "added": "2015-06-04T20:14:32.505091",
-        "annotation": "",
-        "entry": "ak\u02bcane",
-        "id": 228109,
-        "language": "/api/v1/language/arandai-weriagar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/228109/",
-        "source": "/api/v1/source/voorhoeve-1985/",
-        "source_gloss": null,
-        "word": "/api/v1/word/skin/"
-    },
-    {
         "added": "2015-06-04T19:31:34.897827",
         "annotation": "",
-        "entry": "ak\u02bcane",
+        "entry": "ak'ane",
         "id": 227893,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -60,9 +48,21 @@
         "word": "/api/v1/word/bark/"
     },
     {
+        "added": "2015-06-04T20:14:32.505091",
+        "annotation": "",
+        "entry": "ak'ane",
+        "id": 228109,
+        "language": "/api/v1/language/arandai-weriagar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/228109/",
+        "source": "/api/v1/source/voorhoeve-1985/",
+        "source_gloss": null,
+        "word": "/api/v1/word/skin/"
+    },
+    {
         "added": "2015-06-04T19:31:35.082336",
         "annotation": "",
-        "entry": "ak\u02bcote rab\u0336ine",
+        "entry": "ak'ote rab\u0336ine",
         "id": 227913,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -74,7 +74,7 @@
     {
         "added": "2015-06-04T20:19:56.122398",
         "annotation": "",
-        "entry": "am\u02bcoy",
+        "entry": "am'oy",
         "id": 228160,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -86,7 +86,7 @@
     {
         "added": "2015-06-04T20:14:32.651761",
         "annotation": "",
-        "entry": "\u02bcamumure",
+        "entry": "'amumure",
         "id": 228126,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -98,7 +98,7 @@
     {
         "added": "2015-06-04T20:14:32.601166",
         "annotation": "",
-        "entry": "an\u02bcata",
+        "entry": "an'ata",
         "id": 228121,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -122,7 +122,7 @@
     {
         "added": "2015-06-04T20:14:32.391794",
         "annotation": "",
-        "entry": "anda ruw\u02bca",
+        "entry": "anda ruw'a",
         "id": 228095,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -134,7 +134,7 @@
     {
         "added": "2015-06-04T20:19:56.088182",
         "annotation": "",
-        "entry": "and\u02bcuno",
+        "entry": "and'uno",
         "id": 228156,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -158,7 +158,7 @@
     {
         "added": "2015-06-04T19:31:35.024956",
         "annotation": "",
-        "entry": "\u02bca\u014bgene",
+        "entry": "'a\u014bgene",
         "id": 227908,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -170,7 +170,7 @@
     {
         "added": "2015-06-04T20:14:32.399758",
         "annotation": "",
-        "entry": "a\u014bge\u014bg\u02bceti",
+        "entry": "a\u014bge\u014bg'eti",
         "id": 228096,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -182,7 +182,7 @@
     {
         "added": "2015-06-04T20:14:32.383829",
         "annotation": "",
-        "entry": "\u02bcapate",
+        "entry": "'apate",
         "id": 228094,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -194,7 +194,7 @@
     {
         "added": "2015-06-04T20:14:32.263273",
         "annotation": "",
-        "entry": "apat\u02bcene",
+        "entry": "apat'ene",
         "id": 228079,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -206,7 +206,7 @@
     {
         "added": "2015-06-04T19:31:34.990634",
         "annotation": "",
-        "entry": "apat\u02bco",
+        "entry": "apat'o",
         "id": 227904,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -218,7 +218,7 @@
     {
         "added": "2015-06-04T19:52:37.588740",
         "annotation": "",
-        "entry": "\u02bcara-",
+        "entry": "'ara-",
         "id": 228027,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -230,7 +230,7 @@
     {
         "added": "2015-06-04T20:14:32.343346",
         "annotation": "",
-        "entry": "ar\u02bcaja",
+        "entry": "ar'aja",
         "id": 228089,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -242,7 +242,7 @@
     {
         "added": "2015-06-04T20:14:32.552982",
         "annotation": "",
-        "entry": "\u02bcarawane",
+        "entry": "'arawane",
         "id": 228115,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -254,7 +254,7 @@
     {
         "added": "2015-06-04T19:31:35.654297",
         "annotation": "",
-        "entry": "ar\u02bceare",
+        "entry": "ar'eare",
         "id": 227966,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -290,7 +290,7 @@
     {
         "added": "2015-06-04T20:14:32.784938",
         "annotation": "",
-        "entry": "ar\u02bcoyo",
+        "entry": "ar'oyo",
         "id": 228143,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -302,7 +302,7 @@
     {
         "added": "2015-06-04T19:52:37.438593",
         "annotation": "",
-        "entry": "arum\u02bcane",
+        "entry": "arum'ane",
         "id": 228012,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -314,7 +314,7 @@
     {
         "added": "2015-06-04T20:19:56.243657",
         "annotation": "",
-        "entry": "arut\u02bci",
+        "entry": "arut'i",
         "id": 228174,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -338,7 +338,7 @@
     {
         "added": "2015-06-04T20:14:32.738220",
         "annotation": "",
-        "entry": "\u02bcawanu",
+        "entry": "'awanu",
         "id": 228137,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -350,7 +350,7 @@
     {
         "added": "2015-06-04T20:14:32.205957",
         "annotation": "",
-        "entry": "aw\u02bcitu",
+        "entry": "aw'itu",
         "id": 228072,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -362,7 +362,7 @@
     {
         "added": "2015-06-04T19:31:35.686578",
         "annotation": "",
-        "entry": "\u02bcay",
+        "entry": "'ay",
         "id": 227970,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -374,7 +374,7 @@
     {
         "added": "2015-06-04T19:52:37.579263",
         "annotation": "",
-        "entry": "bak\u02bcombako",
+        "entry": "bak'ombako",
         "id": 228026,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -386,7 +386,7 @@
     {
         "added": "2015-06-04T20:14:32.158382",
         "annotation": "",
-        "entry": "bap\u02bcu",
+        "entry": "bap'u",
         "id": 228067,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -410,7 +410,7 @@
     {
         "added": "2015-06-04T19:52:37.882673",
         "annotation": "",
-        "entry": "bat\u02bcaa",
+        "entry": "bat'aa",
         "id": 228054,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -422,7 +422,7 @@
     {
         "added": "2015-06-04T19:31:35.721371",
         "annotation": "",
-        "entry": "bi\u02bcato",
+        "entry": "bi'ato",
         "id": 227974,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -434,7 +434,7 @@
     {
         "added": "2015-06-04T19:31:34.856907",
         "annotation": "",
-        "entry": "b\u0336ij\u02bcae",
+        "entry": "b\u0336ij'ae",
         "id": 227888,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -446,7 +446,7 @@
     {
         "added": "2015-06-04T20:14:32.692502",
         "annotation": "",
-        "entry": "bikir\u02bc",
+        "entry": "bikir'",
         "id": 228131,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -458,7 +458,7 @@
     {
         "added": "2015-06-04T19:52:37.429942",
         "annotation": "",
-        "entry": "bir\u02bcare",
+        "entry": "bir'are",
         "id": 228011,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -470,7 +470,7 @@
     {
         "added": "2015-06-04T19:52:37.341303",
         "annotation": "",
-        "entry": "birimbir\u02bcitene",
+        "entry": "birimbir'itene",
         "id": 228004,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -482,7 +482,7 @@
     {
         "added": "2015-06-04T20:14:32.776447",
         "annotation": "",
-        "entry": "bit\u02bca",
+        "entry": "bit'a",
         "id": 228142,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -494,7 +494,7 @@
     {
         "added": "2015-06-04T20:14:32.660647",
         "annotation": "",
-        "entry": "boyni\u014bg\u02bceb\u0336e",
+        "entry": "boyni\u014bg'eb\u0336e",
         "id": 228127,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -506,7 +506,7 @@
     {
         "added": "2015-06-04T19:52:37.864735",
         "annotation": "",
-        "entry": "b\u02bcoyti",
+        "entry": "b'oyti",
         "id": 228052,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -518,7 +518,7 @@
     {
         "added": "2015-06-04T19:52:37.331919",
         "annotation": "",
-        "entry": "b\u0336ub\u0336\u02bcutaru",
+        "entry": "b\u0336ub\u0336'utaru",
         "id": 228003,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -530,7 +530,7 @@
     {
         "added": "2015-06-04T20:14:32.707725",
         "annotation": "",
-        "entry": "butumbut\u02bcuro",
+        "entry": "butumbut'uro",
         "id": 228133,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -566,7 +566,7 @@
     {
         "added": "2015-06-04T20:14:32.181126",
         "annotation": "",
-        "entry": "d\u02bcantu",
+        "entry": "d'antu",
         "id": 228069,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -578,7 +578,7 @@
     {
         "added": "2015-06-04T20:14:32.472701",
         "annotation": "",
-        "entry": "den\u02bca\u0111o",
+        "entry": "den'a\u0111o",
         "id": 228105,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -590,7 +590,7 @@
     {
         "added": "2015-06-04T19:31:35.114831",
         "annotation": "",
-        "entry": "dep\u02bca",
+        "entry": "dep'a",
         "id": 227917,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -614,7 +614,7 @@
     {
         "added": "2015-06-04T19:52:37.312333",
         "annotation": "",
-        "entry": "detat\u02bce",
+        "entry": "detat'e",
         "id": 228001,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -626,7 +626,7 @@
     {
         "added": "2015-06-04T19:52:37.322333",
         "annotation": "",
-        "entry": "detat\u02bco",
+        "entry": "detat'o",
         "id": 228002,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -638,7 +638,7 @@
     {
         "added": "2015-06-04T19:31:35.581008",
         "annotation": "",
-        "entry": "dib\u0336\u02bcane",
+        "entry": "dib\u0336'ane",
         "id": 227958,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -650,7 +650,7 @@
     {
         "added": "2015-06-04T20:14:32.569059",
         "annotation": "",
-        "entry": "\u0111\u02bco\u0111ero",
+        "entry": "\u0111'o\u0111ero",
         "id": 228117,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -662,7 +662,7 @@
     {
         "added": "2015-06-04T20:14:32.768533",
         "annotation": "",
-        "entry": "do\u01e5\u02bca",
+        "entry": "do\u01e5'a",
         "id": 228141,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -674,7 +674,7 @@
     {
         "added": "2015-06-04T20:14:32.730631",
         "annotation": "",
-        "entry": "dom\u02bca",
+        "entry": "dom'a",
         "id": 228136,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -686,7 +686,7 @@
     {
         "added": "2015-06-04T19:31:35.353894",
         "annotation": "",
-        "entry": "dondon\u02bca-",
+        "entry": "dondon'a-",
         "id": 227941,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -698,7 +698,7 @@
     {
         "added": "2015-06-04T19:52:37.655021",
         "annotation": "",
-        "entry": "dondow\u02bcare",
+        "entry": "dondow'are",
         "id": 228032,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -710,7 +710,7 @@
     {
         "added": "2015-06-04T19:31:35.098528",
         "annotation": "",
-        "entry": "\u0111u\u0111\u02bcu",
+        "entry": "\u0111u\u0111'u",
         "id": 227915,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -722,7 +722,7 @@
     {
         "added": "2015-06-04T19:52:37.238433",
         "annotation": "",
-        "entry": "eb\u0336uk\u02bce",
+        "entry": "eb\u0336uk'e",
         "id": 227993,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -732,21 +732,9 @@
         "word": "/api/v1/word/fruit/"
     },
     {
-        "added": "2015-06-04T19:31:35.155269",
-        "annotation": "",
-        "entry": "eb\u0336uk\u02bcu",
-        "id": 227922,
-        "language": "/api/v1/language/arandai-weriagar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/227922/",
-        "source": "/api/v1/source/voorhoeve-1985/",
-        "source_gloss": null,
-        "word": "/api/v1/word/calf/"
-    },
-    {
         "added": "2015-06-04T19:52:37.114199",
         "annotation": "",
-        "entry": "eb\u0336uk\u02bcu",
+        "entry": "eb\u0336uk'u",
         "id": 227983,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -756,9 +744,21 @@
         "word": "/api/v1/word/flesh/"
     },
     {
+        "added": "2015-06-04T19:31:35.155269",
+        "annotation": "",
+        "entry": "eb\u0336uk'u",
+        "id": 227922,
+        "language": "/api/v1/language/arandai-weriagar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/227922/",
+        "source": "/api/v1/source/voorhoeve-1985/",
+        "source_gloss": null,
+        "word": "/api/v1/word/calf/"
+    },
+    {
         "added": "2015-06-04T19:31:34.931864",
         "annotation": "",
-        "entry": "e\u01e5\u02bcaya",
+        "entry": "e\u01e5'aya",
         "id": 227897,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -770,7 +770,7 @@
     {
         "added": "2015-06-04T19:31:35.469800",
         "annotation": "",
-        "entry": "eker\u02bca",
+        "entry": "eker'a",
         "id": 227947,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -782,7 +782,7 @@
     {
         "added": "2015-06-04T19:31:35.646044",
         "annotation": "",
-        "entry": "\u02bceku",
+        "entry": "'eku",
         "id": 227965,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -794,7 +794,7 @@
     {
         "added": "2015-06-04T19:52:37.962885",
         "annotation": "",
-        "entry": "en\u02bcati",
+        "entry": "en'ati",
         "id": 228063,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -806,7 +806,7 @@
     {
         "added": "2015-06-04T19:31:35.171084",
         "annotation": "",
-        "entry": "e\u014bg\u02bcene",
+        "entry": "e\u014bg'ene",
         "id": 227923,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -818,7 +818,7 @@
     {
         "added": "2015-06-04T19:31:34.940171",
         "annotation": "",
-        "entry": "et\u02bcu",
+        "entry": "et'u",
         "id": 227898,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -854,7 +854,7 @@
     {
         "added": "2015-06-04T20:14:32.497107",
         "annotation": "",
-        "entry": "g\u02bcende",
+        "entry": "g'ende",
         "id": 228108,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -866,7 +866,7 @@
     {
         "added": "2015-06-04T20:19:56.189774",
         "annotation": "",
-        "entry": "ger\u02bcate",
+        "entry": "ger'ate",
         "id": 228168,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -878,7 +878,7 @@
     {
         "added": "2015-06-04T19:31:35.678414",
         "annotation": "",
-        "entry": "gew\u02bce",
+        "entry": "gew'e",
         "id": 227969,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -890,7 +890,7 @@
     {
         "added": "2015-06-04T19:31:35.428341",
         "annotation": "",
-        "entry": "g\u02bco\u014bgoja",
+        "entry": "g'o\u014bgoja",
         "id": 227943,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -902,7 +902,7 @@
     {
         "added": "2015-06-04T19:52:37.464630",
         "annotation": "",
-        "entry": "gon\u02bco-",
+        "entry": "gon'o-",
         "id": 228015,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -914,7 +914,7 @@
     {
         "added": "2015-06-04T19:31:34.772673",
         "annotation": "",
-        "entry": "g\u02bcoyne",
+        "entry": "g'oyne",
         "id": 227877,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -926,7 +926,7 @@
     {
         "added": "2015-06-04T19:52:37.456012",
         "annotation": "",
-        "entry": "ik\u02bcambe",
+        "entry": "ik'ambe",
         "id": 228014,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -950,7 +950,7 @@
     {
         "added": "2015-06-04T19:52:37.067296",
         "annotation": "",
-        "entry": "inet\u02bca\u01e5o",
+        "entry": "inet'a\u01e5o",
         "id": 227978,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -962,7 +962,7 @@
     {
         "added": "2015-06-04T19:52:37.048973",
         "annotation": "",
-        "entry": "in\u02bcete",
+        "entry": "in'ete",
         "id": 227976,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -974,7 +974,7 @@
     {
         "added": "2015-06-04T19:52:37.104850",
         "annotation": "",
-        "entry": "in\u02bcete a\u014bg\u02bce",
+        "entry": "in'ete a\u014bg'e",
         "id": 227982,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -986,7 +986,7 @@
     {
         "added": "2015-06-04T20:14:32.640923",
         "annotation": "",
-        "entry": "it\u02bcane",
+        "entry": "it'ane",
         "id": 228125,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -998,7 +998,7 @@
     {
         "added": "2015-06-04T19:52:37.208102",
         "annotation": "",
-        "entry": "jat\u02bce",
+        "entry": "jat'e",
         "id": 227990,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1022,7 +1022,7 @@
     {
         "added": "2015-06-04T20:19:56.235156",
         "annotation": "",
-        "entry": "k\u02bcajo",
+        "entry": "k'ajo",
         "id": 228173,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1034,7 +1034,7 @@
     {
         "added": "2015-06-04T19:52:37.481703",
         "annotation": "",
-        "entry": "kak\u02bca\u01e5i",
+        "entry": "kak'a\u01e5i",
         "id": 228017,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1046,7 +1046,7 @@
     {
         "added": "2015-06-04T19:31:35.234955",
         "annotation": "",
-        "entry": "k\u02bcambete",
+        "entry": "k'ambete",
         "id": 227929,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1070,7 +1070,7 @@
     {
         "added": "2015-06-04T19:31:34.956751",
         "annotation": "",
-        "entry": "k\u02bcanene",
+        "entry": "k'anene",
         "id": 227900,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1082,7 +1082,7 @@
     {
         "added": "2015-06-04T19:52:37.229443",
         "annotation": "",
-        "entry": "k\u02bcania",
+        "entry": "k'ania",
         "id": 227992,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1106,7 +1106,7 @@
     {
         "added": "2015-06-04T19:31:35.276640",
         "annotation": "",
-        "entry": "karap\u02bca",
+        "entry": "karap'a",
         "id": 227934,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1118,7 +1118,7 @@
     {
         "added": "2015-06-04T19:31:35.694662",
         "annotation": "",
-        "entry": "karar\u02bce",
+        "entry": "karar'e",
         "id": 227971,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1130,7 +1130,7 @@
     {
         "added": "2015-06-04T19:52:37.397487",
         "annotation": "",
-        "entry": "karar\u02bco",
+        "entry": "karar'o",
         "id": 228008,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1142,7 +1142,7 @@
     {
         "added": "2015-06-04T19:31:35.260377",
         "annotation": "",
-        "entry": "kariw\u02bcane",
+        "entry": "kariw'ane",
         "id": 227932,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1178,7 +1178,7 @@
     {
         "added": "2015-06-04T19:52:37.664847",
         "annotation": "",
-        "entry": "k\u02bcato-",
+        "entry": "k'ato-",
         "id": 228033,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1190,7 +1190,7 @@
     {
         "added": "2015-06-04T20:14:32.359269",
         "annotation": "",
-        "entry": "kat\u02bcuri",
+        "entry": "kat'uri",
         "id": 228091,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1214,7 +1214,7 @@
     {
         "added": "2015-06-04T20:19:56.226049",
         "annotation": "",
-        "entry": "ke\u0111\u02bcenu",
+        "entry": "ke\u0111'enu",
         "id": 228172,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1226,7 +1226,7 @@
     {
         "added": "2015-06-04T19:31:35.703390",
         "annotation": "",
-        "entry": "ke\u0111en\u02bcu",
+        "entry": "ke\u0111en'u",
         "id": 227972,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1238,7 +1238,7 @@
     {
         "added": "2015-06-04T20:14:32.351292",
         "annotation": "",
-        "entry": "k\u02bcembare",
+        "entry": "k'embare",
         "id": 228090,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1250,7 +1250,7 @@
     {
         "added": "2015-06-04T19:31:34.826864",
         "annotation": "",
-        "entry": "kep\u02bco",
+        "entry": "kep'o",
         "id": 227884,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1262,7 +1262,7 @@
     {
         "added": "2015-06-04T20:14:32.271290",
         "annotation": "",
-        "entry": "keremb\u02bcatu",
+        "entry": "keremb'atu",
         "id": 228080,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1274,7 +1274,7 @@
     {
         "added": "2015-06-04T19:31:35.610304",
         "annotation": "",
-        "entry": "ki\u02bcambe",
+        "entry": "ki'ambe",
         "id": 227961,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1286,7 +1286,7 @@
     {
         "added": "2015-06-04T19:52:37.722465",
         "annotation": "",
-        "entry": "ki\u02bcare",
+        "entry": "ki'are",
         "id": 228039,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1298,7 +1298,7 @@
     {
         "added": "2015-06-04T19:52:37.770958",
         "annotation": "",
-        "entry": "kib\u0336in\u02bcu",
+        "entry": "kib\u0336in'u",
         "id": 228042,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1310,7 +1310,7 @@
     {
         "added": "2015-06-04T20:14:32.857226",
         "annotation": "",
-        "entry": "kim\u02bcini",
+        "entry": "kim'ini",
         "id": 228152,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1322,7 +1322,7 @@
     {
         "added": "2015-06-04T19:31:35.074231",
         "annotation": "",
-        "entry": "kipi\u02bcare",
+        "entry": "kipi'are",
         "id": 227912,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1358,7 +1358,7 @@
     {
         "added": "2015-06-04T20:14:32.135810",
         "annotation": "",
-        "entry": "kob\u0336\u02bco",
+        "entry": "kob\u0336'o",
         "id": 228065,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1370,7 +1370,7 @@
     {
         "added": "2015-06-04T19:52:37.613766",
         "annotation": "",
-        "entry": "k\u02bcob\u0336uke",
+        "entry": "k'ob\u0336uke",
         "id": 228030,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1382,7 +1382,7 @@
     {
         "added": "2015-06-04T19:31:35.218825",
         "annotation": "",
-        "entry": "ko\u0111ur\u02bcuke",
+        "entry": "ko\u0111ur'uke",
         "id": 227927,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1394,7 +1394,7 @@
     {
         "added": "2015-06-04T20:14:32.197661",
         "annotation": "",
-        "entry": "k\u02bcokok \u014bga-",
+        "entry": "k'okok \u014bga-",
         "id": 228071,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1406,7 +1406,7 @@
     {
         "added": "2015-06-04T19:31:35.243972",
         "annotation": "",
-        "entry": "kok\u02bcoro",
+        "entry": "kok'oro",
         "id": 227930,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1418,7 +1418,7 @@
     {
         "added": "2015-06-04T19:52:37.684188",
         "annotation": "",
-        "entry": "kon\u02bco",
+        "entry": "kon'o",
         "id": 228035,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1430,7 +1430,7 @@
     {
         "added": "2015-06-04T20:14:32.255256",
         "annotation": "",
-        "entry": "k\u02bcorumuni",
+        "entry": "k'orumuni",
         "id": 228078,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1442,7 +1442,7 @@
     {
         "added": "2015-06-04T19:31:35.033364",
         "annotation": "",
-        "entry": "koto\u01e5\u02bce",
+        "entry": "koto\u01e5'e",
         "id": 227909,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1454,7 +1454,7 @@
     {
         "added": "2015-06-04T19:52:37.282438",
         "annotation": "",
-        "entry": "kot\u02bcoro",
+        "entry": "kot'oro",
         "id": 227998,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1478,7 +1478,7 @@
     {
         "added": "2015-06-04T19:52:37.133528",
         "annotation": "",
-        "entry": "kumand\u02bce",
+        "entry": "kumand'e",
         "id": 227985,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1490,7 +1490,7 @@
     {
         "added": "2015-06-04T19:31:35.090451",
         "annotation": "",
-        "entry": "k\u02bcurono",
+        "entry": "k'urono",
         "id": 227914,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1514,7 +1514,7 @@
     {
         "added": "2015-06-04T19:31:34.746321",
         "annotation": "",
-        "entry": "mak\u02bca\u0111e",
+        "entry": "mak'a\u0111e",
         "id": 227875,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1526,7 +1526,7 @@
     {
         "added": "2015-06-04T20:14:32.545024",
         "annotation": "",
-        "entry": "mak\u02bci",
+        "entry": "mak'i",
         "id": 228114,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1538,7 +1538,7 @@
     {
         "added": "2015-06-04T20:14:32.311301",
         "annotation": "",
-        "entry": "mak\u02bco",
+        "entry": "mak'o",
         "id": 228085,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1550,7 +1550,7 @@
     {
         "added": "2015-06-04T20:14:32.222520",
         "annotation": "",
-        "entry": "m\u02bcamburum\u02bca",
+        "entry": "m'amburum'a",
         "id": 228074,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1586,7 +1586,7 @@
     {
         "added": "2015-06-04T19:52:37.946987",
         "annotation": "",
-        "entry": "mamen\u02bce",
+        "entry": "mamen'e",
         "id": 228061,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1598,7 +1598,7 @@
     {
         "added": "2015-06-04T19:52:37.954877",
         "annotation": "",
-        "entry": "mamen\u02bco",
+        "entry": "mamen'o",
         "id": 228062,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1610,7 +1610,7 @@
     {
         "added": "2015-06-04T19:31:34.879962",
         "annotation": "",
-        "entry": "map\u02bci",
+        "entry": "map'i",
         "id": 227891,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1622,7 +1622,7 @@
     {
         "added": "2015-06-04T20:19:56.113990",
         "annotation": "",
-        "entry": "m\u02bcare",
+        "entry": "m'are",
         "id": 228159,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1634,7 +1634,7 @@
     {
         "added": "2015-06-04T19:31:35.122838",
         "annotation": "",
-        "entry": "m\u02bcarkene",
+        "entry": "m'arkene",
         "id": 227918,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1646,7 +1646,7 @@
     {
         "added": "2015-06-04T20:14:32.480942",
         "annotation": "",
-        "entry": "marken\u02bco",
+        "entry": "marken'o",
         "id": 228106,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1658,7 +1658,7 @@
     {
         "added": "2015-06-04T19:31:35.345725",
         "annotation": "",
-        "entry": "mat\u02bceane",
+        "entry": "mat'eane",
         "id": 227940,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1670,7 +1670,7 @@
     {
         "added": "2015-06-04T20:14:32.668741",
         "annotation": "",
-        "entry": "mekap\u02bco",
+        "entry": "mekap'o",
         "id": 228128,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1694,7 +1694,7 @@
     {
         "added": "2015-06-04T20:14:32.816713",
         "annotation": "",
-        "entry": "merak\u02bce",
+        "entry": "merak'e",
         "id": 228147,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1718,7 +1718,7 @@
     {
         "added": "2015-06-04T20:19:56.217303",
         "annotation": "",
-        "entry": "mi\u0111e\u0111\u02bce",
+        "entry": "mi\u0111e\u0111'e",
         "id": 228171,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1754,7 +1754,7 @@
     {
         "added": "2015-06-04T19:52:37.185783",
         "annotation": "",
-        "entry": "mitor\u02bca",
+        "entry": "mitor'a",
         "id": 227988,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1778,7 +1778,7 @@
     {
         "added": "2015-06-04T19:31:35.139014",
         "annotation": "",
-        "entry": "mok\u02bcako",
+        "entry": "mok'ako",
         "id": 227920,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1790,7 +1790,7 @@
     {
         "added": "2015-06-04T19:52:37.738970",
         "annotation": "",
-        "entry": "mok\u02bco",
+        "entry": "mok'o",
         "id": 228041,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1802,7 +1802,7 @@
     {
         "added": "2015-06-04T19:52:37.058004",
         "annotation": "",
-        "entry": "mop\u02bcenatu",
+        "entry": "mop'enatu",
         "id": 227977,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1814,7 +1814,7 @@
     {
         "added": "2015-06-04T19:31:34.834309",
         "annotation": "",
-        "entry": "mot\u02bcanu",
+        "entry": "mot'anu",
         "id": 227885,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1838,7 +1838,7 @@
     {
         "added": "2015-06-04T19:31:35.601137",
         "annotation": "",
-        "entry": "mumuk\u02bci",
+        "entry": "mumuk'i",
         "id": 227960,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1862,7 +1862,7 @@
     {
         "added": "2015-06-04T19:52:37.891511",
         "annotation": "",
-        "entry": "na\u0111\u02bcara",
+        "entry": "na\u0111'ara",
         "id": 228055,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1874,7 +1874,7 @@
     {
         "added": "2015-06-04T19:52:37.900912",
         "annotation": "",
-        "entry": "na\u0111\u02bcara k\u02bcob\u0336o",
+        "entry": "na\u0111'ara k'ob\u0336o",
         "id": 228056,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1886,7 +1886,7 @@
     {
         "added": "2015-06-04T19:52:37.815112",
         "annotation": "",
-        "entry": "n\u02bca\u01e5o",
+        "entry": "n'a\u01e5o",
         "id": 228046,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1898,7 +1898,7 @@
     {
         "added": "2015-06-04T19:52:37.420255",
         "annotation": "",
-        "entry": "n\u02bcakab\u0336e",
+        "entry": "n'akab\u0336e",
         "id": 228010,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1910,7 +1910,7 @@
     {
         "added": "2015-06-04T20:14:32.753334",
         "annotation": "",
-        "entry": "nak\u02bceb\u0336ena",
+        "entry": "nak'eb\u0336ena",
         "id": 228139,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1922,7 +1922,7 @@
     {
         "added": "2015-06-04T19:52:37.028324",
         "annotation": "",
-        "entry": "nak\u02bcepo",
+        "entry": "nak'epo",
         "id": 227975,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1934,7 +1934,7 @@
     {
         "added": "2015-06-04T19:31:35.618296",
         "annotation": "",
-        "entry": "naker\u02bca",
+        "entry": "naker'a",
         "id": 227962,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1946,7 +1946,7 @@
     {
         "added": "2015-06-04T19:31:34.923553",
         "annotation": "",
-        "entry": "nakot\u02bcene",
+        "entry": "nakot'ene",
         "id": 227896,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1958,7 +1958,7 @@
     {
         "added": "2015-06-04T19:31:35.662309",
         "annotation": "",
-        "entry": "nam\u02bca\u01e5o",
+        "entry": "nam'a\u01e5o",
         "id": 227967,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1970,7 +1970,7 @@
     {
         "added": "2015-06-04T19:31:34.982213",
         "annotation": "",
-        "entry": "nama\u01e5o b\u0336ij\u02bcae",
+        "entry": "nama\u01e5o b\u0336ij'ae",
         "id": 227903,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1982,7 +1982,7 @@
     {
         "added": "2015-06-04T19:31:34.811790",
         "annotation": "",
-        "entry": "n\u02bcambore",
+        "entry": "n'ambore",
         "id": 227882,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -1994,7 +1994,7 @@
     {
         "added": "2015-06-04T19:52:37.831034",
         "annotation": "",
-        "entry": "nan\u02bca\u0111e",
+        "entry": "nan'a\u0111e",
         "id": 228048,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2004,21 +2004,9 @@
         "word": "/api/v1/word/name/"
     },
     {
-        "added": "2015-06-04T20:14:32.529030",
-        "annotation": "",
-        "entry": "nand\u02bcu",
-        "id": 228112,
-        "language": "/api/v1/language/arandai-weriagar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/228112/",
-        "source": "/api/v1/source/voorhoeve-1985/",
-        "source_gloss": null,
-        "word": "/api/v1/word/slowly/"
-    },
-    {
         "added": "2015-06-04T20:14:32.521068",
         "annotation": "",
-        "entry": "nand\u02bcu",
+        "entry": "nand'u",
         "id": 228111,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2028,9 +2016,21 @@
         "word": "/api/v1/word/slow/"
     },
     {
+        "added": "2015-06-04T20:14:32.529030",
+        "annotation": "",
+        "entry": "nand'u",
+        "id": 228112,
+        "language": "/api/v1/language/arandai-weriagar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/228112/",
+        "source": "/api/v1/source/voorhoeve-1985/",
+        "source_gloss": null,
+        "word": "/api/v1/word/slowly/"
+    },
+    {
         "added": "2015-06-04T19:52:37.553905",
         "annotation": "",
-        "entry": "napi\u02bcane",
+        "entry": "napi'ane",
         "id": 228023,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2042,7 +2042,7 @@
     {
         "added": "2015-06-04T20:14:32.439917",
         "annotation": "",
-        "entry": "nar\u02bcame",
+        "entry": "nar'ame",
         "id": 228101,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2054,7 +2054,7 @@
     {
         "added": "2015-06-04T19:31:34.819472",
         "annotation": "",
-        "entry": "natab\u0336\u02bca",
+        "entry": "natab\u0336'a",
         "id": 227883,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2066,7 +2066,7 @@
     {
         "added": "2015-06-04T19:52:37.823159",
         "annotation": "",
-        "entry": "n\u02bcati",
+        "entry": "n'ati",
         "id": 228047,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2078,7 +2078,7 @@
     {
         "added": "2015-06-04T19:31:35.147179",
         "annotation": "",
-        "entry": "nat\u02bcore",
+        "entry": "nat'ore",
         "id": 227921,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2090,7 +2090,7 @@
     {
         "added": "2015-06-04T20:14:32.577069",
         "annotation": "",
-        "entry": "nat\u02bcore e\u01e5\u02bca",
+        "entry": "nat'ore e\u01e5'a",
         "id": 228118,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2102,7 +2102,7 @@
     {
         "added": "2015-06-04T19:31:34.849299",
         "annotation": "",
-        "entry": "natp\u02bcane",
+        "entry": "natp'ane",
         "id": 227887,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2114,7 +2114,7 @@
     {
         "added": "2015-06-04T20:14:32.832033",
         "annotation": "",
-        "entry": "naum\u02bcer",
+        "entry": "naum'er",
         "id": 228149,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2138,7 +2138,7 @@
     {
         "added": "2015-06-04T19:31:35.106653",
         "annotation": "",
-        "entry": "n\u02bcenaneki",
+        "entry": "n'enaneki",
         "id": 227916,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2150,7 +2150,7 @@
     {
         "added": "2015-06-04T20:14:32.463796",
         "annotation": "",
-        "entry": "nenan\u02bciko",
+        "entry": "nenan'iko",
         "id": 228104,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2162,7 +2162,7 @@
     {
         "added": "2015-06-04T20:14:32.824320",
         "annotation": "",
-        "entry": "nen\u02bcune",
+        "entry": "nen'une",
         "id": 228148,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2198,7 +2198,7 @@
     {
         "added": "2015-06-04T19:52:37.142533",
         "annotation": "",
-        "entry": "nik\u02bcara \u01e5u",
+        "entry": "nik'ara \u01e5u",
         "id": 227986,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2210,7 +2210,7 @@
     {
         "added": "2015-06-04T19:31:35.202652",
         "annotation": "",
-        "entry": "nim\u02bcando",
+        "entry": "nim'ando",
         "id": 227925,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2222,7 +2222,7 @@
     {
         "added": "2015-06-04T20:19:56.199081",
         "annotation": "",
-        "entry": "nim\u02bcaro",
+        "entry": "nim'aro",
         "id": 228169,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2234,7 +2234,7 @@
     {
         "added": "2015-06-04T19:52:37.301617",
         "annotation": "",
-        "entry": "ni\u014bg\u02bce",
+        "entry": "ni\u014bg'e",
         "id": 228000,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2246,7 +2246,7 @@
     {
         "added": "2015-06-04T19:52:37.605597",
         "annotation": "",
-        "entry": "n\u02bco\u0111o",
+        "entry": "n'o\u0111o",
         "id": 228029,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2258,7 +2258,7 @@
     {
         "added": "2015-06-04T19:31:35.226866",
         "annotation": "",
-        "entry": "no\u01e5\u02bcapu",
+        "entry": "no\u01e5'apu",
         "id": 227928,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2270,7 +2270,7 @@
     {
         "added": "2015-06-04T19:52:37.806596",
         "annotation": "",
-        "entry": "no\u014bg\u02bcane",
+        "entry": "no\u014bg'ane",
         "id": 228045,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2282,7 +2282,7 @@
     {
         "added": "2015-06-04T19:52:37.839413",
         "annotation": "",
-        "entry": "not\u02bca",
+        "entry": "not'a",
         "id": 228049,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2294,7 +2294,7 @@
     {
         "added": "2015-06-04T20:14:32.792722",
         "annotation": "",
-        "entry": "not\u02bcate",
+        "entry": "not'ate",
         "id": 228144,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2318,7 +2318,7 @@
     {
         "added": "2015-06-04T19:52:37.172772",
         "annotation": "",
-        "entry": "not\u02bcore",
+        "entry": "not'ore",
         "id": 227987,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2330,7 +2330,7 @@
     {
         "added": "2015-06-04T19:52:37.644831",
         "annotation": "",
-        "entry": "nut\u02bca\u0111o",
+        "entry": "nut'a\u0111o",
         "id": 228031,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2342,7 +2342,7 @@
     {
         "added": "2015-06-04T19:31:34.796933",
         "annotation": "",
-        "entry": "\u02bcobane\u0111\u02bce",
+        "entry": "'obane\u0111'e",
         "id": 227880,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2354,7 +2354,7 @@
     {
         "added": "2015-06-04T19:31:35.626281",
         "annotation": "",
-        "entry": "ob\u0336o\u0111\u02bce",
+        "entry": "ob\u0336o\u0111'e",
         "id": 227963,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2366,7 +2366,7 @@
     {
         "added": "2015-06-04T20:19:56.252306",
         "annotation": "",
-        "entry": "o\u0111\u02bcamu",
+        "entry": "o\u0111'amu",
         "id": 228175,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2378,7 +2378,7 @@
     {
         "added": "2015-06-04T20:14:32.865441",
         "annotation": "",
-        "entry": "o\u0111\u02bcano",
+        "entry": "o\u0111'ano",
         "id": 228153,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2390,7 +2390,7 @@
     {
         "added": "2015-06-04T20:14:32.561037",
         "annotation": "",
-        "entry": "o\u0111\u02bce",
+        "entry": "o\u0111'e",
         "id": 228116,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2402,7 +2402,7 @@
     {
         "added": "2015-06-04T20:19:56.156224",
         "annotation": "",
-        "entry": "\u02bco\u01e5ane",
+        "entry": "'o\u01e5ane",
         "id": 228164,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2414,7 +2414,7 @@
     {
         "added": "2015-06-04T20:19:56.208255",
         "annotation": "",
-        "entry": "\u02bcoka",
+        "entry": "'oka",
         "id": 228170,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2426,7 +2426,7 @@
     {
         "added": "2015-06-04T19:52:37.196348",
         "annotation": "",
-        "entry": "ok\u02bca",
+        "entry": "ok'a",
         "id": 227989,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2438,7 +2438,7 @@
     {
         "added": "2015-06-04T20:14:32.168044",
         "annotation": "",
-        "entry": "\u02bcore",
+        "entry": "'ore",
         "id": 228068,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2462,7 +2462,7 @@
     {
         "added": "2015-06-04T20:14:32.761017",
         "annotation": "",
-        "entry": "ot\u02bcate were-",
+        "entry": "ot'ate were-",
         "id": 228140,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2510,7 +2510,7 @@
     {
         "added": "2015-06-04T19:31:35.712520",
         "annotation": "",
-        "entry": "pa\u01e5\u02bcaro",
+        "entry": "pa\u01e5'aro",
         "id": 227973,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2522,7 +2522,7 @@
     {
         "added": "2015-06-04T19:52:37.291694",
         "annotation": "",
-        "entry": "paj\u02bce",
+        "entry": "paj'e",
         "id": 227999,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2546,7 +2546,7 @@
     {
         "added": "2015-06-04T19:52:37.086108",
         "annotation": "",
-        "entry": "pap\u02bcae",
+        "entry": "pap'ae",
         "id": 227980,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2558,7 +2558,7 @@
     {
         "added": "2015-06-04T19:52:37.409574",
         "annotation": "",
-        "entry": "p\u02bcapaka",
+        "entry": "p'apaka",
         "id": 228009,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2582,7 +2582,7 @@
     {
         "added": "2015-06-04T20:14:32.279325",
         "annotation": "",
-        "entry": "pat\u02bca",
+        "entry": "pat'a",
         "id": 228081,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2606,7 +2606,7 @@
     {
         "added": "2015-06-04T19:31:35.007836",
         "annotation": "",
-        "entry": "p\u02bciro\u01e5e",
+        "entry": "p'iro\u01e5e",
         "id": 227906,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2618,7 +2618,7 @@
     {
         "added": "2015-06-04T19:52:37.247130",
         "annotation": "",
-        "entry": "pit\u02bcib\u0336eti\u01e5i",
+        "entry": "pit'ib\u0336eti\u01e5i",
         "id": 227994,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2642,7 +2642,7 @@
     {
         "added": "2015-06-04T20:14:32.189401",
         "annotation": "",
-        "entry": "p\u02bco\u01e5i",
+        "entry": "p'o\u01e5i",
         "id": 228070,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2654,7 +2654,7 @@
     {
         "added": "2015-06-04T19:52:37.730540",
         "annotation": "",
-        "entry": "pur\u02bcuno",
+        "entry": "pur'uno",
         "id": 228040,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2690,7 +2690,7 @@
     {
         "added": "2015-06-04T19:52:37.705655",
         "annotation": "",
-        "entry": "r\u02bcabine",
+        "entry": "r'abine",
         "id": 228037,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2702,7 +2702,7 @@
     {
         "added": "2015-06-04T19:52:37.095426",
         "annotation": "",
-        "entry": "r\u02bca\u0111e",
+        "entry": "r'a\u0111e",
         "id": 227981,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2714,7 +2714,7 @@
     {
         "added": "2015-06-04T20:14:32.618229",
         "annotation": "",
-        "entry": "r\u02bcawar\u02bcara",
+        "entry": "r'awar'ara",
         "id": 228123,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2738,7 +2738,7 @@
     {
         "added": "2015-06-04T19:31:35.516311",
         "annotation": "",
-        "entry": "r\u02bco\u01e5e",
+        "entry": "r'o\u01e5e",
         "id": 227952,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2762,7 +2762,7 @@
     {
         "added": "2015-06-04T19:52:37.597532",
         "annotation": "",
-        "entry": "ron\u02bco",
+        "entry": "ron'o",
         "id": 228028,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2774,7 +2774,7 @@
     {
         "added": "2015-06-04T19:52:37.847439",
         "annotation": "",
-        "entry": "rot\u02bcape",
+        "entry": "rot'ape",
         "id": 228050,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2786,7 +2786,7 @@
     {
         "added": "2015-06-04T19:31:35.487982",
         "annotation": "",
-        "entry": "ruw\u02bca",
+        "entry": "ruw'a",
         "id": 227949,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2810,7 +2810,7 @@
     {
         "added": "2015-06-04T20:14:32.808464",
         "annotation": "",
-        "entry": "tab\u0336\u02bcaku",
+        "entry": "tab\u0336'aku",
         "id": 228146,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2822,7 +2822,7 @@
     {
         "added": "2015-06-04T19:31:35.362048",
         "annotation": "",
-        "entry": "ta\u0111\u02bcaje",
+        "entry": "ta\u0111'aje",
         "id": 227942,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2834,7 +2834,7 @@
     {
         "added": "2015-06-04T20:19:56.164606",
         "annotation": "",
-        "entry": "t\u02bcae",
+        "entry": "t'ae",
         "id": 228165,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2858,7 +2858,7 @@
     {
         "added": "2015-06-04T20:14:32.715292",
         "annotation": "",
-        "entry": "t\u02bcaka-",
+        "entry": "t'aka-",
         "id": 228134,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2870,7 +2870,7 @@
     {
         "added": "2015-06-04T19:31:34.841903",
         "annotation": "",
-        "entry": "tam\u02bcani",
+        "entry": "tam'ani",
         "id": 227886,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2894,7 +2894,7 @@
     {
         "added": "2015-06-04T19:31:35.526231",
         "annotation": "",
-        "entry": "tambur\u02bcare",
+        "entry": "tambur'are",
         "id": 227953,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2906,7 +2906,7 @@
     {
         "added": "2015-06-04T19:31:35.194526",
         "annotation": "",
-        "entry": "ta\u014bgar\u02bca",
+        "entry": "ta\u014bgar'a",
         "id": 227924,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2918,7 +2918,7 @@
     {
         "added": "2015-06-04T20:14:32.447906",
         "annotation": "",
-        "entry": "tap\u02bcatapo",
+        "entry": "tap'atapo",
         "id": 228102,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2930,7 +2930,7 @@
     {
         "added": "2015-06-04T19:52:37.873989",
         "annotation": "",
-        "entry": "tapot\u02bci",
+        "entry": "tapot'i",
         "id": 228053,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2942,7 +2942,7 @@
     {
         "added": "2015-06-04T19:52:37.714332",
         "annotation": "",
-        "entry": "tarag\u02bce",
+        "entry": "tarag'e",
         "id": 228038,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2954,7 +2954,7 @@
     {
         "added": "2015-06-04T19:52:37.255809",
         "annotation": "",
-        "entry": "tar\u02bca\u014bga",
+        "entry": "tar'a\u014bga",
         "id": 227995,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2966,7 +2966,7 @@
     {
         "added": "2015-06-04T20:14:32.455855",
         "annotation": "",
-        "entry": "tat\u02bca",
+        "entry": "tat'a",
         "id": 228103,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2978,7 +2978,7 @@
     {
         "added": "2015-06-04T20:14:32.800351",
         "annotation": "",
-        "entry": "tat\u02bcape",
+        "entry": "tat'ape",
         "id": 228145,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -2990,7 +2990,7 @@
     {
         "added": "2015-06-04T20:14:32.287318",
         "annotation": "",
-        "entry": "t\u02bcatiri",
+        "entry": "t'atiri",
         "id": 228082,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3002,7 +3002,7 @@
     {
         "added": "2015-06-04T20:14:32.627756",
         "annotation": "",
-        "entry": "tep\u02bcu",
+        "entry": "tep'u",
         "id": 228124,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3014,7 +3014,7 @@
     {
         "added": "2015-06-04T19:52:37.123604",
         "annotation": "",
-        "entry": "t\u02bceramu",
+        "entry": "t'eramu",
         "id": 227984,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3026,7 +3026,7 @@
     {
         "added": "2015-06-04T19:52:37.546147",
         "annotation": "",
-        "entry": "t\u02bceroko",
+        "entry": "t'eroko",
         "id": 228022,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3038,7 +3038,7 @@
     {
         "added": "2015-06-04T20:14:32.367341",
         "annotation": "",
-        "entry": "tet\u02bcapire",
+        "entry": "tet'apire",
         "id": 228092,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3050,7 +3050,7 @@
     {
         "added": "2015-06-04T19:52:37.694511",
         "annotation": "",
-        "entry": "ti\u02bcango",
+        "entry": "ti'ango",
         "id": 228036,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3074,7 +3074,7 @@
     {
         "added": "2015-06-04T19:31:35.284700",
         "annotation": "",
-        "entry": "tig\u02bcatiga",
+        "entry": "tig'atiga",
         "id": 227935,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3086,7 +3086,7 @@
     {
         "added": "2015-06-04T19:31:34.871793",
         "annotation": "",
-        "entry": "timb\u02bci",
+        "entry": "timb'i",
         "id": 227890,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3098,7 +3098,7 @@
     {
         "added": "2015-06-04T19:31:34.948481",
         "annotation": "",
-        "entry": "tin\u02bcane",
+        "entry": "tin'ane",
         "id": 227899,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3110,7 +3110,7 @@
     {
         "added": "2015-06-04T19:31:35.321252",
         "annotation": "",
-        "entry": "t\u02bcipaje",
+        "entry": "t'ipaje",
         "id": 227937,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3134,7 +3134,7 @@
     {
         "added": "2015-06-04T20:14:32.335337",
         "annotation": "",
-        "entry": "tir\u02bca",
+        "entry": "tir'a",
         "id": 228088,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3146,7 +3146,7 @@
     {
         "added": "2015-06-04T19:52:37.489889",
         "annotation": "",
-        "entry": "tit\u02bcare",
+        "entry": "tit'are",
         "id": 228018,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3158,7 +3158,7 @@
     {
         "added": "2015-06-04T19:31:35.479023",
         "annotation": "",
-        "entry": "titik\u02bcana-",
+        "entry": "titik'ana-",
         "id": 227948,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3170,7 +3170,7 @@
     {
         "added": "2015-06-04T19:31:34.906509",
         "annotation": "",
-        "entry": "tit\u02bcinepa",
+        "entry": "tit'inepa",
         "id": 227894,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3182,7 +3182,7 @@
     {
         "added": "2015-06-04T19:31:35.210752",
         "annotation": "",
-        "entry": "tit\u02bcireno",
+        "entry": "tit'ireno",
         "id": 227926,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3194,7 +3194,7 @@
     {
         "added": "2015-06-04T19:52:37.796905",
         "annotation": "",
-        "entry": "tiw\u02bci",
+        "entry": "tiw'i",
         "id": 228044,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3206,7 +3206,7 @@
     {
         "added": "2015-06-04T20:19:56.172940",
         "annotation": "",
-        "entry": "t\u02bciwiwi",
+        "entry": "t'iwiwi",
         "id": 228166,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3218,7 +3218,7 @@
     {
         "added": "2015-06-04T20:14:32.295308",
         "annotation": "",
-        "entry": "to\u0111\u02bcab\u0336e",
+        "entry": "to\u0111'ab\u0336e",
         "id": 228083,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3230,7 +3230,7 @@
     {
         "added": "2015-06-04T20:14:32.319298",
         "annotation": "",
-        "entry": "t\u02bcoe",
+        "entry": "t'oe",
         "id": 228086,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3242,7 +3242,7 @@
     {
         "added": "2015-06-04T19:52:37.929903",
         "annotation": "",
-        "entry": "to\u01e5o\u0111\u02bce",
+        "entry": "to\u01e5o\u0111'e",
         "id": 228059,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3254,7 +3254,7 @@
     {
         "added": "2015-06-04T20:14:32.722961",
         "annotation": "",
-        "entry": "togut\u02bci",
+        "entry": "togut'i",
         "id": 228135,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3266,7 +3266,7 @@
     {
         "added": "2015-06-04T19:31:35.065810",
         "annotation": "",
-        "entry": "tok\u02bce",
+        "entry": "tok'e",
         "id": 227911,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3278,7 +3278,7 @@
     {
         "added": "2015-06-04T19:52:37.218668",
         "annotation": "",
-        "entry": "tomb\u02bcate",
+        "entry": "tomb'ate",
         "id": 227991,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3290,7 +3290,7 @@
     {
         "added": "2015-06-04T19:52:37.971837",
         "annotation": "",
-        "entry": "ton\u02bce",
+        "entry": "ton'e",
         "id": 228064,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3302,7 +3302,7 @@
     {
         "added": "2015-06-04T20:14:32.327272",
         "annotation": "",
-        "entry": "tow\u02bco",
+        "entry": "tow'o",
         "id": 228087,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3314,7 +3314,7 @@
     {
         "added": "2015-06-04T19:31:34.864335",
         "annotation": "",
-        "entry": "t\u02bcuare",
+        "entry": "t'uare",
         "id": 227889,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3326,7 +3326,7 @@
     {
         "added": "2015-06-04T19:31:35.450748",
         "annotation": "",
-        "entry": "tu\u02bcayna",
+        "entry": "tu'ayna",
         "id": 227945,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3338,7 +3338,7 @@
     {
         "added": "2015-06-04T20:14:32.150157",
         "annotation": "",
-        "entry": "tu\u01e5e\u0111\u02bco",
+        "entry": "tu\u01e5e\u0111'o",
         "id": 228066,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3350,7 +3350,7 @@
     {
         "added": "2015-06-04T19:52:37.561976",
         "annotation": "",
-        "entry": "t\u02bcunuke",
+        "entry": "t'unuke",
         "id": 228024,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3362,7 +3362,7 @@
     {
         "added": "2015-06-04T19:52:37.349518",
         "annotation": "",
-        "entry": "t\u02bcutu",
+        "entry": "t'utu",
         "id": 228005,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3374,7 +3374,7 @@
     {
         "added": "2015-06-04T20:19:56.105516",
         "annotation": "",
-        "entry": "tut\u02bcu",
+        "entry": "tut'u",
         "id": 228158,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3398,7 +3398,7 @@
     {
         "added": "2015-06-04T19:52:37.855631",
         "annotation": "",
-        "entry": "uk\u02bcato",
+        "entry": "uk'ato",
         "id": 228051,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3410,7 +3410,7 @@
     {
         "added": "2015-06-04T19:31:35.268471",
         "annotation": "",
-        "entry": "\u02bcumarow",
+        "entry": "'umarow",
         "id": 227933,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3422,7 +3422,7 @@
     {
         "added": "2015-06-04T19:31:34.888922",
         "annotation": "",
-        "entry": "und\u02bci",
+        "entry": "und'i",
         "id": 227892,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3434,7 +3434,7 @@
     {
         "added": "2015-06-04T20:14:32.239133",
         "annotation": "",
-        "entry": "\u02bcura\u014bge",
+        "entry": "'ura\u014bge",
         "id": 228076,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3446,7 +3446,7 @@
     {
         "added": "2015-06-04T20:14:32.609292",
         "annotation": "",
-        "entry": "ur\u02bcoko",
+        "entry": "ur'oko",
         "id": 228122,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3482,7 +3482,7 @@
     {
         "added": "2015-06-04T20:14:32.247206",
         "annotation": "",
-        "entry": "war\u02bcato",
+        "entry": "war'ato",
         "id": 228077,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3494,7 +3494,7 @@
     {
         "added": "2015-06-04T20:14:32.230852",
         "annotation": "",
-        "entry": "w\u02bcarawara",
+        "entry": "w'arawara",
         "id": 228075,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3506,7 +3506,7 @@
     {
         "added": "2015-06-04T19:52:37.357916",
         "annotation": "",
-        "entry": "watut\u02bcunu",
+        "entry": "watut'unu",
         "id": 228006,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3518,7 +3518,7 @@
     {
         "added": "2015-06-04T19:52:37.264643",
         "annotation": "",
-        "entry": "wenak\u02bcayndo",
+        "entry": "wenak'ayndo",
         "id": 227996,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3530,7 +3530,7 @@
     {
         "added": "2015-06-04T19:52:37.530095",
         "annotation": "",
-        "entry": "w\u02bceti",
+        "entry": "w'eti",
         "id": 228020,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3542,7 +3542,7 @@
     {
         "added": "2015-06-04T20:14:32.585123",
         "annotation": "",
-        "entry": "w\u02bceyto",
+        "entry": "w'eyto",
         "id": 228119,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3554,7 +3554,7 @@
     {
         "added": "2015-06-04T19:52:37.570287",
         "annotation": "",
-        "entry": "widet\u02bcino",
+        "entry": "widet'ino",
         "id": 228025,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3566,7 +3566,7 @@
     {
         "added": "2015-06-04T19:52:37.076529",
         "annotation": "",
-        "entry": "wir\u02bciku",
+        "entry": "wir'iku",
         "id": 227979,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3578,7 +3578,7 @@
     {
         "added": "2015-06-04T20:14:32.431709",
         "annotation": "",
-        "entry": "witik\u02bce",
+        "entry": "witik'e",
         "id": 228100,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3590,7 +3590,7 @@
     {
         "added": "2015-06-04T19:31:34.973896",
         "annotation": "",
-        "entry": "wiw\u02bcirib\u0336eni",
+        "entry": "wiw'irib\u0336eni",
         "id": 227902,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,
@@ -3602,7 +3602,7 @@
     {
         "added": "2015-06-04T19:52:37.538000",
         "annotation": "",
-        "entry": "wuk\u02bco",
+        "entry": "wuk'o",
         "id": 228021,
         "language": "/api/v1/language/arandai-weriagar/",
         "loan": false,

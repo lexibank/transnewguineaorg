@@ -2,7 +2,7 @@
     {
         "added": "2015-06-11T05:19:22.416098",
         "annotation": "",
-        "entry": "\u02bcaet",
+        "entry": "'aet",
         "id": 231689,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -14,7 +14,7 @@
     {
         "added": "2015-06-09T01:26:01.663258",
         "annotation": "",
-        "entry": "agag\u02bcae",
+        "entry": "agag'ae",
         "id": 231213,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -26,7 +26,7 @@
     {
         "added": "2015-06-11T05:19:23.360494",
         "annotation": "",
-        "entry": "ak\u02bcan",
+        "entry": "ak'an",
         "id": 231779,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -38,7 +38,7 @@
     {
         "added": "2015-06-11T05:19:22.598863",
         "annotation": "",
-        "entry": "ak\u02bcao",
+        "entry": "ak'ao",
         "id": 231708,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -50,7 +50,7 @@
     {
         "added": "2015-06-11T05:19:22.580954",
         "annotation": "",
-        "entry": "ak\u02bcot ag\u02bcor",
+        "entry": "ak'ot ag'or",
         "id": 231706,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -62,7 +62,7 @@
     {
         "added": "2015-06-09T01:26:01.869630",
         "annotation": "",
-        "entry": "ak\u02bcot rab\u02bcin",
+        "entry": "ak'ot rab'in",
         "id": 231237,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -74,7 +74,7 @@
     {
         "added": "2015-06-11T05:19:23.214527",
         "annotation": "",
-        "entry": "\u02bcakur",
+        "entry": "'akur",
         "id": 231761,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -86,7 +86,7 @@
     {
         "added": "2015-06-11T05:19:23.368463",
         "annotation": "",
-        "entry": "aman\u02bcabe",
+        "entry": "aman'abe",
         "id": 231780,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -98,7 +98,7 @@
     {
         "added": "2015-06-09T01:26:02.011675",
         "annotation": "",
-        "entry": "aman\u02bcabo k\u02bcaite",
+        "entry": "aman'abo k'aite",
         "id": 231251,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -110,7 +110,7 @@
     {
         "added": "2015-06-11T05:29:40.433919",
         "annotation": "",
-        "entry": "amat\u02bcuo",
+        "entry": "amat'uo",
         "id": 231815,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -122,7 +122,7 @@
     {
         "added": "2015-06-09T01:26:01.683706",
         "annotation": "",
-        "entry": "ambint\u02bcano",
+        "entry": "ambint'ano",
         "id": 231214,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -146,7 +146,7 @@
     {
         "added": "2015-06-11T05:19:23.085651",
         "annotation": "",
-        "entry": "and\u02bca",
+        "entry": "and'a",
         "id": 231749,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -158,7 +158,7 @@
     {
         "added": "2015-06-09T01:26:01.829846",
         "annotation": "",
-        "entry": "ap\u02bcato",
+        "entry": "ap'ato",
         "id": 231232,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -170,7 +170,7 @@
     {
         "added": "2015-06-11T05:19:22.643089",
         "annotation": "",
-        "entry": "aram\u02bcani",
+        "entry": "aram'ani",
         "id": 231713,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -182,7 +182,7 @@
     {
         "added": "2015-06-11T05:19:22.797323",
         "annotation": "",
-        "entry": "ar\u02bcatia-",
+        "entry": "ar'atia-",
         "id": 231727,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -194,7 +194,7 @@
     {
         "added": "2015-06-11T05:29:40.425810",
         "annotation": "",
-        "entry": "\u02bcarie",
+        "entry": "'arie",
         "id": 231814,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -206,7 +206,7 @@
     {
         "added": "2015-06-11T05:29:40.275568",
         "annotation": "",
-        "entry": "ar\u02bcoy",
+        "entry": "ar'oy",
         "id": 231803,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -216,21 +216,9 @@
         "word": "/api/v1/word/three/"
     },
     {
-        "added": "2015-06-11T05:19:23.287381",
-        "annotation": "",
-        "entry": "ar\u02bcut",
-        "id": 231770,
-        "language": "/api/v1/language/arandai-sebyar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231770/",
-        "source": "/api/v1/source/voorhoeve-1985/",
-        "source_gloss": null,
-        "word": "/api/v1/word/scar/"
-    },
-    {
         "added": "2015-06-11T05:29:40.593879",
         "annotation": "",
-        "entry": "ar\u02bcut",
+        "entry": "ar'ut",
         "id": 231827,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -240,9 +228,21 @@
         "word": "/api/v1/word/sore-wound/"
     },
     {
+        "added": "2015-06-11T05:19:23.287381",
+        "annotation": "",
+        "entry": "ar'ut",
+        "id": 231770,
+        "language": "/api/v1/language/arandai-sebyar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231770/",
+        "source": "/api/v1/source/voorhoeve-1985/",
+        "source_gloss": null,
+        "word": "/api/v1/word/scar/"
+    },
+    {
         "added": "2015-06-11T05:29:40.223100",
         "annotation": "",
-        "entry": "\u02bcatabo",
+        "entry": "'atabo",
         "id": 231797,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -254,7 +254,7 @@
     {
         "added": "2015-06-09T01:26:01.805841",
         "annotation": "",
-        "entry": "atar\u02bcae",
+        "entry": "atar'ae",
         "id": 231229,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -266,7 +266,7 @@
     {
         "added": "2015-06-09T01:26:02.146186",
         "annotation": "",
-        "entry": "at\u02bcop",
+        "entry": "at'op",
         "id": 231266,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -278,7 +278,7 @@
     {
         "added": "2015-06-09T01:26:02.126012",
         "annotation": "",
-        "entry": "ayn\u02bcabe",
+        "entry": "ayn'abe",
         "id": 231264,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -290,7 +290,7 @@
     {
         "added": "2015-06-11T05:19:22.805613",
         "annotation": "",
-        "entry": "b\u02bca\u014bgo",
+        "entry": "b'a\u014bgo",
         "id": 231728,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -302,7 +302,7 @@
     {
         "added": "2015-06-11T05:19:23.063968",
         "annotation": "",
-        "entry": "b\u02bcatao",
+        "entry": "b'atao",
         "id": 231747,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -314,7 +314,7 @@
     {
         "added": "2015-06-11T05:19:23.143260",
         "annotation": "",
-        "entry": "bek\u02bcae",
+        "entry": "bek'ae",
         "id": 231753,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -326,7 +326,7 @@
     {
         "added": "2015-06-11T05:29:40.267312",
         "annotation": "",
-        "entry": "big\u02bcobo",
+        "entry": "big'obo",
         "id": 231802,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -350,7 +350,7 @@
     {
         "added": "2015-06-09T01:26:01.732574",
         "annotation": "",
-        "entry": "bot\u02bcanomo",
+        "entry": "bot'anomo",
         "id": 231220,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -362,7 +362,7 @@
     {
         "added": "2015-06-11T05:19:23.046952",
         "annotation": "",
-        "entry": "b\u02bcoyti",
+        "entry": "b'oyti",
         "id": 231745,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -374,7 +374,7 @@
     {
         "added": "2015-06-11T05:19:22.512780",
         "annotation": "",
-        "entry": "buk\u02bco",
+        "entry": "buk'o",
         "id": 231701,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -386,7 +386,7 @@
     {
         "added": "2015-06-11T05:19:23.319503",
         "annotation": "",
-        "entry": "b\u02bcukumi",
+        "entry": "b'ukumi",
         "id": 231774,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -398,7 +398,7 @@
     {
         "added": "2015-06-09T01:26:02.108744",
         "annotation": "",
-        "entry": "dab\u02bcore",
+        "entry": "dab'ore",
         "id": 231262,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -410,7 +410,7 @@
     {
         "added": "2015-06-11T05:19:22.545109",
         "annotation": "",
-        "entry": "d\u02bcadi",
+        "entry": "d'adi",
         "id": 231704,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -422,7 +422,7 @@
     {
         "added": "2015-06-11T05:19:23.182045",
         "annotation": "",
-        "entry": "d\u02bcanet",
+        "entry": "d'anet",
         "id": 231757,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -446,7 +446,7 @@
     {
         "added": "2015-06-09T01:26:02.058785",
         "annotation": "",
-        "entry": "dondon\u02bca-",
+        "entry": "dondon'a-",
         "id": 231256,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -458,7 +458,7 @@
     {
         "added": "2015-06-09T01:26:01.885772",
         "annotation": "",
-        "entry": "dud\u0300\u02bco",
+        "entry": "dud\u0300'o",
         "id": 231239,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -470,7 +470,7 @@
     {
         "added": "2015-06-09T01:26:02.024058",
         "annotation": "",
-        "entry": "ek\u02bcake",
+        "entry": "ek'ake",
         "id": 231252,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -482,7 +482,7 @@
     {
         "added": "2015-06-11T05:19:22.668000",
         "annotation": "",
-        "entry": "ek\u02bcambe",
+        "entry": "ek'ambe",
         "id": 231716,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -506,7 +506,7 @@
     {
         "added": "2015-06-11T05:19:23.384833",
         "annotation": "",
-        "entry": "em\u02bcag",
+        "entry": "em'ag",
         "id": 231782,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -518,7 +518,7 @@
     {
         "added": "2015-06-09T01:26:01.945094",
         "annotation": "",
-        "entry": "e\u014bg\u02bceno",
+        "entry": "e\u014bg'eno",
         "id": 231246,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -530,7 +530,7 @@
     {
         "added": "2015-06-11T05:19:22.977903",
         "annotation": "",
-        "entry": "ereben\u02bce",
+        "entry": "ereben'e",
         "id": 231740,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -542,7 +542,7 @@
     {
         "added": "2015-06-11T05:19:22.609483",
         "annotation": "",
-        "entry": "et\u02bcero",
+        "entry": "et'ero",
         "id": 231709,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -566,7 +566,7 @@
     {
         "added": "2015-06-11T05:19:23.238520",
         "annotation": "",
-        "entry": "ey\u02bcabe",
+        "entry": "ey'abe",
         "id": 231764,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -578,7 +578,7 @@
     {
         "added": "2015-06-11T05:19:22.860585",
         "annotation": "",
-        "entry": "gab\u02bcaro",
+        "entry": "gab'aro",
         "id": 231734,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -590,7 +590,7 @@
     {
         "added": "2015-06-11T05:29:40.521862",
         "annotation": "",
-        "entry": "g\u02bcadi",
+        "entry": "g'adi",
         "id": 231821,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -602,7 +602,7 @@
     {
         "added": "2015-06-11T05:19:23.352206",
         "annotation": "",
-        "entry": "gend\u02bci",
+        "entry": "gend'i",
         "id": 231778,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -614,7 +614,7 @@
     {
         "added": "2015-06-09T01:26:02.083669",
         "annotation": "",
-        "entry": "ge\u014bged\u02bcore",
+        "entry": "ge\u014bged'ore",
         "id": 231259,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -626,7 +626,7 @@
     {
         "added": "2015-06-11T05:19:22.693167",
         "annotation": "",
-        "entry": "gir\u02bcini",
+        "entry": "gir'ini",
         "id": 231719,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -638,7 +638,7 @@
     {
         "added": "2015-06-09T01:26:01.700129",
         "annotation": "",
-        "entry": "ibi k\u02bcebe",
+        "entry": "ibi k'ebe",
         "id": 231216,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -650,7 +650,7 @@
     {
         "added": "2015-06-11T05:19:22.504578",
         "annotation": "",
-        "entry": "id\u02bcati",
+        "entry": "id'ati",
         "id": 231700,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -674,7 +674,7 @@
     {
         "added": "2015-06-11T05:19:22.440333",
         "annotation": "",
-        "entry": "in\u02bceti",
+        "entry": "in'eti",
         "id": 231692,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -686,7 +686,7 @@
     {
         "added": "2015-06-11T05:19:22.472468",
         "annotation": "",
-        "entry": "i\u014bg\u02bcibuk\u02bce",
+        "entry": "i\u014bg'ibuk'e",
         "id": 231696,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -698,7 +698,7 @@
     {
         "added": "2015-06-09T01:26:01.853720",
         "annotation": "",
-        "entry": "\u02bci\u014bgin",
+        "entry": "'i\u014bgin",
         "id": 231235,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -710,7 +710,7 @@
     {
         "added": "2015-06-11T05:29:40.173994",
         "annotation": "",
-        "entry": "it\u02bcaine",
+        "entry": "it'aine",
         "id": 231791,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -734,7 +734,7 @@
     {
         "added": "2015-06-11T05:29:40.386826",
         "annotation": "",
-        "entry": "kakam\u02bcao",
+        "entry": "kakam'ao",
         "id": 231811,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -746,7 +746,7 @@
     {
         "added": "2015-06-11T05:19:22.844108",
         "annotation": "",
-        "entry": "kakam\u02bcori",
+        "entry": "kakam'ori",
         "id": 231732,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -758,7 +758,7 @@
     {
         "added": "2015-06-09T01:26:01.996376",
         "annotation": "",
-        "entry": "k\u02bcambete",
+        "entry": "k'ambete",
         "id": 231250,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -770,7 +770,7 @@
     {
         "added": "2015-06-11T05:19:22.827485",
         "annotation": "",
-        "entry": "kam\u02bcungo",
+        "entry": "kam'ungo",
         "id": 231730,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -794,7 +794,7 @@
     {
         "added": "2015-06-11T05:19:22.626368",
         "annotation": "",
-        "entry": "kar\u02bcar",
+        "entry": "kar'ar",
         "id": 231711,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -806,7 +806,7 @@
     {
         "added": "2015-06-11T05:19:22.424184",
         "annotation": "",
-        "entry": "karar\u02bco",
+        "entry": "karar'o",
         "id": 231690,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -818,7 +818,7 @@
     {
         "added": "2015-06-11T05:19:23.278524",
         "annotation": "",
-        "entry": "k\u02bcawtene",
+        "entry": "k'awtene",
         "id": 231769,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -830,7 +830,7 @@
     {
         "added": "2015-06-11T05:19:22.401329",
         "annotation": "",
-        "entry": "k\u02bcayto",
+        "entry": "k'ayto",
         "id": 231688,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -842,7 +842,7 @@
     {
         "added": "2015-06-11T05:29:40.584669",
         "annotation": "",
-        "entry": "ked\u02bceno",
+        "entry": "ked'eno",
         "id": 231826,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -854,7 +854,7 @@
     {
         "added": "2015-06-09T01:26:02.171496",
         "annotation": "",
-        "entry": "ke\u0111\u02bcu",
+        "entry": "ke\u0111'u",
         "id": 231269,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -902,7 +902,7 @@
     {
         "added": "2015-06-11T05:29:40.364296",
         "annotation": "",
-        "entry": "kem\u02bcino",
+        "entry": "kem'ino",
         "id": 231810,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -926,7 +926,7 @@
     {
         "added": "2015-06-11T05:19:22.448340",
         "annotation": "",
-        "entry": "ker\u02bcikomo",
+        "entry": "ker'ikomo",
         "id": 231693,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -938,7 +938,7 @@
     {
         "added": "2015-06-11T05:19:23.392789",
         "annotation": "",
-        "entry": "kik\u02bciba-",
+        "entry": "kik'iba-",
         "id": 231783,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -950,7 +950,7 @@
     {
         "added": "2015-06-11T05:19:22.939035",
         "annotation": "",
-        "entry": "kikib\u02bcino",
+        "entry": "kikib'ino",
         "id": 231737,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -962,7 +962,7 @@
     {
         "added": "2015-06-11T05:19:23.270471",
         "annotation": "",
-        "entry": "kind\u02bcai",
+        "entry": "kind'ai",
         "id": 231768,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -974,7 +974,7 @@
     {
         "added": "2015-06-09T01:26:01.901775",
         "annotation": "",
-        "entry": "komb\u02bcir",
+        "entry": "komb'ir",
         "id": 231241,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -986,7 +986,7 @@
     {
         "added": "2015-06-11T05:19:22.819142",
         "annotation": "",
-        "entry": "k\u02bcono",
+        "entry": "k'ono",
         "id": 231729,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -998,7 +998,7 @@
     {
         "added": "2015-06-11T05:19:23.152005",
         "annotation": "",
-        "entry": "kop\u02bco",
+        "entry": "kop'o",
         "id": 231754,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1010,7 +1010,7 @@
     {
         "added": "2015-06-11T05:19:22.729422",
         "annotation": "",
-        "entry": "kot\u02bce tete-",
+        "entry": "kot'e tete-",
         "id": 231722,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1022,7 +1022,7 @@
     {
         "added": "2015-06-09T01:26:01.984447",
         "annotation": "",
-        "entry": "kudur\u02bcugo",
+        "entry": "kudur'ugo",
         "id": 231249,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1046,7 +1046,7 @@
     {
         "added": "2015-06-11T05:19:22.488536",
         "annotation": "",
-        "entry": "kum\u02bcanduro",
+        "entry": "kum'anduro",
         "id": 231698,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1058,7 +1058,7 @@
     {
         "added": "2015-06-11T05:19:22.367700",
         "annotation": "",
-        "entry": "k\u02bcuo",
+        "entry": "k'uo",
         "id": 231685,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1082,7 +1082,7 @@
     {
         "added": "2015-06-11T05:19:23.295374",
         "annotation": "",
-        "entry": "ma\u014bgam\u02bcun",
+        "entry": "ma\u014bgam'un",
         "id": 231771,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1094,7 +1094,7 @@
     {
         "added": "2015-06-11T05:19:22.676318",
         "annotation": "",
-        "entry": "mani\u02bcago",
+        "entry": "mani'ago",
         "id": 231717,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1106,7 +1106,7 @@
     {
         "added": "2015-06-11T05:29:40.442054",
         "annotation": "",
-        "entry": "m\u02bcare",
+        "entry": "m'are",
         "id": 231816,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1130,7 +1130,7 @@
     {
         "added": "2015-06-11T05:19:22.928274",
         "annotation": "",
-        "entry": "medam\u02bco",
+        "entry": "medam'o",
         "id": 231736,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1142,7 +1142,7 @@
     {
         "added": "2015-06-11T05:29:40.576452",
         "annotation": "",
-        "entry": "med\u02bcide",
+        "entry": "med'ide",
         "id": 231825,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1166,7 +1166,7 @@
     {
         "added": "2015-06-09T01:26:01.877750",
         "annotation": "",
-        "entry": "met\u02bcange",
+        "entry": "met'ange",
         "id": 231238,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1178,7 +1178,7 @@
     {
         "added": "2015-06-11T05:29:40.568308",
         "annotation": "",
-        "entry": "mi\u014bg\u02bca",
+        "entry": "mi\u014bg'a",
         "id": 231824,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1214,7 +1214,7 @@
     {
         "added": "2015-06-11T05:19:23.222450",
         "annotation": "",
-        "entry": "m\u02bcukuro",
+        "entry": "m'ukuro",
         "id": 231762,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1226,7 +1226,7 @@
     {
         "added": "2015-06-09T01:26:01.927688",
         "annotation": "",
-        "entry": "m\u02bcumuo",
+        "entry": "m'umuo",
         "id": 231244,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1250,7 +1250,7 @@
     {
         "added": "2015-06-11T05:19:22.634696",
         "annotation": "",
-        "entry": "naak\u02bcabe",
+        "entry": "naak'abe",
         "id": 231712,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1262,7 +1262,7 @@
     {
         "added": "2015-06-11T05:29:40.339747",
         "annotation": "",
-        "entry": "naane\u02bcune",
+        "entry": "naane'une",
         "id": 231807,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1274,7 +1274,7 @@
     {
         "added": "2015-06-11T05:19:22.392943",
         "annotation": "",
-        "entry": "naem\u02bcago",
+        "entry": "naem'ago",
         "id": 231687,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1286,7 +1286,7 @@
     {
         "added": "2015-06-11T05:19:23.075008",
         "annotation": "",
-        "entry": "na\u02bcindare",
+        "entry": "na'indare",
         "id": 231748,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1298,7 +1298,7 @@
     {
         "added": "2015-06-11T05:19:22.617997",
         "annotation": "",
-        "entry": "n\u02bcakabat\u02bcuno",
+        "entry": "n'akabat'uno",
         "id": 231710,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1310,7 +1310,7 @@
     {
         "added": "2015-06-11T05:29:40.242621",
         "annotation": "",
-        "entry": "n\u02bcakebin\u02bca",
+        "entry": "n'akebin'a",
         "id": 231799,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1322,7 +1322,7 @@
     {
         "added": "2015-06-09T01:26:02.163557",
         "annotation": "",
-        "entry": "naker\u02bca",
+        "entry": "naker'a",
         "id": 231268,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1334,7 +1334,7 @@
     {
         "added": "2015-06-09T01:26:01.789848",
         "annotation": "",
-        "entry": "nakot\u02bcene",
+        "entry": "nakot'ene",
         "id": 231227,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1346,7 +1346,7 @@
     {
         "added": "2015-06-09T01:26:01.893794",
         "annotation": "",
-        "entry": "n\u02bcani rab\u02bcin",
+        "entry": "n'ani rab'in",
         "id": 231240,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1358,7 +1358,7 @@
     {
         "added": "2015-06-11T05:19:23.335645",
         "annotation": "",
-        "entry": "n\u02bcan ked\u02bceno",
+        "entry": "n'an ked'eno",
         "id": 231776,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1370,7 +1370,7 @@
     {
         "added": "2015-06-09T01:26:01.716276",
         "annotation": "",
-        "entry": "natab\u02bca",
+        "entry": "natab'a",
         "id": 231218,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1382,7 +1382,7 @@
     {
         "added": "2015-06-09T01:26:01.756496",
         "annotation": "",
-        "entry": "natip\u02bcam tok\u02bce",
+        "entry": "natip'am tok'e",
         "id": 231223,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1394,7 +1394,7 @@
     {
         "added": "2015-06-09T01:26:01.748590",
         "annotation": "",
-        "entry": "natop\u02bcam",
+        "entry": "natop'am",
         "id": 231222,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1406,7 +1406,7 @@
     {
         "added": "2015-06-11T05:29:40.347906",
         "annotation": "",
-        "entry": "naum\u02bcer",
+        "entry": "naum'er",
         "id": 231808,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1418,7 +1418,7 @@
     {
         "added": "2015-06-09T01:26:02.033541",
         "annotation": "",
-        "entry": "n\u02bcauru",
+        "entry": "n'auru",
         "id": 231253,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1454,7 +1454,7 @@
     {
         "added": "2015-06-11T05:19:22.383187",
         "annotation": "",
-        "entry": "net\u02bcugedo",
+        "entry": "net'ugedo",
         "id": 231686,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1462,18 +1462,6 @@
         "source": "/api/v1/source/voorhoeve-1985/",
         "source_gloss": null,
         "word": "/api/v1/word/elbow/"
-    },
-    {
-        "added": "2015-06-09T01:26:02.187464",
-        "annotation": "",
-        "entry": "ni-",
-        "id": 231271,
-        "language": "/api/v1/language/arandai-sebyar/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/231271/",
-        "source": "/api/v1/source/voorhoeve-1985/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2015-06-11T05:19:21.618766",
@@ -1488,9 +1476,21 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2015-06-09T01:26:02.187464",
+        "annotation": "",
+        "entry": "ni-",
+        "id": 231271,
+        "language": "/api/v1/language/arandai-sebyar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/231271/",
+        "source": "/api/v1/source/voorhoeve-1985/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
         "added": "2015-06-11T05:29:40.559974",
         "annotation": "",
-        "entry": "nim\u02bcare",
+        "entry": "nim'are",
         "id": 231823,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1502,7 +1502,7 @@
     {
         "added": "2015-06-11T05:19:22.553122",
         "annotation": "",
-        "entry": "ni\u014bg\u02bce",
+        "entry": "ni\u014bg'e",
         "id": 231705,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1514,7 +1514,7 @@
     {
         "added": "2015-06-11T05:19:22.432267",
         "annotation": "",
-        "entry": "nombo meme\u014bg\u02bco",
+        "entry": "nombo meme\u014bg'o",
         "id": 231691,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1526,7 +1526,7 @@
     {
         "added": "2015-06-11T05:19:23.017938",
         "annotation": "",
-        "entry": "nomb\u02bcometi",
+        "entry": "nomb'ometi",
         "id": 231742,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1538,7 +1538,7 @@
     {
         "added": "2015-06-09T01:26:01.708246",
         "annotation": "",
-        "entry": "n\u02bcomboro",
+        "entry": "n'omboro",
         "id": 231217,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1550,7 +1550,7 @@
     {
         "added": "2015-06-11T05:19:22.767922",
         "annotation": "",
-        "entry": "nop\u02bcine kap",
+        "entry": "nop'ine kap",
         "id": 231724,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1562,7 +1562,7 @@
     {
         "added": "2015-06-11T05:19:23.038504",
         "annotation": "",
-        "entry": "not\u02bcae",
+        "entry": "not'ae",
         "id": 231744,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1574,7 +1574,7 @@
     {
         "added": "2015-06-11T05:29:40.283749",
         "annotation": "",
-        "entry": "not\u02bcatu",
+        "entry": "not'atu",
         "id": 231804,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1586,7 +1586,7 @@
     {
         "added": "2015-06-11T05:29:40.093661",
         "annotation": "",
-        "entry": "n\u02bcotor a\u014bg\u02bcane",
+        "entry": "n'otor a\u014bg'ane",
         "id": 231786,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1598,7 +1598,7 @@
     {
         "added": "2015-06-09T01:26:01.936238",
         "annotation": "",
-        "entry": "not\u02bcor imb\u02bcan",
+        "entry": "not'or imb'an",
         "id": 231245,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1610,7 +1610,7 @@
     {
         "added": "2015-06-11T05:19:22.496561",
         "annotation": "",
-        "entry": "not\u02bcoru",
+        "entry": "not'oru",
         "id": 231699,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1622,7 +1622,7 @@
     {
         "added": "2015-06-11T05:29:40.513661",
         "annotation": "",
-        "entry": "nu\u014bg\u02bcay",
+        "entry": "nu\u014bg'ay",
         "id": 231820,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1634,7 +1634,7 @@
     {
         "added": "2015-06-09T01:26:01.797809",
         "annotation": "",
-        "entry": "og\u02bca",
+        "entry": "og'a",
         "id": 231228,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1646,7 +1646,7 @@
     {
         "added": "2015-06-11T05:29:40.394955",
         "annotation": "",
-        "entry": "og\u02bci",
+        "entry": "og'i",
         "id": 231812,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1658,7 +1658,7 @@
     {
         "added": "2015-06-11T05:19:23.190172",
         "annotation": "",
-        "entry": "og\u02bcoge",
+        "entry": "og'oge",
         "id": 231758,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1682,7 +1682,7 @@
     {
         "added": "2015-06-11T05:19:23.172962",
         "annotation": "",
-        "entry": "\u02bcore",
+        "entry": "'ore",
         "id": 231756,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1694,7 +1694,7 @@
     {
         "added": "2015-06-11T05:29:40.042553",
         "annotation": "",
-        "entry": "orot\u02bcano",
+        "entry": "orot'ano",
         "id": 231784,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1706,7 +1706,7 @@
     {
         "added": "2015-06-11T05:29:40.250912",
         "annotation": "",
-        "entry": "ot\u02bcatu ere-",
+        "entry": "ot'atu ere-",
         "id": 231800,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1718,7 +1718,7 @@
     {
         "added": "2015-06-11T05:29:40.529999",
         "annotation": "",
-        "entry": "p\u02bcapago",
+        "entry": "p'apago",
         "id": 231822,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1730,7 +1730,7 @@
     {
         "added": "2015-06-11T05:19:23.230452",
         "annotation": "",
-        "entry": "p\u02bcata",
+        "entry": "p'ata",
         "id": 231763,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1742,7 +1742,7 @@
     {
         "added": "2015-06-11T05:19:22.901792",
         "annotation": "",
-        "entry": "pur\u02bcino",
+        "entry": "pur'ino",
         "id": 231735,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1766,7 +1766,7 @@
     {
         "added": "2015-06-11T05:19:22.835817",
         "annotation": "",
-        "entry": "r\u02bcabini",
+        "entry": "r'abini",
         "id": 231731,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1778,7 +1778,7 @@
     {
         "added": "2015-06-11T05:19:22.464456",
         "annotation": "",
-        "entry": "r\u02bcadi",
+        "entry": "r'adi",
         "id": 231695,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1790,7 +1790,7 @@
     {
         "added": "2015-06-09T01:26:02.155443",
         "annotation": "",
-        "entry": "rar\u02bcaga-",
+        "entry": "rar'aga-",
         "id": 231267,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1802,7 +1802,7 @@
     {
         "added": "2015-06-11T05:19:22.789003",
         "annotation": "",
-        "entry": "r\u02bcauti",
+        "entry": "r'auti",
         "id": 231726,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1814,7 +1814,7 @@
     {
         "added": "2015-06-11T05:19:22.520854",
         "annotation": "",
-        "entry": "reat\u02bca-",
+        "entry": "reat'a-",
         "id": 231702,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1826,7 +1826,7 @@
     {
         "added": "2015-06-11T05:29:40.118082",
         "annotation": "",
-        "entry": "rembit\u02bcotoy",
+        "entry": "rembit'otoy",
         "id": 231789,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1838,7 +1838,7 @@
     {
         "added": "2015-06-09T01:26:01.821879",
         "annotation": "",
-        "entry": "rib\u02bci-",
+        "entry": "rib'i-",
         "id": 231231,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1862,7 +1862,7 @@
     {
         "added": "2015-06-11T05:19:22.589861",
         "annotation": "",
-        "entry": "t\u02bcaate",
+        "entry": "t'aate",
         "id": 231707,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1874,7 +1874,7 @@
     {
         "added": "2015-06-11T05:19:22.456444",
         "annotation": "",
-        "entry": "taemb\u02bcake",
+        "entry": "taemb'ake",
         "id": 231694,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1886,7 +1886,7 @@
     {
         "added": "2015-06-09T01:26:01.740597",
         "annotation": "",
-        "entry": "tam\u02bcane",
+        "entry": "tam'ane",
         "id": 231221,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1898,7 +1898,7 @@
     {
         "added": "2015-06-09T01:26:02.117409",
         "annotation": "",
-        "entry": "tambur\u02bcare",
+        "entry": "tambur'are",
         "id": 231263,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1910,7 +1910,7 @@
     {
         "added": "2015-06-11T05:19:22.852369",
         "annotation": "",
-        "entry": "t\u02bcaniniba",
+        "entry": "t'aniniba",
         "id": 231733,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1934,7 +1934,7 @@
     {
         "added": "2015-06-11T05:19:23.327545",
         "annotation": "",
-        "entry": "tat\u02bcao",
+        "entry": "tat'ao",
         "id": 231775,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1970,7 +1970,7 @@
     {
         "added": "2015-06-11T05:19:23.303365",
         "annotation": "",
-        "entry": "taw\u02bcake",
+        "entry": "taw'ake",
         "id": 231772,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1982,7 +1982,7 @@
     {
         "added": "2015-06-09T01:26:02.075233",
         "annotation": "",
-        "entry": "tay\u02bcade",
+        "entry": "tay'ade",
         "id": 231258,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -1994,7 +1994,7 @@
     {
         "added": "2015-06-11T05:29:40.497103",
         "annotation": "",
-        "entry": "tay\u02bce",
+        "entry": "tay'e",
         "id": 231818,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2006,7 +2006,7 @@
     {
         "added": "2015-06-11T05:29:40.165713",
         "annotation": "",
-        "entry": "t\u02bcepu",
+        "entry": "t'epu",
         "id": 231790,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2030,7 +2030,7 @@
     {
         "added": "2015-06-09T01:26:02.042121",
         "annotation": "",
-        "entry": "tigatig\u02bcae",
+        "entry": "tigatig'ae",
         "id": 231254,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2042,7 +2042,7 @@
     {
         "added": "2015-06-09T01:26:01.773837",
         "annotation": "",
-        "entry": "t\u02bcimbi",
+        "entry": "t'imbi",
         "id": 231225,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2054,7 +2054,7 @@
     {
         "added": "2015-06-11T05:29:40.505453",
         "annotation": "",
-        "entry": "tir\u02bcirie",
+        "entry": "tir'irie",
         "id": 231819,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2066,7 +2066,7 @@
     {
         "added": "2015-06-11T05:29:40.182103",
         "annotation": "",
-        "entry": "tit\u02bcao",
+        "entry": "tit'ao",
         "id": 231792,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2078,7 +2078,7 @@
     {
         "added": "2015-06-11T05:19:22.701412",
         "annotation": "",
-        "entry": "t\u02bcitar",
+        "entry": "t'itar",
         "id": 231720,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2090,7 +2090,7 @@
     {
         "added": "2015-06-09T01:26:01.965812",
         "annotation": "",
-        "entry": "titir\u02bceno",
+        "entry": "titir'eno",
         "id": 231248,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2126,7 +2126,7 @@
     {
         "added": "2015-06-09T01:26:01.861668",
         "annotation": "",
-        "entry": "tok\u02bce",
+        "entry": "tok'e",
         "id": 231236,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2138,7 +2138,7 @@
     {
         "added": "2015-06-09T01:26:01.692143",
         "annotation": "",
-        "entry": "t\u02bcotopan\u02bci",
+        "entry": "t'otopan'i",
         "id": 231215,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2150,7 +2150,7 @@
     {
         "added": "2015-06-11T05:19:23.262477",
         "annotation": "",
-        "entry": "tow\u02bcomo",
+        "entry": "tow'omo",
         "id": 231767,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2162,7 +2162,7 @@
     {
         "added": "2015-06-11T05:19:23.254502",
         "annotation": "",
-        "entry": "toy\u02bce",
+        "entry": "toy'e",
         "id": 231766,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2174,7 +2174,7 @@
     {
         "added": "2015-06-11T05:19:22.780444",
         "annotation": "",
-        "entry": "t\u02bcunuk",
+        "entry": "t'unuk",
         "id": 231725,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2198,7 +2198,7 @@
     {
         "added": "2015-06-09T01:26:01.781831",
         "annotation": "",
-        "entry": "\u0294\u02bcu\u0111aen\u02bcae",
+        "entry": "\u0294'u\u0111aen'ae",
         "id": 231226,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2210,7 +2210,7 @@
     {
         "added": "2015-06-11T05:29:40.259156",
         "annotation": "",
-        "entry": "ug\u02bca",
+        "entry": "ug'a",
         "id": 231801,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2222,7 +2222,7 @@
     {
         "added": "2015-06-11T05:19:22.659746",
         "annotation": "",
-        "entry": "ug\u02bceage",
+        "entry": "ug'eage",
         "id": 231715,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2246,7 +2246,7 @@
     {
         "added": "2015-06-11T05:29:40.231252",
         "annotation": "",
-        "entry": "um\u02bceage",
+        "entry": "um'eage",
         "id": 231798,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2258,7 +2258,7 @@
     {
         "added": "2015-06-11T05:29:40.417537",
         "annotation": "",
-        "entry": "und\u02bcuno",
+        "entry": "und'uno",
         "id": 231813,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2270,7 +2270,7 @@
     {
         "added": "2015-06-11T05:19:23.198264",
         "annotation": "",
-        "entry": "ur\u02bca\u014bge",
+        "entry": "ur'a\u014bge",
         "id": 231759,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2282,7 +2282,7 @@
     {
         "added": "2015-06-11T05:29:40.109888",
         "annotation": "",
-        "entry": "ur\u02bceko",
+        "entry": "ur'eko",
         "id": 231788,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2294,7 +2294,7 @@
     {
         "added": "2015-06-11T05:29:40.198448",
         "annotation": "",
-        "entry": "uruk\u02bcae",
+        "entry": "uruk'ae",
         "id": 231794,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2318,7 +2318,7 @@
     {
         "added": "2015-06-09T01:26:01.765804",
         "annotation": "",
-        "entry": "w\u02bcakori",
+        "entry": "w'akori",
         "id": 231224,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2330,7 +2330,7 @@
     {
         "added": "2015-06-11T05:19:22.684895",
         "annotation": "",
-        "entry": "wam\u02bcore",
+        "entry": "wam'ore",
         "id": 231718,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2342,7 +2342,7 @@
     {
         "added": "2015-06-11T05:19:23.206294",
         "annotation": "",
-        "entry": "war\u02bcate",
+        "entry": "war'ate",
         "id": 231760,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2354,7 +2354,7 @@
     {
         "added": "2015-06-11T05:19:22.986724",
         "annotation": "",
-        "entry": "w\u02bciriri\u02bce",
+        "entry": "w'iriri'e",
         "id": 231741,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2366,7 +2366,7 @@
     {
         "added": "2015-06-09T01:26:01.954396",
         "annotation": "",
-        "entry": "wor\u02bcibo",
+        "entry": "wor'ibo",
         "id": 231247,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2378,7 +2378,7 @@
     {
         "added": "2015-06-11T05:29:40.331232",
         "annotation": "",
-        "entry": "\u0294w\u02bcoyda",
+        "entry": "\u0294w'oyda",
         "id": 231806,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2390,7 +2390,7 @@
     {
         "added": "2015-06-11T05:19:23.162616",
         "annotation": "",
-        "entry": "w\u02bcoyo",
+        "entry": "w'oyo",
         "id": 231755,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
@@ -2426,7 +2426,7 @@
     {
         "added": "2015-06-11T05:29:40.085035",
         "annotation": "",
-        "entry": "yed\u02bcege",
+        "entry": "yed'ege",
         "id": 231785,
         "language": "/api/v1/language/arandai-sebyar/",
         "loan": false,
