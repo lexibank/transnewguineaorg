@@ -270,7 +270,7 @@ doromu-lofaika,Doromu-Koki (Lofaika Dialect),doro1266,Doromu-Koki,kqc,Papunesia,
 doso,Doso,doso1239,Doso,dol,Papunesia,-7.85806,142.656,Doso-Turumsa
 doutai,Doutai,dout1240,Doutai,tds,Papunesia,-3.24832,138.22,Lakes Plain
 duna,Duna,duna1248,Duna,duc,Papunesia,-5.41439,142.475,Duna
-duriankere,Duriankere,duri1243,Duriankere,dbn,Papunesia,-1.38946,130.925,Inanwatan
+duriankere,Duriankere,duri1243,Duriankere,dbn,Papunesia,-1.348,130.958,Inanwatan
 dusner,Dusner,dusn1237,Dusner,dsn,Papunesia,-2.73859,134.391,Austronesian
 duvle,Duvle,duvl1242,Duvle,duv,Papunesia,-3.21832,137.964,Lakes Plain
 east-kewa,East Kewa,east2516,East Kewa,kjs,Papunesia,-6.32989,143.931,Nuclear Trans New Guinea
@@ -405,7 +405,7 @@ kapriman,Kapriman,kapr1245,Kapriman,dju,Papunesia,-4.51011,143.241,Sepik
 karas,Karas,kara1499,Kalamang,kgv,Papunesia,-3.47037,132.678,West Bomberai
 karawa,Karawa,kara1495,Karawa,xrw,Papunesia,-3.69933,142.018,Sepik
 kare,Kare,kare1341,Kare (Papua New Guinea),kmf,Papunesia,-5.07674,145.499,Nuclear Trans New Guinea
-karon-dori,Karon Dori,karo1303,Karon Dori,kgw,Papunesia,-0.7871,132.663,Maybrat-Karon
+karon-dori,Karon Dori,karo1303,Karon Dori,kgw,Papunesia,-0.7871,132.663,Maybratic
 karoto,Gaina (Karoto Dialect),gain1243,Gaina,gcn,Papunesia,-9.14409,148.59,Nuclear Trans New Guinea
 kasua,Kasua,kasu1251,Kasua,khs,Papunesia,-6.64861,142.993,Bosavi
 kate,Kâte,kate1253,Kâte,kmg,Papunesia,-6.4795,147.757,Nuclear Trans New Guinea
@@ -487,12 +487,12 @@ lavukaleve,Lavukaleve,lavu1241,Lavukaleve,lvk,Papunesia,-9.05569,159.119,Lavukal
 lembena,Lembena,lemb1266,Lembena,leq,Papunesia,-4.99504,143.891,Nuclear Trans New Guinea
 lembena-maibi,Lembena (Maibi Dialect),lemb1266,Lembena,leq,Papunesia,-4.99504,143.891,Nuclear Trans New Guinea
 lembena-yariba,Lembena (Yariba Dialect),lemb1266,Lembena,leq,Papunesia,-4.99504,143.891,Nuclear Trans New Guinea
-lemio,Lemio,lemi1243,Lemio,lei,Papunesia,-5.61407,146.441,Nuclear Trans New Guinea
+lemio,Lemio,lemi1243,Lemio,lei,Papunesia,-5.6964,145.7817,Nuclear Trans New Guinea
 ma-manda,Ma Manda,sauk1252,Ma Manda,skc,Papunesia,-6.31958,146.759,Nuclear Trans New Guinea
 madi,Madi,madi1261,Madi (Papua New Guinea),grg,Papunesia,-5.63017,146.407,Nuclear Trans New Guinea
 magi-musak,Magɨ,,,,,,,
 magobineng,Kâte (Mâgobineng Dialect),mago1249,Magobineng,kmg,Papunesia,,,Nuclear Trans New Guinea
-mai-brat,Mai Brat,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,Maybrat-Karon
+mai-brat,Mai Brat,maib1239,Maybrat,ayz,Papunesia,-1.3679,132.591,Maybratic
 maia-pila,Maia (Pila Dialect),maia1254,Maia,sks,Papunesia,-4.50212,145.096,Nuclear Trans New Guinea
 maia-saki,Maia (Saki Dialect),maia1254,Maia,sks,Papunesia,-4.50212,145.096,Nuclear Trans New Guinea
 mailu,Mailu,mail1248,Mailu,mgu,Papunesia,-10.3657,149.521,Mailuan
@@ -543,7 +543,7 @@ mawak,Mawak,mawa1266,Mawak,mjj,Papunesia,-4.61817,145.283,Nuclear Trans New Guin
 mawan,Mawan,mawa1267,Mawan,mcz,Papunesia,-5.2219,145.589,Nuclear Trans New Guinea
 mawes,Mawes,mawe1251,Mawes,mgk,Papunesia,-2.36944,139.752,Mawes
 maya,Ma'ya,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,130.909,Austronesian
-maybrat,Maybrat,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,Maybrat-Karon
+maybrat,Maybrat,maib1239,Maybrat,ayz,Papunesia,-1.3679,132.591,Maybratic
 mbaniata,Mbaniata,touo1238,Touo,tqu,Papunesia,-8.58405,157.296,Touo
 mbaniata-lokuru,Mbaniata (Lokuru Dialect),bilu1245,Bilua,blb,Papunesia,-7.92388,156.663,Bilua
 mbilua,Mbilua,bilu1245,Bilua,blb,Papunesia,-7.92388,156.663,Bilua
@@ -881,7 +881,7 @@ tobo,Tobo,tobo1251,Tobo,tbv,Papunesia,-6.36263,147.376,Nuclear Trans New Guinea
 tofanma,Tofanma,tofa1246,Tofanma,tlg,Papunesia,-3.74322,140.591,Namla-Tofanma
 tok-pisin,Tok Pisin,tokp1240,Tok Pisin,tpi,Papunesia,-9.41971,147.303,Indo-European
 tokano,Tokano,toka1244,Tokano,zuh,Papunesia,-6.05047,145.298,Nuclear Trans New Guinea
-torricelli,Torricelli,torr1259,Aro,tei,Papunesia,-3.45292,142.622,Nuclear Torricelli
+torricelli,Torricelli,torr1259,Aro-Mukweym-Orok,tei,Papunesia,-3.45292,142.622,Nuclear Torricelli
 towei,Towei,towe1240,Towei,ttn,Papunesia,-3.87428,140.803,Pauwasi
 tsaukambo,Tsaukambo,tsak1250,Tsaukambo,kvz,Papunesia,-5.39076,140.186,Nuclear Trans New Guinea
 tunggare,Tunggare,tung1293,Tunggare,trt,Papunesia,-3.37462,135.551,Geelvink Bay

@@ -81,22 +81,18 @@ class Dataset(BaseDataset):
                 ID=lang,
                 Name=languages[lang]["fullname"],
                 ISO639P3code=languages[lang]["isocode"],
-                Glottocode=languages[lang]["glottocode"],
-            )
+                Glottocode=languages[lang]["glottocode"])
 
         # handle concepts
+        # TODO: can this be refactored?
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx = '{0}_{1}'.format(
-                    concept.number,
-                    slug(concept.english)
-                    )
+            idx = '{0}_{1}'.format(concept.number, slug(concept.english))
             args.writer.add_concept(
-                    ID=idx,
-                    Name=concept.english,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss
-                    )
+                ID=idx,
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss)
             concepts[concept.english] = idx
             concepts[concept.english.replace(" ", "-")] = idx
             concepts[concept.english.replace(" ", "-").lower()] = idx
@@ -112,7 +108,9 @@ class Dataset(BaseDataset):
                 new_string = concept.english[3:]
                 concepts['-'.join([slug(x) for x in new_string.split()])] = idx
                 concepts[concept.english.replace("to ", "")] = idx
-
+        
+        # these merge words into concepts listed in the concepticon wordlist.
+        # note that this matches transnewguinea.org slugs
         concepts["mans-mother-law"] = concepts["man's mother in law"]
         concepts["brother-law"] = concepts["brother in law"]
         concepts["to-make-hole"] = concepts["make hole (in ground)"]
@@ -160,12 +158,10 @@ class Dataset(BaseDataset):
         concepts["he-she-it-those"] = concepts["he, she, it, that, those"]
         concepts["we-two-excl"] = concepts["we excl. dual (pronoun d:1p, excl, dual)"]
         concepts["we-pl-excl"] = concepts["we excl. plural (pronoun d:1p, excl, plural)"]
-        #concepts["affix-body-part"] = concepts[""]
 
         itemfiles = [
             f for f in self.raw_dir.iterdir() if f.name.startswith("language-")
         ]
-        errors = set()
         for filename in progressbar(sorted(itemfiles), desc="adding lexemes"):
             for o in sorted(
                 self.raw_dir.read_json(filename), key=lambda d: d["id"]
@@ -183,11 +179,8 @@ class Dataset(BaseDataset):
                         Comment=o["annotation"],
                     )
                 else:
-                    errors.add(("concept", wordid))
-        for error in errors:
-            args.log.info("error with {0[0]}: {0[1]}".format(error))
+                    args.log.info("error: concept not in concepticon wordlist: %s" % wordid)
 
-        args.log.info("found {0} errors in concepts".format(len(errors)))
 
     def get_all(self, url):
         """Helper function to iterate across the API's _next_ commands for a given URL"""

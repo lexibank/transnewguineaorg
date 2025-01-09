@@ -2024,8 +2024,8 @@
         "word": "dugong"
     },
     {
-        "concepticon_gloss": "DULL",
-        "concepticon_id": "1397",
+        "concepticon_gloss": "BLUNT",
+        "concepticon_id": "379",
         "id": 116,
         "resource_uri": "/api/v1/word/dull/",
         "slug": "dull",
@@ -2088,8 +2088,8 @@
         "word": "ear-ring"
     },
     {
-        "concepticon_gloss": "EARTH (WET SUBSTANCE)",
-        "concepticon_id": "2158",
+        "concepticon_gloss": "EARTH (SOIL)",
+        "concepticon_id": "1228",
         "id": 1624,
         "resource_uri": "/api/v1/word/earthmud/",
         "slug": "earthmud",
@@ -2960,8 +2960,8 @@
         "word": "grandmother"
     },
     {
-        "concepticon_gloss": "GRANDPARENT",
-        "concepticon_id": "2399",
+        "concepticon_gloss": "GRANDPARENTS",
+        "concepticon_id": "305",
         "id": 2108,
         "resource_uri": "/api/v1/word/grandparent/",
         "slug": "grandparent",
@@ -4736,8 +4736,8 @@
         "word": "no, not"
     },
     {
-        "concepticon_gloss": "NOON",
-        "concepticon_id": "2490",
+        "concepticon_gloss": "MIDDAY",
+        "concepticon_id": "12",
         "id": 1243,
         "resource_uri": "/api/v1/word/noontime/",
         "slug": "noontime",
@@ -6008,8 +6008,8 @@
         "word": "seventeen"
     },
     {
-        "concepticon_gloss": "SHADOW",
-        "concepticon_id": "2275",
+        "concepticon_gloss": "SHADE",
+        "concepticon_id": "1388",
         "id": 1736,
         "resource_uri": "/api/v1/word/shadow/",
         "slug": "shadow",
@@ -7136,8 +7136,8 @@
         "word": "thicket"
     },
     {
-        "concepticon_gloss": "THIGH",
-        "concepticon_id": "800",
+        "concepticon_gloss": "UPPER LEG",
+        "concepticon_id": "471",
         "id": 791,
         "resource_uri": "/api/v1/word/thigh/",
         "slug": "thigh",
@@ -7296,8 +7296,8 @@
         "word": "tight, hard"
     },
     {
-        "concepticon_gloss": "TINEA",
-        "concepticon_id": "3173",
+        "concepticon_gloss": "RINGWORM",
+        "concepticon_id": "3171",
         "id": 961,
         "resource_uri": "/api/v1/word/tinea/",
         "slug": "tinea",
@@ -7816,8 +7816,8 @@
         "word": "to fear"
     },
     {
-        "concepticon_gloss": "FELL (A TREE)",
-        "concepticon_id": "463",
+        "concepticon_gloss": "CUT DOWN",
+        "concepticon_id": "355",
         "id": 954,
         "resource_uri": "/api/v1/word/fell-tree/",
         "slug": "fell-tree",
@@ -8992,8 +8992,8 @@
         "word": "tree"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "STUMP OF TREE",
+        "concepticon_id": "1023",
         "id": 1773,
         "resource_uri": "/api/v1/word/tree-base/",
         "slug": "tree-base",
@@ -9048,8 +9048,8 @@
         "word": "true"
     },
     {
-        "concepticon_gloss": "TRUNK OF TREE",
-        "concepticon_id": "776",
+        "concepticon_gloss": "TREE TRUNK",
+        "concepticon_id": "344",
         "id": 807,
         "resource_uri": "/api/v1/word/trunk/",
         "slug": "trunk",

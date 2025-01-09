@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1-7-g028e14b",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.7"
+            "dc:description": "3.11.1"
         },
         {
             "dc:title": "python-packages",
