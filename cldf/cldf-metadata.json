@@ -10,13 +10,14 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Greenhill's \"TransNewGuinea.org\" from 2015",
     "dcat:accessURL": "https://github.com/lexibank/transnewguineaorg",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.2-1-g9967214",
+            "dc:created": "v3.2-2-gde3ff7c",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 0,
+            "dc:extent": 148777,
             "tableSchema": {
                 "columns": [
                     {
@@ -161,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 0,
+            "dc:extent": 1034,
             "tableSchema": {
                 "columns": [
                     {
@@ -227,7 +228,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 0,
+            "dc:extent": 1166,
             "tableSchema": {
                 "columns": [
                     {

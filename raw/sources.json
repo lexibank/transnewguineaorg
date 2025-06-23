@@ -123,7 +123,7 @@
     {
         "added": "2025-01-29T03:20:55.841112",
         "author": "de Vries",
-        "bibtex": "@article{\r\n    author = {de Vries, L},\r\n    year = {2024},\r\n    title = {The linguistic position of the Inanwatan language of West Papua},\r\n    journal = {Language and Linguistics in Melanesia},\r\n    volume = {42},\r\n    pages = {237-260}\r\n}",
+        "bibtex": "@article{deVries2024,\r\n    author = {de Vries, L},\r\n    year = {2024},\r\n    title = {The linguistic position of the Inanwatan language of West Papua},\r\n    journal = {Language and Linguistics in Melanesia},\r\n    volume = {42},\r\n    pages = {237-260}\r\n}",
         "comment": "",
         "id": 221,
         "reference": "de Vries, L. 2024. The linguistic position of the Inanwatan language of West Papua. Language and Linguistics in Melanesia, 42: 237-260.",
