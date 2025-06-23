@@ -10,14 +10,13 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
-    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Greenhill's \"TransNewGuinea.org\" from 2015",
     "dcat:accessURL": "https://github.com/lexibank/transnewguineaorg",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.2",
+            "dc:created": "v3.2-1-g9967214",
             "dc:title": "Repository"
         },
         {
@@ -35,7 +34,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0",
+            "dc:created": "v2.3.0-4-g824176a",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.1"
+            "dc:description": "3.13.1"
         },
         {
             "dc:title": "python-packages",
@@ -59,7 +58,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 147246,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,7 +161,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1023,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -228,7 +227,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1166,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {

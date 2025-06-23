@@ -12,6 +12,66 @@
         "word": "/api/v1/word/tree/"
     },
     {
+        "added": "2025-02-24T17:04:07.255542",
+        "annotation": "",
+        "entry": "\u0294a",
+        "id": 262969,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262969/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "feces",
+        "word": "/api/v1/word/faeces/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.299136",
+        "annotation": "",
+        "entry": "\u0241a\u0241apir\u0254",
+        "id": 263080,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263080/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "filth",
+        "word": "/api/v1/word/dirt-mud/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.323459",
+        "annotation": "",
+        "entry": "abo",
+        "id": 263142,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263142/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.226192",
+        "annotation": "",
+        "entry": "abo",
+        "id": 262892,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262892/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.287121",
+        "annotation": "",
+        "entry": "\u02c8a\u027e\u025b",
+        "id": 263050,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263050/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "afraid",
+        "word": "/api/v1/word/afraid/"
+    },
+    {
         "added": "2013-06-11T20:19:16.783148",
         "annotation": "",
         "entry": "agino",
@@ -22,6 +82,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.201883",
+        "annotation": "",
+        "entry": "aguo",
+        "id": 262826,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262826/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
     },
     {
         "added": "2013-06-11T20:19:16.271634",
@@ -48,6 +120,42 @@
         "word": "/api/v1/word/head/"
     },
     {
+        "added": "2025-02-24T17:04:07.316348",
+        "annotation": "",
+        "entry": "/ama-i/",
+        "id": 263124,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263124/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "husband",
+        "word": "/api/v1/word/husband/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.317939",
+        "annotation": "",
+        "entry": "/ama-o/",
+        "id": 263128,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263128/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "wife",
+        "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.501637",
+        "annotation": "",
+        "entry": "amota-",
+        "id": 263345,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263345/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thick",
+        "word": "/api/v1/word/thick/"
+    },
+    {
         "added": "2013-06-11T20:19:16.917975",
         "annotation": "you (sg.)",
         "entry": "ani",
@@ -60,6 +168,18 @@
         "word": "/api/v1/word/thou/"
     },
     {
+        "added": "2025-02-24T17:04:07.213466",
+        "annotation": "",
+        "entry": "areri",
+        "id": 262857,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262857/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
+    },
+    {
         "added": "2013-06-11T20:19:16.192390",
         "annotation": "",
         "entry": "aru",
@@ -69,6 +189,18 @@
         "resource_uri": "/api/v1/lexicon/22147/",
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
+        "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.175701",
+        "annotation": "Inanwatan, Duriankare and Kokoda Kasueri borrowed aru\u0241\u0254/aru/\u02c8 \u027ea\u027e\u0254 via Onin Patipi \u02c8 \u027ea\u027ea \u2018blood\u2019 (cf. Indonesian darah)",
+        "entry": "aru",
+        "id": 262761,
+        "language": "/api/v1/language/duriankere/",
+        "loan": true,
+        "resource_uri": "/api/v1/lexicon/262761/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "blood",
         "word": "/api/v1/word/blood/"
     },
     {
@@ -96,6 +228,30 @@
         "word": "/api/v1/word/fingernail/"
     },
     {
+        "added": "2025-02-24T17:04:07.451467",
+        "annotation": "",
+        "entry": "asi",
+        "id": 263221,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263221/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/shell/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.451135",
+        "annotation": "",
+        "entry": "asi",
+        "id": 263220,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263220/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/nail/"
+    },
+    {
         "added": "2013-06-11T20:19:16.202823",
         "annotation": "",
         "entry": "atoko",
@@ -108,6 +264,30 @@
         "word": "/api/v1/word/bone/"
     },
     {
+        "added": "2025-02-24T17:04:07.270508",
+        "annotation": "/amare/",
+        "entry": "\u00e1war\u025b",
+        "id": 263008,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263008/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "child",
+        "word": "/api/v1/word/child/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.267757",
+        "annotation": "/amoto/",
+        "entry": "a\u02c8w\u0254t\u0254",
+        "id": 263001,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263001/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thick",
+        "word": "/api/v1/word/thick/"
+    },
+    {
         "added": "2013-06-11T20:19:16.602566",
         "annotation": "",
         "entry": "bi",
@@ -118,6 +298,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.216086",
+        "annotation": "",
+        "entry": "bibo",
+        "id": 262865,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262865/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thorn",
+        "word": "/api/v1/word/thorn/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.240420",
+        "annotation": "",
+        "entry": "bida\u027ea\u027e\u025b",
+        "id": 262927,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262927/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "heart",
+        "word": "/api/v1/word/heart/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.224017",
+        "annotation": "",
+        "entry": "\u02c8bodo",
+        "id": 262886,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262886/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "land",
+        "word": "/api/v1/word/land/"
     },
     {
         "added": "2013-06-11T20:19:16.162991",
@@ -156,6 +372,42 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2025-02-24T17:04:07.303739",
+        "annotation": "",
+        "entry": "\u0261\u025b\u0241a\u027e\u025b",
+        "id": 263091,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263091/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "finger",
+        "word": "/api/v1/word/finger/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.248138",
+        "annotation": "",
+        "entry": "\u025b\u02c8dudu\u027ei",
+        "id": 262949,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262949/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "left",
+        "word": "/api/v1/word/left-side/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.320008",
+        "annotation": "",
+        "entry": "\u0294\u00e9gedi",
+        "id": 263133,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263133/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "sun",
+        "word": "/api/v1/word/sun/"
+    },
+    {
         "added": "2013-06-11T20:19:16.891757",
         "annotation": "",
         "entry": "eiri",
@@ -166,6 +418,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.526865",
+        "annotation": "",
+        "entry": "eno",
+        "id": 263408,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263408/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "canoe",
+        "word": "/api/v1/word/canoe/"
     },
     {
         "added": "2013-06-11T20:19:16.875121",
@@ -180,6 +444,30 @@
         "word": "/api/v1/word/tooth/"
     },
     {
+        "added": "2025-02-24T17:04:07.251012",
+        "annotation": "",
+        "entry": "eri-eri-idare",
+        "id": 262956,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262956/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "four",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.204535",
+        "annotation": "",
+        "entry": "\u0241\u00e9ro",
+        "id": 262834,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262834/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
+    },
+    {
         "added": "2013-06-11T20:19:16.928551",
         "annotation": "you (pl.)",
         "entry": "eyni",
@@ -190,6 +478,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": "you (pl.)",
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.257801",
+        "annotation": "",
+        "entry": "ge",
+        "id": 262975,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262975/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hold",
+        "word": "/api/v1/word/to-hold/"
     },
     {
         "added": "2013-06-11T20:19:16.729240",
@@ -214,6 +514,54 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/we/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.549662",
+        "annotation": "",
+        "entry": "ibo",
+        "id": 263465,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263465/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "buttocks",
+        "word": "/api/v1/word/buttocks/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.245282",
+        "annotation": "",
+        "entry": "ide",
+        "id": 262941,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262941/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "stand",
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.312338",
+        "annotation": "",
+        "entry": "\u0294\u00ed\u0294o",
+        "id": 263112,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263112/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "new",
+        "word": "/api/v1/word/new/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.210904",
+        "annotation": "",
+        "entry": "i'\u0241\u0254ra",
+        "id": 262850,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262850/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to vomit",
+        "word": "/api/v1/word/to-vomit/"
     },
     {
         "added": "2013-06-11T20:19:16.281210",
@@ -276,6 +624,30 @@
         "word": "/api/v1/word/man/"
     },
     {
+        "added": "2025-02-24T17:04:07.260109",
+        "annotation": "",
+        "entry": "me",
+        "id": 262981,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262981/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to give",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.296723",
+        "annotation": "",
+        "entry": "m\u00e9but\u0254",
+        "id": 263075,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263075/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "elbow",
+        "word": "/api/v1/word/elbow/"
+    },
+    {
         "added": "2013-06-11T20:19:16.822447",
         "annotation": "",
         "entry": "medapo",
@@ -288,6 +660,18 @@
         "word": "/api/v1/word/stone/"
     },
     {
+        "added": "2025-02-24T17:04:07.495601",
+        "annotation": "",
+        "entry": "mei-",
+        "id": 263329,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263329/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to give",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
         "added": "2013-06-11T20:19:16.104358",
         "annotation": "arm",
         "entry": "memo",
@@ -298,6 +682,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": "arm",
         "word": "/api/v1/word/arm/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.242737",
+        "annotation": "Compound mesi-dae consisting of the Onin Patipi loan m\u0259n\u02c8cia (cf. Indonesian manusia) and dae \u2018person\u2019 (>pSBH *danetV).",
+        "entry": "mesi-dae",
+        "id": 262934,
+        "language": "/api/v1/language/duriankere/",
+        "loan": true,
+        "resource_uri": "/api/v1/lexicon/262934/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "person",
+        "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.194837",
+        "annotation": "",
+        "entry": "mewo",
+        "id": 262807,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262807/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hand",
+        "word": "/api/v1/word/hand/"
     },
     {
         "added": "2013-06-11T20:19:16.231817",
@@ -324,6 +732,42 @@
         "word": "/api/v1/word/to-give/"
     },
     {
+        "added": "2025-02-24T17:04:07.305245",
+        "annotation": "",
+        "entry": "\u02c8mitobi",
+        "id": 263095,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263095/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.262938",
+        "annotation": "",
+        "entry": "mo",
+        "id": 262988,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262988/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to come",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.498721",
+        "annotation": "",
+        "entry": "mo-",
+        "id": 263337,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263337/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to come",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
         "added": "2013-06-11T20:19:16.213207",
         "annotation": "",
         "entry": "mona",
@@ -348,6 +792,42 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2025-02-24T17:04:07.276362",
+        "annotation": "",
+        "entry": "mut-eni",
+        "id": 263023,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263023/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "one",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.289502",
+        "annotation": "",
+        "entry": "na",
+        "id": 263056,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263056/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to cry",
+        "word": "/api/v1/word/to-cry/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.282499",
+        "annotation": "",
+        "entry": "na",
+        "id": 263038,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263038/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to lie (down)",
+        "word": "/api/v1/word/to-lie-down/"
+    },
+    {
         "added": "2013-06-11T20:19:16.379305",
         "annotation": "",
         "entry": "nani",
@@ -358,6 +838,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.193506",
+        "annotation": "",
+        "entry": "ne-wo/me",
+        "id": 262805,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262805/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hand",
+        "word": "/api/v1/word/hand/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.279239",
+        "annotation": "",
+        "entry": "ni",
+        "id": 263031,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263031/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to eat",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-06-11T20:19:16.259436",
@@ -372,6 +876,54 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2025-02-24T17:04:07.512588",
+        "annotation": "",
+        "entry": "ni-",
+        "id": 263373,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263373/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to eat",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.284524",
+        "annotation": "",
+        "entry": "\u02c8ni\u027eo",
+        "id": 263044,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263044/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "night",
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.198785",
+        "annotation": "",
+        "entry": "nje",
+        "id": 262818,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262818/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.252947",
+        "annotation": "",
+        "entry": "no\u0294o\u0294au",
+        "id": 262962,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262962/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "cough",
+        "word": "/api/v1/word/cough/"
+    },
+    {
         "added": "2013-06-11T20:19:16.428486",
         "annotation": "",
         "entry": "nye",
@@ -382,6 +934,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.219299",
+        "annotation": "",
+        "entry": "\u0254p\u0254",
+        "id": 262873,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262873/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to",
+        "word": "/api/v1/word/to/"
     },
     {
         "added": "2013-06-11T20:19:16.446860",
@@ -408,6 +972,90 @@
         "word": "/api/v1/word/water/"
     },
     {
+        "added": "2025-02-24T17:04:07.434716",
+        "annotation": "",
+        "entry": "sa",
+        "id": 263176,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263176/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.292596",
+        "annotation": "",
+        "entry": "si\u0241\u0254",
+        "id": 263063,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263063/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/shell/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.292269",
+        "annotation": "",
+        "entry": "si\u0241\u0254",
+        "id": 263062,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263062/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/nail/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.321504",
+        "annotation": "/si-moma\u0294o/",
+        "entry": "siwowa\u0294o",
+        "id": 263137,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263137/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "butterfly",
+        "word": "/api/v1/word/butterfly/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.447414",
+        "annotation": "",
+        "entry": "so",
+        "id": 263211,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263211/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "sago",
+        "word": "/api/v1/word/sago/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.310456",
+        "annotation": "",
+        "entry": "s\u0254\u0241ow\u0254",
+        "id": 263108,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263108/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "sago",
+        "word": "/api/v1/word/sago/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.234799",
+        "annotation": "",
+        "entry": "ta-b\u00faq\u0254",
+        "id": 262912,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262912/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "flesh",
+        "word": "/api/v1/word/flesh/"
+    },
+    {
         "added": "2013-06-11T20:19:16.329612",
         "annotation": "",
         "entry": "tano",
@@ -420,6 +1068,18 @@
         "word": "/api/v1/word/ground/"
     },
     {
+        "added": "2025-02-24T17:04:07.230316",
+        "annotation": "",
+        "entry": "t\u025bt\u025bwo",
+        "id": 262900,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262900/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "all",
+        "word": "/api/v1/word/all/"
+    },
+    {
         "added": "2013-06-11T20:19:16.832629",
         "annotation": "",
         "entry": "tigi",
@@ -430,6 +1090,102 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.314581",
+        "annotation": "",
+        "entry": "tirido",
+        "id": 263119,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263119/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.301680",
+        "annotation": "",
+        "entry": "t\u0254",
+        "id": 263086,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263086/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "true",
+        "word": "/api/v1/word/true/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.237926",
+        "annotation": "",
+        "entry": "t\u0254b\u0254",
+        "id": 262920,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262920/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to hear",
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.207284",
+        "annotation": "",
+        "entry": "\u02c8t\u0254\u0241\u0254",
+        "id": 262842,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262842/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.195634",
+        "annotation": "",
+        "entry": "tsaa/sa",
+        "id": 262809,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262809/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.308708",
+        "annotation": "",
+        "entry": "\u02c8usu\u0294\u0254",
+        "id": 263103,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263103/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "vein",
+        "word": "/api/v1/word/vein/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.273622",
+        "annotation": "/umo/",
+        "entry": "\u00fawo",
+        "id": 263016,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263016/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "road",
+        "word": "/api/v1/word/road/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.265978",
+        "annotation": "",
+        "entry": "u\u02c8wu",
+        "id": 262996,
+        "language": "/api/v1/language/duriankere/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262996/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to sit",
+        "word": "/api/v1/word/to-sit/"
     },
     {
         "added": "2013-06-11T20:19:16.300904",

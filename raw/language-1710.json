@@ -1,0 +1,50 @@
+[
+    {
+        "added": "2025-02-24T17:04:07.319132",
+        "annotation": "",
+        "entry": "amagu",
+        "id": 263131,
+        "language": "/api/v1/language/kaburi-benawa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263131/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "wife",
+        "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.274607",
+        "annotation": "",
+        "entry": "aumi",
+        "id": 263019,
+        "language": "/api/v1/language/kaburi-benawa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263019/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "road",
+        "word": "/api/v1/word/road/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.188052",
+        "annotation": "",
+        "entry": "uturo",
+        "id": 262791,
+        "language": "/api/v1/language/kaburi-benawa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262791/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain, hill",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.187523",
+        "annotation": "",
+        "entry": "uturo",
+        "id": 262790,
+        "language": "/api/v1/language/kaburi-benawa/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262790/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain, hill",
+        "word": "/api/v1/word/hill/"
+    }
+]

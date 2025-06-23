@@ -120,18 +120,6 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2013-06-04T23:00:47.748827",
-        "annotation": "",
-        "entry": "duhu",
-        "id": 18327,
-        "language": "/api/v1/language/bogaya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/18327/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/that/"
-    },
-    {
         "added": "2013-06-04T23:00:47.738264",
         "annotation": "",
         "entry": "duhu",
@@ -142,6 +130,18 @@
         "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/this/"
+    },
+    {
+        "added": "2013-06-04T23:00:47.748827",
+        "annotation": "",
+        "entry": "duhu",
+        "id": 18327,
+        "language": "/api/v1/language/bogaya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/18327/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/that/"
     },
     {
         "added": "2013-05-06T22:36:22.144217",
@@ -218,7 +218,7 @@
     {
         "added": "2013-06-04T23:00:47.284102",
         "annotation": "",
-        "entry": "enou w\u028cnm\u028cv\u0327\u028c",
+        "entry": "enou w\u028cnm\u028c\u0263\u028c",
         "id": 18315,
         "language": "/api/v1/language/bogaya/",
         "loan": false,
@@ -432,6 +432,18 @@
         "word": "/api/v1/word/to-see/"
     },
     {
+        "added": "2013-06-04T23:00:47.157995",
+        "annotation": "",
+        "entry": "h\u028c\u0263\u028cb\u028c",
+        "id": 18313,
+        "language": "/api/v1/language/bogaya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/18313/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
+    },
+    {
         "added": "2013-05-06T22:36:22.125774",
         "annotation": "",
         "entry": "heepi",
@@ -538,6 +550,18 @@
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/small/"
+    },
+    {
+        "added": "2013-06-04T23:00:41.490184",
+        "annotation": "",
+        "entry": "h\u028c\u0263\u028c\u013ee",
+        "id": 18264,
+        "language": "/api/v1/language/bogaya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/18264/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bone/"
     },
     {
         "added": "2013-06-04T23:00:42.110524",
@@ -732,30 +756,6 @@
         "word": "/api/v1/word/skin/"
     },
     {
-        "added": "2013-06-04T23:00:47.157995",
-        "annotation": "",
-        "entry": "h\u028cv\u0327\u028cb\u028c",
-        "id": 18313,
-        "language": "/api/v1/language/bogaya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/18313/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-see/"
-    },
-    {
-        "added": "2013-06-04T23:00:41.490184",
-        "annotation": "",
-        "entry": "h\u028cv\u0327\u028c\u013ee",
-        "id": 18264,
-        "language": "/api/v1/language/bogaya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/18264/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/bone/"
-    },
-    {
         "added": "2013-06-04T23:00:44.586757",
         "annotation": "",
         "entry": "hwu\u013eun",
@@ -840,16 +840,16 @@
         "word": "/api/v1/word/moon/"
     },
     {
-        "added": "2013-05-06T22:36:22.287399",
+        "added": "2013-05-06T22:36:22.288847",
         "annotation": "",
         "entry": "kakala",
-        "id": 1097,
+        "id": 1098,
         "language": "/api/v1/language/bogaya/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/1097/",
+        "resource_uri": "/api/v1/lexicon/1098/",
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/yellow/"
+        "word": "/api/v1/word/green/"
     },
     {
         "added": "2013-05-06T22:36:22.284698",
@@ -864,16 +864,16 @@
         "word": "/api/v1/word/white/"
     },
     {
-        "added": "2013-05-06T22:36:22.288847",
+        "added": "2013-05-06T22:36:22.287399",
         "annotation": "",
         "entry": "kakala",
-        "id": 1098,
+        "id": 1097,
         "language": "/api/v1/language/bogaya/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/1098/",
+        "resource_uri": "/api/v1/lexicon/1097/",
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
-        "word": "/api/v1/word/green/"
+        "word": "/api/v1/word/yellow/"
     },
     {
         "added": "2013-05-06T22:36:22.309566",
@@ -1080,6 +1080,18 @@
         "word": "/api/v1/word/breast/"
     },
     {
+        "added": "2013-06-04T23:00:47.051997",
+        "annotation": "",
+        "entry": "m\u028c\u0263\u028c",
+        "id": 18309,
+        "language": "/api/v1/language/bogaya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/18309/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-walk/"
+    },
+    {
         "added": "2013-06-04T23:00:47.975406",
         "annotation": "",
         "entry": "m\u025b",
@@ -1141,8 +1153,8 @@
     },
     {
         "added": "2013-06-04T23:00:40.940245",
-        "annotation": "[v] with \u0327 underneath?",
-        "entry": "minv\u0327a",
+        "annotation": "",
+        "entry": "min\u0263a",
         "id": 18255,
         "language": "/api/v1/language/bogaya/",
         "loan": false,
@@ -1150,6 +1162,18 @@
         "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2013-06-04T23:00:48.053416",
+        "annotation": "",
+        "entry": "m\u028c\u0263\u028cn",
+        "id": 18335,
+        "language": "/api/v1/language/bogaya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/18335/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/banana/"
     },
     {
         "added": "2013-06-04T23:00:47.761191",
@@ -1186,30 +1210,6 @@
         "source": "/api/v1/source/shaw-1986/",
         "source_gloss": "fat",
         "word": "/api/v1/word/fat/"
-    },
-    {
-        "added": "2013-06-04T23:00:47.051997",
-        "annotation": "",
-        "entry": "m\u028cv\u0327\u028c",
-        "id": 18309,
-        "language": "/api/v1/language/bogaya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/18309/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-walk/"
-    },
-    {
-        "added": "2013-06-04T23:00:48.053416",
-        "annotation": "",
-        "entry": "m\u028cv\u0327\u028cn",
-        "id": 18335,
-        "language": "/api/v1/language/bogaya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/18335/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/banana/"
     },
     {
         "added": "2013-06-04T23:00:44.808765",
@@ -1382,7 +1382,7 @@
     {
         "added": "2013-06-04T23:00:43.641016",
         "annotation": "",
-        "entry": "\u0254v\u0327\u0254pi",
+        "entry": "\u0254\u0263\u0254pi",
         "id": 18285,
         "language": "/api/v1/language/bogaya/",
         "loan": false,
@@ -1598,7 +1598,7 @@
     {
         "added": "2013-06-04T23:00:47.446932",
         "annotation": "flies",
-        "entry": "pit\u028ck\u028c m\u0254v\u0327\u0254si",
+        "entry": "pit\u028ck\u028c m\u0254\u0263\u0254si",
         "id": 18317,
         "language": "/api/v1/language/bogaya/",
         "loan": false,
@@ -1682,7 +1682,7 @@
     {
         "added": "2013-06-04T23:00:41.129383",
         "annotation": "",
-        "entry": "sav\u0327\u028cn",
+        "entry": "sa\u0263\u028cn",
         "id": 18258,
         "language": "/api/v1/language/bogaya/",
         "loan": false,
@@ -1752,6 +1752,18 @@
         "word": "/api/v1/word/round/"
     },
     {
+        "added": "2013-06-04T23:00:44.798031",
+        "annotation": "",
+        "entry": "s\u028c\u0263\u028cn",
+        "id": 18303,
+        "language": "/api/v1/language/bogaya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/18303/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/new/"
+    },
+    {
         "added": "2013-05-06T22:36:22.293032",
         "annotation": "",
         "entry": "soko\u0327u\u0327",
@@ -1788,6 +1800,18 @@
         "word": "/api/v1/word/red/"
     },
     {
+        "added": "2013-06-04T23:00:46.934684",
+        "annotation": "",
+        "entry": "s\u0254\u0263\u0254b\u028c",
+        "id": 18307,
+        "language": "/api/v1/language/bogaya/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/18307/",
+        "source": "/api/v1/source/shaw-1986/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sit/"
+    },
+    {
         "added": "2013-05-06T22:36:22.296815",
         "annotation": "",
         "entry": "sooga",
@@ -1810,18 +1834,6 @@
         "source": "/api/v1/source/shaw-1986/",
         "source_gloss": null,
         "word": "/api/v1/word/cold/"
-    },
-    {
-        "added": "2013-06-04T23:00:46.934684",
-        "annotation": "",
-        "entry": "s\u0254v\u0327\u0254b\u028c",
-        "id": 18307,
-        "language": "/api/v1/language/bogaya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/18307/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sit/"
     },
     {
         "added": "2013-05-06T22:36:22.248308",
@@ -1870,18 +1882,6 @@
         "source": "/api/v1/source/shaw-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/many/"
-    },
-    {
-        "added": "2013-06-04T23:00:44.798031",
-        "annotation": "",
-        "entry": "s\u028cv\u0327\u028cn",
-        "id": 18303,
-        "language": "/api/v1/language/bogaya/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/18303/",
-        "source": "/api/v1/source/shaw-1986/",
-        "source_gloss": null,
-        "word": "/api/v1/word/new/"
     },
     {
         "added": "2013-06-04T23:00:48.214195",
@@ -2042,7 +2042,7 @@
     {
         "added": "2013-06-04T23:00:43.563509",
         "annotation": "",
-        "entry": "t\u0254u\u028c tav\u0327\u0254",
+        "entry": "t\u0254u\u028c ta\u0263\u0254",
         "id": 18283,
         "language": "/api/v1/language/bogaya/",
         "loan": false,

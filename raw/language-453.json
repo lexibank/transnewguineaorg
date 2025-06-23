@@ -648,18 +648,6 @@
         "word": "/api/v1/word/fire/"
     },
     {
-        "added": "2013-11-19T03:56:29.023279",
-        "annotation": "to sleep",
-        "entry": "a'\u03b2ari",
-        "id": 54112,
-        "language": "/api/v1/language/korafe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/54112/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2013-11-19T03:55:57.772859",
         "annotation": "fire to burn; fire to be ignited; food to be cooked",
         "entry": "a'\u03b2ari",
@@ -670,6 +658,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2013-11-19T03:56:29.023279",
+        "annotation": "to sleep",
+        "entry": "a'\u03b2ari",
+        "id": 54112,
+        "language": "/api/v1/language/korafe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/54112/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2013-11-19T03:56:39.451125",
@@ -4944,18 +4944,6 @@
         "word": "/api/v1/word/stone/"
     },
     {
-        "added": "2013-11-19T03:56:02.530979",
-        "annotation": "dog",
-        "entry": "sino",
-        "id": 49415,
-        "language": "/api/v1/language/korafe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/49415/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/dog/"
-    },
-    {
         "added": "2013-11-19T03:56:02.865886",
         "annotation": "drum",
         "entry": "sino",
@@ -4968,16 +4956,16 @@
         "word": "/api/v1/word/drum/"
     },
     {
-        "added": "2013-11-19T03:56:02.871108",
-        "annotation": "kundu drum, guitar",
-        "entry": "'sino",
-        "id": 49473,
+        "added": "2013-11-19T03:56:02.530979",
+        "annotation": "dog",
+        "entry": "sino",
+        "id": 49415,
         "language": "/api/v1/language/korafe/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/49473/",
+        "resource_uri": "/api/v1/lexicon/49415/",
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
-        "word": "/api/v1/word/drum/"
+        "word": "/api/v1/word/dog/"
     },
     {
         "added": "2013-11-19T03:56:02.536217",
@@ -4990,6 +4978,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2013-11-19T03:56:02.871108",
+        "annotation": "kundu drum, guitar",
+        "entry": "'sino",
+        "id": 49473,
+        "language": "/api/v1/language/korafe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/49473/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/drum/"
     },
     {
         "added": "2013-11-19T03:56:17.919877",
@@ -5040,18 +5040,6 @@
         "word": "/api/v1/word/ant/"
     },
     {
-        "added": "2013-11-19T03:56:23.794595",
-        "annotation": "ground sheltered by overhang of roof",
-        "entry": "'sisi",
-        "id": 53156,
-        "language": "/api/v1/language/korafe/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/53156/",
-        "source": "/api/v1/source/smallhorn-2011/",
-        "source_gloss": null,
-        "word": "/api/v1/word/rafter/"
-    },
-    {
         "added": "2013-11-19T03:56:10.225760",
         "annotation": "grasshopper; locust",
         "entry": "'sisi",
@@ -5062,6 +5050,18 @@
         "source": "/api/v1/source/smallhorn-2011/",
         "source_gloss": null,
         "word": "/api/v1/word/grasshopper/"
+    },
+    {
+        "added": "2013-11-19T03:56:23.794595",
+        "annotation": "ground sheltered by overhang of roof",
+        "entry": "'sisi",
+        "id": 53156,
+        "language": "/api/v1/language/korafe/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/53156/",
+        "source": "/api/v1/source/smallhorn-2011/",
+        "source_gloss": null,
+        "word": "/api/v1/word/rafter/"
     },
     {
         "added": "2013-11-19T03:56:05.246216",

@@ -12,6 +12,18 @@
         "word": "/api/v1/word/egg/"
     },
     {
+        "added": "2025-01-20T03:19:19.076805",
+        "annotation": "",
+        "entry": "abeam",
+        "id": 262699,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262699/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "who?",
+        "word": "/api/v1/word/who/"
+    },
+    {
         "added": "2014-08-31T18:25:38.594103",
         "annotation": "",
         "entry": "'ad\u028cd\u028c\u0294",
@@ -24,6 +36,18 @@
         "word": "/api/v1/word/star/"
     },
     {
+        "added": "2025-01-20T03:19:19.044131",
+        "annotation": "",
+        "entry": "ade",
+        "id": 262625,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262625/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "that",
+        "word": "/api/v1/word/that/"
+    },
+    {
         "added": "2014-08-31T18:25:46.588297",
         "annotation": "",
         "entry": "adi",
@@ -34,6 +58,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "mountain",
         "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.852719",
+        "annotation": "",
+        "entry": "adu",
+        "id": 262211,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262211/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "breast",
+        "word": "/api/v1/word/breast/"
     },
     {
         "added": "2014-08-31T18:25:33.910657",
@@ -132,6 +168,18 @@
         "word": "/api/v1/word/stone/"
     },
     {
+        "added": "2025-01-20T03:19:18.957804",
+        "annotation": "",
+        "entry": "anda",
+        "id": 262426,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262426/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "house",
+        "word": "/api/v1/word/house/"
+    },
+    {
         "added": "2014-08-31T18:25:46.080333",
         "annotation": "",
         "entry": "anda\u0294",
@@ -204,6 +252,18 @@
         "word": "/api/v1/word/father/"
     },
     {
+        "added": "2025-01-20T03:19:18.816096",
+        "annotation": "",
+        "entry": "aribu",
+        "id": 262138,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262138/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "afternoon",
+        "word": "/api/v1/word/afternoon/"
+    },
+    {
         "added": "2014-08-31T18:25:47.892563",
         "annotation": "",
         "entry": "asda\u01cfi",
@@ -226,6 +286,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "road",
         "word": "/api/v1/word/road/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.891014",
+        "annotation": "",
+        "entry": "ato-wa",
+        "id": 262279,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262279/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "father",
+        "word": "/api/v1/word/father/"
     },
     {
         "added": "2014-08-31T18:25:45.881665",
@@ -252,6 +324,198 @@
         "word": "/api/v1/word/head/"
     },
     {
+        "added": "2025-01-20T03:19:18.962063",
+        "annotation": "",
+        "entry": "babaga bama",
+        "id": 262435,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262435/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "it flies",
+        "word": "/api/v1/word/to-fly/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.941240",
+        "annotation": "",
+        "entry": "baba-mo",
+        "id": 262387,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262387/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he lies down",
+        "word": "/api/v1/word/to-lie-down/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.946609",
+        "annotation": "",
+        "entry": "baba-mo",
+        "id": 262400,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262400/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he sleeps",
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.977161",
+        "annotation": "",
+        "entry": "babu-me",
+        "id": 262469,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262469/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "moon",
+        "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.831036",
+        "annotation": "",
+        "entry": "bada-biya",
+        "id": 262160,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262160/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "axe",
+        "word": "/api/v1/word/axe/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.938346",
+        "annotation": "",
+        "entry": "bae-ma sogo-waseyo",
+        "id": 262380,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262380/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he knows",
+        "word": "/api/v1/word/to-know/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.951665",
+        "annotation": "",
+        "entry": "bagema",
+        "id": 262411,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262411/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he",
+        "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.945415",
+        "annotation": "",
+        "entry": "bagema hada-mo",
+        "id": 262397,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262397/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he sits",
+        "word": "/api/v1/word/to-sit/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.920533",
+        "annotation": "",
+        "entry": "bagema na-mo",
+        "id": 262343,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262343/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he bites",
+        "word": "/api/v1/word/to-bite/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.943249",
+        "annotation": "",
+        "entry": "bagome ya-mo",
+        "id": 262392,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262392/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he says",
+        "word": "/api/v1/word/to-say/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.935615",
+        "annotation": "",
+        "entry": "ba-mo",
+        "id": 262374,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262374/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he hits",
+        "word": "/api/v1/word/to-hit/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.937543",
+        "annotation": "",
+        "entry": "ba-mo",
+        "id": 262378,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262378/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he kills",
+        "word": "/api/v1/word/to-kill/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.055753",
+        "annotation": "",
+        "entry": "banebe",
+        "id": 262653,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262653/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tomorrow",
+        "word": "/api/v1/word/tomorrow/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.830673",
+        "annotation": "",
+        "entry": "boda-piya",
+        "id": 262159,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262159/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "axe",
+        "word": "/api/v1/word/axe/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.979022",
+        "annotation": "",
+        "entry": "bunabema",
+        "id": 262473,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262473/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "morning",
+        "word": "/api/v1/word/morning/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.073198",
+        "annotation": "",
+        "entry": "dabali bi-se",
+        "id": 262690,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262690/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "wet",
+        "word": "/api/v1/word/wet/"
+    },
+    {
         "added": "2014-08-31T18:25:50.172066",
         "annotation": "",
         "entry": "dad\u028cma",
@@ -276,6 +540,30 @@
         "word": "/api/v1/word/to-see/"
     },
     {
+        "added": "2025-01-20T03:19:18.967276",
+        "annotation": "",
+        "entry": "dai-se",
+        "id": 262445,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262445/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "knife",
+        "word": "/api/v1/word/knife/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.944198",
+        "annotation": "",
+        "entry": "da-mo",
+        "id": 262394,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262394/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he sees",
+        "word": "/api/v1/word/to-see/"
+    },
+    {
         "added": "2014-08-31T18:25:44.141213",
         "annotation": "",
         "entry": "d\u028cd\u028cma",
@@ -288,6 +576,90 @@
         "word": "/api/v1/word/blood/"
     },
     {
+        "added": "2025-01-20T03:19:18.997237",
+        "annotation": "",
+        "entry": "demo",
+        "id": 262513,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262513/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "not",
+        "word": "/api/v1/word/not/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.839835",
+        "annotation": "",
+        "entry": "dimigi",
+        "id": 262180,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262180/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "bean",
+        "word": "/api/v1/word/bean/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.971924",
+        "annotation": "",
+        "entry": "dosa",
+        "id": 262456,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262456/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "long",
+        "word": "/api/v1/word/long/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.994696",
+        "annotation": "",
+        "entry": "dowi",
+        "id": 262507,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262507/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.054930",
+        "annotation": "",
+        "entry": "dugwa",
+        "id": 262651,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262651/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tobacco",
+        "word": "/api/v1/word/tobacco/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.905849",
+        "annotation": "",
+        "entry": "du-meda",
+        "id": 262316,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262316/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "four",
+        "word": "/api/v1/word/four/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.847842",
+        "annotation": "",
+        "entry": "dumo",
+        "id": 262199,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262199/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "black",
+        "word": "/api/v1/word/black/"
+    },
+    {
         "added": "2014-08-31T18:25:49.861174",
         "annotation": "",
         "entry": "dumu",
@@ -298,6 +670,30 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "black",
         "word": "/api/v1/word/black/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.842551",
+        "annotation": "",
+        "entry": "eimu-se",
+        "id": 262187,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262187/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "belly/stomach",
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.841032",
+        "annotation": "",
+        "entry": "eimu-se",
+        "id": 262183,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262183/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "belly/stomach",
+        "word": "/api/v1/word/belly/"
     },
     {
         "added": "2014-08-31T18:25:34.709619",
@@ -336,6 +732,18 @@
         "word": "/api/v1/word/heart/"
     },
     {
+        "added": "2025-01-20T03:19:18.889899",
+        "annotation": "",
+        "entry": "epenega",
+        "id": 262276,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262276/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "fat",
+        "word": "/api/v1/word/fat/"
+    },
+    {
         "added": "2014-08-31T18:25:44.575503",
         "annotation": "",
         "entry": "\u025b\u0159\u025b\u0294",
@@ -346,6 +754,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "tail",
         "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.963562",
+        "annotation": "",
+        "entry": "foga-mo",
+        "id": 262438,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262438/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "it flies",
+        "word": "/api/v1/word/to-fly/"
     },
     {
         "added": "2014-08-31T18:25:40.511301",
@@ -360,6 +780,114 @@
         "word": "/api/v1/word/fat/"
     },
     {
+        "added": "2025-01-20T03:19:19.007348",
+        "annotation": "",
+        "entry": "gai",
+        "id": 262535,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262535/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "person/people",
+        "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.006262",
+        "annotation": "",
+        "entry": "gai",
+        "id": 262532,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262532/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "person/people",
+        "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.974890",
+        "annotation": "",
+        "entry": "gai",
+        "id": 262463,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262463/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "man",
+        "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.998516",
+        "annotation": "",
+        "entry": "gai madi",
+        "id": 262516,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262516/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "old man",
+        "word": "/api/v1/word/old-man/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.002083",
+        "annotation": "",
+        "entry": "gai-se habila-ma igiya-mo",
+        "id": 262525,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262525/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "one man stands",
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.050603",
+        "annotation": "",
+        "entry": "gaisi tsebo-ma",
+        "id": 262640,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262640/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "three men",
+        "word": "/api/v1/word/three-men/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.043213",
+        "annotation": "",
+        "entry": "ganowa tsobu",
+        "id": 262623,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262623/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "ten",
+        "word": "/api/v1/word/ten/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.844848",
+        "annotation": "",
+        "entry": "gauwa",
+        "id": 262192,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262192/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "big",
+        "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.074726",
+        "annotation": "",
+        "entry": "gawa",
+        "id": 262694,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262694/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "where?",
+        "word": "/api/v1/word/where/"
+    },
+    {
         "added": "2014-08-31T18:25:37.310818",
         "annotation": "",
         "entry": "'g\u028cdat\u026a",
@@ -370,6 +898,42 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "tongue",
         "word": "/api/v1/word/tongue/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.059160",
+        "annotation": "",
+        "entry": "geda",
+        "id": 262657,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262657/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tongue",
+        "word": "/api/v1/word/tongue/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.918732",
+        "annotation": "",
+        "entry": "gi",
+        "id": 262339,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262339/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "hand",
+        "word": "/api/v1/word/hand/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.965589",
+        "annotation": "",
+        "entry": "gibo hagi",
+        "id": 262441,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262441/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "knee",
+        "word": "/api/v1/word/knee/"
     },
     {
         "added": "2014-08-31T18:25:39.020815",
@@ -384,6 +948,42 @@
         "word": "/api/v1/word/rain/"
     },
     {
+        "added": "2025-01-20T03:19:18.899643",
+        "annotation": "",
+        "entry": "gobo",
+        "id": 262300,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262300/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "foot/leg",
+        "word": "/api/v1/word/leg-foot/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.902772",
+        "annotation": "",
+        "entry": "gobo",
+        "id": 262308,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262308/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "foot/leg",
+        "word": "/api/v1/word/leg-foot/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.901181",
+        "annotation": "",
+        "entry": "gobo",
+        "id": 262304,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262304/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "foot/leg",
+        "word": "/api/v1/word/leg-foot/"
+    },
+    {
         "added": "2014-08-31T18:25:47.502477",
         "annotation": "",
         "entry": "godi",
@@ -394,6 +994,102 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "frog",
         "word": "/api/v1/word/frog/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.923735",
+        "annotation": "",
+        "entry": "gose ya-mo",
+        "id": 262349,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262349/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he coughs",
+        "word": "/api/v1/word/to-cough/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.079499",
+        "annotation": "",
+        "entry": "haba-ga",
+        "id": 262706,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262706/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "wing",
+        "word": "/api/v1/word/wing/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.024338",
+        "annotation": "",
+        "entry": "habai",
+        "id": 262577,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262577/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "skin",
+        "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.984201",
+        "annotation": "",
+        "entry": "habu",
+        "id": 262482,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262482/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "mouth",
+        "word": "/api/v1/word/mouth/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.031174",
+        "annotation": "",
+        "entry": "hadeda",
+        "id": 262593,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262593/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "star",
+        "word": "/api/v1/word/star/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.085840",
+        "annotation": "",
+        "entry": "hade-le",
+        "id": 262723,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262723/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "yellow",
+        "word": "/api/v1/word/yellow/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.982869",
+        "annotation": "",
+        "entry": "hadi",
+        "id": 262480,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262480/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.912509",
+        "annotation": "",
+        "entry": "haila",
+        "id": 262329,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262329/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "good",
+        "word": "/api/v1/word/good/"
     },
     {
         "added": "2014-08-31T18:25:49.660437",
@@ -408,6 +1104,102 @@
         "word": "/api/v1/word/white/"
     },
     {
+        "added": "2025-01-20T03:19:18.873648",
+        "annotation": "",
+        "entry": "hali",
+        "id": 262253,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262253/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.855190",
+        "annotation": "",
+        "entry": "hamba-ge",
+        "id": 262216,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262216/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "brother",
+        "word": "/api/v1/word/brother/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.033500",
+        "annotation": "",
+        "entry": "hana",
+        "id": 262599,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262599/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "stone",
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.033848",
+        "annotation": "",
+        "entry": "hana",
+        "id": 262600,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262600/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "stone",
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.081036",
+        "annotation": "",
+        "entry": "hane-ge",
+        "id": 262710,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262710/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "what?",
+        "word": "/api/v1/word/what/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.884931",
+        "annotation": "",
+        "entry": "Hapa",
+        "id": 262264,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262264/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.074016",
+        "annotation": "",
+        "entry": "hatima",
+        "id": 262692,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262692/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "when?",
+        "word": "/api/v1/word/when/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.930615",
+        "annotation": "",
+        "entry": "hatogwa-mo",
+        "id": 262364,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262364/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he falls down",
+        "word": "/api/v1/word/to-fall-from-standing/"
+    },
+    {
         "added": "2014-08-31T18:25:48.563580",
         "annotation": "",
         "entry": "haya\u0294",
@@ -420,6 +1212,66 @@
         "word": "/api/v1/word/banana/"
     },
     {
+        "added": "2025-01-20T03:19:19.067578",
+        "annotation": "",
+        "entry": "hayede",
+        "id": 262678,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262678/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "warm",
+        "word": "/api/v1/word/warm/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.936439",
+        "annotation": "",
+        "entry": "hebo biya-mo",
+        "id": 262376,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262376/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he is hungry",
+        "word": "/api/v1/word/to-be-hungry/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.846128",
+        "annotation": "",
+        "entry": "hega",
+        "id": 262195,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262195/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "bird",
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.907001",
+        "annotation": "",
+        "entry": "helaga",
+        "id": 262319,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262319/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "frog",
+        "word": "/api/v1/word/frog/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.866258",
+        "annotation": "",
+        "entry": "heya gibo-se",
+        "id": 262237,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262237/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "claw",
+        "word": "/api/v1/word/claw/"
+    },
+    {
         "added": "2014-08-31T18:25:41.616331",
         "annotation": "",
         "entry": "hey\u025b",
@@ -430,6 +1282,66 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "to come",
         "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.940065",
+        "annotation": "",
+        "entry": "higi ya-mo",
+        "id": 262384,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262384/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he laughs",
+        "word": "/api/v1/word/to-laugh/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.928693",
+        "annotation": "",
+        "entry": "hila na-mo",
+        "id": 262359,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262359/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he eats sugar cane",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.925560",
+        "annotation": "",
+        "entry": "hode ya-mo",
+        "id": 262352,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262352/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he dances",
+        "word": "/api/v1/word/to-dance/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.026309",
+        "annotation": "",
+        "entry": "hogi-la",
+        "id": 262582,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262582/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "small",
+        "word": "/api/v1/word/small/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.019793",
+        "annotation": "",
+        "entry": "holu-se",
+        "id": 262565,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262565/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "seed",
+        "word": "/api/v1/word/seed/"
     },
     {
         "added": "2014-08-31T18:25:40.228391",
@@ -456,6 +1368,30 @@
         "word": "/api/v1/word/small/"
     },
     {
+        "added": "2025-01-20T03:19:18.926383",
+        "annotation": "",
+        "entry": "huma-mo",
+        "id": 262354,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262354/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he dies",
+        "word": "/api/v1/word/to-die/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.023264",
+        "annotation": "",
+        "entry": "humane-ge",
+        "id": 262574,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262574/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sister",
+        "word": "/api/v1/word/sister/"
+    },
+    {
         "added": "2014-08-31T18:25:39.240283",
         "annotation": "",
         "entry": "i\u0180\u028c\u0294",
@@ -466,6 +1402,54 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "water",
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.068370",
+        "annotation": "",
+        "entry": "iba",
+        "id": 262680,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262680/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.948758",
+        "annotation": "",
+        "entry": "iba ba-mo",
+        "id": 262405,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262405/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he swims",
+        "word": "/api/v1/word/to-swim/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.017918",
+        "annotation": "",
+        "entry": "iba kedi",
+        "id": 262561,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262561/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sand",
+        "word": "/api/v1/word/sand/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.986324",
+        "annotation": "",
+        "entry": "ibi",
+        "id": 262486,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262486/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2014-08-31T18:25:48.119963",
@@ -528,6 +1512,30 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2025-01-20T03:19:19.051310",
+        "annotation": "",
+        "entry": "igiyaino",
+        "id": 262642,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262642/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "stand",
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.947440",
+        "annotation": "",
+        "entry": "igiya-mo",
+        "id": 262402,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262402/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he stands",
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
         "added": "2014-08-31T18:25:45.313071",
         "annotation": "",
         "entry": "ima\u01cfi\u014bge\u0294",
@@ -552,6 +1560,42 @@
         "word": "/api/v1/word/skin/"
     },
     {
+        "added": "2025-01-20T03:19:19.072347",
+        "annotation": "",
+        "entry": "ina",
+        "id": 262688,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262688/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "we",
+        "word": "/api/v1/word/we/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.921759",
+        "annotation": "",
+        "entry": "ina-mo",
+        "id": 262345,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262345/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he catches",
+        "word": "/api/v1/word/to-catch/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.922635",
+        "annotation": "",
+        "entry": "ipoka-mo",
+        "id": 262347,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262347/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he comes",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
         "added": "2014-08-31T18:25:33.459115",
         "annotation": "",
         "entry": "it\u025b\u0294",
@@ -574,6 +1618,66 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "night",
         "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.071142",
+        "annotation": "",
+        "entry": "iya",
+        "id": 262685,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262685/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "we two",
+        "word": "/api/v1/word/we-dual/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.863849",
+        "annotation": "",
+        "entry": "kabena",
+        "id": 262233,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262233/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "chin/jaw",
+        "word": "/api/v1/word/chin/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.859698",
+        "annotation": "",
+        "entry": "kabena",
+        "id": 262225,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262225/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "chin/jaw",
+        "word": "/api/v1/word/chin/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.861664",
+        "annotation": "",
+        "entry": "kabena",
+        "id": 262229,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262229/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "chin/jaw",
+        "word": "/api/v1/word/chin/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.021664",
+        "annotation": "",
+        "entry": "kano-wa",
+        "id": 262570,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262570/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "shoulder",
+        "word": "/api/v1/word/shoulder/"
     },
     {
         "added": "2014-08-31T18:25:48.340686",
@@ -624,6 +1728,102 @@
         "word": "/api/v1/word/thumb/"
     },
     {
+        "added": "2025-01-20T03:19:18.898563",
+        "annotation": "",
+        "entry": "kobi",
+        "id": 262297,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262297/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "flying fox",
+        "word": "/api/v1/word/flying-fox/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.857018",
+        "annotation": "",
+        "entry": "kubono",
+        "id": 262220,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262220/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "cassowary",
+        "word": "/api/v1/word/cassowary/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.849163",
+        "annotation": "",
+        "entry": "kuku-ba",
+        "id": 262202,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262202/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "blood",
+        "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.990728",
+        "annotation": "",
+        "entry": "kxado",
+        "id": 262497,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262497/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "new",
+        "word": "/api/v1/word/new/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.837208",
+        "annotation": "",
+        "entry": "kxai",
+        "id": 262174,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262174/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "banana",
+        "word": "/api/v1/word/banana/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.955043",
+        "annotation": "",
+        "entry": "kxaida",
+        "id": 262420,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262420/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "heavy",
+        "word": "/api/v1/word/heavy/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.907369",
+        "annotation": "",
+        "entry": "kxodi",
+        "id": 262320,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262320/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "frog",
+        "word": "/api/v1/word/frog/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.976370",
+        "annotation": "",
+        "entry": "kxowa",
+        "id": 262467,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262467/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "meat",
+        "word": "/api/v1/word/meat/"
+    },
+    {
         "added": "2014-08-31T18:25:56.393237",
         "annotation": "",
         "entry": "labo",
@@ -634,6 +1834,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "you two",
         "word": "/api/v1/word/you-pl-dual/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.894673",
+        "annotation": "",
+        "entry": "laka",
+        "id": 262288,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262288/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "fish",
+        "word": "/api/v1/word/fish/"
     },
     {
         "added": "2014-08-31T18:25:42.424099",
@@ -648,6 +1860,66 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2025-01-20T03:19:19.063708",
+        "annotation": "",
+        "entry": "lapu",
+        "id": 262668,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262668/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "two",
+        "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.914097",
+        "annotation": "",
+        "entry": "lbi",
+        "id": 262333,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262333/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "green",
+        "word": "/api/v1/word/green/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.914801",
+        "annotation": "",
+        "entry": "ldi",
+        "id": 262335,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262335/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.892565",
+        "annotation": "",
+        "entry": "ldi",
+        "id": 262283,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262283/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "feather",
+        "word": "/api/v1/word/feather/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.888073",
+        "annotation": "",
+        "entry": "le",
+        "id": 262272,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262272/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "eye",
+        "word": "/api/v1/word/eye/"
+    },
+    {
         "added": "2014-08-31T18:25:33.078142",
         "annotation": "",
         "entry": "l\u030c\u025bdi",
@@ -658,6 +1930,66 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "eye",
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.973267",
+        "annotation": "",
+        "entry": "leima gai",
+        "id": 262459,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262459/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.886119",
+        "annotation": "",
+        "entry": "loku",
+        "id": 262267,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262267/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "elbow",
+        "word": "/api/v1/word/elbow/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.872188",
+        "annotation": "",
+        "entry": "lunu bi-e",
+        "id": 262250,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262250/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "dry",
+        "word": "/api/v1/word/dry/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.000956",
+        "annotation": "",
+        "entry": "madi",
+        "id": 262522,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262522/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "old",
+        "word": "/api/v1/word/old/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.908630",
+        "annotation": "",
+        "entry": "magai ya-se",
+        "id": 262323,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262323/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "full",
+        "word": "/api/v1/word/full/"
     },
     {
         "added": "2014-08-31T18:25:47.712984",
@@ -672,6 +2004,30 @@
         "word": "/api/v1/word/snake/"
     },
     {
+        "added": "2025-01-20T03:19:19.003462",
+        "annotation": "",
+        "entry": "mandi",
+        "id": 262527,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262527/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "one",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.987915",
+        "annotation": "",
+        "entry": "masa",
+        "id": 262490,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262490/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "neck",
+        "word": "/api/v1/word/neck/"
+    },
+    {
         "added": "2014-08-31T18:25:33.257899",
         "annotation": "",
         "entry": "ma'sy\u025bdi",
@@ -682,6 +2038,30 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "neck",
         "word": "/api/v1/word/neck/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.981335",
+        "annotation": "",
+        "entry": "mauwa",
+        "id": 262476,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262476/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "mother",
+        "word": "/api/v1/word/mother/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.008599",
+        "annotation": "",
+        "entry": "mena",
+        "id": 262538,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262538/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "pig",
+        "word": "/api/v1/word/pig/"
     },
     {
         "added": "2014-08-31T18:25:45.669967",
@@ -708,6 +2088,18 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2025-01-20T03:19:19.016771",
+        "annotation": "",
+        "entry": "modo bi-se",
+        "id": 262558,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262558/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "round",
+        "word": "/api/v1/word/round/"
+    },
+    {
         "added": "2014-08-31T18:25:38.829927",
         "annotation": "",
         "entry": "mo\u01cfi",
@@ -720,6 +2112,30 @@
         "word": "/api/v1/word/cloud/"
     },
     {
+        "added": "2025-01-20T03:19:18.867862",
+        "annotation": "",
+        "entry": "moli",
+        "id": 262240,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262240/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "cloud",
+        "word": "/api/v1/word/cloud/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.012868",
+        "annotation": "",
+        "entry": "mopi",
+        "id": 262549,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262549/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "red",
+        "word": "/api/v1/word/red/"
+    },
+    {
         "added": "2014-08-31T18:25:42.626104",
         "annotation": "",
         "entry": "mosa\u01cf\u025b",
@@ -730,6 +2146,54 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "his back",
         "word": "/api/v1/word/back/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.833716",
+        "annotation": "",
+        "entry": "mosa-le",
+        "id": 262166,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262166/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "back",
+        "word": "/api/v1/word/back/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.959093",
+        "annotation": "",
+        "entry": "na",
+        "id": 262429,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262429/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "I",
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.931438",
+        "annotation": "",
+        "entry": "naga ida-mo",
+        "id": 262366,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262366/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he gives me",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.932583",
+        "annotation": "",
+        "entry": "naga ida-mo",
+        "id": 262369,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262369/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he gives me",
+        "word": "/api/v1/word/to-give/"
     },
     {
         "added": "2014-08-31T18:25:38.156697",
@@ -756,6 +2220,18 @@
         "word": "/api/v1/word/we-two-excl/"
     },
     {
+        "added": "2025-01-20T03:19:19.071514",
+        "annotation": "",
+        "entry": "nail",
+        "id": 262686,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262686/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "we two",
+        "word": "/api/v1/word/we-dual/"
+    },
+    {
         "added": "2014-08-31T18:25:40.928692",
         "annotation": "",
         "entry": "nama\u01cfe",
@@ -778,6 +2254,30 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "I",
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.927873",
+        "annotation": "",
+        "entry": "na-mo",
+        "id": 262357,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262357/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he drinks",
+        "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.929413",
+        "annotation": "",
+        "entry": "na-mo",
+        "id": 262361,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262361/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he eats",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2014-08-31T18:25:56.822812",
@@ -816,6 +2316,30 @@
         "word": "/api/v1/word/to-give/"
     },
     {
+        "added": "2025-01-20T03:19:19.060336",
+        "annotation": "",
+        "entry": "ne",
+        "id": 262660,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262660/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.049044",
+        "annotation": "",
+        "entry": "ni",
+        "id": 262636,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262636/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "thou",
+        "word": "/api/v1/word/thou/"
+    },
+    {
         "added": "2014-08-31T18:25:56.606263",
         "annotation": "",
         "entry": "ni\u025bmb\u028c",
@@ -838,6 +2362,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "thou",
         "word": "/api/v1/word/you/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.989583",
+        "annotation": "",
+        "entry": "nou-lou",
+        "id": 262494,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262494/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "net bag",
+        "word": "/api/v1/word/net-bag/"
     },
     {
         "added": "2014-08-31T18:25:49.199566",
@@ -876,6 +2412,18 @@
         "word": "/api/v1/word/tooth/"
     },
     {
+        "added": "2025-01-20T03:19:19.086648",
+        "annotation": "",
+        "entry": "o",
+        "id": 262725,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262725/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "yes",
+        "word": "/api/v1/word/yes/"
+    },
+    {
         "added": "2014-08-31T18:25:55.986784",
         "annotation": "",
         "entry": "o\u01e5o",
@@ -888,6 +2436,18 @@
         "word": "/api/v1/word/he-she/"
     },
     {
+        "added": "2025-01-20T03:19:19.047736",
+        "annotation": "",
+        "entry": "ogoi",
+        "id": 262633,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262633/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "this",
+        "word": "/api/v1/word/this/"
+    },
+    {
         "added": "2014-08-31T18:25:43.952981",
         "annotation": "",
         "entry": "o\u01cfit\u02b0\u025b",
@@ -898,6 +2458,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "his bone",
         "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.083527",
+        "annotation": "",
+        "entry": "oleya",
+        "id": 262717,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262717/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "yam",
+        "word": "/api/v1/word/yam/"
     },
     {
         "added": "2014-08-31T18:25:43.105528",
@@ -924,6 +2496,66 @@
         "word": "/api/v1/word/shoulder/"
     },
     {
+        "added": "2025-01-20T03:19:18.835433",
+        "annotation": "",
+        "entry": "osa",
+        "id": 262170,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262170/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "bad",
+        "word": "/api/v1/word/bad/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.869147",
+        "annotation": "",
+        "entry": "pabado",
+        "id": 262243,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262243/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "cold",
+        "word": "/api/v1/word/cold/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.077938",
+        "annotation": "",
+        "entry": "pabato",
+        "id": 262702,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262702/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "wind",
+        "word": "/api/v1/word/wind/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.832535",
+        "annotation": "",
+        "entry": "pada",
+        "id": 262163,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262163/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "baby",
+        "word": "/api/v1/word/baby/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.950016",
+        "annotation": "",
+        "entry": "pada-mo",
+        "id": 262408,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262408/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he walks",
+        "word": "/api/v1/word/to-walk/"
+    },
+    {
         "added": "2014-08-31T18:25:44.370142",
         "annotation": "",
         "entry": "pa\u0180\u028cyt\u0161id\u028c\u0294",
@@ -948,6 +2580,42 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
+        "added": "2025-01-20T03:19:19.015509",
+        "annotation": "",
+        "entry": "ppu",
+        "id": 262555,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262555/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "root",
+        "word": "/api/v1/word/root/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.065117",
+        "annotation": "",
+        "entry": "pu",
+        "id": 262672,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262672/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "vine",
+        "word": "/api/v1/word/vine/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.052085",
+        "annotation": "",
+        "entry": "sebo",
+        "id": 262644,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262644/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "three",
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2014-08-31T18:25:50.436009",
         "annotation": "",
         "entry": "s\u025bd\u0180i\u014bge",
@@ -958,6 +2626,42 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "green",
         "word": "/api/v1/word/green/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.893385",
+        "annotation": "",
+        "entry": "seya",
+        "id": 262285,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262285/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "fire",
+        "word": "/api/v1/word/fire/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.027601",
+        "annotation": "",
+        "entry": "seya mosu",
+        "id": 262585,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262585/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "smoke",
+        "word": "/api/v1/word/smoke/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.827196",
+        "annotation": "",
+        "entry": "seya mumu",
+        "id": 262152,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262152/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
     },
     {
         "added": "2014-08-31T18:25:39.450384",
@@ -1008,6 +2712,18 @@
         "word": "/api/v1/word/flying-fox/"
     },
     {
+        "added": "2025-01-20T03:19:18.942443",
+        "annotation": "",
+        "entry": "sogiyaga foga-mo",
+        "id": 262390,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262390/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he runs",
+        "word": "/api/v1/word/to-run/"
+    },
+    {
         "added": "2014-08-31T18:25:53.919837",
         "annotation": "",
         "entry": "te\u0180o\u0294",
@@ -1018,6 +2734,150 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "three",
         "word": "/api/v1/word/three/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.041963",
+        "annotation": "",
+        "entry": "tsawi",
+        "id": 262620,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262620/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "taro",
+        "word": "/api/v1/word/taro/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.822957",
+        "annotation": "",
+        "entry": "tsemu",
+        "id": 262149,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262149/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "arrow",
+        "word": "/api/v1/word/arrow/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.032346",
+        "annotation": "",
+        "entry": "tseya",
+        "id": 262596,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262596/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "stick",
+        "word": "/api/v1/word/stick/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.061993",
+        "annotation": "",
+        "entry": "tse-ya",
+        "id": 262664,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262664/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tree",
+        "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.960697",
+        "annotation": "",
+        "entry": "tseya da-mo",
+        "id": 262432,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262432/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "it burns",
+        "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.838889",
+        "annotation": "",
+        "entry": "tseya habai",
+        "id": 262178,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262178/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "bark",
+        "word": "/api/v1/word/bark/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.953859",
+        "annotation": "",
+        "entry": "tsili",
+        "id": 262417,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262417/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "heart",
+        "word": "/api/v1/word/heart/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.898104",
+        "annotation": "",
+        "entry": "tsina-wiya",
+        "id": 262296,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262296/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "flying fox",
+        "word": "/api/v1/word/flying-fox/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.029066",
+        "annotation": "",
+        "entry": "tsitsiwano",
+        "id": 262588,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262588/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "snake",
+        "word": "/api/v1/word/snake/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.020959",
+        "annotation": "",
+        "entry": "tsoba-giya",
+        "id": 262568,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262568/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "short",
+        "word": "/api/v1/word/short/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.850806",
+        "annotation": "",
+        "entry": "tsoboi",
+        "id": 262206,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262206/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.075507",
+        "annotation": "",
+        "entry": "tsuba",
+        "id": 262696,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262696/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "white",
+        "word": "/api/v1/word/white/"
     },
     {
         "added": "2014-08-31T18:25:54.180882",
@@ -1044,6 +2904,162 @@
         "word": "/api/v1/word/axe/"
     },
     {
+        "added": "2025-01-20T03:19:18.820489",
+        "annotation": "",
+        "entry": "ulabu",
+        "id": 262144,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262144/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "all",
+        "word": "/api/v1/word/all/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.066371",
+        "annotation": "",
+        "entry": "ulai",
+        "id": 262675,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262675/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "wallaby",
+        "word": "/api/v1/word/wallaby/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.820051",
+        "annotation": "",
+        "entry": "uwabu",
+        "id": 262143,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262143/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "all",
+        "word": "/api/v1/word/all/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.991872",
+        "annotation": "",
+        "entry": "uwele",
+        "id": 262500,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262500/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "night",
+        "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.851594",
+        "annotation": "",
+        "entry": "wabi (hogila)",
+        "id": 262208,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262208/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "boy",
+        "word": "/api/v1/word/boy/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.911206",
+        "annotation": "",
+        "entry": "wana",
+        "id": 262326,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262326/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "girl",
+        "word": "/api/v1/word/girl/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.993642",
+        "annotation": "",
+        "entry": "wao",
+        "id": 262504,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262504/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "no/not",
+        "word": "/api/v1/word/no-not/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.996856",
+        "annotation": "",
+        "entry": "wap",
+        "id": 262512,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262512/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "not",
+        "word": "/api/v1/word/not/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.039033",
+        "annotation": "",
+        "entry": "weleya",
+        "id": 262613,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262613/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sweet potato",
+        "word": "/api/v1/word/sweet-potato/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.083877",
+        "annotation": "",
+        "entry": "weleya",
+        "id": 262718,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262718/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "yam",
+        "word": "/api/v1/word/yam/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.999707",
+        "annotation": "",
+        "entry": "wida madi",
+        "id": 262519,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262519/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "old woman",
+        "word": "/api/v1/word/old-woman/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.035384",
+        "annotation": "",
+        "entry": "wila",
+        "id": 262604,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262604/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sugarcane",
+        "word": "/api/v1/word/sugarcane/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.081714",
+        "annotation": "",
+        "entry": "winta",
+        "id": 262712,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262712/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "woman",
+        "word": "/api/v1/word/woman/"
+    },
+    {
         "added": "2014-08-31T18:25:34.105291",
         "annotation": "",
         "entry": "winy\u028c",
@@ -1054,6 +3070,30 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "woman",
         "word": "/api/v1/word/woman/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.870630",
+        "annotation": "",
+        "entry": "winya",
+        "id": 262246,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262246/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "dog",
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.934689",
+        "annotation": "",
+        "entry": "witsa-kaiya-mo",
+        "id": 262372,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262372/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he hears",
+        "word": "/api/v1/word/to-hear/"
     },
     {
         "added": "2014-08-31T18:25:34.504221",
@@ -1068,6 +3108,102 @@
         "word": "/api/v1/word/dog/"
     },
     {
+        "added": "2025-01-20T03:19:18.904363",
+        "annotation": "",
+        "entry": "wonu",
+        "id": 262312,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262312/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "forehead",
+        "word": "/api/v1/word/forehead/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.956505",
+        "annotation": "",
+        "entry": "xowa fiyage",
+        "id": 262423,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262423/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "horn",
+        "word": "/api/v1/word/horn/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.939140",
+        "annotation": "",
+        "entry": "xoyo higi ya-mo",
+        "id": 262382,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262382/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he laughs a lot",
+        "word": "/api/v1/word/to-laugh/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.970506",
+        "annotation": "",
+        "entry": "yafeya",
+        "id": 262453,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262453/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "light",
+        "word": "/api/v1/word/light/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.089458",
+        "annotation": "",
+        "entry": "yaga",
+        "id": 262731,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262731/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "you (pl)",
+        "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.046894",
+        "annotation": "",
+        "entry": "yaga",
+        "id": 262631,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262631/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "they",
+        "word": "/api/v1/word/they/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.036928",
+        "annotation": "",
+        "entry": "yage",
+        "id": 262608,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262608/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sun",
+        "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.087816",
+        "annotation": "",
+        "entry": "yahane",
+        "id": 262728,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262728/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "yesterday",
+        "word": "/api/v1/word/yesterday/"
+    },
+    {
         "added": "2014-08-31T18:25:57.019845",
         "annotation": "",
         "entry": "ya\u01cfamba",
@@ -1078,6 +3214,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "you (plural)",
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.011708",
+        "annotation": "",
+        "entry": "yanema",
+        "id": 262546,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262546/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "rat",
+        "word": "/api/v1/word/rat/"
     },
     {
         "added": "2014-08-31T18:25:45.146012",
@@ -1092,6 +3240,78 @@
         "word": "/api/v1/word/brother/"
     },
     {
+        "added": "2025-01-20T03:19:19.040301",
+        "annotation": "",
+        "entry": "ye-de",
+        "id": 262616,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262616/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tail",
+        "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.896363",
+        "annotation": "",
+        "entry": "yitso-bu",
+        "id": 262292,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262292/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "five",
+        "word": "/api/v1/word/five/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.053313",
+        "annotation": "",
+        "entry": "yo",
+        "id": 262647,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262647/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "thumb",
+        "word": "/api/v1/word/thumb/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.090252",
+        "annotation": "",
+        "entry": "yobo",
+        "id": 262733,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262733/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "you two",
+        "word": "/api/v1/word/you-dual/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.045372",
+        "annotation": "",
+        "entry": "yobo",
+        "id": 262628,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262628/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "they two",
+        "word": "/api/v1/word/they-dual/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.014274",
+        "annotation": "",
+        "entry": "yodo",
+        "id": 262552,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262552/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "road",
+        "word": "/api/v1/word/road/"
+    },
+    {
         "added": "2014-08-31T18:25:39.976778",
         "annotation": "",
         "entry": "yoho",
@@ -1102,6 +3322,18 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "leaf",
         "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.952355",
+        "annotation": "",
+        "entry": "yomodi",
+        "id": 262413,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262413/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
     },
     {
         "added": "2014-08-31T18:25:39.734030",
@@ -1116,6 +3348,18 @@
         "word": "/api/v1/word/root/"
     },
     {
+        "added": "2025-01-20T03:19:18.969377",
+        "annotation": "",
+        "entry": "yo-xo",
+        "id": 262450,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262450/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "leaf",
+        "word": "/api/v1/word/leaf/"
+    },
+    {
         "added": "2014-08-31T18:25:46.311822",
         "annotation": "",
         "entry": "yu",
@@ -1126,5 +3370,41 @@
         "source": "/api/v1/source/davies_and_comrie1985/",
         "source_gloss": "earth",
         "word": "/api/v1/word/earth/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.881593",
+        "annotation": "",
+        "entry": "yu-gege",
+        "id": 262256,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262256/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "earth/ground",
+        "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.883321",
+        "annotation": "",
+        "entry": "yu-gege",
+        "id": 262260,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262260/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "earth/ground",
+        "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.010188",
+        "annotation": "",
+        "entry": "yu ke-ke",
+        "id": 262542,
+        "language": "/api/v1/language/bisorio-iniai/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262542/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
     }
 ]

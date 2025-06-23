@@ -180,18 +180,6 @@
         "word": "/api/v1/word/husband/"
     },
     {
-        "added": "2013-05-27T07:04:03.749195",
-        "annotation": "to wash",
-        "entry": "bathe')              :",
-        "id": 14853,
-        "language": "/api/v1/language/omie/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14853/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-wash/"
-    },
-    {
         "added": "2013-05-27T07:04:03.201253",
         "annotation": "spear (n)",
         "entry": "bi|j-e",
@@ -288,18 +276,6 @@
         "word": "/api/v1/word/wind/"
     },
     {
-        "added": "2013-05-27T07:04:03.612769",
-        "annotation": "stomach, excrement, womb, insides",
-        "entry": "d\u00eb",
-        "id": 14828,
-        "language": "/api/v1/language/omie/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14828/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/belly/"
-    },
-    {
         "added": "2013-05-27T17:28:58.771088",
         "annotation": "",
         "entry": "d\u00eb",
@@ -310,6 +286,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/faeces/"
+    },
+    {
+        "added": "2013-05-27T07:04:03.612769",
+        "annotation": "stomach, excrement, womb, insides",
+        "entry": "d\u00eb",
+        "id": 14828,
+        "language": "/api/v1/language/omie/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14828/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
     },
     {
         "added": "2013-05-27T07:04:03.658260",
@@ -639,18 +627,6 @@
         "added": "2013-05-27T07:04:04.419635",
         "annotation": "eat, drink",
         "entry": "i",
-        "id": 14992,
-        "language": "/api/v1/language/omie/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/14992/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": "to eat, drink",
-        "word": "/api/v1/word/to-eat/"
-    },
-    {
-        "added": "2013-05-27T07:04:04.419635",
-        "annotation": "eat, drink",
-        "entry": "i",
         "id": 260772,
         "language": "/api/v1/language/omie/",
         "loan": false,
@@ -658,6 +634,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": "to eat, drink",
         "word": "/api/v1/word/to-drink/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.419635",
+        "annotation": "eat, drink",
+        "entry": "i",
+        "id": 14992,
+        "language": "/api/v1/language/omie/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/14992/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-05-27T07:03:59.864319",
@@ -696,18 +684,6 @@
         "word": "/api/v1/word/tree/"
     },
     {
-        "added": "2013-05-27T07:04:04.415046",
-        "annotation": "eat, drink, smoke (tobacco)",
-        "entry": "ij-e",
-        "id": 260779,
-        "language": "/api/v1/language/omie/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/260779/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": "to eat, drink",
-        "word": "/api/v1/word/to-drink/"
-    },
-    {
         "added": "2014-04-14T07:57:45.225933",
         "annotation": "eat, drink, smoke (tobacco)",
         "entry": "ij-e",
@@ -718,6 +694,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2013-05-27T07:04:04.415046",
+        "annotation": "eat, drink, smoke (tobacco)",
+        "entry": "ij-e",
+        "id": 260779,
+        "language": "/api/v1/language/omie/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/260779/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": "to eat, drink",
+        "word": "/api/v1/word/to-drink/"
     },
     {
         "added": "2013-05-27T07:04:04.415046",
@@ -1212,18 +1200,6 @@
         "word": "/api/v1/word/to-chew/"
     },
     {
-        "added": "2014-03-10T22:36:51.990856",
-        "annotation": "yesterday, tomorrow",
-        "entry": "n\u00ebri",
-        "id": 79322,
-        "language": "/api/v1/language/omie/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/79322/",
-        "source": "/api/v1/source/dutton2010/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tomorrow/"
-    },
-    {
         "added": "2014-03-10T22:36:51.973735",
         "annotation": "yesterday, tomorrow",
         "entry": "n\u00ebri",
@@ -1234,6 +1210,18 @@
         "source": "/api/v1/source/dutton2010/",
         "source_gloss": null,
         "word": "/api/v1/word/yesterday/"
+    },
+    {
+        "added": "2014-03-10T22:36:51.990856",
+        "annotation": "yesterday, tomorrow",
+        "entry": "n\u00ebri",
+        "id": 79322,
+        "language": "/api/v1/language/omie/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/79322/",
+        "source": "/api/v1/source/dutton2010/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tomorrow/"
     },
     {
         "added": "2013-05-27T07:04:09.584552",

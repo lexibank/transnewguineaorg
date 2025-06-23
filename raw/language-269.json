@@ -1,5 +1,17 @@
 [
     {
+        "added": "2025-02-24T17:04:07.196699",
+        "annotation": "probably means 'fresh' in contrast to \u2018salt/sea water'.",
+        "entry": "a-\u02c8d\u0254na",
+        "id": 262812,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262812/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
+    },
+    {
         "added": "2013-06-11T20:12:48.055591",
         "annotation": "",
         "entry": "adono",
@@ -10,6 +22,54 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.219947",
+        "annotation": "",
+        "entry": "\u027eai\u027ea\u027eia\u03b2\u025b",
+        "id": 262875,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262875/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to",
+        "word": "/api/v1/word/to/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.235435",
+        "annotation": "Compound of ama 'flesh' and buqi 'meat\u2019. Kokoda hama is a cognate of ama.",
+        "entry": "ama-bu\u0294i",
+        "id": 262914,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262914/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "flesh",
+        "word": "/api/v1/word/flesh/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.547710",
+        "annotation": "",
+        "entry": "ama-bu\u0294i",
+        "id": 263460,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263460/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "flesh",
+        "word": "/api/v1/word/flesh/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.317288",
+        "annotation": "",
+        "entry": "amagodi",
+        "id": 263126,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263126/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "husband",
+        "word": "/api/v1/word/husband/"
     },
     {
         "added": "2013-06-11T20:12:48.018296",
@@ -24,6 +84,66 @@
         "word": "/api/v1/word/tooth/"
     },
     {
+        "added": "2025-02-24T17:04:07.318579",
+        "annotation": "",
+        "entry": "a\u02c8ma\u0261\u0254",
+        "id": 263130,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263130/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "wife",
+        "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.459525",
+        "annotation": "",
+        "entry": "am\u0254uwi",
+        "id": 263243,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263243/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thick",
+        "word": "/api/v1/word/thick/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.268562",
+        "annotation": "",
+        "entry": "a\u02c8m\u0254uwi",
+        "id": 263003,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263003/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thick",
+        "word": "/api/v1/word/thick/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.266299",
+        "annotation": "",
+        "entry": "a\u02c8mu",
+        "id": 262997,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262997/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to sit",
+        "word": "/api/v1/word/to-sit/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.504641",
+        "annotation": "",
+        "entry": "amu-",
+        "id": 263353,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263353/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to sit",
+        "word": "/api/v1/word/to-sit/"
+    },
+    {
         "added": "2013-06-11T20:12:47.878749",
         "annotation": "",
         "entry": "amuge",
@@ -34,6 +154,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sit/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.274268",
+        "annotation": "",
+        "entry": "aomi",
+        "id": 263018,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263018/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "road",
+        "word": "/api/v1/word/road/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.221661",
+        "annotation": "",
+        "entry": "a\u02c8pa\u0294a",
+        "id": 262880,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262880/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "blood",
+        "word": "/api/v1/word/blood/"
     },
     {
         "added": "2013-06-11T20:12:47.444334",
@@ -60,6 +204,18 @@
         "word": "/api/v1/word/hair/"
     },
     {
+        "added": "2025-02-24T17:04:07.271354",
+        "annotation": "",
+        "entry": "\u02c8a\u03b2a\u027ea",
+        "id": 263010,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263010/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "child",
+        "word": "/api/v1/word/child/"
+    },
+    {
         "added": "2013-06-11T20:12:47.923034",
         "annotation": "",
         "entry": "be\u0294ono",
@@ -70,6 +226,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.217301",
+        "annotation": "",
+        "entry": "biabani",
+        "id": 262867,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262867/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thorn",
+        "word": "/api/v1/word/thorn/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.534122",
+        "annotation": "",
+        "entry": "bi-abani",
+        "id": 263427,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263427/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thorn (bush)",
+        "word": "/api/v1/word/thorn/"
     },
     {
         "added": "2013-06-11T20:12:47.432082",
@@ -84,6 +264,18 @@
         "word": "/api/v1/word/black/"
     },
     {
+        "added": "2025-02-24T17:04:07.241062",
+        "annotation": "",
+        "entry": "bi\u02c8jau\u027ei",
+        "id": 262929,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262929/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "heart",
+        "word": "/api/v1/word/heart/"
+    },
+    {
         "added": "2013-06-11T20:12:47.405029",
         "annotation": "",
         "entry": "bo\u0294ano",
@@ -94,6 +286,90 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.224331",
+        "annotation": "",
+        "entry": "b\u0254d\u0254na",
+        "id": 262887,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262887/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "land",
+        "word": "/api/v1/word/land/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.565340",
+        "annotation": "",
+        "entry": "b\u0254\u02c8d\u0254na",
+        "id": 263510,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263510/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "land, clay, soil",
+        "word": "/api/v1/word/land/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.565674",
+        "annotation": "",
+        "entry": "b\u0254\u02c8d\u0254na",
+        "id": 263511,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263511/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "land, clay, soil",
+        "word": "/api/v1/word/clay/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.565018",
+        "annotation": "",
+        "entry": "b\u0254\u02c8d\u0254na",
+        "id": 263509,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263509/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "land, clay, soil",
+        "word": "/api/v1/word/earth/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.542550",
+        "annotation": "",
+        "entry": "b\u0254\u02c8d\u0254na",
+        "id": 263446,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263446/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "land, clay, soil",
+        "word": "/api/v1/word/clay/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.542232",
+        "annotation": "",
+        "entry": "b\u0254\u02c8d\u0254na",
+        "id": 263445,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263445/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "land, clay, soil",
+        "word": "/api/v1/word/land/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.541913",
+        "annotation": "",
+        "entry": "b\u0254\u02c8d\u0254na",
+        "id": 263444,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263444/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "land, clay, soil",
+        "word": "/api/v1/word/earth/"
     },
     {
         "added": "2013-06-11T20:12:47.616683",
@@ -120,6 +396,114 @@
         "word": "/api/v1/word/pig/"
     },
     {
+        "added": "2025-02-24T17:04:07.556600",
+        "annotation": "",
+        "entry": "dan\u025b\u0294i",
+        "id": 263485,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263485/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "person",
+        "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.461884",
+        "annotation": "",
+        "entry": "dan\u025b\u0294i",
+        "id": 263250,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263250/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "person",
+        "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.529351",
+        "annotation": "",
+        "entry": "dan\u025b\u0294i",
+        "id": 263415,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263415/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "person",
+        "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.243060",
+        "annotation": "",
+        "entry": "dan\u025b\u02c8\u0294i",
+        "id": 262935,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262935/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "person",
+        "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.179189",
+        "annotation": "Indonesian loan (PAN *susu)",
+        "entry": "\u02c8dido",
+        "id": 262767,
+        "language": "/api/v1/language/puragi/",
+        "loan": true,
+        "resource_uri": "/api/v1/lexicon/262767/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "female breast, milk",
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.179529",
+        "annotation": "Indonesian loan (PAN *susu)",
+        "entry": "\u02c8dido",
+        "id": 262768,
+        "language": "/api/v1/language/puragi/",
+        "loan": true,
+        "resource_uri": "/api/v1/lexicon/262768/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "female breast, milk",
+        "word": "/api/v1/word/milk/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.567647",
+        "annotation": "",
+        "entry": "\u02c8did\u0254\u027ea",
+        "id": 263517,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263517/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "left (side)",
+        "word": "/api/v1/word/left-side/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.248969",
+        "annotation": "",
+        "entry": "\u02c8did\u0254\u027ea",
+        "id": 262951,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262951/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "left",
+        "word": "/api/v1/word/left-side/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.639199",
+        "annotation": "",
+        "entry": "\u02c8did\u0254\u027ea",
+        "id": 263586,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263586/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "left (side)",
+        "word": "/api/v1/word/left-side/"
+    },
+    {
         "added": "2013-06-11T20:12:48.099126",
         "annotation": "you (sg.)",
         "entry": "edi",
@@ -130,6 +514,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": "you (sg.)",
         "word": "/api/v1/word/thou/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.320334",
+        "annotation": "",
+        "entry": "\u025b\u02c8\u0261\u025bdi",
+        "id": 263134,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263134/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "sun",
+        "word": "/api/v1/word/sun/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.456714",
+        "annotation": "",
+        "entry": "\u0294e\u02c8\u0294emu",
+        "id": 263236,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263236/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "all",
+        "word": "/api/v1/word/all/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.230986",
+        "annotation": "",
+        "entry": "\u0294\u025b\u02c8\u0294\u025bmu",
+        "id": 262902,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262902/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "all",
+        "word": "/api/v1/word/all/"
     },
     {
         "added": "2013-06-11T20:12:47.936451",
@@ -154,6 +574,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/fingernail/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.646682",
+        "annotation": "",
+        "entry": "[\u025b-\u0294i]",
+        "id": 263607,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263607/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "2SG.S",
+        "word": "/api/v1/word/you/"
     },
     {
         "added": "2013-06-11T20:12:48.031223",
@@ -192,6 +624,30 @@
         "word": "/api/v1/word/arm/"
     },
     {
+        "added": "2025-02-24T17:04:07.622465",
+        "annotation": "",
+        "entry": "gi-",
+        "id": 263544,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263544/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to hold",
+        "word": "/api/v1/word/to-hold/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.550571",
+        "annotation": "",
+        "entry": "ibubui",
+        "id": 263467,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263467/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "buttocks",
+        "word": "/api/v1/word/buttocks/"
+    },
+    {
         "added": "2013-06-11T20:12:47.893227",
         "annotation": "",
         "entry": "idadini",
@@ -202,6 +658,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/skin/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.245918",
+        "annotation": "",
+        "entry": "i\u02c8d\u025b",
+        "id": 262943,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262943/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "stand",
+        "word": "/api/v1/word/to-stand/"
     },
     {
         "added": "2013-06-11T20:12:48.084689",
@@ -216,6 +684,42 @@
         "word": "/api/v1/word/we/"
     },
     {
+        "added": "2025-02-24T17:04:07.669004",
+        "annotation": "",
+        "entry": "[i-didi]",
+        "id": 263660,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263660/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "2PL.S",
+        "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.304366",
+        "annotation": "",
+        "entry": "\u0261i\u0261ia\u027eu",
+        "id": 263093,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263093/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "finger",
+        "word": "/api/v1/word/finger/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.509954",
+        "annotation": "",
+        "entry": "i\u02c8ma\u025b\u027e\u0254",
+        "id": 263367,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263367/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "who?",
+        "word": "/api/v1/word/who/"
+    },
+    {
         "added": "2013-06-11T20:12:47.526062",
         "annotation": "",
         "entry": "imago",
@@ -226,6 +730,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.258460",
+        "annotation": "",
+        "entry": "\u0261i\u02c8n\u0254",
+        "id": 262977,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262977/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hold",
+        "word": "/api/v1/word/to-hold/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.312985",
+        "annotation": "",
+        "entry": "\u02c8it\u0254",
+        "id": 263114,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263114/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "new",
+        "word": "/api/v1/word/new/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.256215",
+        "annotation": "",
+        "entry": "ka",
+        "id": 262971,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262971/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "feces",
+        "word": "/api/v1/word/faeces/"
     },
     {
         "added": "2013-06-11T20:12:47.553162",
@@ -240,6 +780,30 @@
         "word": "/api/v1/word/fire/"
     },
     {
+        "added": "2025-02-24T17:04:07.469997",
+        "annotation": "",
+        "entry": "kaeo",
+        "id": 263272,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263272/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "feces",
+        "word": "/api/v1/word/faeces/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.300072",
+        "annotation": "",
+        "entry": "kakapi\u027ei",
+        "id": 263082,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263082/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "filth",
+        "word": "/api/v1/word/dirt-mud/"
+    },
+    {
         "added": "2013-06-11T20:12:47.418309",
         "annotation": "",
         "entry": "kanino",
@@ -250,6 +814,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.467336",
+        "annotation": "",
+        "entry": "kararu",
+        "id": 263265,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263265/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.634103",
+        "annotation": "",
+        "entry": "kararu",
+        "id": 263574,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263574/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.214105",
+        "annotation": "",
+        "entry": "kararu",
+        "id": 262859,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262859/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2013-06-11T20:12:47.645193",
@@ -276,6 +876,18 @@
         "word": "/api/v1/word/louse/"
     },
     {
+        "added": "2025-02-24T17:04:07.208019",
+        "annotation": "",
+        "entry": "k\u0254\u02c8t\u0254ma",
+        "id": 262844,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262844/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
         "added": "2013-06-11T20:12:47.457171",
         "annotation": "",
         "entry": "kotomo",
@@ -288,6 +900,18 @@
         "word": "/api/v1/word/bone/"
     },
     {
+        "added": "2025-02-24T17:04:07.499809",
+        "annotation": "",
+        "entry": "ma-",
+        "id": 263340,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263340/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to come",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
         "added": "2013-06-11T20:12:47.469961",
         "annotation": "",
         "entry": "mawe",
@@ -297,6 +921,54 @@
         "resource_uri": "/api/v1/lexicon/22069/",
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
+        "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.261011",
+        "annotation": "",
+        "entry": "\u02c8m\u025bi",
+        "id": 262983,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262983/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to give",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.496234",
+        "annotation": "",
+        "entry": "m\u025bi-",
+        "id": 263331,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263331/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to give",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.306340",
+        "annotation": "",
+        "entry": "miobi",
+        "id": 263097,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263097/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.263614",
+        "annotation": "",
+        "entry": "\u02c8mo",
+        "id": 262990,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262990/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to come",
         "word": "/api/v1/word/to-come/"
     },
     {
@@ -312,6 +984,30 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2025-02-24T17:04:07.277033",
+        "annotation": "",
+        "entry": "m\u0254\u02c8\u0294\u0254nada",
+        "id": 263025,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263025/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "one",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.284961",
+        "annotation": "",
+        "entry": "\u02c8mua-\u027e\u025bni",
+        "id": 263045,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263045/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "night",
+        "word": "/api/v1/word/night/"
+    },
+    {
         "added": "2013-06-11T20:12:47.757457",
         "annotation": "",
         "entry": "muareni",
@@ -322,6 +1018,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.515395",
+        "annotation": "",
+        "entry": "na-",
+        "id": 263380,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263380/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to lie",
+        "word": "/api/v1/word/to-lie-down/"
     },
     {
         "added": "2013-06-11T20:12:47.589256",
@@ -336,6 +1044,42 @@
         "word": "/api/v1/word/to-give/"
     },
     {
+        "added": "2025-02-24T17:04:07.205188",
+        "annotation": "",
+        "entry": "na\u025b\u027eawu",
+        "id": 262836,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262836/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.628983",
+        "annotation": "",
+        "entry": "na\u025b\u027eawu",
+        "id": 263561,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263561/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.464805",
+        "annotation": "",
+        "entry": "na\u025b\u027eawu",
+        "id": 263258,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263258/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
+    },
+    {
         "added": "2013-06-11T20:12:47.746065",
         "annotation": "",
         "entry": "naidi",
@@ -346,6 +1090,78 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.199456",
+        "annotation": "",
+        "entry": "\u02c8naidi",
+        "id": 262820,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262820/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.524327",
+        "annotation": "",
+        "entry": "\u02c8naidi",
+        "id": 263402,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263402/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.574557",
+        "annotation": "",
+        "entry": "\u02c8naidi",
+        "id": 263529,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263529/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.324238",
+        "annotation": "",
+        "entry": "na\u02c8k\u0254i\u03b2i",
+        "id": 263144,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263144/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.227261",
+        "annotation": "",
+        "entry": "na\u02c8k\u0254i\u03b2i",
+        "id": 262894,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262894/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.283138",
+        "annotation": "",
+        "entry": "naru",
+        "id": 263040,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263040/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to lie (down)",
+        "word": "/api/v1/word/to-lie-down/"
     },
     {
         "added": "2013-06-11T20:12:47.603094",
@@ -360,6 +1176,18 @@
         "word": "/api/v1/word/good/"
     },
     {
+        "added": "2025-02-24T17:04:07.232722",
+        "annotation": "",
+        "entry": "n\u025bb\u0254",
+        "id": 262907,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262907/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hand",
+        "word": "/api/v1/word/hand/"
+    },
+    {
         "added": "2013-06-11T20:12:47.663787",
         "annotation": "",
         "entry": "nedi",
@@ -370,6 +1198,78 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.641334",
+        "annotation": "",
+        "entry": "[ne-di]",
+        "id": 263592,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263592/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "1SG.S",
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.293892",
+        "annotation": "",
+        "entry": "n\u025b\u02c8\u0261\u025b-\u0255ianu",
+        "id": 263067,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263067/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/shell/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.293576",
+        "annotation": "",
+        "entry": "n\u025b\u02c8\u0261\u025b-\u0255ianu",
+        "id": 263066,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263066/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/nail/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.641004",
+        "annotation": "",
+        "entry": "[n\u025b-\u0294i]",
+        "id": 263591,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263591/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "1SG.S",
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.297064",
+        "annotation": "",
+        "entry": "n\u025b\u02c8tub\u0254ni",
+        "id": 263076,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263076/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "elbow",
+        "word": "/api/v1/word/elbow/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.280197",
+        "annotation": "",
+        "entry": "ni",
+        "id": 263033,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263033/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to eat",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-06-11T20:12:47.497152",
@@ -384,6 +1284,138 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2025-02-24T17:04:07.673740",
+        "annotation": "",
+        "entry": "[nidau]",
+        "id": 263673,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263673/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "3PL",
+        "word": "/api/v1/word/they/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.654275",
+        "annotation": "",
+        "entry": "[nid-e]",
+        "id": 263625,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263625/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "3SG.\u2642",
+        "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.654638",
+        "annotation": "",
+        "entry": "[nid-e]",
+        "id": 263626,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263626/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "3SG.\u2642",
+        "word": "/api/v1/word/he/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.662346",
+        "annotation": "",
+        "entry": "[ni-didi]",
+        "id": 263644,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263644/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "1PL.EX.S",
+        "word": "/api/v1/word/we-excl/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.658829",
+        "annotation": "",
+        "entry": "[nid-o]",
+        "id": 263635,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263635/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "3SG.\u2640",
+        "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.659184",
+        "annotation": "",
+        "entry": "[nid-o]",
+        "id": 263636,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263636/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "3SG.\u2640",
+        "word": "/api/v1/word/she/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.238619",
+        "annotation": "",
+        "entry": "obo",
+        "id": 262922,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262922/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to hear",
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.544625",
+        "annotation": "",
+        "entry": "obo-",
+        "id": 263452,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263452/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to hear",
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.439784",
+        "annotation": "",
+        "entry": "obo'ani",
+        "id": 263190,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263190/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hear",
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.183478",
+        "annotation": "PMP loan `*dahun`",
+        "entry": "\u02c8\u027e\u0254ni",
+        "id": 262779,
+        "language": "/api/v1/language/puragi/",
+        "loan": true,
+        "resource_uri": "/api/v1/lexicon/262779/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "leaf",
+        "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.626369",
+        "annotation": "",
+        "entry": "ou\u02c8\u0261\u025b",
+        "id": 263554,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263554/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "two",
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2013-06-11T20:12:48.043769",
         "annotation": "",
         "entry": "owge",
@@ -394,6 +1426,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/two/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.191102",
+        "annotation": "",
+        "entry": "pa\u02c8\u027eat\u0254",
+        "id": 262798,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262798/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
     },
     {
         "added": "2013-06-11T20:12:47.732203",
@@ -444,6 +1488,90 @@
         "word": "/api/v1/word/dog/"
     },
     {
+        "added": "2025-02-24T17:04:07.444711",
+        "annotation": "",
+        "entry": "sirio",
+        "id": 263204,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263204/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hill",
+        "word": "/api/v1/word/hill/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.187195",
+        "annotation": "",
+        "entry": "sirio",
+        "id": 262789,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262789/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain, hill",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.186854",
+        "annotation": "",
+        "entry": "sirio",
+        "id": 262788,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262788/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain, hill",
+        "word": "/api/v1/word/hill/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.314889",
+        "annotation": "",
+        "entry": "sirio",
+        "id": 263120,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263120/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.302141",
+        "annotation": "",
+        "entry": "tu-te\u0294i",
+        "id": 263087,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263087/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "true",
+        "word": "/api/v1/word/true/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.455049",
+        "annotation": "",
+        "entry": "tutui",
+        "id": 263231,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263231/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "vein",
+        "word": "/api/v1/word/vein/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.442622",
+        "annotation": "",
+        "entry": "tutui",
+        "id": 263198,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263198/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "vein",
+        "word": "/api/v1/word/vein/"
+    },
+    {
         "added": "2013-06-11T20:12:47.864837",
         "annotation": "",
         "entry": "we\u0294e",
@@ -466,5 +1594,41 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.474133",
+        "annotation": "",
+        "entry": "wu\u02c8k\u0254",
+        "id": 263280,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263280/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.202557",
+        "annotation": "",
+        "entry": "wu\u02c8k\u0254",
+        "id": 262828,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262828/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.211853",
+        "annotation": "",
+        "entry": "\u03b2i\u02c8\u0254\u03b2\u025b",
+        "id": 262852,
+        "language": "/api/v1/language/puragi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262852/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to vomit",
+        "word": "/api/v1/word/to-vomit/"
     }
 ]

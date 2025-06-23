@@ -10,6 +10,62 @@
     {
         "concepticon_gloss": null,
         "concepticon_id": null,
+        "id": 2554,
+        "resource_uri": "/api/v1/word/1st-plural-oblique/",
+        "slug": "1st-plural-oblique",
+        "word": "1st Plural Oblique"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2556,
+        "resource_uri": "/api/v1/word/1st-singular-emphatic/",
+        "slug": "1st-singular-emphatic",
+        "word": "1st Singular Emphatic"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2552,
+        "resource_uri": "/api/v1/word/1st-singular-oblique/",
+        "slug": "1st-singular-oblique",
+        "word": "1st Singular Oblique"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2558,
+        "resource_uri": "/api/v1/word/2nd-plural-emphatic/",
+        "slug": "2nd-plural-emphatic",
+        "word": "2nd Plural Emphatic"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2555,
+        "resource_uri": "/api/v1/word/2nd-plural-oblique/",
+        "slug": "2nd-plural-oblique",
+        "word": "2nd Plural Oblique"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2557,
+        "resource_uri": "/api/v1/word/2nd-singular-emphatic/",
+        "slug": "2nd-singular-emphatic",
+        "word": "2nd Singular Emphatic"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2553,
+        "resource_uri": "/api/v1/word/2nd-singular-oblique/",
+        "slug": "2nd-singular-oblique",
+        "word": "2nd Singular Oblique"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
         "id": 2302,
         "resource_uri": "/api/v1/word/2p-paucal/",
         "slug": "2p-paucal",
@@ -280,8 +336,8 @@
         "word": "areca nut"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "STAND UP",
+        "concepticon_id": "570",
         "id": 2519,
         "resource_uri": "/api/v1/word/arise/",
         "slug": "arise",
@@ -1336,8 +1392,8 @@
         "word": "chicken (wild)"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "CHIEFTAIN",
+        "concepticon_id": "301",
         "id": 2540,
         "resource_uri": "/api/v1/word/chief/",
         "slug": "chief",
@@ -1414,6 +1470,14 @@
         "resource_uri": "/api/v1/word/claw/",
         "slug": "claw",
         "word": "claw"
+    },
+    {
+        "concepticon_gloss": "CLAY",
+        "concepticon_id": "1399",
+        "id": 2551,
+        "resource_uri": "/api/v1/word/clay/",
+        "slug": "clay",
+        "word": "clay"
     },
     {
         "concepticon_gloss": "CLIFF",
@@ -1928,8 +1992,8 @@
         "word": "disc club"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "DISH",
+        "concepticon_id": "481",
         "id": 2541,
         "resource_uri": "/api/v1/word/dish/",
         "slug": "dish",
@@ -1942,6 +2006,14 @@
         "resource_uri": "/api/v1/word/distribution/",
         "slug": "distribution",
         "word": "distribution"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2544,
+        "resource_uri": "/api/v1/word/division/",
+        "slug": "division",
+        "word": "division"
     },
     {
         "concepticon_gloss": "DOG",
@@ -2230,6 +2302,14 @@
         "resource_uri": "/api/v1/word/evening/",
         "slug": "evening",
         "word": "evening"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2545,
+        "resource_uri": "/api/v1/word/event/",
+        "slug": "event",
+        "word": "event"
     },
     {
         "concepticon_gloss": "EXCRETA",
@@ -3128,6 +3208,14 @@
         "word": "hard"
     },
     {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2546,
+        "resource_uri": "/api/v1/word/hard_difficult/",
+        "slug": "hard_difficult",
+        "word": "hard/difficult"
+    },
+    {
         "concepticon_gloss": "HAT",
         "concepticon_id": "771",
         "id": 259,
@@ -3142,6 +3230,14 @@
         "resource_uri": "/api/v1/word/hawk/",
         "slug": "hawk",
         "word": "hawk"
+    },
+    {
+        "concepticon_gloss": "HE",
+        "concepticon_id": "1211",
+        "id": 2548,
+        "resource_uri": "/api/v1/word/he/",
+        "slug": "he",
+        "word": "he"
     },
     {
         "concepticon_gloss": "HEAD",
@@ -4552,8 +4648,8 @@
         "word": "neck"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "NECKLACE",
+        "concepticon_id": "1961",
         "id": 2538,
         "resource_uri": "/api/v1/word/necklace/",
         "slug": "necklace",
@@ -6040,12 +6136,28 @@
         "word": "sharp"
     },
     {
+        "concepticon_gloss": "SHE",
+        "concepticon_id": "1834",
+        "id": 2549,
+        "resource_uri": "/api/v1/word/she/",
+        "slug": "she",
+        "word": "she"
+    },
+    {
         "concepticon_gloss": "SHEATH",
         "concepticon_id": "3424",
         "id": 1738,
         "resource_uri": "/api/v1/word/sheath/",
         "slug": "sheath",
         "word": "sheath"
+    },
+    {
+        "concepticon_gloss": "SHELL",
+        "concepticon_id": "598",
+        "id": 2559,
+        "resource_uri": "/api/v1/word/shell/",
+        "slug": "shell",
+        "word": "shell"
     },
     {
         "concepticon_gloss": null,
@@ -7264,6 +7376,14 @@
         "word": "three days ago or hence"
     },
     {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2547,
+        "resource_uri": "/api/v1/word/three-men/",
+        "slug": "three-men",
+        "word": "three men"
+    },
+    {
         "concepticon_gloss": "THROAT",
         "concepticon_id": "1346",
         "id": 948,
@@ -7302,6 +7422,14 @@
         "resource_uri": "/api/v1/word/tinea/",
         "slug": "tinea",
         "word": "tinea"
+    },
+    {
+        "concepticon_gloss": null,
+        "concepticon_id": null,
+        "id": 2550,
+        "resource_uri": "/api/v1/word/to/",
+        "slug": "to",
+        "word": "to"
     },
     {
         "concepticon_gloss": "TOBACCO",
@@ -7416,8 +7544,8 @@
         "word": "to break"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "BREAK (CLEAVE)",
+        "concepticon_id": "2558",
         "id": 2512,
         "resource_uri": "/api/v1/word/to-break-wood/",
         "slug": "to-break-wood",
@@ -9680,8 +9808,8 @@
         "word": "wrap"
     },
     {
-        "concepticon_gloss": null,
-        "concepticon_id": null,
+        "concepticon_gloss": "WRIST",
+        "concepticon_id": "799",
         "id": 2543,
         "resource_uri": "/api/v1/word/wrist/",
         "slug": "wrist",

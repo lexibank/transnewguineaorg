@@ -12,6 +12,18 @@
         "word": "/api/v1/word/i/"
     },
     {
+        "added": "2025-01-20T03:19:19.029905",
+        "annotation": "",
+        "entry": "\ua78d",
+        "id": 262590,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262590/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sleep",
+        "word": "/api/v1/word/to-sleep/"
+    },
+    {
         "added": "2013-05-12T22:32:17.093249",
         "annotation": "",
         "entry": "aboke",
@@ -22,6 +34,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.944574",
+        "annotation": "",
+        "entry": "ada",
+        "id": 262395,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262395/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he sees",
+        "word": "/api/v1/word/to-see/"
     },
     {
         "added": "2013-05-12T22:32:17.104519",
@@ -132,6 +156,90 @@
         "word": "/api/v1/word/to-speak/"
     },
     {
+        "added": "2025-01-20T03:19:18.903587",
+        "annotation": "",
+        "entry": "al ke",
+        "id": 262310,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262310/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "foot/leg",
+        "word": "/api/v1/word/leg-foot/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.902069",
+        "annotation": "",
+        "entry": "al ke",
+        "id": 262306,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262306/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "foot/leg",
+        "word": "/api/v1/word/leg-foot/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.900391",
+        "annotation": "",
+        "entry": "al ke",
+        "id": 262302,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262302/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "foot/leg",
+        "word": "/api/v1/word/leg-foot/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.982071",
+        "annotation": "",
+        "entry": "amae",
+        "id": 262478,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262478/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "mother",
+        "word": "/api/v1/word/mother/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.817324",
+        "annotation": "",
+        "entry": "amba",
+        "id": 262140,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262140/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "afternoon",
+        "word": "/api/v1/word/afternoon/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.997586",
+        "annotation": "",
+        "entry": "ambae",
+        "id": 262514,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262514/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "now",
+        "word": "/api/v1/word/now/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.840198",
+        "annotation": "",
+        "entry": "amba-lae",
+        "id": 262181,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262181/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "before",
+        "word": "/api/v1/word/before/"
+    },
+    {
         "added": "2014-03-19T20:00:25.925634",
         "annotation": "",
         "entry": "ambaneke",
@@ -153,6 +261,18 @@
         "resource_uri": "/api/v1/lexicon/80282/",
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.853672",
+        "annotation": "",
+        "entry": "andu",
+        "id": 262213,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262213/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "breast",
         "word": "/api/v1/word/breast/"
     },
     {
@@ -180,15 +300,39 @@
         "word": "/api/v1/word/leg-foot/"
     },
     {
-        "added": "2014-03-19T20:00:26.285248",
+        "added": "2025-01-20T03:19:18.891713",
         "annotation": "",
-        "entry": "ba",
-        "id": 80856,
+        "entry": "apae",
+        "id": 262281,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/80856/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/262281/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "father",
+        "word": "/api/v1/word/father/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.821381",
+        "annotation": "",
+        "entry": "atape-ke",
+        "id": 262146,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262146/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "armpit",
+        "word": "/api/v1/word/armpit/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.846940",
+        "annotation": "",
+        "entry": "ba",
+        "id": 262197,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262197/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "bird",
         "word": "/api/v1/word/bird/"
     },
     {
@@ -204,6 +348,30 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2014-03-19T20:00:26.285248",
+        "annotation": "",
+        "entry": "ba",
+        "id": 80856,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80856/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/bird/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.058346",
+        "annotation": "",
+        "entry": "belia",
+        "id": 262655,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262655/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tomorrow",
+        "word": "/api/v1/word/tomorrow/"
+    },
+    {
         "added": "2014-03-19T20:00:24.523068",
         "annotation": "",
         "entry": "beliki",
@@ -214,6 +382,18 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/sibling-opposite-sex/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.987053",
+        "annotation": "",
+        "entry": "bi",
+        "id": 262488,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262488/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
     },
     {
         "added": "2013-05-12T22:32:17.175603",
@@ -252,6 +432,30 @@
         "word": "/api/v1/word/round/"
     },
     {
+        "added": "2025-01-20T03:19:18.958232",
+        "annotation": "",
+        "entry": "da",
+        "id": 262427,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262427/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "house",
+        "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.828080",
+        "annotation": "",
+        "entry": "da-",
+        "id": 262154,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262154/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
+    },
+    {
         "added": "2014-03-19T20:00:25.983770",
         "annotation": "",
         "entry": "d\u00e6\u0328\u0328\u0328\u1d96",
@@ -262,6 +466,30 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/banana/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.838059",
+        "annotation": "",
+        "entry": "dej/pou",
+        "id": 262176,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262176/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "banana",
+        "word": "/api/v1/word/banana/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.887261",
+        "annotation": "",
+        "entry": "di",
+        "id": 262270,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262270/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "event",
+        "word": "/api/v1/word/event/"
     },
     {
         "added": "2014-03-19T20:00:27.402169",
@@ -300,6 +528,18 @@
         "word": "/api/v1/word/this/"
     },
     {
+        "added": "2025-01-20T03:19:19.044516",
+        "annotation": "",
+        "entry": "do",
+        "id": 262626,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262626/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "that",
+        "word": "/api/v1/word/that/"
+    },
+    {
         "added": "2013-05-12T22:32:17.183090",
         "annotation": "",
         "entry": "do ",
@@ -324,6 +564,42 @@
         "word": "/api/v1/word/to-spit/"
     },
     {
+        "added": "2025-01-20T03:19:19.048178",
+        "annotation": "",
+        "entry": "dupi-ki",
+        "id": 262634,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262634/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "this",
+        "word": "/api/v1/word/this/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.908981",
+        "annotation": "",
+        "entry": "e",
+        "id": 262324,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262324/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "garden",
+        "word": "/api/v1/word/garden/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.086990",
+        "annotation": "",
+        "entry": "e",
+        "id": 262726,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262726/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "yes",
+        "word": "/api/v1/word/yes/"
+    },
+    {
         "added": "2014-03-19T20:00:25.630589",
         "annotation": "",
         "entry": "eke",
@@ -346,6 +622,30 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/horn/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.956848",
+        "annotation": "",
+        "entry": "eke-ke",
+        "id": 262424,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262424/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "horn",
+        "word": "/api/v1/word/horn/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.077143",
+        "annotation": "",
+        "entry": "eki-pa",
+        "id": 262700,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262700/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "who?",
+        "word": "/api/v1/word/who/"
     },
     {
         "added": "2013-05-12T22:32:17.205923",
@@ -384,6 +684,42 @@
         "word": "/api/v1/word/good/"
     },
     {
+        "added": "2025-01-20T03:19:18.913318",
+        "annotation": "",
+        "entry": "epe-ke",
+        "id": 262331,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262331/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "good",
+        "word": "/api/v1/word/good/"
+    },
+    {
+        "added": "2014-03-19T20:00:25.512859",
+        "annotation": "",
+        "entry": "epi",
+        "id": 80694,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80694/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/salt/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.017116",
+        "annotation": "",
+        "entry": "epi",
+        "id": 262559,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262559/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "salt",
+        "word": "/api/v1/word/salt/"
+    },
+    {
         "added": "2013-05-12T22:32:17.177760",
         "annotation": "",
         "entry": "epi",
@@ -408,28 +744,16 @@
         "word": "/api/v1/word/who/"
     },
     {
-        "added": "2014-03-19T20:00:25.512859",
+        "added": "2025-01-20T03:19:18.858345",
         "annotation": "",
-        "entry": "epi",
-        "id": 80694,
+        "entry": "haako-ko",
+        "id": 262223,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/80694/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/salt/"
-    },
-    {
-        "added": "2013-05-12T22:32:17.169241",
-        "annotation": "",
-        "entry": "had\u025bl\u025bme",
-        "id": 4250,
-        "language": "/api/v1/language/samberigi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/4250/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-see/"
+        "resource_uri": "/api/v1/lexicon/262223/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "chest",
+        "word": "/api/v1/word/chest/"
     },
     {
         "added": "2013-05-12T22:32:17.187404",
@@ -442,6 +766,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": "knows",
         "word": "/api/v1/word/to-know/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.169241",
+        "annotation": "",
+        "entry": "had\u025bl\u025bme",
+        "id": 4250,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4250/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-see/"
     },
     {
         "added": "2013-05-12T22:32:17.152646",
@@ -480,6 +816,18 @@
         "word": "/api/v1/word/white/"
     },
     {
+        "added": "2025-01-20T03:19:18.843750",
+        "annotation": "",
+        "entry": "hako",
+        "id": 262190,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262190/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "belt",
+        "word": "/api/v1/word/belt/"
+    },
+    {
         "added": "2013-05-12T22:32:17.097758",
         "annotation": "",
         "entry": "haleke",
@@ -492,18 +840,6 @@
         "word": "/api/v1/word/ear/"
     },
     {
-        "added": "2013-05-12T22:32:17.195048",
-        "annotation": "",
-        "entry": "hali",
-        "id": 4274,
-        "language": "/api/v1/language/samberigi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/4274/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/person/"
-    },
-    {
         "added": "2014-03-19T20:00:24.407149",
         "annotation": "",
         "entry": "hali",
@@ -514,6 +850,30 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.975603",
+        "annotation": "",
+        "entry": "hali",
+        "id": 262465,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262465/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "man",
+        "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.195048",
+        "annotation": "",
+        "entry": "hali",
+        "id": 4274,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4274/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/person/"
     },
     {
         "added": "2013-05-12T22:32:17.084741",
@@ -538,6 +898,18 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/outside/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.984902",
+        "annotation": "",
+        "entry": "hambi-li-ki",
+        "id": 262484,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262484/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "lip",
+        "word": "/api/v1/word/lips/"
     },
     {
         "added": "2014-03-19T20:00:24.301995",
@@ -672,6 +1044,18 @@
         "word": "/api/v1/word/bad/"
     },
     {
+        "added": "2025-01-20T03:19:18.834444",
+        "annotation": "",
+        "entry": "hoki",
+        "id": 262168,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262168/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "back",
+        "word": "/api/v1/word/back/"
+    },
+    {
         "added": "2014-03-19T20:00:23.421191",
         "annotation": "",
         "entry": "hoki",
@@ -744,6 +1128,30 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2025-01-20T03:19:19.004262",
+        "annotation": "",
+        "entry": "home-ke",
+        "id": 262529,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262529/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "one",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.049787",
+        "annotation": "",
+        "entry": "hone",
+        "id": 262638,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262638/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "thoughts",
+        "word": "/api/v1/word/thought/"
+    },
+    {
         "added": "2013-05-12T22:32:17.113501",
         "annotation": "",
         "entry": "honoka",
@@ -754,6 +1162,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/heart/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.920083",
+        "annotation": "",
+        "entry": "hook-pu",
+        "id": 262342,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262342/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "hard/difficult",
+        "word": "/api/v1/word/hard_difficult/"
     },
     {
         "added": "2013-05-12T22:32:17.143972",
@@ -816,6 +1236,30 @@
         "word": "/api/v1/word/i/"
     },
     {
+        "added": "2025-01-20T03:19:18.871352",
+        "annotation": "",
+        "entry": "ia",
+        "id": 262248,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262248/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "dog",
+        "word": "/api/v1/word/dog/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.203806",
+        "annotation": "",
+        "entry": "ikali",
+        "id": 4282,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4282/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/water/"
+    },
+    {
         "added": "2014-03-19T20:00:25.846584",
         "annotation": "",
         "entry": "ikali",
@@ -828,15 +1272,15 @@
         "word": "/api/v1/word/water/"
     },
     {
-        "added": "2013-05-12T22:32:17.203806",
+        "added": "2025-01-20T03:19:19.069791",
         "annotation": "",
-        "entry": "ikali",
-        "id": 4282,
+        "entry": "ikali/ipi",
+        "id": 262682,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/4282/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/262682/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "water",
         "word": "/api/v1/word/water/"
     },
     {
@@ -852,18 +1296,6 @@
         "word": "/api/v1/word/to-drink/"
     },
     {
-        "added": "2014-03-19T20:00:24.748369",
-        "annotation": "",
-        "entry": "iki",
-        "id": 80531,
-        "language": "/api/v1/language/samberigi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/80531/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/they/"
-    },
-    {
         "added": "2014-03-19T20:00:25.169198",
         "annotation": "",
         "entry": "iki",
@@ -874,6 +1306,18 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2014-03-19T20:00:24.748369",
+        "annotation": "",
+        "entry": "iki",
+        "id": 80531,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80531/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/they/"
     },
     {
         "added": "2013-05-12T22:32:17.111181",
@@ -960,16 +1404,16 @@
         "word": "/api/v1/word/to-come/"
     },
     {
-        "added": "2013-05-12T22:32:17.094463",
+        "added": "2025-01-20T03:19:18.821924",
         "annotation": "",
-        "entry": "itiki",
-        "id": 4185,
+        "entry": "ite-ke",
+        "id": 262147,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/4185/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/hair/"
+        "resource_uri": "/api/v1/lexicon/262147/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "anus",
+        "word": "/api/v1/word/anus-buttocks/"
     },
     {
         "added": "2013-05-12T22:32:17.139586",
@@ -982,6 +1426,30 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/feather/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.094463",
+        "annotation": "",
+        "entry": "itiki",
+        "id": 4185,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4185/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.915564",
+        "annotation": "",
+        "entry": "iti-ki",
+        "id": 262337,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262337/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
     },
     {
         "added": "2014-03-19T20:00:23.846358",
@@ -1044,6 +1512,66 @@
         "word": "/api/v1/word/mouth/"
     },
     {
+        "added": "2025-01-20T03:19:19.061082",
+        "annotation": "",
+        "entry": "ka-ke",
+        "id": 262662,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262662/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tooth",
+        "word": "/api/v1/word/tooth/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.856028",
+        "annotation": "",
+        "entry": "kame/am - l /some",
+        "id": 262218,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262218/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "brother",
+        "word": "/api/v1/word/brother/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.034563",
+        "annotation": "",
+        "entry": "kana-ke",
+        "id": 262602,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262602/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "stone",
+        "word": "/api/v1/word/stone/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.978007",
+        "annotation": "",
+        "entry": "kana papu",
+        "id": 262471,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262471/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "moon",
+        "word": "/api/v1/word/moon/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.872569",
+        "annotation": "",
+        "entry": "kapua",
+        "id": 262251,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262251/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "dry",
+        "word": "/api/v1/word/dry/"
+    },
+    {
         "added": "2013-05-12T22:32:17.190819",
         "annotation": "",
         "entry": "katake",
@@ -1054,6 +1582,54 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.955386",
+        "annotation": "",
+        "entry": "keda",
+        "id": 262421,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262421/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "heavy",
+        "word": "/api/v1/word/heavy/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.882381",
+        "annotation": "",
+        "entry": "ke-I ke K = mud",
+        "id": 262258,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262258/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "earth/ground",
+        "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.884118",
+        "annotation": "",
+        "entry": "ke-I ke K = mud",
+        "id": 262262,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262262/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "earth/ground",
+        "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.099862",
+        "annotation": "",
+        "entry": "kekeke",
+        "id": 4190,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4190/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/tongue/"
     },
     {
         "added": "2014-03-19T20:00:24.216244",
@@ -1068,16 +1644,16 @@
         "word": "/api/v1/word/tongue/"
     },
     {
-        "added": "2013-05-12T22:32:17.099862",
+        "added": "2025-01-20T03:19:18.828566",
         "annotation": "",
-        "entry": "kekeke",
-        "id": 4190,
+        "entry": "ke/lankae/pete",
+        "id": 262155,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/4190/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/tongue/"
+        "resource_uri": "/api/v1/lexicon/262155/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "ashes",
+        "word": "/api/v1/word/ashes/"
     },
     {
         "added": "2014-03-19T20:00:23.666234",
@@ -1104,6 +1680,18 @@
         "word": "/api/v1/word/dog/"
     },
     {
+        "added": "2014-03-19T20:00:23.893502",
+        "annotation": "hand",
+        "entry": "kiki",
+        "id": 80350,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80350/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": "hand",
+        "word": "/api/v1/word/hand/"
+    },
+    {
         "added": "2013-05-12T22:32:17.103278",
         "annotation": "arm",
         "entry": "kiki",
@@ -1116,16 +1704,40 @@
         "word": "/api/v1/word/arm/"
     },
     {
-        "added": "2014-03-19T20:00:23.893502",
-        "annotation": "hand",
-        "entry": "kiki",
-        "id": 80350,
+        "added": "2025-01-20T03:19:18.919634",
+        "annotation": "",
+        "entry": "ki-ki",
+        "id": 262341,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/80350/",
-        "source": "/api/v1/source/franklin1975/",
+        "resource_uri": "/api/v1/lexicon/262341/",
+        "source": "/api/v1/source/franklin-2024/",
         "source_gloss": "hand",
         "word": "/api/v1/word/hand/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.963912",
+        "annotation": "",
+        "entry": "kili-ki",
+        "id": 262439,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262439/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "kidney",
+        "word": "/api/v1/word/kidney/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.940420",
+        "annotation": "",
+        "entry": "kiri",
+        "id": 262385,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262385/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he laughs",
+        "word": "/api/v1/word/to-laugh/"
     },
     {
         "added": "2014-03-19T20:00:26.670892",
@@ -1176,6 +1788,18 @@
         "word": "/api/v1/word/cloud/"
     },
     {
+        "added": "2025-01-20T03:19:18.926810",
+        "annotation": "",
+        "entry": "koma",
+        "id": 262355,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262355/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he dies",
+        "word": "/api/v1/word/to-die/"
+    },
+    {
         "added": "2013-05-12T22:32:17.154739",
         "annotation": "",
         "entry": "kos\u025b p\u025bl\u025bme",
@@ -1186,6 +1810,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/cold/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.924087",
+        "annotation": "",
+        "entry": "koso",
+        "id": 262350,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262350/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he coughs",
+        "word": "/api/v1/word/to-cough/"
     },
     {
         "added": "2014-03-19T20:00:26.354326",
@@ -1212,6 +1848,18 @@
         "word": "/api/v1/word/rain/"
     },
     {
+        "added": "2025-01-20T03:19:19.010918",
+        "annotation": "",
+        "entry": "lako",
+        "id": 262544,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262544/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
         "added": "2014-03-19T20:00:25.551391",
         "annotation": "",
         "entry": "lank\u00e6",
@@ -1222,6 +1870,42 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/ashes/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.829189",
+        "annotation": "",
+        "entry": "lanka-ke",
+        "id": 262156,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262156/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "coals",
+        "word": "/api/v1/word/charcoal/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.046068",
+        "annotation": "",
+        "entry": "lapo",
+        "id": 262629,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262629/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "they two",
+        "word": "/api/v1/word/they-dual/"
+    },
+    {
+        "added": "2014-03-19T20:00:23.703053",
+        "annotation": "",
+        "entry": "leke",
+        "id": 80310,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80310/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/eye/"
     },
     {
         "added": "2013-05-12T22:32:17.095541",
@@ -1236,16 +1920,28 @@
         "word": "/api/v1/word/eye/"
     },
     {
-        "added": "2014-03-19T20:00:23.703053",
+        "added": "2025-01-20T03:19:18.888952",
         "annotation": "",
-        "entry": "leke",
-        "id": 80310,
+        "entry": "le-ke",
+        "id": 262274,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/80310/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/262274/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "eye",
         "word": "/api/v1/word/eye/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.974134",
+        "annotation": "",
+        "entry": "lema",
+        "id": 262461,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262461/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "louse",
+        "word": "/api/v1/word/louse/"
     },
     {
         "added": "2013-05-12T22:32:17.181004",
@@ -1284,6 +1980,42 @@
         "word": "/api/v1/word/to-kill/"
     },
     {
+        "added": "2025-01-20T03:19:18.850007",
+        "annotation": "",
+        "entry": "lo-ke",
+        "id": 262204,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262204/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "body",
+        "word": "/api/v1/word/body/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.018615",
+        "annotation": "",
+        "entry": "lpa",
+        "id": 262563,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262563/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sand",
+        "word": "/api/v1/word/sand/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.820917",
+        "annotation": "",
+        "entry": "luambu",
+        "id": 262145,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262145/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "all",
+        "word": "/api/v1/word/all/"
+    },
+    {
         "added": "2013-05-12T22:32:17.129554",
         "annotation": "",
         "entry": "lumu",
@@ -1320,6 +2052,18 @@
         "word": "/api/v1/word/taro/"
     },
     {
+        "added": "2025-01-20T03:19:19.009368",
+        "annotation": "",
+        "entry": "maenae",
+        "id": 262540,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262540/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "pig",
+        "word": "/api/v1/word/pig/"
+    },
+    {
         "added": "2014-03-19T20:00:26.030088",
         "annotation": "",
         "entry": "m\u00e6n\u00e6",
@@ -1344,6 +2088,18 @@
         "word": "/api/v1/word/pig/"
     },
     {
+        "added": "2013-05-12T22:32:17.100981",
+        "annotation": "",
+        "entry": "make",
+        "id": 4191,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4191/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/neck/"
+    },
+    {
         "added": "2014-03-19T20:00:24.085885",
         "annotation": "",
         "entry": "make",
@@ -1356,16 +2112,28 @@
         "word": "/api/v1/word/neck/"
     },
     {
-        "added": "2013-05-12T22:32:17.100981",
+        "added": "2025-01-20T03:19:18.988619",
         "annotation": "",
-        "entry": "make",
-        "id": 4191,
+        "entry": "ma-ke",
+        "id": 262492,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/4191/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/262492/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "neck",
         "word": "/api/v1/word/neck/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.949113",
+        "annotation": "",
+        "entry": "mea",
+        "id": 262406,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262406/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he takes",
+        "word": "/api/v1/word/to-take/"
     },
     {
         "added": "2013-05-12T22:32:17.137313",
@@ -1404,6 +2172,18 @@
         "word": "/api/v1/word/nose/"
     },
     {
+        "added": "2014-03-19T20:00:26.450263",
+        "annotation": "",
+        "entry": "min\u00e6",
+        "id": 80891,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80891/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/to-catch/"
+    },
+    {
         "added": "2014-03-19T20:00:26.496404",
         "annotation": "",
         "entry": "min\u00e6",
@@ -1416,16 +2196,28 @@
         "word": "/api/v1/word/to-hold/"
     },
     {
-        "added": "2014-03-19T20:00:26.450263",
+        "added": "2025-01-20T03:19:18.995390",
         "annotation": "",
-        "entry": "min\u00e6",
-        "id": 80891,
+        "entry": "mine-ke",
+        "id": 262509,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/80891/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/to-catch/"
+        "resource_uri": "/api/v1/lexicon/262509/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.085049",
+        "annotation": "",
+        "entry": "minti",
+        "id": 262721,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262721/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "yam",
+        "word": "/api/v1/word/yam/"
     },
     {
         "added": "2013-05-12T22:32:17.184133",
@@ -1464,6 +2256,18 @@
         "word": "/api/v1/word/to-swim/"
     },
     {
+        "added": "2025-01-20T03:19:18.993983",
+        "annotation": "",
+        "entry": "na",
+        "id": 262505,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262505/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "no/not",
+        "word": "/api/v1/word/no-not/"
+    },
+    {
         "added": "2014-03-19T20:00:26.401723",
         "annotation": "",
         "entry": "na",
@@ -1500,6 +2304,18 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
+        "added": "2025-01-20T03:19:18.929760",
+        "annotation": "",
+        "entry": "na-me",
+        "id": 262362,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262362/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he eats",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
         "added": "2013-05-12T22:32:17.115908",
         "annotation": "",
         "entry": "nate",
@@ -1524,6 +2340,18 @@
         "word": "/api/v1/word/sun/"
     },
     {
+        "added": "2025-01-20T03:19:19.037672",
+        "annotation": "",
+        "entry": "nate/nare",
+        "id": 262610,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262610/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sun",
+        "word": "/api/v1/word/sun/"
+    },
+    {
         "added": "2014-03-19T20:00:25.379670",
         "annotation": "",
         "entry": "nda",
@@ -1534,6 +2362,42 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/house/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.041102",
+        "annotation": "",
+        "entry": "nde-ke",
+        "id": 262618,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262618/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tail",
+        "word": "/api/v1/word/tail/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.084661",
+        "annotation": "",
+        "entry": "ndoma",
+        "id": 262720,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262720/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "yam",
+        "word": "/api/v1/word/yam/"
+    },
+    {
+        "added": "2014-03-19T20:00:24.896029",
+        "annotation": "",
+        "entry": "neke",
+        "id": 80563,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80563/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/thou/"
     },
     {
         "added": "2013-05-12T22:32:17.089157",
@@ -1548,16 +2412,40 @@
         "word": "/api/v1/word/thou/"
     },
     {
-        "added": "2014-03-19T20:00:24.896029",
+        "added": "2025-01-20T03:19:19.049398",
         "annotation": "",
-        "entry": "neke",
-        "id": 80563,
+        "entry": "ne-ke",
+        "id": 262637,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/80563/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
+        "resource_uri": "/api/v1/lexicon/262637/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "thou",
         "word": "/api/v1/word/thou/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.932918",
+        "annotation": "",
+        "entry": "ngi",
+        "id": 262370,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262370/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he gives me",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.931783",
+        "annotation": "",
+        "entry": "ngi",
+        "id": 262367,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262367/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "he gives me",
+        "word": "/api/v1/word/to-give/"
     },
     {
         "added": "2014-03-19T20:00:24.948428",
@@ -1582,6 +2470,18 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/we-incl/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.959440",
+        "annotation": "",
+        "entry": "ni-ki",
+        "id": 262430,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262430/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "I",
+        "word": "/api/v1/word/i/"
     },
     {
         "added": "2014-03-19T20:00:25.426598",
@@ -1620,6 +2520,18 @@
         "word": "/api/v1/word/to-hear/"
     },
     {
+        "added": "2025-01-20T03:19:18.836230",
+        "annotation": "",
+        "entry": "o-tae",
+        "id": 262172,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262172/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "bad",
+        "word": "/api/v1/word/bad/"
+    },
+    {
         "added": "2013-05-12T22:32:17.198557",
         "annotation": "dies",
         "entry": "ot\u025b hom\u025bl\u025bme",
@@ -1644,16 +2556,16 @@
         "word": "/api/v1/word/to-do-make/"
     },
     {
-        "added": "2013-05-12T22:32:17.105617",
+        "added": "2025-01-20T03:19:18.857837",
         "annotation": "",
-        "entry": "palo",
-        "id": 4195,
+        "entry": "pake",
+        "id": 262222,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/4195/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/belly/"
+        "resource_uri": "/api/v1/lexicon/262222/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "cheek",
+        "word": "/api/v1/word/cheek/"
     },
     {
         "added": "2014-03-19T20:00:23.469883",
@@ -1664,6 +2576,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/80263/",
         "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.105617",
+        "annotation": "",
+        "entry": "palo",
+        "id": 4195,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4195/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/belly/"
     },
@@ -1752,16 +2676,16 @@
         "word": "/api/v1/word/shoulder/"
     },
     {
-        "added": "2013-05-12T22:32:17.134027",
+        "added": "2025-01-20T03:19:19.022449",
         "annotation": "",
-        "entry": "piki",
-        "id": 4220,
+        "entry": "peyo-ko",
+        "id": 262572,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/4220/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/root/"
+        "resource_uri": "/api/v1/lexicon/262572/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "shoulder",
+        "word": "/api/v1/word/shoulder/"
     },
     {
         "added": "2014-03-19T20:00:24.128472",
@@ -1772,6 +2696,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/80397/",
         "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/root/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.134027",
+        "annotation": "",
+        "entry": "piki",
+        "id": 4220,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4220/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/root/"
     },
@@ -1798,6 +2734,42 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-sit/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.078639",
+        "annotation": "",
+        "entry": "po",
+        "id": 262704,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262704/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "wind",
+        "word": "/api/v1/word/wind/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.962421",
+        "annotation": "",
+        "entry": "popa",
+        "id": 262436,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262436/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "it flies",
+        "word": "/api/v1/word/to-fly/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.080178",
+        "annotation": "",
+        "entry": "popaa-ke",
+        "id": 262708,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262708/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "wing",
+        "word": "/api/v1/word/wing/"
     },
     {
         "added": "2013-05-12T22:32:17.131708",
@@ -1848,18 +2820,6 @@
         "word": "/api/v1/word/to-go/"
     },
     {
-        "added": "2014-03-19T20:00:23.999138",
-        "annotation": "",
-        "entry": "puki",
-        "id": 80369,
-        "language": "/api/v1/language/samberigi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/80369/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/liver/"
-    },
-    {
         "added": "2013-05-12T22:32:17.114641",
         "annotation": "",
         "entry": "puki",
@@ -1868,6 +2828,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/4203/",
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/liver/"
+    },
+    {
+        "added": "2014-03-19T20:00:23.999138",
+        "annotation": "",
+        "entry": "puki",
+        "id": 80369,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80369/",
+        "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/liver/"
     },
@@ -1932,6 +2904,42 @@
         "word": "/api/v1/word/black/"
     },
     {
+        "added": "2025-01-20T03:19:18.968062",
+        "annotation": "",
+        "entry": "rai",
+        "id": 262447,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262447/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "knife",
+        "word": "/api/v1/word/knife/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.961309",
+        "annotation": "",
+        "entry": "rea",
+        "id": 262433,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262433/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "it burns",
+        "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.992629",
+        "annotation": "",
+        "entry": "rimbae/timba",
+        "id": 262502,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262502/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "night",
+        "word": "/api/v1/word/night/"
+    },
+    {
         "added": "2013-05-12T22:32:17.125202",
         "annotation": "",
         "entry": "sepo",
@@ -1956,6 +2964,30 @@
         "word": "/api/v1/word/moon/"
     },
     {
+        "added": "2025-01-20T03:19:18.895474",
+        "annotation": "",
+        "entry": "taepe-li",
+        "id": 262290,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262290/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "fish",
+        "word": "/api/v1/word/fish/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.004923",
+        "annotation": "",
+        "entry": "tanda",
+        "id": 262530,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262530/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "pain",
+        "word": "/api/v1/word/painful/"
+    },
+    {
         "added": "2014-03-19T20:00:27.491200",
         "annotation": "pain",
         "entry": "tanda",
@@ -1966,6 +2998,18 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": "pain",
         "word": "/api/v1/word/painful/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.038090",
+        "annotation": "",
+        "entry": "tende",
+        "id": 262611,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262611/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sweet",
+        "word": "/api/v1/word/sweet/"
     },
     {
         "added": "2013-05-12T22:32:17.141877",
@@ -1992,6 +3036,18 @@
         "word": "/api/v1/word/three/"
     },
     {
+        "added": "2025-01-20T03:19:19.052551",
+        "annotation": "",
+        "entry": "tepo",
+        "id": 262645,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262645/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "three",
+        "word": "/api/v1/word/three/"
+    },
+    {
         "added": "2014-03-19T20:00:27.530314",
         "annotation": "",
         "entry": "tete",
@@ -2004,18 +3060,6 @@
         "word": "/api/v1/word/sore-wound/"
     },
     {
-        "added": "2013-05-12T22:32:17.128361",
-        "annotation": "",
-        "entry": "ti",
-        "id": 4215,
-        "language": "/api/v1/language/samberigi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/4215/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/fire/"
-    },
-    {
         "added": "2014-03-19T20:00:26.218344",
         "annotation": "",
         "entry": "ti",
@@ -2026,6 +3070,30 @@
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": null,
         "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.062701",
+        "annotation": "",
+        "entry": "ti",
+        "id": 262666,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262666/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "tree",
+        "word": "/api/v1/word/tree/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.128361",
+        "annotation": "",
+        "entry": "ti",
+        "id": 4215,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4215/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
+        "source_gloss": null,
+        "word": "/api/v1/word/fire/"
     },
     {
         "added": "2013-05-12T22:32:17.132970",
@@ -2100,18 +3168,6 @@
         "word": "/api/v1/word/night/"
     },
     {
-        "added": "2013-05-12T22:32:17.142949",
-        "annotation": "",
-        "entry": "tieke",
-        "id": 4228,
-        "language": "/api/v1/language/samberigi/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/4228/",
-        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
-        "source_gloss": null,
-        "word": "/api/v1/word/big/"
-    },
-    {
         "added": "2014-03-19T20:00:27.102896",
         "annotation": "",
         "entry": "tieke",
@@ -2120,6 +3176,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/81028/",
         "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2013-05-12T22:32:17.142949",
+        "annotation": "",
+        "entry": "tieke",
+        "id": 4228,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/4228/",
+        "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/big/"
     },
@@ -2146,6 +3214,42 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/to-burn/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.854127",
+        "annotation": "",
+        "entry": "to-ko",
+        "id": 262214,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262214/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "bridge",
+        "word": "/api/v1/word/bridge-steps-ladder/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.869553",
+        "annotation": "",
+        "entry": "tombo",
+        "id": 262244,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262244/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "division",
+        "word": "/api/v1/word/division/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.886858",
+        "annotation": "",
+        "entry": "tondo-li-ki",
+        "id": 262269,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262269/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "elbow",
+        "word": "/api/v1/word/elbow/"
     },
     {
         "added": "2013-05-12T22:32:17.204793",
@@ -2208,6 +3312,18 @@
         "word": "/api/v1/word/knee/"
     },
     {
+        "added": "2025-01-20T03:19:18.966352",
+        "annotation": "",
+        "entry": "tumi-ki",
+        "id": 262443,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262443/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "knee",
+        "word": "/api/v1/word/knee/"
+    },
+    {
         "added": "2013-05-12T22:32:17.166949",
         "annotation": "",
         "entry": "u\u0327 peli\u025bl\u025bme",
@@ -2256,6 +3372,66 @@
         "word": "/api/v1/word/belly/"
     },
     {
+        "added": "2025-01-20T03:19:18.841747",
+        "annotation": "",
+        "entry": "wale-ke/palo",
+        "id": 262185,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262185/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "belly/stomach",
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.843367",
+        "annotation": "",
+        "entry": "wale-ke/palo",
+        "id": 262189,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262189/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "belly/stomach",
+        "word": "/api/v1/word/belly/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.082401",
+        "annotation": "",
+        "entry": "wandae",
+        "id": 262714,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262714/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "woman",
+        "word": "/api/v1/word/woman/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.006624",
+        "annotation": "",
+        "entry": "wandae-hali",
+        "id": 262533,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262533/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "person/people",
+        "word": "/api/v1/word/person/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.007744",
+        "annotation": "",
+        "entry": "wandae-hali",
+        "id": 262536,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262536/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "person/people",
+        "word": "/api/v1/word/person/"
+    },
+    {
         "added": "2013-05-12T22:32:17.109972",
         "annotation": "",
         "entry": "we",
@@ -2280,6 +3456,42 @@
         "word": "/api/v1/word/boy/"
     },
     {
+        "added": "2025-01-20T03:19:19.030369",
+        "annotation": "",
+        "entry": "weki",
+        "id": 262591,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262591/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "son",
+        "word": "/api/v1/word/son/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.851942",
+        "annotation": "",
+        "entry": "weki",
+        "id": 262209,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262209/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "boy",
+        "word": "/api/v1/word/boy/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.036071",
+        "annotation": "",
+        "entry": "weli",
+        "id": 262606,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262606/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sugarcane",
+        "word": "/api/v1/word/sugarcane/"
+    },
+    {
         "added": "2014-03-19T20:00:26.090880",
         "annotation": "",
         "entry": "weli",
@@ -2300,6 +3512,18 @@
         "loan": false,
         "resource_uri": "/api/v1/lexicon/80330/",
         "source": "/api/v1/source/franklin1975/",
+        "source_gloss": "forehead",
+        "word": "/api/v1/word/forehead/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.905059",
+        "annotation": "",
+        "entry": "weno-ko",
+        "id": 262314,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262314/",
+        "source": "/api/v1/source/franklin-2024/",
         "source_gloss": "forehead",
         "word": "/api/v1/word/forehead/"
     },
@@ -2340,6 +3564,18 @@
         "word": "/api/v1/word/many/"
     },
     {
+        "added": "2025-01-20T03:19:19.064414",
+        "annotation": "",
+        "entry": "yaapo",
+        "id": 262670,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262670/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "two",
+        "word": "/api/v1/word/two/"
+    },
+    {
         "added": "2014-03-19T20:00:25.333991",
         "annotation": "",
         "entry": "y\u00e6po",
@@ -2352,6 +3588,18 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2025-01-20T03:19:19.025433",
+        "annotation": "",
+        "entry": "yae/ya",
+        "id": 262580,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262580/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "sky",
+        "word": "/api/v1/word/sky/"
+    },
+    {
         "added": "2014-03-19T20:00:23.617219",
         "annotation": "chin",
         "entry": "yankake",
@@ -2361,6 +3609,42 @@
         "resource_uri": "/api/v1/lexicon/80292/",
         "source": "/api/v1/source/franklin1975/",
         "source_gloss": "chin",
+        "word": "/api/v1/word/chin/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.864641",
+        "annotation": "",
+        "entry": "yanka-ke",
+        "id": 262235,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262235/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "chin/jaw",
+        "word": "/api/v1/word/chin/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.860870",
+        "annotation": "",
+        "entry": "yanka-ke",
+        "id": 262227,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262227/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "chin/jaw",
+        "word": "/api/v1/word/chin/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.862488",
+        "annotation": "",
+        "entry": "yanka-ke",
+        "id": 262231,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262231/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "chin/jaw",
         "word": "/api/v1/word/chin/"
     },
     {
@@ -2412,6 +3696,18 @@
         "word": "/api/v1/word/bark/"
     },
     {
+        "added": "2025-01-20T03:19:19.025088",
+        "annotation": "",
+        "entry": "yoke-le-ke",
+        "id": 262579,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262579/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "skin",
+        "word": "/api/v1/word/skin/"
+    },
+    {
         "added": "2013-05-12T22:32:17.199683",
         "annotation": "",
         "entry": "you",
@@ -2422,6 +3718,42 @@
         "source": "/api/v1/source/franklin-and-voorhoeve-1973/",
         "source_gloss": null,
         "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-01-20T03:19:18.953097",
+        "annotation": "",
+        "entry": "you/ambo-ke",
+        "id": 262415,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262415/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-01-20T03:19:19.054093",
+        "annotation": "",
+        "entry": "yu",
+        "id": 262649,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262649/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "thumb",
+        "word": "/api/v1/word/thumb/"
+    },
+    {
+        "added": "2014-03-19T20:00:25.595184",
+        "annotation": "",
+        "entry": "yu",
+        "id": 80712,
+        "language": "/api/v1/language/samberigi/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/80712/",
+        "source": "/api/v1/source/franklin1975/",
+        "source_gloss": null,
+        "word": "/api/v1/word/earth/"
     },
     {
         "added": "2013-05-12T22:32:17.124028",
@@ -2436,15 +3768,15 @@
         "word": "/api/v1/word/ground/"
     },
     {
-        "added": "2014-03-19T20:00:25.595184",
+        "added": "2025-01-20T03:19:18.896778",
         "annotation": "",
-        "entry": "yu",
-        "id": 80712,
+        "entry": "yu-I ki",
+        "id": 262293,
         "language": "/api/v1/language/samberigi/",
         "loan": false,
-        "resource_uri": "/api/v1/lexicon/80712/",
-        "source": "/api/v1/source/franklin1975/",
-        "source_gloss": null,
-        "word": "/api/v1/word/earth/"
+        "resource_uri": "/api/v1/lexicon/262293/",
+        "source": "/api/v1/source/franklin-2024/",
+        "source_gloss": "five",
+        "word": "/api/v1/word/five/"
     }
 ]

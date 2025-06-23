@@ -1,0 +1,74 @@
+[
+    {
+        "added": "2025-02-24T17:04:07.247260",
+        "annotation": "",
+        "entry": "hi\u027e\u025b",
+        "id": 262947,
+        "language": "/api/v1/language/kemberamo-barau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262947/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "stand",
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.218599",
+        "annotation": "",
+        "entry": "mbita",
+        "id": 262871,
+        "language": "/api/v1/language/kemberamo-barau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262871/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thorn",
+        "word": "/api/v1/word/thorn/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.444074",
+        "annotation": "",
+        "entry": "tiwi",
+        "id": 263202,
+        "language": "/api/v1/language/kemberamo-barau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263202/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hill",
+        "word": "/api/v1/word/hill/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.315526",
+        "annotation": "",
+        "entry": "tiwi",
+        "id": 263122,
+        "language": "/api/v1/language/kemberamo-barau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263122/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.175240",
+        "annotation": "",
+        "entry": "tiwi",
+        "id": 262760,
+        "language": "/api/v1/language/kemberamo-barau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262760/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain, hill",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.174698",
+        "annotation": "",
+        "entry": "tiwi",
+        "id": 262759,
+        "language": "/api/v1/language/kemberamo-barau/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262759/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain, hill",
+        "word": "/api/v1/word/hill/"
+    }
+]

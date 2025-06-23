@@ -1,5 +1,17 @@
 [
     {
+        "added": "2015-10-26T12:54:21.394363",
+        "annotation": "",
+        "entry": "a",
+        "id": 256340,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256340/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/this/"
+    },
+    {
         "added": "2015-10-26T12:54:06.625709",
         "annotation": "",
         "entry": "a",
@@ -22,18 +34,6 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/thigh/"
-    },
-    {
-        "added": "2015-10-26T12:54:21.394363",
-        "annotation": "",
-        "entry": "a",
-        "id": 256340,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256340/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/this/"
     },
     {
         "added": "2015-10-26T12:54:18.235469",
@@ -144,18 +144,6 @@
         "word": "/api/v1/word/bowstring/"
     },
     {
-        "added": "2015-10-26T12:54:15.136489",
-        "annotation": "",
-        "entry": "aman",
-        "id": 254294,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254294/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "(the) inside",
-        "word": "/api/v1/word/in/"
-    },
-    {
         "added": "2015-10-26T12:54:06.516057",
         "annotation": "",
         "entry": "aman",
@@ -166,6 +154,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/bow/"
+    },
+    {
+        "added": "2015-10-26T12:54:15.136489",
+        "annotation": "",
+        "entry": "aman",
+        "id": 254294,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254294/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "(the) inside",
+        "word": "/api/v1/word/in/"
     },
     {
         "added": "2015-10-26T12:54:18.988819",
@@ -360,18 +360,6 @@
         "word": "/api/v1/word/groin/"
     },
     {
-        "added": "2015-10-26T12:54:21.402260",
-        "annotation": "",
-        "entry": "ar",
-        "id": 256343,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/256343/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/this/"
-    },
-    {
         "added": "2015-10-26T12:54:14.068156",
         "annotation": "",
         "entry": "ar",
@@ -382,6 +370,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "he",
         "word": "/api/v1/word/he-she/"
+    },
+    {
+        "added": "2015-10-26T12:54:21.402260",
+        "annotation": "",
+        "entry": "ar",
+        "id": 256343,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/256343/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/this/"
     },
     {
         "added": "2015-10-26T12:54:18.949197",
@@ -804,18 +804,6 @@
         "word": "/api/v1/word/outside/"
     },
     {
-        "added": "2015-10-26T12:54:15.807977",
-        "annotation": "",
-        "entry": "ci",
-        "id": 254503,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254503/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/leech/"
-    },
-    {
         "added": "2015-10-26T12:54:07.187885",
         "annotation": "",
         "entry": "ci",
@@ -826,6 +814,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/canoe/"
+    },
+    {
+        "added": "2015-10-26T12:54:15.807977",
+        "annotation": "",
+        "entry": "ci",
+        "id": 254503,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254503/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/leech/"
     },
     {
         "added": "2015-10-26T12:54:08.421375",
@@ -1068,18 +1068,6 @@
         "word": "/api/v1/word/wife/"
     },
     {
-        "added": "2015-10-26T12:54:08.728761",
-        "annotation": "",
-        "entry": "em-",
-        "id": 253103,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253103/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/to-do-make/"
-    },
-    {
         "added": "2015-10-26T12:54:20.769376",
         "annotation": "",
         "entry": "em-",
@@ -1090,6 +1078,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2015-10-26T12:54:08.728761",
+        "annotation": "",
+        "entry": "em-",
+        "id": 253103,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253103/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-do-make/"
     },
     {
         "added": "2015-10-26T12:54:06.422599",
@@ -1632,18 +1632,6 @@
         "word": "/api/v1/word/hornbill/"
     },
     {
-        "added": "2015-10-26T12:54:20.227385",
-        "annotation": "",
-        "entry": "is",
-        "id": 255969,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255969/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "sleep, to sleep",
-        "word": "/api/v1/word/to-sleep/"
-    },
-    {
         "added": "2015-10-26T12:54:16.735511",
         "annotation": "",
         "entry": "is",
@@ -1654,6 +1642,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/mosquito/"
+    },
+    {
+        "added": "2015-10-26T12:54:20.227385",
+        "annotation": "",
+        "entry": "is",
+        "id": 255969,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255969/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "sleep, to sleep",
+        "word": "/api/v1/word/to-sleep/"
     },
     {
         "added": "2015-10-26T12:54:08.917752",
@@ -2232,18 +2232,6 @@
         "word": "/api/v1/word/snot/"
     },
     {
-        "added": "2015-10-26T12:54:17.414537",
-        "annotation": "",
-        "entry": "miw",
-        "id": 255032,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255032/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/nipa-fruit/"
-    },
-    {
         "added": "2015-10-26T12:54:13.088284",
         "annotation": "",
         "entry": "miw",
@@ -2254,6 +2242,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/ghost/"
+    },
+    {
+        "added": "2015-10-26T12:54:17.414537",
+        "annotation": "",
+        "entry": "miw",
+        "id": 255032,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255032/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/nipa-fruit/"
     },
     {
         "added": "2015-10-26T12:54:15.042582",
@@ -2460,18 +2460,6 @@
         "word": "/api/v1/word/to-eat/"
     },
     {
-        "added": "2015-10-26T12:54:19.727417",
-        "annotation": "",
-        "entry": "nam",
-        "id": 255814,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255814/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "sick",
-        "word": "/api/v1/word/to-be-sick/"
-    },
-    {
         "added": "2015-10-26T12:54:06.336719",
         "annotation": "",
         "entry": "nam",
@@ -2482,6 +2470,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/body/"
+    },
+    {
+        "added": "2015-10-26T12:54:19.727417",
+        "annotation": "",
+        "entry": "nam",
+        "id": 255814,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255814/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "sick",
+        "word": "/api/v1/word/to-be-sick/"
     },
     {
         "added": "2015-10-26T12:54:20.296616",
@@ -2640,18 +2640,6 @@
         "word": "/api/v1/word/sore-wound/"
     },
     {
-        "added": "2015-10-26T12:54:10.381487",
-        "annotation": "",
-        "entry": "now-",
-        "id": 253456,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253456/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/to-fall/"
-    },
-    {
         "added": "2015-10-26T12:54:13.326576",
         "annotation": "",
         "entry": "now-",
@@ -2662,6 +2650,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/to-go-down/"
+    },
+    {
+        "added": "2015-10-26T12:54:10.381487",
+        "annotation": "",
+        "entry": "now-",
+        "id": 253456,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253456/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-fall/"
     },
     {
         "added": "2015-10-26T12:54:04.630771",
@@ -2760,18 +2760,6 @@
         "word": "/api/v1/word/tusk/"
     },
     {
-        "added": "2015-10-26T12:54:10.409239",
-        "annotation": "",
-        "entry": "om",
-        "id": 253462,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253462/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "fat, grease",
-        "word": "/api/v1/word/fat/"
-    },
-    {
         "added": "2015-10-26T12:54:08.660897",
         "annotation": "",
         "entry": "om",
@@ -2782,6 +2770,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "digging stick",
         "word": "/api/v1/word/dibble-stick/"
+    },
+    {
+        "added": "2015-10-26T12:54:10.409239",
+        "annotation": "",
+        "entry": "om",
+        "id": 253462,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253462/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "fat, grease",
+        "word": "/api/v1/word/fat/"
     },
     {
         "added": "2015-10-26T12:54:04.514503",
@@ -3144,18 +3144,6 @@
         "word": "/api/v1/word/tight-hard/"
     },
     {
-        "added": "2015-10-26T12:54:16.847178",
-        "annotation": "",
-        "entry": "per",
-        "id": 254836,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254836/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/mouse/"
-    },
-    {
         "added": "2015-10-26T12:54:22.349755",
         "annotation": "",
         "entry": "per",
@@ -3166,6 +3154,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/vagina/"
+    },
+    {
+        "added": "2015-10-26T12:54:16.847178",
+        "annotation": "",
+        "entry": "per",
+        "id": 254836,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254836/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/mouse/"
     },
     {
         "added": "2015-10-26T12:54:06.247627",
@@ -3192,18 +3192,6 @@
         "word": "/api/v1/word/cassowary/"
     },
     {
-        "added": "2015-10-26T12:54:11.437495",
-        "annotation": "",
-        "entry": "pi-",
-        "id": 253637,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/253637/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/to-fish/"
-    },
-    {
         "added": "2015-10-26T12:54:11.992862",
         "annotation": "",
         "entry": "pi-",
@@ -3214,6 +3202,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/to-fly/"
+    },
+    {
+        "added": "2015-10-26T12:54:11.437495",
+        "annotation": "",
+        "entry": "pi-",
+        "id": 253637,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/253637/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/to-fish/"
     },
     {
         "added": "2015-10-26T12:54:20.000859",
@@ -3336,18 +3336,6 @@
         "word": "/api/v1/word/ripe/"
     },
     {
-        "added": "2015-10-26T12:54:16.609491",
-        "annotation": "",
-        "entry": "po",
-        "id": 254757,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/254757/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/midrib/"
-    },
-    {
         "added": "2015-10-26T12:54:17.771392",
         "annotation": "",
         "entry": "po",
@@ -3358,6 +3346,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/paddle/"
+    },
+    {
+        "added": "2015-10-26T12:54:16.609491",
+        "annotation": "",
+        "entry": "po",
+        "id": 254757,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/254757/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/midrib/"
     },
     {
         "added": "2015-10-26T12:54:18.225169",
@@ -3660,18 +3660,6 @@
         "word": "/api/v1/word/dry-meat/"
     },
     {
-        "added": "2015-10-26T12:54:19.659818",
-        "annotation": "",
-        "entry": "sey",
-        "id": 255790,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/255790/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/shoulder/"
-    },
-    {
         "added": "2015-10-26T12:54:08.713085",
         "annotation": "",
         "entry": "sey",
@@ -3682,6 +3670,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/distribution/"
+    },
+    {
+        "added": "2015-10-26T12:54:19.659818",
+        "annotation": "",
+        "entry": "sey",
+        "id": 255790,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/255790/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/shoulder/"
     },
     {
         "added": "2015-10-26T12:54:05.490018",
@@ -4416,18 +4416,6 @@
         "word": "/api/v1/word/garden/"
     },
     {
-        "added": "2015-10-26T12:54:07.288523",
-        "annotation": "",
-        "entry": "wow",
-        "id": 252636,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/252636/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/carving/"
-    },
-    {
         "added": "2015-10-26T12:54:21.641804",
         "annotation": "",
         "entry": "wow",
@@ -4438,6 +4426,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/today/"
+    },
+    {
+        "added": "2015-10-26T12:54:07.288523",
+        "annotation": "",
+        "entry": "wow",
+        "id": 252636,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252636/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/carving/"
     },
     {
         "added": "2015-10-26T12:54:07.432748",
@@ -4452,18 +4452,6 @@
         "word": "/api/v1/word/centre/"
     },
     {
-        "added": "2015-10-26T12:54:06.958159",
-        "annotation": "",
-        "entry": "wu",
-        "id": 252522,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/252522/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/bundle/"
-    },
-    {
         "added": "2015-10-26T12:54:17.902664",
         "annotation": "",
         "entry": "wu",
@@ -4474,6 +4462,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/palm-cabbage/"
+    },
+    {
+        "added": "2015-10-26T12:54:06.958159",
+        "annotation": "",
+        "entry": "wu",
+        "id": 252522,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252522/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/bundle/"
     },
     {
         "added": "2015-10-26T12:54:17.718933",
@@ -4512,18 +4512,6 @@
         "word": "/api/v1/word/movement/"
     },
     {
-        "added": "2015-10-26T12:54:05.916547",
-        "annotation": "",
-        "entry": "yak",
-        "id": 252191,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/252191/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "belly, stomach",
-        "word": "/api/v1/word/belly/"
-    },
-    {
         "added": "2015-10-26T12:54:07.489263",
         "annotation": "",
         "entry": "yak",
@@ -4534,6 +4522,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/charcoal/"
+    },
+    {
+        "added": "2015-10-26T12:54:05.916547",
+        "annotation": "",
+        "entry": "yak",
+        "id": 252191,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252191/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "belly, stomach",
+        "word": "/api/v1/word/belly/"
     },
     {
         "added": "2015-10-26T12:54:07.677222",
@@ -4824,18 +4824,6 @@
         "word": "/api/v1/word/shadow/"
     },
     {
-        "added": "2015-10-26T12:54:07.788466",
-        "annotation": "",
-        "entry": "yir",
-        "id": 252813,
-        "language": "/api/v1/language/asmat-central-mismam-suru/",
-        "loan": false,
-        "resource_uri": "/api/v1/lexicon/252813/",
-        "source": "/api/v1/source/voorhoeve1980/",
-        "source_gloss": "",
-        "word": "/api/v1/word/cockatoo/"
-    },
-    {
         "added": "2015-10-26T12:54:18.450948",
         "annotation": "",
         "entry": "yir",
@@ -4846,6 +4834,18 @@
         "source": "/api/v1/source/voorhoeve1980/",
         "source_gloss": "",
         "word": "/api/v1/word/rainbow/"
+    },
+    {
+        "added": "2015-10-26T12:54:07.788466",
+        "annotation": "",
+        "entry": "yir",
+        "id": 252813,
+        "language": "/api/v1/language/asmat-central-mismam-suru/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/252813/",
+        "source": "/api/v1/source/voorhoeve1980/",
+        "source_gloss": "",
+        "word": "/api/v1/word/cockatoo/"
     },
     {
         "added": "2015-10-26T12:54:12.983225",

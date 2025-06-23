@@ -1,0 +1,74 @@
+[
+    {
+        "added": "2025-02-24T17:04:07.340513",
+        "annotation": "",
+        "entry": "\u025b\u027e\u025btinu",
+        "id": 263153,
+        "language": "/api/v1/language/kokoda-tarof/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263153/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "teeth",
+        "word": "/api/v1/word/teeth/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.330429",
+        "annotation": "",
+        "entry": "\u025bt\u025b",
+        "id": 263149,
+        "language": "/api/v1/language/kokoda-tarof/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263149/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to see",
+        "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.430568",
+        "annotation": "",
+        "entry": "onati",
+        "id": 263165,
+        "language": "/api/v1/language/kokoda-tarof/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263165/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "one",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.350358",
+        "annotation": "",
+        "entry": "tinania",
+        "id": 263157,
+        "language": "/api/v1/language/kokoda-tarof/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263157/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "big",
+        "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.405144",
+        "annotation": "",
+        "entry": "ti\u027eo",
+        "id": 263161,
+        "language": "/api/v1/language/kokoda-tarof/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263161/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.445046",
+        "annotation": "",
+        "entry": "tiro",
+        "id": 263205,
+        "language": "/api/v1/language/kokoda-tarof/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263205/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hill",
+        "word": "/api/v1/word/hill/"
+    }
+]

@@ -897,6 +897,19 @@
         "slug": "arandai-barau"
     },
     {
+        "added": "2025-02-24T16:45:40.000155",
+        "classification": "South Bird's Head, East South Bird's Head",
+        "dialect": "Dombano",
+        "fullname": "Arandai (Dombano Dialect)",
+        "glottocode": "domb1240",
+        "id": 1717,
+        "information": "",
+        "isocode": null,
+        "language": "Arandai",
+        "resource_uri": "/api/v1/language/arandai-dombano/",
+        "slug": "arandai-dombano"
+    },
+    {
         "added": "2015-02-24T00:33:59.500750",
         "classification": "South Bird's Head Family, East South Bird's Head, Kemberanic",
         "dialect": "Kasuwer",
@@ -3512,7 +3525,7 @@
     {
         "added": "2013-06-09T05:14:22.721615",
         "classification": "Inanwatan",
-        "dialect": "",
+        "dialect": null,
         "fullname": "Duriankere",
         "glottocode": "duri1243",
         "id": 272,
@@ -5018,6 +5031,32 @@
         "slug": "kabola-pitumbang"
     },
     {
+        "added": "2025-02-24T16:35:36.186195",
+        "classification": "South Bird's Head",
+        "dialect": "Benawa",
+        "fullname": "Kaburi (Benawa Dialect)",
+        "glottocode": "kabu1249",
+        "id": 1710,
+        "information": "",
+        "isocode": "uka",
+        "language": "Kaburi",
+        "resource_uri": "/api/v1/language/kaburi-benawa/",
+        "slug": "kaburi-benawa"
+    },
+    {
+        "added": "2025-02-24T16:34:49.318816",
+        "classification": "South Bird's Head",
+        "dialect": "Kambor",
+        "fullname": "Kaburi (Kambor Dialect)",
+        "glottocode": "kabu1249",
+        "id": 1709,
+        "information": "",
+        "isocode": "uka",
+        "language": "Kaburi",
+        "resource_uri": "/api/v1/language/kaburi-kambor/",
+        "slug": "kaburi-kambor"
+    },
+    {
         "added": "2013-10-24T04:19:00.488112",
         "classification": "Timor-Alor-Pantar, Alor-Pantar, Nuclear Alor-Pantar",
         "dialect": "",
@@ -5032,8 +5071,8 @@
     },
     {
         "added": "2013-06-12T05:32:41.137787",
-        "classification": "South Bird's Head Family",
-        "dialect": "",
+        "classification": "South Bird's Head",
+        "dialect": null,
         "fullname": "Kais",
         "glottocode": "kais1235",
         "id": 360,
@@ -5525,11 +5564,37 @@
         "slug": "kein"
     },
     {
+        "added": "2025-02-24T16:44:52.662072",
+        "classification": "South Bird's Head, East South Bird's Head",
+        "dialect": "Barau",
+        "fullname": "Kemberamo (Barau Dialect)",
+        "glottocode": "bara1347",
+        "id": 1716,
+        "information": "",
+        "isocode": null,
+        "language": "Kemberamo",
+        "resource_uri": "/api/v1/language/kemberamo-barau/",
+        "slug": "kemberamo-barau"
+    },
+    {
+        "added": "2025-02-24T16:43:30.059985",
+        "classification": "South Bird's Head, East South Bird's Head",
+        "dialect": "Kalitami",
+        "fullname": "Kemberamo (Kalitami Dialect)",
+        "glottocode": "kemb1235",
+        "id": 1715,
+        "information": "",
+        "isocode": null,
+        "language": "Kemberamo",
+        "resource_uri": "/api/v1/language/kemberamo-kalitami/",
+        "slug": "kemberamo-kalitami"
+    },
+    {
         "added": "2013-06-09T04:57:17.614054",
         "classification": "South Bird's Head Family, East South Bird's Head, Kemberanic",
-        "dialect": "",
-        "fullname": "Kemberano",
-        "glottocode": "kemb1235",
+        "dialect": "Barau",
+        "fullname": "Kemberano (Barau Dialect)",
+        "glottocode": "bara1347",
         "id": 265,
         "information": "",
         "isocode": "bzp",
@@ -5785,6 +5850,19 @@
         "slug": "koitabu"
     },
     {
+        "added": "2025-02-24T16:38:50.057295",
+        "classification": "South Bird's Head, East South Bird's Head",
+        "dialect": "Kasueri",
+        "fullname": "Kokoda (Kasueri Dialect)",
+        "glottocode": "kasu1243",
+        "id": 1712,
+        "information": "",
+        "isocode": null,
+        "language": "Kokoda",
+        "resource_uri": "/api/v1/language/kokoda-kasueri/",
+        "slug": "kokoda-kasueri"
+    },
+    {
         "added": "2013-06-09T05:06:17.449625",
         "classification": "South Bird's Head Family, East South Bird's Head, Kokoda",
         "dialect": "Kasuweri",
@@ -5796,6 +5874,32 @@
         "language": "Kokoda",
         "resource_uri": "/api/v1/language/kokoda-kasuweri/",
         "slug": "kokoda-kasuweri"
+    },
+    {
+        "added": "2025-02-24T16:40:06.540166",
+        "classification": "South Bird's Head, East South Bird's Head",
+        "dialect": "Negeri Besar",
+        "fullname": "Kokoda (Negeri Besar Dialect)",
+        "glottocode": "negr1235",
+        "id": 1713,
+        "information": "",
+        "isocode": null,
+        "language": "Kokoda",
+        "resource_uri": "/api/v1/language/kokoda-negeri-besar/",
+        "slug": "kokoda-negeri-besar"
+    },
+    {
+        "added": "2025-02-24T16:40:42.939936",
+        "classification": "South Bird's Head, East South Bird's Head",
+        "dialect": "Tarof",
+        "fullname": "Kokoda (Tarof Dialect)",
+        "glottocode": "taro1259",
+        "id": 1714,
+        "information": "",
+        "isocode": null,
+        "language": "Kokoda",
+        "resource_uri": "/api/v1/language/kokoda-tarof/",
+        "slug": "kokoda-tarof"
     },
     {
         "added": "2013-06-09T05:01:44.515644",
@@ -8424,6 +8528,19 @@
         "slug": "nend"
     },
     {
+        "added": "2025-01-20T01:25:26.826647",
+        "classification": "Nuclear Trans New Guinea, Enga-Kewa-Huli, Engan, Outer Enga",
+        "dialect": null,
+        "fullname": "Nete",
+        "glottocode": "nete1240",
+        "id": 1707,
+        "information": "",
+        "isocode": "net",
+        "language": "Nete",
+        "resource_uri": "/api/v1/language/nete/",
+        "slug": "nete"
+    },
+    {
         "added": "2014-07-25T00:24:29.316260",
         "classification": "Nuclear Trans New Guinea, Finisterre-Huon, Finisterre-Saruwaged, Gusap-Mot, Unclassified Gusap-Mot",
         "dialect": "",
@@ -9295,6 +9412,19 @@
         "slug": "piame"
     },
     {
+        "added": "2025-01-20T03:00:19.013227",
+        "classification": "Nuclear Trans New Guinea, Enga-Kewa-Huli, Engan, Outer Enga",
+        "dialect": null,
+        "fullname": "Pikaru",
+        "glottocode": "pika1238",
+        "id": 1708,
+        "information": "",
+        "isocode": null,
+        "language": "Pikaru",
+        "resource_uri": "/api/v1/language/pikaru/",
+        "slug": "pikaru"
+    },
+    {
         "added": "2013-11-20T17:52:21.512228",
         "classification": "Piawi",
         "dialect": "",
@@ -10049,6 +10179,19 @@
         "slug": "proto-south-binandere"
     },
     {
+        "added": "2025-02-24T16:37:01.853890",
+        "classification": "South Bird's Head",
+        "dialect": null,
+        "fullname": "Proto-South Bird's Head",
+        "glottocode": "sout1516",
+        "id": 1711,
+        "information": "",
+        "isocode": null,
+        "language": "Proto-South Bird's Head",
+        "resource_uri": "/api/v1/language/proto-south-birds-head/",
+        "slug": "proto-south-birds-head"
+    },
+    {
         "added": "2015-03-19T07:04:54.576712",
         "classification": "Trans-New Guinea, Madang, Rai Coast",
         "dialect": null,
@@ -10167,8 +10310,8 @@
     },
     {
         "added": "2013-06-09T05:09:33.426255",
-        "classification": "Trans-New Guinea, South Bird's Head, South Bird's Head Proper, Western",
-        "dialect": "",
+        "classification": "South Bird's Head",
+        "dialect": null,
         "fullname": "Puragi",
         "glottocode": "pura1253",
         "id": 269,
@@ -11091,7 +11234,7 @@
     {
         "added": "2013-06-09T05:12:11.315789",
         "classification": "Trans-New Guinea, South Bird's Head, Inanwatan",
-        "dialect": "",
+        "dialect": null,
         "fullname": "Suabo",
         "glottocode": "suab1238",
         "id": 270,

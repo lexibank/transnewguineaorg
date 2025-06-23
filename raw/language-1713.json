@@ -1,0 +1,62 @@
+[
+    {
+        "added": "2025-02-24T17:04:07.339154",
+        "annotation": "",
+        "entry": "etia\u0261a",
+        "id": 263152,
+        "language": "/api/v1/language/kokoda-negeri-besar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263152/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to see",
+        "word": "/api/v1/word/to-see/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.431644",
+        "annotation": "",
+        "entry": "onatia",
+        "id": 263168,
+        "language": "/api/v1/language/kokoda-negeri-besar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263168/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "one",
+        "word": "/api/v1/word/one/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.349211",
+        "annotation": "",
+        "entry": "retinu",
+        "id": 263156,
+        "language": "/api/v1/language/kokoda-negeri-besar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263156/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "teeth",
+        "word": "/api/v1/word/teeth/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.393487",
+        "annotation": "",
+        "entry": "tinania",
+        "id": 263160,
+        "language": "/api/v1/language/kokoda-negeri-besar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263160/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "big",
+        "word": "/api/v1/word/big/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.429466",
+        "annotation": "",
+        "entry": "tsrio",
+        "id": 263164,
+        "language": "/api/v1/language/kokoda-negeri-besar/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263164/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain",
+        "word": "/api/v1/word/mountain/"
+    }
+]

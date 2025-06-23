@@ -12,6 +12,42 @@
         "word": "/api/v1/word/head/"
     },
     {
+        "added": "2025-02-24T17:04:07.316958",
+        "annotation": "",
+        "entry": "amagode",
+        "id": 263125,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263125/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "husband",
+        "word": "/api/v1/word/husband/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.318245",
+        "annotation": "",
+        "entry": "ama\u0261o",
+        "id": 263129,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263129/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "wife",
+        "word": "/api/v1/word/wife/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.270830",
+        "annotation": "",
+        "entry": "amari",
+        "id": 263009,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263009/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "child",
+        "word": "/api/v1/word/child/"
+    },
+    {
         "added": "2013-06-13T16:58:45.643898",
         "annotation": "",
         "entry": "amaso",
@@ -22,6 +58,54 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.221282",
+        "annotation": "The Kais and Kaburi words are compounds of the word ama \u2018flesh\u2019 and so (<*taa \u2018water, fluid\u2019) and ha (<*taa \u2018water, fluid\u2019).",
+        "entry": "ama-so",
+        "id": 262879,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262879/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "blood",
+        "word": "/api/v1/word/blood/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.502105",
+        "annotation": "",
+        "entry": "am\u0254t\u0254-",
+        "id": 263346,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263346/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thick",
+        "word": "/api/v1/word/thick/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.458688",
+        "annotation": "",
+        "entry": "am\u0254t\u0254s\u0254m\u0254",
+        "id": 263241,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263241/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thick",
+        "word": "/api/v1/word/thick/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.268220",
+        "annotation": "",
+        "entry": "am\u0254t\u0254-s\u0254m\u0254",
+        "id": 263002,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263002/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thick",
+        "word": "/api/v1/word/thick/"
     },
     {
         "added": "2013-06-13T16:58:46.076460",
@@ -36,6 +120,18 @@
         "word": "/api/v1/word/to-sit/"
     },
     {
+        "added": "2025-02-24T17:04:07.273938",
+        "annotation": "",
+        "entry": "aumu",
+        "id": 263017,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263017/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "road",
+        "word": "/api/v1/word/road/"
+    },
+    {
         "added": "2013-06-13T16:58:45.999602",
         "annotation": "",
         "entry": "aupu",
@@ -46,6 +142,78 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/night/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.253293",
+        "annotation": "",
+        "entry": "\u207fdo\u207fdono",
+        "id": 262963,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262963/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "cough",
+        "word": "/api/v1/word/cough/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.638876",
+        "annotation": "",
+        "entry": "doduru",
+        "id": 263585,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263585/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "left (side)",
+        "word": "/api/v1/word/left-side/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.567312",
+        "annotation": "",
+        "entry": "doduru",
+        "id": 263516,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263516/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "left (side)",
+        "word": "/api/v1/word/left-side/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.248459",
+        "annotation": "",
+        "entry": "doduru",
+        "id": 262950,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262950/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "left",
+        "word": "/api/v1/word/left-side/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.232342",
+        "annotation": "",
+        "entry": "e\u1d50biko",
+        "id": 262906,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262906/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hand",
+        "word": "/api/v1/word/hand/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.527185",
+        "annotation": "",
+        "entry": "eg-eno",
+        "id": 263409,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263409/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "canoe",
+        "word": "/api/v1/word/canoe/"
     },
     {
         "added": "2013-06-13T16:58:45.893209",
@@ -108,6 +276,30 @@
         "word": "/api/v1/word/to-see/"
     },
     {
+        "added": "2025-02-24T17:04:07.186493",
+        "annotation": "",
+        "entry": "faitike",
+        "id": 262787,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262787/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain, hill",
+        "word": "/api/v1/word/mountain/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.186146",
+        "annotation": "",
+        "entry": "faitike",
+        "id": 262786,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262786/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "mountain, hill",
+        "word": "/api/v1/word/hill/"
+    },
+    {
         "added": "2013-06-13T16:58:46.118325",
         "annotation": "",
         "entry": "faitu",
@@ -132,6 +324,30 @@
         "word": "/api/v1/word/fire/"
     },
     {
+        "added": "2025-02-24T17:04:07.622093",
+        "annotation": "",
+        "entry": "gu-",
+        "id": 263543,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263543/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to hold",
+        "word": "/api/v1/word/to-hold/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.549978",
+        "annotation": "",
+        "entry": "ibabo",
+        "id": 263466,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263466/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "buttocks",
+        "word": "/api/v1/word/buttocks/"
+    },
+    {
         "added": "2013-06-13T16:58:46.239489",
         "annotation": "you (pl.)",
         "entry": "ideri",
@@ -142,6 +358,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": "you (pl.)",
         "word": "/api/v1/word/you-pl/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.299520",
+        "annotation": "",
+        "entry": "ikikak",
+        "id": 263081,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263081/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "filth",
+        "word": "/api/v1/word/dirt-mud/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.211520",
+        "annotation": "",
+        "entry": "ikona",
+        "id": 262851,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262851/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to vomit",
+        "word": "/api/v1/word/to-vomit/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.479224",
+        "annotation": "",
+        "entry": "iko-na",
+        "id": 263290,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263290/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "vomit",
+        "word": "/api/v1/word/to-vomit/"
     },
     {
         "added": "2013-06-13T16:58:45.721817",
@@ -168,6 +420,198 @@
         "word": "/api/v1/word/we/"
     },
     {
+        "added": "2025-02-24T17:04:07.534830",
+        "annotation": "",
+        "entry": "\u0278i-\u0278o",
+        "id": 263428,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263428/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thorn (bush)",
+        "word": "/api/v1/word/thorn/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.216970",
+        "annotation": "",
+        "entry": "\u0278i\u0278o",
+        "id": 262866,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262866/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "thorn",
+        "word": "/api/v1/word/thorn/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.230665",
+        "annotation": "",
+        "entry": "i\u0278o",
+        "id": 262901,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262901/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "all",
+        "word": "/api/v1/word/all/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.199118",
+        "annotation": "",
+        "entry": "\u0272i\u0254",
+        "id": 262819,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262819/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "name",
+        "word": "/api/v1/word/name/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.531556",
+        "annotation": "",
+        "entry": "\u0278irare",
+        "id": 263421,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263421/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "heart",
+        "word": "/api/v1/word/heart/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.240731",
+        "annotation": "",
+        "entry": "\u0278irare",
+        "id": 262928,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262928/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "heart",
+        "word": "/api/v1/word/heart/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.245608",
+        "annotation": "",
+        "entry": "ire",
+        "id": 262942,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262942/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "stand",
+        "word": "/api/v1/word/to-stand/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.312658",
+        "annotation": "",
+        "entry": "iso",
+        "id": 263113,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263113/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "new",
+        "word": "/api/v1/word/new/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.255883",
+        "annotation": "",
+        "entry": "ka",
+        "id": 262970,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262970/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "feces",
+        "word": "/api/v1/word/faeces/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.481942",
+        "annotation": "",
+        "entry": "kabo",
+        "id": 263297,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263297/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.552515",
+        "annotation": "",
+        "entry": "kabo",
+        "id": 263473,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263473/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.323783",
+        "annotation": "",
+        "entry": "kabo",
+        "id": 263143,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263143/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.226503",
+        "annotation": "",
+        "entry": "kabo",
+        "id": 262893,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262893/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "head",
+        "word": "/api/v1/word/head/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.213778",
+        "annotation": "",
+        "entry": "kararo",
+        "id": 262858,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262858/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.633546",
+        "annotation": "",
+        "entry": "kararo",
+        "id": 263573,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263573/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.466954",
+        "annotation": "",
+        "entry": "kararo",
+        "id": 263264,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263264/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hair",
+        "word": "/api/v1/word/hair/"
+    },
+    {
         "added": "2013-06-13T16:58:45.625433",
         "annotation": "",
         "entry": "karino",
@@ -180,6 +624,18 @@
         "word": "/api/v1/word/bird/"
     },
     {
+        "added": "2025-02-24T17:04:07.469462",
+        "annotation": "",
+        "entry": "kato",
+        "id": 263271,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263271/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "feces",
+        "word": "/api/v1/word/faeces/"
+    },
+    {
         "added": "2013-06-13T16:58:45.779827",
         "annotation": "",
         "entry": "kereko",
@@ -190,6 +646,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/ground/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.204859",
+        "annotation": "",
+        "entry": "kidabu",
+        "id": 262835,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262835/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "ear",
+        "word": "/api/v1/word/ear/"
     },
     {
         "added": "2013-06-13T16:58:46.173772",
@@ -228,6 +696,30 @@
         "word": "/api/v1/word/to-sleep/"
     },
     {
+        "added": "2025-02-24T17:04:07.263264",
+        "annotation": "",
+        "entry": "ma",
+        "id": 262989,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262989/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to come",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.499038",
+        "annotation": "",
+        "entry": "ma-",
+        "id": 263338,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263338/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to come",
+        "word": "/api/v1/word/to-come/"
+    },
+    {
         "added": "2013-06-13T16:58:45.664144",
         "annotation": "",
         "entry": "mawe",
@@ -252,6 +744,30 @@
         "word": "/api/v1/word/fingernail/"
     },
     {
+        "added": "2025-02-24T17:04:07.260436",
+        "annotation": "",
+        "entry": "mi",
+        "id": 262982,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262982/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to give",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.495915",
+        "annotation": "",
+        "entry": "mi-",
+        "id": 263330,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263330/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to give",
+        "word": "/api/v1/word/to-give/"
+    },
+    {
         "added": "2013-06-13T16:58:45.762774",
         "annotation": "",
         "entry": "mi\u014bge",
@@ -262,6 +778,30 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/to-give/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.305578",
+        "annotation": "",
+        "entry": "mitubu",
+        "id": 263096,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263096/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "nose",
+        "word": "/api/v1/word/nose/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.491280",
+        "annotation": "",
+        "entry": "mokwo",
+        "id": 263318,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263318/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "moon",
+        "word": "/api/v1/word/moon/"
     },
     {
         "added": "2013-06-13T16:58:45.787956",
@@ -276,6 +816,18 @@
         "word": "/api/v1/word/hair/"
     },
     {
+        "added": "2025-02-24T17:04:07.304054",
+        "annotation": "",
+        "entry": "ne-\u0261ainu",
+        "id": 263092,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263092/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "finger",
+        "word": "/api/v1/word/finger/"
+    },
+    {
         "added": "2013-06-13T16:58:45.883966",
         "annotation": "",
         "entry": "neri",
@@ -286,6 +838,54 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.518043",
+        "annotation": "",
+        "entry": "neri",
+        "id": 263386,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263386/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "1SG.S",
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.559345",
+        "annotation": "",
+        "entry": "neri",
+        "id": 263492,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263492/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "1SG",
+        "word": "/api/v1/word/i/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.279581",
+        "annotation": "",
+        "entry": "ni",
+        "id": 263032,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263032/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to eat",
+        "word": "/api/v1/word/to-eat/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.513143",
+        "annotation": "",
+        "entry": "ni-",
+        "id": 263374,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263374/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to eat",
+        "word": "/api/v1/word/to-eat/"
     },
     {
         "added": "2013-06-13T16:58:45.698524",
@@ -324,6 +924,42 @@
         "word": "/api/v1/word/name/"
     },
     {
+        "added": "2025-02-24T17:04:07.238261",
+        "annotation": "",
+        "entry": "\u0254\u02c8b\u0254",
+        "id": 262921,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262921/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to hear",
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.544290",
+        "annotation": "",
+        "entry": "\u0254\u02c8b\u0254-",
+        "id": 263451,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263451/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to hear",
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.439457",
+        "annotation": "",
+        "entry": "\u0254\u02c8b\u0254\u03b2\u025b",
+        "id": 263189,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263189/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hear",
+        "word": "/api/v1/word/to-hear/"
+    },
+    {
         "added": "2013-06-13T16:58:46.048926",
         "annotation": "",
         "entry": "ofugu",
@@ -334,6 +970,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/pig/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.276713",
+        "annotation": "",
+        "entry": "onate",
+        "id": 263024,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263024/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "one",
+        "word": "/api/v1/word/one/"
     },
     {
         "added": "2013-06-13T16:58:46.012850",
@@ -348,6 +996,18 @@
         "word": "/api/v1/word/one/"
     },
     {
+        "added": "2025-02-24T17:04:07.190558",
+        "annotation": "",
+        "entry": "\u0278ote",
+        "id": 262797,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262797/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "rain",
+        "word": "/api/v1/word/rain/"
+    },
+    {
         "added": "2013-06-13T16:58:45.928704",
         "annotation": "",
         "entry": "rabine",
@@ -358,6 +1018,18 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/man/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.282807",
+        "annotation": "",
+        "entry": "rai",
+        "id": 263039,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263039/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to lie (down)",
+        "word": "/api/v1/word/to-lie-down/"
     },
     {
         "added": "2013-06-13T16:58:45.633609",
@@ -384,6 +1056,30 @@
         "word": "/api/v1/word/skin/"
     },
     {
+        "added": "2025-02-24T17:04:07.178329",
+        "annotation": "Indonesian loan (PAN *susu)",
+        "entry": "riro",
+        "id": 262765,
+        "language": "/api/v1/language/kais/",
+        "loan": true,
+        "resource_uri": "/api/v1/lexicon/262765/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "female breast, milk",
+        "word": "/api/v1/word/breast/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.178871",
+        "annotation": "Indonesian loan (PAN *susu)",
+        "entry": "riro",
+        "id": 262766,
+        "language": "/api/v1/language/kais/",
+        "loan": true,
+        "resource_uri": "/api/v1/lexicon/262766/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "female breast, milk",
+        "word": "/api/v1/word/milk/"
+    },
+    {
         "added": "2013-06-13T16:58:45.689406",
         "annotation": "",
         "entry": "rofo",
@@ -408,6 +1104,42 @@
         "word": "/api/v1/word/tail/"
     },
     {
+        "added": "2025-02-24T17:04:07.183141",
+        "annotation": "PMP loan `*dahun`",
+        "entry": "runu",
+        "id": 262778,
+        "language": "/api/v1/language/kais/",
+        "loan": true,
+        "resource_uri": "/api/v1/lexicon/262778/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "leaf",
+        "word": "/api/v1/word/leaf/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.195979",
+        "annotation": "",
+        "entry": "sau",
+        "id": 262810,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262810/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.435367",
+        "annotation": "",
+        "entry": "sau",
+        "id": 263177,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263177/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
+    },
+    {
         "added": "2013-06-13T16:58:46.203051",
         "annotation": "",
         "entry": "sau",
@@ -418,6 +1150,90 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.292918",
+        "annotation": "",
+        "entry": "siko",
+        "id": 263064,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263064/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/nail/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.451778",
+        "annotation": "",
+        "entry": "siko",
+        "id": 263222,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263222/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/nail/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.293246",
+        "annotation": "",
+        "entry": "siko",
+        "id": 263065,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263065/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/shell/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.452085",
+        "annotation": "",
+        "entry": "siko",
+        "id": 263223,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263223/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "shell, nail",
+        "word": "/api/v1/word/shell/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.196325",
+        "annotation": "",
+        "entry": "so",
+        "id": 262811,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262811/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "water",
+        "word": "/api/v1/word/water/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.442292",
+        "annotation": "",
+        "entry": "susuro",
+        "id": 263197,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263197/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "vein",
+        "word": "/api/v1/word/vein/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.454736",
+        "annotation": "",
+        "entry": "susuro",
+        "id": 263230,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263230/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "vein",
+        "word": "/api/v1/word/vein/"
     },
     {
         "added": "2013-06-13T16:58:46.133030",
@@ -432,6 +1248,30 @@
         "word": "/api/v1/word/sun/"
     },
     {
+        "added": "2025-02-24T17:04:07.207617",
+        "annotation": "",
+        "entry": "toko",
+        "id": 262843,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262843/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.437356",
+        "annotation": "",
+        "entry": "toko",
+        "id": 263183,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263183/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "bone",
+        "word": "/api/v1/word/bone/"
+    },
+    {
         "added": "2013-06-13T16:58:45.654954",
         "annotation": "",
         "entry": "toku",
@@ -442,6 +1282,42 @@
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
         "word": "/api/v1/word/bone/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.454417",
+        "annotation": "",
+        "entry": "tutu",
+        "id": 263229,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263229/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "vein",
+        "word": "/api/v1/word/vein/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.441977",
+        "annotation": "",
+        "entry": "tutu",
+        "id": 263196,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263196/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "vein",
+        "word": "/api/v1/word/vein/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.258113",
+        "annotation": "",
+        "entry": "\u0261u",
+        "id": 262976,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262976/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "hold",
+        "word": "/api/v1/word/to-hold/"
     },
     {
         "added": "2013-06-13T16:58:46.188577",
@@ -456,6 +1332,54 @@
         "word": "/api/v1/word/two/"
     },
     {
+        "added": "2025-02-24T17:04:07.219634",
+        "annotation": "",
+        "entry": "uka\u0261e",
+        "id": 262874,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262874/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "to",
+        "word": "/api/v1/word/to/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.235112",
+        "annotation": "",
+        "entry": "\u0278uko",
+        "id": 262913,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262913/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "flesh",
+        "word": "/api/v1/word/flesh/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.547372",
+        "annotation": "",
+        "entry": "\u0278uko",
+        "id": 263459,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263459/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "flesh",
+        "word": "/api/v1/word/flesh/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.202215",
+        "annotation": "",
+        "entry": "uku",
+        "id": 262827,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/262827/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "egg",
+        "word": "/api/v1/word/egg/"
+    },
+    {
         "added": "2013-06-13T16:58:45.710204",
         "annotation": "",
         "entry": "uku",
@@ -465,6 +1389,18 @@
         "resource_uri": "/api/v1/lexicon/25621/",
         "source": "/api/v1/source/voorhoeve-1975/",
         "source_gloss": null,
+        "word": "/api/v1/word/egg/"
+    },
+    {
+        "added": "2025-02-24T17:04:07.473271",
+        "annotation": "",
+        "entry": "uku",
+        "id": 263278,
+        "language": "/api/v1/language/kais/",
+        "loan": false,
+        "resource_uri": "/api/v1/lexicon/263278/",
+        "source": "/api/v1/source/de-vries-2024/",
+        "source_gloss": "egg",
         "word": "/api/v1/word/egg/"
     },
     {
